@@ -115,47 +115,62 @@ function compareCSV(csv1Rows, csv2Rows) {
     ],
   ];
 
-  Array.from(allNames)
-    .sort()
-    .forEach((name) => {
-      const csv1 = csv1Map.get(name);
-      const csv2 = csv2Map.get(name);
+  const dataRows = Array.from(allNames).map((name) => {
+    const csv1 = csv1Map.get(name);
+    const csv2 = csv2Map.get(name);
 
-      let status = "unchanged";
-      let lineDiff = 0;
-      let packageDiff = 0;
-      const csv1Line = csv1 ? csv1.lineCount : 0;
-      const csv1Package = csv1 ? csv1.packageCount : 0;
-      const csv2Line = csv2 ? csv2.lineCount : 0;
-      const csv2Package = csv2 ? csv2.packageCount : 0;
+    let status = "无变化";
+    let lineDiff = 0;
+    let packageDiff = 0;
+    const csv1Line = csv1 ? csv1.lineCount : 0;
+    const csv1Package = csv1 ? csv1.packageCount : 0;
+    const csv2Line = csv2 ? csv2.lineCount : 0;
+    const csv2Package = csv2 ? csv2.packageCount : 0;
 
-      if (!csv1 && csv2) {
-        status = "added";
-        lineDiff = csv2Line;
-        packageDiff = csv2Package;
-      } else if (csv1 && !csv2) {
-        status = "deleted";
-        lineDiff = -csv1Line;
-        packageDiff = -csv1Package;
-      } else if (csv1 && csv2) {
-        lineDiff = csv2Line - csv1Line;
-        packageDiff = csv2Package - csv1Package;
-        if (lineDiff !== 0 || packageDiff !== 0) {
-          status = "modified";
-        }
+    if (!csv1 && csv2) {
+      status = "新增";
+      lineDiff = csv2Line;
+      packageDiff = csv2Package;
+    } else if (csv1 && !csv2) {
+      status = "删除";
+      lineDiff = -csv1Line;
+      packageDiff = -csv1Package;
+    } else if (csv1 && csv2) {
+      lineDiff = csv2Line - csv1Line;
+      packageDiff = csv2Package - csv1Package;
+      if (lineDiff !== 0 || packageDiff !== 0) {
+        status = "有变化";
       }
+    }
 
-      outputRows.push([
-        name,
-        status,
-        lineDiff,
-        packageDiff,
-        csv1Line,
-        csv1Package,
-        csv2Line,
-        csv2Package,
-      ]);
-    });
+    return [
+      name,
+      status,
+      lineDiff,
+      packageDiff,
+      csv1Line,
+      csv1Package,
+      csv2Line,
+      csv2Package,
+    ];
+  });
+
+  const statusOrder = {
+    新增: 0,
+    有变化: 1,
+    删除: 2,
+    无变化: 3,
+  };
+
+  dataRows.sort((a, b) => {
+    const statusDiff = statusOrder[a[1]] - statusOrder[b[1]];
+    if (statusDiff !== 0) {
+      return statusDiff;
+    }
+    return a[0].localeCompare(b[0]);
+  });
+
+  outputRows.push(...dataRows);
 
   return outputRows;
 }
