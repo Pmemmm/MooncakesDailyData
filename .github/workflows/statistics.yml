@@ -1,5 +1,8 @@
 name: Daily MoonBit Statistics
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 2 * * *" # UTC 02:00 = 北京时间 10:00
