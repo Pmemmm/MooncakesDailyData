@@ -1,6 +1,8 @@
 import requests
 from datetime import date
 from pathlib import Path
+from io import BytesIO
+import zipfile
 
 URL = "https://mooncakes.io/api/v0/modules/statistics?raw=true"
 
@@ -13,4 +15,12 @@ out = DATA_DIR / f"{today}.csv"
 resp = requests.get(URL, timeout=30)
 resp.raise_for_status()
 
-out.write_bytes(resp.content)
+with zipfile.ZipFile(BytesIO(resp.content)) as zf:
+    with zf.open("statistics.csv") as csv_file:
+        csv_bytes = csv_file.read()
+
+csv_text = csv_bytes.decode("utf-8-sig")
+csv_text = csv_text.replace("\r\n", "\n").replace("\r", "\n")
+
+with out.open("w", encoding="utf-8", newline="\n") as f:
+    f.write(csv_text)
