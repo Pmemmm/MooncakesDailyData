@@ -191,7 +191,8 @@ function main() {
   const outputRows = compareCSV(csv1Rows, csv2Rows);
   const csvOutput = arrayToCSV(outputRows);
 
-  fs.writeFileSync(outPath, `\ufeff${csvOutput}`);
+  fs.writeFileSync(outPath, csvOutput, "utf8");
+
 }
 
 main();
