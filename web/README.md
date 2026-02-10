@@ -13,8 +13,9 @@ This `/web` page is a fully static frontend (HTML + JavaScript) designed for Git
 ## How diff is computed
 
 - Users select **Date A (base)** and **Date B (compare)**.
-- Diff is always computed in JavaScript as:
-  - `diff = value(Date B) - value(Date A)`
+- Diff is computed in JavaScript at module/key level as `value(Date B) - value(Date A)`.
+- For treemap, only additions are shown (`diff > 0`), and attribution (package/contributor) always comes from Date B rows.
+- Rows without valid Date B attribution are discarded (never labeled as `unknown`).
 - No files from `diff/` are used.
 - Supported metrics:
   - `line_count`: sum of `line_count`

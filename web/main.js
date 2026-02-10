@@ -130,14 +130,51 @@ function toNumber(value) {
   return Number.isFinite(num) ? num : 0;
 }
 
+function toText(value) {
+  return value == null ? "" : String(value).trim();
+}
+
+function firstNonEmpty(values) {
+  for (const value of values) {
+    const text = toText(value);
+    if (text) return text;
+  }
+  return "";
+}
+
+function deriveContributor(row) {
+  const direct = firstNonEmpty([row.contributor]);
+  if (direct) return direct;
+
+  const repo = firstNonEmpty([row.name]);
+  if (!repo) return "";
+
+  const parts = repo.split("/");
+  return parts.length > 1 ? parts[0].trim() : "";
+}
+
+function deriveModuleId(row) {
+  return firstNonEmpty([row.module, row.file, row.path, row.name, row.pkg_name, row.package]);
+}
+
 function prepareRows(rows) {
-  return rows.map((row) => ({
-    package: row.package || "(unknown package)",
-    contributor: row.contributor || "(unknown contributor)",
-    line_count: toNumber(row.line_count),
-    package_count: toNumber(row.package_count),
-    module_count: 1,
-  }));
+  return rows.map((row) => {
+    const packageName = firstNonEmpty([row.package, row.pkg_name]);
+    const contributor = deriveContributor(row);
+    const moduleId = deriveModuleId(row);
+
+    const comparableKey = packageName && moduleId ? `${packageName}::${moduleId}` : "";
+
+    return {
+      package: packageName,
+      contributor,
+      module_id: moduleId,
+      comparable_key: comparableKey,
+      line_count: toNumber(row.line_count),
+      package_count: toNumber(row.package_count),
+      module_count: 1,
+    };
+  });
 }
 
 function computeTotals(rows) {
@@ -177,53 +214,76 @@ function renderLineChart(metric) {
   });
 }
 
-function buildAggregatedMetric(rows, aggregateBy, metric) {
+function buildKeyMetricMap(rows, metric) {
   const map = new Map();
   for (const row of rows) {
-    const key = aggregateBy === "contributor" ? row.contributor : row.package;
-    const current = map.get(key) || 0;
-    map.set(key, current + row[metric]);
+    if (!row.comparable_key) continue;
+    map.set(row.comparable_key, (map.get(row.comparable_key) || 0) + row[metric]);
   }
   return map;
+}
+
+function buildDayBKeyData(rows, metric) {
+  const map = new Map();
+  for (const row of rows) {
+    if (!row.comparable_key) continue;
+
+    const current = map.get(row.comparable_key) || {
+      value: 0,
+      package: row.package,
+      contributor: row.contributor,
+    };
+
+    current.value += row[metric];
+    if (!current.package && row.package) current.package = row.package;
+    if (!current.contributor && row.contributor) current.contributor = row.contributor;
+
+    map.set(row.comparable_key, current);
+  }
+  return map;
+}
+
+function aggregatePositiveDiff(rowsA, rowsB, metric, aggregateBy) {
+  const dayAMetrics = buildKeyMetricMap(rowsA, metric);
+  const dayBMetrics = buildDayBKeyData(rowsB, metric);
+  const aggregated = new Map();
+
+  for (const [key, rowB] of dayBMetrics.entries()) {
+    const label = aggregateBy === "contributor" ? rowB.contributor : rowB.package;
+    if (!label) continue;
+
+    const diff = rowB.value - (dayAMetrics.get(key) || 0);
+    if (diff <= 0) continue;
+
+    aggregated.set(label, (aggregated.get(label) || 0) + diff);
+  }
+
+  return aggregated;
 }
 
 function renderTreemap(metric, dateA, dateB, aggregateBy) {
   const rowsA = state.rowsByDate.get(dateA) || [];
   const rowsB = state.rowsByDate.get(dateB) || [];
 
-  const hasContributor = rowsA.some((r) => r.contributor && r.contributor !== "(unknown contributor)")
-    || rowsB.some((r) => r.contributor && r.contributor !== "(unknown contributor)");
+  const aggregated = aggregatePositiveDiff(rowsA, rowsB, metric, aggregateBy);
+  const data = [...aggregated.entries()].map(([name, diff]) => ({
+    name,
+    value: diff,
+    rawDiff: diff,
+    itemStyle: { color: "#16a34a" },
+  }));
 
-  if (aggregateBy === "contributor" && !hasContributor) {
-    els.error.textContent = "Contributor column not found in selected dates; showing empty treemap.";
+  if (aggregateBy === "contributor" && data.length === 0) {
+    els.error.textContent = "No attributable contributor additions found between selected dates.";
   } else {
     els.error.textContent = "";
-  }
-
-  const aMap = buildAggregatedMetric(rowsA, aggregateBy, metric);
-  const bMap = buildAggregatedMetric(rowsB, aggregateBy, metric);
-
-  const keys = new Set([...aMap.keys(), ...bMap.keys()]);
-  const data = [];
-
-  for (const key of keys) {
-    const diff = (bMap.get(key) || 0) - (aMap.get(key) || 0);
-    if (diff === 0) continue;
-    data.push({
-      name: key,
-      value: Math.abs(diff),
-      rawDiff: diff,
-      itemStyle: {
-        color: diff > 0 ? "#16a34a" : "#dc2626",
-      },
-    });
   }
 
   treemapChart.setOption({
     tooltip: {
       formatter: (params) => {
         const rawDiff = params.data?.rawDiff ?? 0;
-        return `${params.name}<br/>Diff: ${rawDiff > 0 ? "+" : ""}${rawDiff}`;
+        return `${params.name}<br/>Added: +${rawDiff}`;
       },
     },
     series: [
@@ -235,7 +295,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
         label: {
           formatter: (params) => {
             const d = params.data?.rawDiff ?? 0;
-            return `${params.name}\n${d > 0 ? "+" : ""}${d}`;
+            return `${params.name}\n+${d}`;
           },
         },
         data,
