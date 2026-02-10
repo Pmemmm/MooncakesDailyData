@@ -277,7 +277,7 @@ json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.6.0,9248,8
 js_regexp,mizchi/js_regexp,0.0.4,145,2
 libgit2,mizchi/libgit2,0.1.0,2525,4
-llm,mizchi/llm,0.1.3,3385,6
+llm,mizchi/llm,0.1.4,6951,8
 lsp,mizchi/lsp,0.1.0,28304,7
 luna,mizchi/luna,0.11.0,63273,60
 markdown,mizchi/markdown,0.4.5,21736,14
