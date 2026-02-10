@@ -5,24 +5,59 @@ const els = {
   dateA: document.getElementById("dateASelect"),
   dateB: document.getElementById("dateBSelect"),
   aggregate: document.getElementById("aggregateSelect"),
+  deltaHint: document.getElementById("deltaHint"),
   summary: document.getElementById("summary"),
-  error: document.getElementById("error"),
+  status: document.getElementById("status"),
 };
 
 const lineChart = echarts.init(document.getElementById("lineChart"));
 const treemapChart = echarts.init(document.getElementById("treemapChart"));
 
 const state = {
-  filesByDate: new Map(),
+  fileByDate: new Map(),
   rowsByDate: new Map(),
   totalsByDate: new Map(),
   dates: [],
 };
 
+const numberFmt = new Intl.NumberFormat("en-US");
+
 window.addEventListener("resize", () => {
   lineChart.resize();
   treemapChart.resize();
 });
+
+function formatNumber(value) {
+  return numberFmt.format(value);
+}
+
+function setStatus(message, isError = false) {
+  els.status.textContent = message;
+  els.status.classList.toggle("error", isError);
+}
+
+function asText(value) {
+  return value == null ? "" : String(value).trim();
+}
+
+function firstNonEmpty(values) {
+  for (const value of values) {
+    const text = asText(value);
+    if (text) return text;
+  }
+  return "";
+}
+
+function toNumber(value) {
+  const num = Number(value);
+  return Number.isFinite(num) ? num : 0;
+}
+
+function metricLabel(metric) {
+  if (metric === "line_count") return "line_count";
+  if (metric === "package_count") return "package_count";
+  return "module_count";
+}
 
 function normalizeDateText(raw) {
   return String(raw).replace(/\/$/, "").trim();
@@ -36,15 +71,16 @@ function extractDateEntriesFromDirectoryHtml(html) {
   const entries = [];
   for (const href of links) {
     const clean = normalizeDateText(href);
-    const folderMatch = clean.match(/(\d{4}-\d{2}-\d{2})$/);
-    if (folderMatch) {
-      entries.push({ date: folderMatch[1], url: `${DATA_ROOT}/${folderMatch[1]}/summary.csv` });
+
+    const folder = clean.match(/(\d{4}-\d{2}-\d{2})$/);
+    if (folder) {
+      entries.push({ date: folder[1], url: `${DATA_ROOT}/${folder[1]}/summary.csv` });
       continue;
     }
 
-    const fileMatch = clean.match(/(\d{4}-\d{2}-\d{2})\.csv$/);
-    if (fileMatch) {
-      entries.push({ date: fileMatch[1], url: `${DATA_ROOT}/${fileMatch[1]}.csv` });
+    const file = clean.match(/(\d{4}-\d{2}-\d{2})\.csv$/);
+    if (file) {
+      entries.push({ date: file[1], url: `${DATA_ROOT}/${file[1]}.csv` });
     }
   }
 
@@ -58,15 +94,15 @@ function extractDateEntriesFromSitemap(xmlText) {
 
   const entries = [];
   for (const loc of locs) {
-    const folderMatch = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\/summary\.csv$/);
-    if (folderMatch) {
-      entries.push({ date: folderMatch[1], url: `${DATA_ROOT}/${folderMatch[1]}/summary.csv` });
+    const folder = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\/summary\.csv$/);
+    if (folder) {
+      entries.push({ date: folder[1], url: `${DATA_ROOT}/${folder[1]}/summary.csv` });
       continue;
     }
 
-    const fileMatch = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\.csv$/);
-    if (fileMatch) {
-      entries.push({ date: fileMatch[1], url: `${DATA_ROOT}/${fileMatch[1]}.csv` });
+    const file = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\.csv$/);
+    if (file) {
+      entries.push({ date: file[1], url: `${DATA_ROOT}/${file[1]}.csv` });
     }
   }
 
@@ -78,37 +114,28 @@ async function discoverDataFiles() {
   for (const candidate of sitemapCandidates) {
     try {
       const resp = await fetch(candidate, { cache: "no-store" });
-      if (!resp.ok) {
-        continue;
-      }
-      const xml = await resp.text();
-      const entries = extractDateEntriesFromSitemap(xml);
-      if (entries.length > 0) {
-        return entries;
-      }
+      if (!resp.ok) continue;
+
+      const entries = extractDateEntriesFromSitemap(await resp.text());
+      if (entries.length > 0) return entries;
     } catch (_err) {
-      // Try next candidate.
+      // try next
     }
   }
 
-  const directoryCandidates = [`${DATA_ROOT}/`, DATA_ROOT];
-  for (const candidate of directoryCandidates) {
+  for (const candidate of [`${DATA_ROOT}/`, DATA_ROOT]) {
     try {
       const resp = await fetch(candidate, { cache: "no-store" });
-      if (!resp.ok) {
-        continue;
-      }
-      const html = await resp.text();
-      const entries = extractDateEntriesFromDirectoryHtml(html);
-      if (entries.length > 0) {
-        return entries;
-      }
+      if (!resp.ok) continue;
+
+      const entries = extractDateEntriesFromDirectoryHtml(await resp.text());
+      if (entries.length > 0) return entries;
     } catch (_err) {
-      // Try next candidate.
+      // try next
     }
   }
 
-  throw new Error("Unable to discover files under ../data. Ensure sitemap.xml is generated or directory listing is available.");
+  throw new Error("Unable to discover CSV files in ../data.");
 }
 
 function parseCsv(csvText) {
@@ -118,28 +145,11 @@ function parseCsv(csvText) {
     dynamicTyping: true,
   });
 
-  if (parsed.errors.length) {
+  if (parsed.errors.length > 0) {
     throw new Error(parsed.errors[0].message || "CSV parse error");
   }
 
   return parsed.data;
-}
-
-function toNumber(value) {
-  const num = Number(value);
-  return Number.isFinite(num) ? num : 0;
-}
-
-function toText(value) {
-  return value == null ? "" : String(value).trim();
-}
-
-function firstNonEmpty(values) {
-  for (const value of values) {
-    const text = toText(value);
-    if (text) return text;
-  }
-  return "";
 }
 
 function deriveContributor(row) {
@@ -153,23 +163,24 @@ function deriveContributor(row) {
   return parts.length > 1 ? parts[0].trim() : "";
 }
 
-function deriveModuleId(row) {
-  return firstNonEmpty([row.module, row.file, row.path, row.name, row.pkg_name, row.package]);
+function derivePackage(row) {
+  return firstNonEmpty([row.package, row.pkg_name]);
 }
 
-function prepareRows(rows) {
-  return rows.map((row) => {
-    const packageName = firstNonEmpty([row.package, row.pkg_name]);
-    const contributor = deriveContributor(row);
-    const moduleId = deriveModuleId(row);
+function deriveIdentifier(row, index) {
+  return firstNonEmpty([row.module, row.file, row.path, row.name, row.module_id]) || `row-${index}`;
+}
 
-    const comparableKey = packageName && moduleId ? `${packageName}::${moduleId}` : "";
+function prepareRows(rawRows) {
+  return rawRows.map((row, index) => {
+    const packageName = derivePackage(row);
+    const contributor = deriveContributor(row);
+    const identifier = deriveIdentifier(row, index);
 
     return {
       package: packageName,
       contributor,
-      module_id: moduleId,
-      comparable_key: comparableKey,
+      key: packageName ? `${packageName}::${identifier}` : "",
       line_count: toNumber(row.line_count),
       package_count: toNumber(row.package_count),
       module_count: 1,
@@ -189,144 +200,167 @@ function computeTotals(rows) {
   );
 }
 
-function metricLabel(metric) {
-  if (metric === "line_count") return "Lines";
-  if (metric === "package_count") return "Packages";
-  return "Modules";
+function populateDateSelectors() {
+  const prevA = els.dateA.value;
+  const prevB = els.dateB.value;
+
+  const options = state.dates.map((d) => `<option value="${d}">${d}</option>`).join("");
+  els.dateA.innerHTML = options;
+  els.dateB.innerHTML = options;
+
+  if (state.dates.includes(prevA)) {
+    els.dateA.value = prevA;
+  }
+  if (state.dates.includes(prevB)) {
+    els.dateB.value = prevB;
+  }
+
+  if (!els.dateA.value && state.dates.length > 0) {
+    els.dateA.value = state.dates[Math.max(0, state.dates.length - 2)] || state.dates[0];
+  }
+  if (!els.dateB.value && state.dates.length > 0) {
+    els.dateB.value = state.dates[state.dates.length - 1];
+  }
 }
 
 function renderLineChart(metric) {
-  const x = state.dates;
-  const y = state.dates.map((date) => state.totalsByDate.get(date)[metric]);
-
   lineChart.setOption({
-    tooltip: { trigger: "axis" },
-    xAxis: { type: "category", data: x },
-    yAxis: { type: "value", name: metricLabel(metric) },
+    grid: { left: 56, right: 20, top: 24, bottom: 44 },
+    tooltip: {
+      trigger: "axis",
+      valueFormatter: (v) => formatNumber(v),
+    },
+    xAxis: {
+      type: "category",
+      data: state.dates,
+      axisTick: { show: false },
+      axisLabel: { color: "#6b7280", fontSize: 12 },
+      axisLine: { lineStyle: { color: "#d1d5db" } },
+    },
+    yAxis: {
+      type: "value",
+      axisTick: { show: false },
+      axisLabel: { color: "#6b7280", fontSize: 12 },
+      splitLine: { lineStyle: { color: "#eef2f7" } },
+    },
     series: [
       {
         type: "line",
         smooth: true,
-        data: y,
-        areaStyle: {},
+        data: state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0),
+        lineStyle: { width: 3, color: "#2563eb" },
+        itemStyle: { color: "#2563eb" },
+        areaStyle: { color: "rgba(37, 99, 235, 0.12)" },
       },
     ],
   });
 }
 
-function buildKeyMetricMap(rows, metric) {
+function buildMetricMapByKey(rows, metric) {
   const map = new Map();
   for (const row of rows) {
-    if (!row.comparable_key) continue;
-    map.set(row.comparable_key, (map.get(row.comparable_key) || 0) + row[metric]);
+    if (!row.key) continue;
+    map.set(row.key, (map.get(row.key) || 0) + row[metric]);
   }
   return map;
 }
 
-function buildDayBKeyData(rows, metric) {
+function buildRowsBByKey(rows, metric) {
   const map = new Map();
   for (const row of rows) {
-    if (!row.comparable_key) continue;
+    if (!row.key) continue;
 
-    const current = map.get(row.comparable_key) || {
-      value: 0,
+    const current = map.get(row.key) || {
       package: row.package,
       contributor: row.contributor,
+      metricValue: 0,
     };
 
-    current.value += row[metric];
+    current.metricValue += row[metric];
     if (!current.package && row.package) current.package = row.package;
     if (!current.contributor && row.contributor) current.contributor = row.contributor;
 
-    map.set(row.comparable_key, current);
+    map.set(row.key, current);
   }
   return map;
 }
 
-function aggregatePositiveDiff(rowsA, rowsB, metric, aggregateBy) {
-  const dayAMetrics = buildKeyMetricMap(rowsA, metric);
-  const dayBMetrics = buildDayBKeyData(rowsB, metric);
-  const aggregated = new Map();
+function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
+  const valueAByKey = buildMetricMapByKey(rowsA, metric);
+  const rowsBByKey = buildRowsBByKey(rowsB, metric);
+  const grouped = new Map();
 
-  for (const [key, rowB] of dayBMetrics.entries()) {
+  for (const [key, rowB] of rowsBByKey.entries()) {
     const label = aggregateBy === "contributor" ? rowB.contributor : rowB.package;
     if (!label) continue;
 
-    const diff = rowB.value - (dayAMetrics.get(key) || 0);
+    const diff = rowB.metricValue - (valueAByKey.get(key) || 0);
     if (diff <= 0) continue;
 
-    aggregated.set(label, (aggregated.get(label) || 0) + diff);
+    grouped.set(label, (grouped.get(label) || 0) + diff);
   }
 
-  return aggregated;
+  return grouped;
 }
 
 function renderTreemap(metric, dateA, dateB, aggregateBy) {
+  if (dateA >= dateB) {
+    treemapChart.setOption({
+      series: [{ type: "treemap", data: [] }],
+    });
+    setStatus("No positive additions between dates (Date A must be earlier than Date B).");
+    return;
+  }
+
   const rowsA = state.rowsByDate.get(dateA) || [];
   const rowsB = state.rowsByDate.get(dateB) || [];
 
-  const aggregated = aggregatePositiveDiff(rowsA, rowsB, metric, aggregateBy);
-  const data = [...aggregated.entries()].map(([name, diff]) => ({
-    name,
-    value: diff,
-    rawDiff: diff,
-    itemStyle: { color: "#16a34a" },
-  }));
+  const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
+  const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
 
-  if (aggregateBy === "contributor" && data.length === 0) {
-    els.error.textContent = "No attributable contributor additions found between selected dates.";
+  if (data.length === 0) {
+    setStatus("No positive additions between dates.");
   } else {
-    els.error.textContent = "";
+    setStatus("");
   }
 
   treemapChart.setOption({
     tooltip: {
-      formatter: (params) => {
-        const rawDiff = params.data?.rawDiff ?? 0;
-        return `${params.name}<br/>Added: +${rawDiff}`;
+      formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
+    },
+    visualMap: {
+      min: data.length ? Math.min(...data.map((d) => d.value)) : 0,
+      max: data.length ? Math.max(...data.map((d) => d.value)) : 1,
+      show: false,
+      inRange: {
+        color: ["#d1fae5", "#86efac", "#22c55e", "#15803d"],
       },
     },
     series: [
       {
         type: "treemap",
+        data,
         roam: false,
         nodeClick: false,
         breadcrumb: { show: false },
         label: {
-          formatter: (params) => {
-            const d = params.data?.rawDiff ?? 0;
-            return `${params.name}\n+${d}`;
-          },
+          formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
+          fontSize: 12,
         },
-        data,
       },
     ],
   });
 }
 
 function renderSummary(metric, dateA, dateB) {
-  const a = state.totalsByDate.get(dateA)?.[metric] ?? 0;
-  const b = state.totalsByDate.get(dateB)?.[metric] ?? 0;
-  const diff = b - a;
+  const valueA = state.totalsByDate.get(dateA)?.[metric] || 0;
+  const valueB = state.totalsByDate.get(dateB)?.[metric] || 0;
+
+  const diff = dateA >= dateB ? 0 : valueB - valueA;
   const sign = diff > 0 ? "+" : "";
-  els.summary.textContent = `${metric} | ${dateB} - ${dateA} = ${sign}${diff} (A=${a}, B=${b})`;
-}
 
-function repopulateDateSelectors() {
-  const options = state.dates
-    .map((d) => `<option value="${d}">${d}</option>`)
-    .join("");
-
-  els.dateA.innerHTML = options;
-  els.dateB.innerHTML = options;
-
-  if (state.dates.length > 1) {
-    els.dateA.value = state.dates[state.dates.length - 2];
-    els.dateB.value = state.dates[state.dates.length - 1];
-  } else if (state.dates.length === 1) {
-    els.dateA.value = state.dates[0];
-    els.dateB.value = state.dates[0];
-  }
+  els.deltaHint.textContent = `Δ ${metricLabel(metric)} (${dateB} − ${dateA}) = ${sign}${formatNumber(diff)}`;
+  els.summary.textContent = `${metricLabel(metric)} | ${dateB} − ${dateA} = ${sign}${formatNumber(diff)}`;
 }
 
 function renderAll() {
@@ -342,42 +376,42 @@ function renderAll() {
 
 async function init() {
   try {
+    setStatus("Loading CSV data...");
     const discovered = await discoverDataFiles();
 
     for (const entry of discovered) {
-      state.filesByDate.set(entry.date, entry.url);
+      state.fileByDate.set(entry.date, entry.url);
     }
 
-    state.dates = [...state.filesByDate.keys()].sort();
+    state.dates = [...state.fileByDate.keys()].sort();
+
+    if (state.dates.length === 0) {
+      throw new Error("No date CSV files found under ../data.");
+    }
 
     for (const date of state.dates) {
-      const url = state.filesByDate.get(date);
+      const url = state.fileByDate.get(date);
       const resp = await fetch(url, { cache: "no-store" });
       if (!resp.ok) {
         throw new Error(`Failed to load ${url}`);
       }
-      const csvText = await resp.text();
-      const parsedRows = parseCsv(csvText);
-      const rows = prepareRows(parsedRows);
 
+      const rows = prepareRows(parseCsv(await resp.text()));
       state.rowsByDate.set(date, rows);
       state.totalsByDate.set(date, computeTotals(rows));
     }
 
-    if (state.dates.length === 0) {
-      throw new Error("No data CSV files found in ../data.");
-    }
+    populateDateSelectors();
 
-    repopulateDateSelectors();
-
-    [els.metric, els.dateA, els.dateB, els.aggregate].forEach((el) => {
-      el.addEventListener("change", renderAll);
+    [els.metric, els.dateA, els.dateB, els.aggregate].forEach((control) => {
+      control.addEventListener("change", renderAll);
     });
 
+    setStatus("");
     renderAll();
   } catch (err) {
-    els.error.textContent = err.message;
     console.error(err);
+    setStatus(err.message || "Failed to load data", true);
   }
 }
 
