@@ -1,4 +1,6 @@
 const DATA_ROOT = "../data";
+const WORKFLOW_FILE = "statistics.yml";
+const TOKEN_STORAGE_KEY = "mooncakes_github_token";
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -8,6 +10,13 @@ const els = {
   deltaHint: document.getElementById("deltaHint"),
   summary: document.getElementById("summary"),
   status: document.getElementById("status"),
+  owner: document.getElementById("ownerInput"),
+  repo: document.getElementById("repoInput"),
+  ref: document.getElementById("refInput"),
+  token: document.getElementById("tokenInput"),
+  trigger: document.getElementById("triggerBtn"),
+  refresh: document.getElementById("refreshBtn"),
+  manualStatus: document.getElementById("manualStatus"),
 };
 
 const lineChart = echarts.init(document.getElementById("lineChart"));
@@ -18,6 +27,7 @@ const state = {
   rowsByDate: new Map(),
   totalsByDate: new Map(),
   dates: [],
+  boundEvents: false,
 };
 
 const numberFmt = new Intl.NumberFormat("en-US");
@@ -223,6 +233,98 @@ function populateDateSelectors() {
   }
 }
 
+
+function setManualStatus(message, isError = false) {
+  els.manualStatus.textContent = message;
+  els.manualStatus.classList.toggle("error", isError);
+}
+
+function inferRepoFromLocation() {
+  const host = window.location.hostname.toLowerCase();
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+
+  if (host.endsWith("github.io")) {
+    const owner = host.replace(/\.github\.io$/, "");
+    const repo = pathParts[0] || "";
+    return { owner, repo };
+  }
+
+  return { owner: "", repo: "" };
+}
+
+function initManualControls() {
+  const inferred = inferRepoFromLocation();
+  if (!els.owner.value) els.owner.value = inferred.owner;
+  if (!els.repo.value) els.repo.value = inferred.repo;
+
+  const storedToken = window.localStorage.getItem(TOKEN_STORAGE_KEY) || "";
+  if (storedToken) {
+    els.token.value = storedToken;
+  }
+
+  els.token.addEventListener("change", () => {
+    const token = els.token.value.trim();
+    if (!token) {
+      window.localStorage.removeItem(TOKEN_STORAGE_KEY);
+      return;
+    }
+    window.localStorage.setItem(TOKEN_STORAGE_KEY, token);
+  });
+
+  els.trigger.addEventListener("click", triggerWorkflowManually);
+  els.refresh.addEventListener("click", async () => {
+    await init();
+    setManualStatus("Refreshed data from repository files.");
+  });
+}
+
+async function triggerWorkflowManually() {
+  const owner = asText(els.owner.value);
+  const repo = asText(els.repo.value);
+  const ref = asText(els.ref.value) || "main";
+  const token = asText(els.token.value);
+
+  if (!owner || !repo) {
+    setManualStatus("Please fill GitHub owner and repository.", true);
+    return;
+  }
+
+  if (!token) {
+    setManualStatus("Please provide a GitHub token with Actions workflow permission.", true);
+    return;
+  }
+
+  const url = `https://api.github.com/repos/${owner}/${repo}/actions/workflows/${WORKFLOW_FILE}/dispatches`;
+
+  try {
+    els.trigger.disabled = true;
+    setManualStatus("Triggering workflow...");
+
+    const resp = await fetch(url, {
+      method: "POST",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${token}`,
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ ref }),
+    });
+
+    if (!resp.ok) {
+      const body = await resp.text();
+      throw new Error(`GitHub API ${resp.status}: ${body || "Failed to trigger workflow."}`);
+    }
+
+    setManualStatus("Workflow triggered. Wait a bit, then click Refresh data view to load latest files.");
+  } catch (err) {
+    console.error(err);
+    setManualStatus(err.message || "Failed to trigger workflow", true);
+  } finally {
+    els.trigger.disabled = false;
+  }
+}
+
 function renderLineChart(metric) {
   lineChart.setOption({
     grid: { left: 56, right: 20, top: 24, bottom: 44 },
@@ -379,6 +481,10 @@ async function init() {
     setStatus("Loading CSV data...");
     const discovered = await discoverDataFiles();
 
+    state.fileByDate.clear();
+    state.rowsByDate.clear();
+    state.totalsByDate.clear();
+
     for (const entry of discovered) {
       state.fileByDate.set(entry.date, entry.url);
     }
@@ -403,9 +509,12 @@ async function init() {
 
     populateDateSelectors();
 
-    [els.metric, els.dateA, els.dateB, els.aggregate].forEach((control) => {
-      control.addEventListener("change", renderAll);
-    });
+    if (!state.boundEvents) {
+      [els.metric, els.dateA, els.dateB, els.aggregate].forEach((control) => {
+        control.addEventListener("change", renderAll);
+      });
+      state.boundEvents = true;
+    }
 
     setStatus("");
     renderAll();
@@ -415,4 +524,5 @@ async function init() {
   }
 }
 
+initManualControls();
 init();

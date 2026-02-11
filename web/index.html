@@ -46,6 +46,43 @@
       </section>
 
       <section class="card">
+        <h2>Manual Update</h2>
+        <p class="helper-text">
+          Trigger GitHub Actions manually from this page. If the same date file already exists,
+          the new fetch will overwrite it, so the latest fetched content is always the source of truth.
+        </p>
+
+        <div class="controls-grid manual-grid">
+          <label>
+            GitHub Owner
+            <input id="ownerInput" type="text" placeholder="e.g. Pmemmm" />
+          </label>
+
+          <label>
+            Repository
+            <input id="repoInput" type="text" placeholder="e.g. MooncakesDailyData" />
+          </label>
+
+          <label>
+            Branch (ref)
+            <input id="refInput" type="text" value="main" />
+          </label>
+
+          <label>
+            GitHub Token (workflow permission)
+            <input id="tokenInput" type="password" autocomplete="off" placeholder="ghp_..." />
+          </label>
+        </div>
+
+        <div class="manual-actions">
+          <button id="triggerBtn" type="button">Trigger update now</button>
+          <button id="refreshBtn" type="button" class="secondary">Refresh data view</button>
+        </div>
+
+        <p id="manualStatus" class="status" aria-live="polite"></p>
+      </section>
+
+      <section class="card">
         <h2>Trend</h2>
         <div id="lineChart" class="chart"></div>
       </section>

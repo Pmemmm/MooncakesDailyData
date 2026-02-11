@@ -41,6 +41,17 @@ This `/web` page is fully static (HTML + CSS + JavaScript) and designed for GitH
 3. Open:
    - `https://<username>.github.io/<repo>/web/`
 
+
+## Manual trigger from the web page
+
+- The page includes a **Manual Update** panel that can trigger `statistics.yml` via GitHub API (`workflow_dispatch`).
+- You must provide:
+  - GitHub owner
+  - repository name
+  - branch ref (default `main`)
+  - a GitHub token with permission to run workflows for this repo
+- For same-date output (for example `data/YYYY-MM-DD.csv`), the latest run overwrites the file content, so the newest fetched data is used.
+
 ## Local testing
 
 From repo root:
