@@ -36,6 +36,7 @@ const state = {
 };
 
 const numberFmt = new Intl.NumberFormat("en-US");
+const TREEMAP_PALETTE = ["#0f3d2e", "#145c3d", "#1f7a4c", "#2d9b5f", "#52b788", "#95d5b2"];
 
 window.addEventListener("resize", () => {
   lineChart.resize();
@@ -44,6 +45,57 @@ window.addEventListener("resize", () => {
 
 function formatNumber(value) {
   return numberFmt.format(value);
+}
+
+function formatAxisNumber(value) {
+  const num = toNumber(value);
+  const abs = Math.abs(num);
+
+  if (abs >= 1_000_000) {
+    const scaled = (num / 1_000_000).toFixed(1).replace(/\.0$/, "");
+    return `${scaled}M`;
+  }
+
+  if (abs >= 1_000) {
+    const scaled = (num / 1_000).toFixed(1).replace(/\.0$/, "");
+    return `${scaled}K`;
+  }
+
+  return formatNumber(num);
+}
+
+function hexToRgb(hex) {
+  const clean = String(hex).replace("#", "");
+  const normalized = clean.length === 3 ? clean.split("").map((c) => `${c}${c}`).join("") : clean;
+
+  if (!/^[0-9a-fA-F]{6}$/.test(normalized)) {
+    return { r: 0, g: 0, b: 0 };
+  }
+
+  return {
+    r: Number.parseInt(normalized.slice(0, 2), 16),
+    g: Number.parseInt(normalized.slice(2, 4), 16),
+    b: Number.parseInt(normalized.slice(4, 6), 16),
+  };
+}
+
+function luminanceFromHex(hex) {
+  const { r, g, b } = hexToRgb(hex);
+  return 0.299 * r + 0.587 * g + 0.114 * b;
+}
+
+function labelColorForBackground(hex) {
+  return luminanceFromHex(hex) >= 160 ? "#111827" : "#f9fafb";
+}
+
+function treemapColorByValue(value, min, max) {
+  if (max <= min) {
+    return TREEMAP_PALETTE[Math.floor(TREEMAP_PALETTE.length / 2)];
+  }
+
+  const ratio = (value - min) / (max - min);
+  const index = Math.round(ratio * (TREEMAP_PALETTE.length - 1));
+  return TREEMAP_PALETTE[Math.min(TREEMAP_PALETTE.length - 1, Math.max(0, index))];
 }
 
 function setStatus(message, isError = false) {
@@ -295,7 +347,7 @@ function populateDateSelectors() {
 
 function renderLineChart(metric) {
   lineChart.setOption({
-    grid: { left: 56, right: 20, top: 24, bottom: 44 },
+    grid: { left: 80, right: 20, top: 24, bottom: 44, containLabel: true },
     tooltip: {
       trigger: "axis",
       valueFormatter: (v) => formatNumber(v),
@@ -310,7 +362,7 @@ function renderLineChart(metric) {
     yAxis: {
       type: "value",
       axisTick: { show: false },
-      axisLabel: { color: "#6b7280", fontSize: 12 },
+      axisLabel: { color: "#6b7280", fontSize: 12, formatter: (value) => formatAxisNumber(value) },
       splitLine: { lineStyle: { color: "#eef2f7" } },
     },
     series: [
@@ -387,6 +439,17 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
 
   const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
   const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
+  const minValue = data.length ? Math.min(...data.map((d) => d.value)) : 0;
+  const maxValue = data.length ? Math.max(...data.map((d) => d.value)) : 1;
+  const styledData = data.map(({ name, value }) => {
+    const color = treemapColorByValue(value, minValue, maxValue);
+    return {
+      name,
+      value,
+      itemStyle: { color },
+      label: { color: labelColorForBackground(color) },
+    };
+  });
 
   if (data.length === 0) {
     setStatus("No positive additions between dates.");
@@ -398,24 +461,24 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
     tooltip: {
       formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
     },
-    visualMap: {
-      min: data.length ? Math.min(...data.map((d) => d.value)) : 0,
-      max: data.length ? Math.max(...data.map((d) => d.value)) : 1,
-      show: false,
-      inRange: {
-        color: ["#d1fae5", "#86efac", "#22c55e", "#15803d"],
-      },
-    },
     series: [
       {
         type: "treemap",
-        data,
+        data: styledData,
         roam: false,
         nodeClick: false,
         breadcrumb: { show: false },
+        borderWidth: 2,
+        gapWidth: 2,
         label: {
           formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
           fontSize: 12,
+        },
+        emphasis: {
+          itemStyle: {
+            shadowBlur: 15,
+            shadowColor: "rgba(15, 23, 42, 0.25)",
+          },
         },
       },
     ],
