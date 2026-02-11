@@ -342,7 +342,8 @@ function renderLineChart(metric) {
   const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
   const isDark = document.documentElement.dataset.theme === "dark";
 
-  lineChart.setOption({
+  lineChart.setOption(
+    {
     grid: { left: 80, right: 40, top: 40, bottom: 40, containLabel: true },
     tooltip: {
       trigger: "axis",
@@ -383,7 +384,9 @@ function renderLineChart(metric) {
         },
       },
     ],
-  });
+    },
+    { notMerge: true }
+  );
 }
 
 function buildMetricMapByKey(rows, metric) {
@@ -462,7 +465,8 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
     setStatus("");
   }
 
-  treemapChart.setOption({
+  treemapChart.setOption(
+    {
     tooltip: {
       formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
     },
@@ -481,7 +485,12 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
         label: {
           formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
           fontSize: 12,
+          color: ({ data: item }) => {
+            const color = item?.itemStyle?.color || TREEMAP_PALETTE[0];
+            return getTextColor(color);
+          },
         },
+        visibleMin: 300,
         emphasis: {
           itemStyle: {
             shadowBlur: 20,
@@ -490,7 +499,9 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
         },
       },
     ],
-  });
+    },
+    { notMerge: true }
+  );
 }
 
 function renderSummary(metric, dateA, dateB) {
