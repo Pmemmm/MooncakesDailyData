@@ -492,10 +492,10 @@ wit-ffi,BigOrangeQWQ/wit-ffi,0.1.0,175,1
 wit-wasi-clocks,BigOrangeQWQ/wit-wasi-clocks,0.2.6,117,2
 wit-wasi-io,BigOrangeQWQ/wit-wasi-io,0.2.6,838,4
 wit-wasi-random,BigOrangeQWQ/wit-wasi-random,0.2.6,111,3
-autodiff,FlyCloudC/autodiff,0.1.1,364,2
+autodiff,FlyCloudC/autodiff,0.1.2,367,2
 GJK,FlyCloudC/GJK,0.1.1,281,1
 mgraph,FlyCloudC/mgraph,0.1.4,283,1
-miniKanren,FlyCloudC/miniKanren,0.1.6,537,1
+miniKanren,FlyCloudC/miniKanren,0.1.7,536,1
 scheme,FlyCloudC/scheme,0.5.0,1777,3
 NetworkX,smallbearrr/NetworkX,0.1.4,1907,1
 pandas,smallbearrr/pandas,0.7.1,6324,2
@@ -679,7 +679,7 @@ moon_cpal,Milky2018/moon_cpal,0.10.9,17365,18
 moon_dagre,Milky2018/moon_dagre,0.1.0,11234,3
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
-moon_rapier,Milky2018/moon_rapier,0.2.4,102465,12
+moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
 moon_skrifa,Milky2018/moon_skrifa,0.1.3,46194,3
 moon_swash,Milky2018/moon_swash,0.1.2,67270,8
 moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
@@ -840,7 +840,7 @@ simple-webauthn,f4ah6o/simple-webauthn,0.1.0,5885,7
 sse,f4ah6o/sse,0.1.0,768,1
 tmpx,f4ah6o/tmpx,0.4.0,1879,2
 uuidm,f4ah6o/uuidm,0.2.0,3810,1
-moon-release,dijdzv/moon-release,0.2.2,15321,11
+moon-release,dijdzv/moon-release,0.2.3,15505,11
 websys,dijdzv/websys,0.1.6,180855,1
 peeler,elzup/peeler,0.1.1,1096,1
 ibmoonc,emptist/ibmoonc,0.1.0,4970,2

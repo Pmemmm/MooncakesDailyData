@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-dijdzv/moon-release,新增,15321,11,0,0,15321,11
+dijdzv/moon-release,新增,15505,11,0,0,15505,11
 Milky2018/moon_dagre,新增,11234,3,0,0,11234,3
 mizchi/bitflow,新增,1712,3,0,0,1712,3
 mizchi/discord,新增,1666,3,0,0,1666,3
@@ -15,6 +15,8 @@ ryota0624/moonbit_test_containers,新增,2530,2,0,0,2530,2
 angela/srt,有变化,-7,1,243,2,236,3
 CAIMEOX/moon_floating,有变化,2087,-1,12683,9,14770,8
 CAIMEOX/symbit,有变化,4635,0,96242,53,100877,53
+FlyCloudC/autodiff,有变化,3,0,364,2,367,2
+FlyCloudC/miniKanren,有变化,-1,0,537,1,536,1
 gmlewis/b2,有变化,9,0,559,1,568,1
 gmlewis/base64,有变化,13,0,924,2,937,2
 gmlewis/flate,有变化,15,0,4336,3,4351,3
@@ -55,6 +57,7 @@ gmlewis/sha256,有变化,5,0,507,1,512,1
 gmlewis/spin-moonbit-sdk,有变化,175,0,12830,46,13005,46
 gmlewis/step,有变化,527,0,25481,52,26008,52
 gmlewis/zlib,有变化,7,0,696,1,703,1
+Milky2018/moon_rapier,有变化,197,0,102465,12,102662,12
 Milky2018/moon_taffy,有变化,21567,0,35842,2,57409,2
 Milky2018/wgpu_mbt,有变化,2546,1,28072,6,30618,7
 mizchi/ast_printer,有变化,5,0,2551,1,2556,1
@@ -289,10 +292,8 @@ fantix/muts,无变化,0,0,1957,6,1957,6
 fgeygfe/dom_api,无变化,0,0,354,1,354,1
 firefly/firefly,无变化,0,0,4729,14,4729,14
 five-nuts/coreutils,无变化,0,0,274,4,274,4
-FlyCloudC/autodiff,无变化,0,0,364,2,364,2
 FlyCloudC/GJK,无变化,0,0,281,1,281,1
 FlyCloudC/mgraph,无变化,0,0,283,1,283,1
-FlyCloudC/miniKanren,无变化,0,0,537,1,537,1
 FlyCloudC/scheme,无变化,0,0,1777,3,1777,3
 Frank-III/onebit-tui,无变化,0,0,8004,7,8004,7
 Frank-III/onebit-yoga,无变化,0,0,2491,4,2491,4
@@ -490,7 +491,6 @@ Milky2018/mgstudio,无变化,0,0,33591,49,33591,49
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
 Milky2018/moon_cosmic,无变化,0,0,25532,2,25532,2
 Milky2018/moon_cpal,无变化,0,0,17365,18,17365,18
-Milky2018/moon_rapier,无变化,0,0,102465,12,102465,12
 Milky2018/moon_skrifa,无变化,0,0,46194,3,46194,3
 Milky2018/moon_swash,无变化,0,0,67270,8,67270,8
 Milky2018/moon_yazi,无变化,0,0,3593,1,3593,1
