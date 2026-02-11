@@ -355,7 +355,11 @@ function populateDateSelectors() {
   }
 
   if (!els.dateA.value && state.dates.length > 0) {
-    els.dateA.value = state.dates[Math.max(0, state.dates.length - 2)] || state.dates[0];
+    if (state.dates.length >= 2) {
+      els.dateA.value = state.dates[state.dates.length - 2];
+    } else {
+      els.dateA.value = state.dates[0];
+    }
   }
   if (!els.dateB.value && state.dates.length > 0) {
     els.dateB.value = state.dates[state.dates.length - 1];
@@ -462,6 +466,14 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
 }
 
 function renderTreemap(metric, dateA, dateB, aggregateBy) {
+  if (dateA === dateB && state.dates.length === 1) {
+    treemapChart.setOption({
+      series: [{ type: "treemap", data: [] }],
+    });
+    setStatus("Only one date is available, so Date A and Date B are set to the same day.");
+    return;
+  }
+
   if (dateA >= dateB) {
     treemapChart.setOption({
       series: [{ type: "treemap", data: [] }],
@@ -564,7 +576,16 @@ async function init() {
       state.fileByDate.set(entry.date, entry.url);
     }
 
-    state.dates = [...state.fileByDate.keys()].sort();
+    state.dates = [...state.fileByDate.keys()].sort((a, b) => {
+      const aTime = new Date(a).getTime();
+      const bTime = new Date(b).getTime();
+
+      if (Number.isFinite(aTime) && Number.isFinite(bTime)) {
+        return aTime - bTime;
+      }
+
+      return a.localeCompare(b);
+    });
 
     if (state.dates.length === 0) {
       throw new Error("No date CSV files found under ./data.");
