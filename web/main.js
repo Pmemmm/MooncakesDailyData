@@ -109,6 +109,58 @@ function extractDateEntriesFromSitemap(xmlText) {
   return entries;
 }
 
+function extractDateEntriesFromGithubContents(items) {
+  if (!Array.isArray(items)) return [];
+
+  return items
+    .map((item) => {
+      const name = asText(item?.name);
+      const match = name.match(/^(\d{4}-\d{2}-\d{2})\.csv$/);
+      if (!match) return null;
+      return { date: match[1], url: `${DATA_ROOT}/${match[1]}.csv` };
+    })
+    .filter(Boolean);
+}
+
+function detectGithubRepoFromLocation() {
+  const host = window.location.hostname || "";
+  if (!host.endsWith("github.io")) return null;
+
+  const owner = host.split(".")[0];
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+  const repo = pathParts[0] || `${owner}.github.io`;
+
+  if (!owner || !repo) return null;
+  return { owner, repo };
+}
+
+async function discoverDataFilesFromGithubApi() {
+  const repoInfo = detectGithubRepoFromLocation();
+  if (!repoInfo) return [];
+
+  const { owner, repo } = repoInfo;
+  const candidateRefs = ["HEAD", "main", "master"];
+
+  for (const ref of candidateRefs) {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/data?ref=${encodeURIComponent(ref)}`;
+
+    try {
+      const resp = await fetch(url, {
+        cache: "no-store",
+        headers: { Accept: "application/vnd.github+json" },
+      });
+      if (!resp.ok) continue;
+
+      const entries = extractDateEntriesFromGithubContents(await resp.json());
+      if (entries.length > 0) return entries;
+    } catch (_err) {
+      // try next
+    }
+  }
+
+  return [];
+}
+
 async function discoverDataFiles() {
   const sitemapCandidates = ["../sitemap.xml", "./sitemap.xml"];
   for (const candidate of sitemapCandidates) {
@@ -135,7 +187,10 @@ async function discoverDataFiles() {
     }
   }
 
-  throw new Error("Unable to discover CSV files in ./data.");
+  const githubEntries = await discoverDataFilesFromGithubApi();
+  if (githubEntries.length > 0) return githubEntries;
+
+  throw new Error("Unable to discover CSV files in ../data.");
 }
 
 function parseCsv(csvText) {

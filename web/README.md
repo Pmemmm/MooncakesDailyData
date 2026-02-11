@@ -17,6 +17,7 @@ This `/web` page is fully static (HTML + CSS + JavaScript) and designed for GitH
 - Date discovery tries:
   1. `../sitemap.xml` / `./sitemap.xml`
   2. `../data/` directory listing fallback
+  3. GitHub Contents API fallback (for GitHub Pages without directory listing)
 - CSV parsing is done in-browser using PapaParse.
 
 ## How diff is computed
