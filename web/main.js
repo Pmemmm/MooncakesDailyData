@@ -1,4 +1,19 @@
-const DATA_ROOT = "../data";
+function getBasePath() {
+  const host = window.location.hostname || "";
+  if (!host.endsWith("github.io")) {
+    return "";
+  }
+
+  const parts = window.location.pathname.split("/").filter(Boolean);
+  if (parts.length > 0) {
+    return `/${parts[0]}`;
+  }
+
+  return "";
+}
+
+const BASE_PATH = getBasePath();
+const DATA_ROOT = `${BASE_PATH}/data`;
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -162,7 +177,7 @@ async function discoverDataFilesFromGithubApi() {
 }
 
 async function discoverDataFiles() {
-  const sitemapCandidates = ["../sitemap.xml", "./sitemap.xml"];
+  const sitemapCandidates = [`${BASE_PATH}/sitemap.xml`, "./sitemap.xml"];
   for (const candidate of sitemapCandidates) {
     try {
       const resp = await fetch(candidate, { cache: "no-store" });
@@ -190,7 +205,7 @@ async function discoverDataFiles() {
   const githubEntries = await discoverDataFilesFromGithubApi();
   if (githubEntries.length > 0) return githubEntries;
 
-  throw new Error("Unable to discover CSV files in ../data.");
+  throw new Error(`Unable to discover CSV files in ${DATA_ROOT}.`);
 }
 
 function parseCsv(csvText) {
