@@ -88,10 +88,8 @@ function getCssVar(name, fallback) {
   return value || fallback;
 }
 
-function getTextColor(bgColor) {
-  const { r, g, b } = hexToRgb(bgColor);
-  const brightness = (r * 299 + g * 587 + b * 114) / 1000;
-  return brightness > 150 ? "#1f2937" : "#ffffff";
+function getTreemapLabelColor(normalized) {
+  return normalized < 0.35 ? "#111827" : "#ffffff";
 }
 
 function interpolateColor(startColor, endColor, factor) {
@@ -482,11 +480,14 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   const max = Math.max(...values);
 
   const styledData = data.map((item) => {
+    const normalized = (item.value - min) / ((max - min) || 1);
     const color = buildTreemapColor(item.value, min, max);
+    const textColor = getTreemapLabelColor(normalized);
+
     return {
       ...item,
       itemStyle: { color },
-      label: { color: getTextColor(color) },
+      label: { color: textColor },
     };
   });
 
@@ -516,10 +517,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
         label: {
           formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
           fontSize: 12,
-          color: ({ data: item }) => {
-            const color = item?.itemStyle?.color || TREEMAP_COLOR_SCALE.start;
-            return getTextColor(color);
-          },
+          color: ({ data: item }) => item?.label?.color || "#111827",
         },
         visibleMin: 300,
         emphasis: {
