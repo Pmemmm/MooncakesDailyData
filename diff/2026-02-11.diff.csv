@@ -57,7 +57,7 @@ mizchi/crater,有变化,-307,0,106861,39,106554,39
 mizchi/cst,有变化,129,0,2379,4,2508,4
 mizchi/font,有变化,-5,0,1117,2,1112,2
 mizchi/js,有变化,-57,0,78298,112,78241,112
-mizchi/jsonschema,有变化,-5879,-4,9248,8,3369,4
+mizchi/jsonschema,有变化,-2631,-2,9248,8,6617,6
 mizchi/llm,有变化,499,0,6951,8,7450,8
 mizchi/lsp,有变化,-44,0,28304,7,28260,7
 mizchi/luna,有变化,-5,0,63273,60,63268,60
@@ -66,7 +66,9 @@ mizchi/mars,有变化,1305,3,13195,8,14500,11
 mizchi/mwac,有变化,54,0,9868,15,9922,15
 mizchi/npm_typed,有变化,977,0,82329,103,83306,103
 mizchi/numbt,有变化,15,0,4587,1,4602,1
+mizchi/semver,有变化,358,2,1303,2,1661,4
 mizchi/signals,有变化,-1013,-1,5960,3,4947,2
+mizchi/sqlc_gen_moonbit,有变化,256,15,24284,15,24540,30
 mizchi/sqlite,有变化,1,0,2231,1,2232,1
 mizchi/starlint,有变化,20,0,16912,7,16932,7
 mizchi/svg,有变化,38,0,23409,2,23447,2
@@ -507,10 +509,8 @@ mizchi/playwright,无变化,0,0,7700,4,7700,4
 mizchi/process_pool,无变化,0,0,1141,2,1141,2
 mizchi/protocol,无变化,0,0,803,2,803,2
 mizchi/ripple,无变化,0,0,4575,2,4575,2
-mizchi/semver,无变化,0,0,1303,2,1303,2
 mizchi/similarity,无变化,0,0,2487,3,2487,3
 mizchi/sol,无变化,0,0,57380,47,57380,47
-mizchi/sqlc_gen_moonbit,无变化,0,0,24284,15,24284,15
 mizchi/syntree,无变化,0,0,29888,34,29888,34
 mizchi/tempfile,无变化,0,0,496,2,496,2
 mizchi/tmgrammar,无变化,0,0,72806,42,72806,42
