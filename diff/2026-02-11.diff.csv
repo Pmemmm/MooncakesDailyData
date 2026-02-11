@@ -7,8 +7,10 @@ mizchi/libjit,新增,9787,3,0,0,9787,3
 mizchi/mbts,新增,12071,9,0,0,12071,9
 mizchi/nn,新增,23065,9,0,0,23065,9
 mizchi/nom,新增,3433,3,0,0,3433,3
+mizchi/sandbox,新增,66259,81,0,0,66259,81
 moonbit-community/rabbita,新增,15181,12,0,0,15181,12
 naokikawamoto16/turn,新增,799,1,0,0,799,1
+ryota0624/moonbit_test_containers,新增,2480,2,0,0,2480,2
 angela/srt,有变化,-7,1,243,2,236,3
 CAIMEOX/moon_floating,有变化,2087,-1,12683,9,14770,8
 CAIMEOX/symbit,有变化,4635,0,96242,53,100877,53
@@ -68,7 +70,7 @@ mizchi/llm,有变化,499,0,6951,8,7450,8
 mizchi/lsp,有变化,-44,0,28304,7,28260,7
 mizchi/luna,有变化,-5,0,63273,60,63268,60
 mizchi/markdown,有变化,11,0,21736,14,21747,14
-mizchi/mars,有变化,1854,6,13195,8,15049,14
+mizchi/mars,有变化,1302,3,13195,8,14497,11
 mizchi/moomaid,有变化,8,0,3195,4,3203,4
 mizchi/moon_component,有变化,359,1,13627,34,13986,35
 mizchi/moonlight,有变化,468,1,29439,18,29907,19
@@ -86,9 +88,11 @@ mizchi/sqlc_gen_moonbit,有变化,256,15,24284,15,24540,30
 mizchi/sqlite,有变化,1,0,2231,1,2232,1
 mizchi/starlint,有变化,583,0,16912,7,17495,7
 mizchi/svg,有变化,38,0,23409,2,23447,2
+mizchi/ts,有变化,1053,0,71142,8,72195,8
 mizchi/wasi,有变化,874,0,2780,28,3654,28
 mizchi/wasi_interface,有变化,-3,0,3608,3,3605,3
-mizchi/wasmtime,有变化,116,0,2563,4,2679,4
+mizchi/wasmtime,有变化,117,0,2563,4,2680,4
+mizchi/wasmx,有变化,-53,0,52333,12,52280,12
 mizchi/webdriver,有变化,3,0,4891,1,4894,1
 mizchi/whenwords,有变化,3,0,1055,2,1058,2
 mizchi/wit,有变化,4,0,4152,2,4156,2
@@ -521,9 +525,7 @@ mizchi/ripple,无变化,0,0,4575,2,4575,2
 mizchi/syntree,无变化,0,0,29888,34,29888,34
 mizchi/tempfile,无变化,0,0,496,2,496,2
 mizchi/tmgrammar,无变化,0,0,72806,42,72806,42
-mizchi/ts,无变化,0,0,71142,8,71142,8
 mizchi/tui,无变化,0,0,35917,34,35917,34
-mizchi/wasmx,无变化,0,0,52333,12,52333,12
 mizchi/webdriver.mbt,无变化,0,0,1848,1,1848,1
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
