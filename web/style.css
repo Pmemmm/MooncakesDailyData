@@ -112,6 +112,26 @@ select:focus-visible {
   box-shadow: 0 0 0 3px rgba(47, 128, 237, 0.18);
 }
 
+.checkbox-label {
+  justify-content: flex-start;
+}
+
+.checkbox-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-main);
+}
+
+.checkbox-control input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--trend-color);
+}
+
 .delta-hint {
   text-align: center;
   margin: var(--space-md) 0 8px;
