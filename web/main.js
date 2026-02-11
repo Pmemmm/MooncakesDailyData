@@ -20,6 +20,7 @@ const els = {
   dateA: document.getElementById("dateASelect"),
   dateB: document.getElementById("dateBSelect"),
   aggregate: document.getElementById("aggregateSelect"),
+  emphasizeTrend: document.getElementById("emphasizeTrend"),
   deltaHint: document.getElementById("deltaHint"),
   summary: document.getElementById("summary"),
   status: document.getElementById("status"),
@@ -366,10 +367,35 @@ function populateDateSelectors() {
   }
 }
 
-function renderLineChart(metric) {
+function getYAxisRange(values, emphasizeTrend) {
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+
+  if (!emphasizeTrend) {
+    const top = Math.max(max, 0);
+    const baseRange = top || 1;
+    return {
+      min: 0,
+      max: Math.ceil(top + baseRange * 0.1),
+    };
+  }
+
+  const range = max - min || Math.max(Math.abs(max) * 0.05, 1);
+  const padding = range * 0.2;
+
+  return {
+    min: Math.floor(min - padding),
+    max: Math.ceil(max + padding),
+  };
+}
+
+function renderLineChart(metric, emphasizeTrend) {
   const trendColor = getCssVar("--trend-color", "#2f80ed");
   const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
   const isDark = document.documentElement.dataset.theme === "dark";
+
+  const values = state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0);
+  const yAxisRange = getYAxisRange(values, emphasizeTrend);
 
   lineChart.setOption(
     {
@@ -387,6 +413,8 @@ function renderLineChart(metric) {
     },
     yAxis: {
       type: "value",
+      min: yAxisRange.min,
+      max: yAxisRange.max,
       axisTick: { show: false },
       axisLabel: {
         color: "#6b7280",
@@ -400,7 +428,7 @@ function renderLineChart(metric) {
         type: "line",
         smooth: true,
         symbolSize: 6,
-        data: state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0),
+        data: values,
         lineStyle: { width: 3, color: isDark ? "#5ea0ff" : trendColor },
         itemStyle: { color: isDark ? "#5ea0ff" : trendColor },
         areaStyle: { color: isDark ? "rgba(94,160,255,0.2)" : trendFill },
@@ -561,8 +589,9 @@ function renderAll() {
   const dateA = els.dateA.value;
   const dateB = els.dateB.value;
   const aggregateBy = els.aggregate.value;
+  const emphasizeTrend = els.emphasizeTrend.checked;
 
-  renderLineChart(metric);
+  renderLineChart(metric, emphasizeTrend);
   renderSummary(metric, dateA, dateB);
   renderTreemap(metric, dateA, dateB, aggregateBy);
 }
@@ -605,7 +634,7 @@ async function init() {
 
     populateDateSelectors();
 
-    [els.metric, els.dateA, els.dateB, els.aggregate].forEach((control) => {
+    [els.metric, els.dateA, els.dateB, els.aggregate, els.emphasizeTrend].forEach((control) => {
       control.addEventListener("change", renderAll);
     });
 
