@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 dijdzv/moon-release,新增,15321,11,0,0,15321,11
 Milky2018/moon_dagre,新增,11234,3,0,0,11234,3
+mizchi/bitflow,新增,1712,3,0,0,1712,3
 mizchi/discord,新增,1666,3,0,0,1666,3
 mizchi/lib,新增,118,2,0,0,118,2
 mizchi/libjit,新增,9787,3,0,0,9787,3
@@ -10,7 +11,7 @@ mizchi/nom,新增,3433,3,0,0,3433,3
 mizchi/sandbox,新增,66259,81,0,0,66259,81
 moonbit-community/rabbita,新增,15181,12,0,0,15181,12
 naokikawamoto16/turn,新增,799,1,0,0,799,1
-ryota0624/moonbit_test_containers,新增,2480,2,0,0,2480,2
+ryota0624/moonbit_test_containers,新增,2530,2,0,0,2530,2
 angela/srt,有变化,-7,1,243,2,236,3
 CAIMEOX/moon_floating,有变化,2087,-1,12683,9,14770,8
 CAIMEOX/symbit,有变化,4635,0,96242,53,100877,53
@@ -82,7 +83,7 @@ mizchi/playwright,有变化,16,0,7700,4,7716,4
 mizchi/process_pool,有变化,21,0,1141,2,1162,2
 mizchi/semver,有变化,358,2,1303,2,1661,4
 mizchi/signals,有变化,-1013,-1,5960,3,4947,2
-mizchi/similarity,有变化,141,1,2487,3,2628,4
+mizchi/similarity,有变化,176,2,2487,3,2663,5
 mizchi/sol,有变化,174,0,57380,47,57554,47
 mizchi/sqlc_gen_moonbit,有变化,256,15,24284,15,24540,30
 mizchi/sqlite,有变化,1,0,2231,1,2232,1
@@ -98,6 +99,8 @@ mizchi/whenwords,有变化,3,0,1055,2,1058,2
 mizchi/wit,有变化,4,0,4152,2,4156,2
 mizchi/wite,有变化,4030,6,33395,9,37425,15
 mizchi/zlib,有变化,1,0,2217,2,2218,2
+ryota0624/circuit_breaker,有变化,-1364,0,2359,2,995,2
+ryota0624/moonbit_otel,有变化,28,0,11125,14,11153,14
 sennenki/tsparser,有变化,512,0,13316,1,13828,1
 typinglabs/romaji_typing,有变化,19,0,1830,3,1849,3
 xingwangzhe/license_checker,有变化,103,-1,737,2,840,1
@@ -643,9 +646,7 @@ ruifeng/diff,无变化,0,0,2203,2,2203,2
 ruifeng/moondsa,无变化,0,0,5202,1,5202,1
 ruifeng/XMLParser,无变化,0,0,4093,2,4093,2
 Rutubet/moon_rsa,无变化,0,0,708,2,708,2
-ryota0624/circuit_breaker,无变化,0,0,2359,2,2359,2
 ryota0624/moonbit_cloudevents,无变化,0,0,510,2,510,2
-ryota0624/moonbit_otel,无变化,0,0,11125,14,11125,14
 ryota0624/mustache,无变化,0,0,1454,2,1454,2
 ryota0624/opentelemetry_proto_mbt,无变化,0,0,6573,11,6573,11
 Seedking/SemVer,无变化,0,0,608,1,608,1
