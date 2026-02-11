@@ -79,23 +79,15 @@ function hexToRgb(hex) {
   };
 }
 
-function luminanceFromHex(hex) {
-  const { r, g, b } = hexToRgb(hex);
-  return 0.299 * r + 0.587 * g + 0.114 * b;
+function getCssVar(name, fallback) {
+  const value = getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+  return value || fallback;
 }
 
-function labelColorForBackground(hex) {
-  return luminanceFromHex(hex) >= 160 ? "#111827" : "#f9fafb";
-}
-
-function treemapColorByValue(value, min, max) {
-  if (max <= min) {
-    return TREEMAP_PALETTE[Math.floor(TREEMAP_PALETTE.length / 2)];
-  }
-
-  const ratio = (value - min) / (max - min);
-  const index = Math.round(ratio * (TREEMAP_PALETTE.length - 1));
-  return TREEMAP_PALETTE[Math.min(TREEMAP_PALETTE.length - 1, Math.max(0, index))];
+function getTextColor(bgColor) {
+  const { r, g, b } = hexToRgb(bgColor);
+  const brightness = (r * 299 + g * 587 + b * 114) / 1000;
+  return brightness > 150 ? "#1f2937" : "#ffffff";
 }
 
 function setStatus(message, isError = false) {
@@ -346,8 +338,13 @@ function populateDateSelectors() {
 }
 
 function renderLineChart(metric) {
-  lineChart.setOption({
-    grid: { left: 80, right: 20, top: 24, bottom: 44, containLabel: true },
+  const trendColor = getCssVar("--trend-color", "#2f80ed");
+  const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
+  const isDark = document.documentElement.dataset.theme === "dark";
+
+  lineChart.setOption(
+    {
+    grid: { left: 80, right: 40, top: 40, bottom: 40, containLabel: true },
     tooltip: {
       trigger: "axis",
       valueFormatter: (v) => formatNumber(v),
@@ -357,25 +354,39 @@ function renderLineChart(metric) {
       data: state.dates,
       axisTick: { show: false },
       axisLabel: { color: "#6b7280", fontSize: 12 },
-      axisLine: { lineStyle: { color: "#d1d5db" } },
+      axisLine: { lineStyle: { color: isDark ? "#2d3748" : "#d9e1e6" } },
     },
     yAxis: {
       type: "value",
       axisTick: { show: false },
-      axisLabel: { color: "#6b7280", fontSize: 12, formatter: (value) => formatAxisNumber(value) },
-      splitLine: { lineStyle: { color: "#eef2f7" } },
+      axisLabel: {
+        color: "#6b7280",
+        fontSize: 12,
+        formatter: (value) => formatAxisNumber(value),
+      },
+      splitLine: { lineStyle: { color: isDark ? "#1f2937" : "#eef2f6" } },
     },
     series: [
       {
         type: "line",
         smooth: true,
+        symbolSize: 6,
         data: state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0),
-        lineStyle: { width: 3, color: "#2563eb" },
-        itemStyle: { color: "#2563eb" },
-        areaStyle: { color: "rgba(37, 99, 235, 0.12)" },
+        lineStyle: { width: 3, color: isDark ? "#5ea0ff" : trendColor },
+        itemStyle: { color: isDark ? "#5ea0ff" : trendColor },
+        areaStyle: { color: isDark ? "rgba(94,160,255,0.2)" : trendFill },
+        emphasis: {
+          focus: "series",
+          itemStyle: {
+            shadowBlur: 10,
+            shadowColor: "rgba(0,0,0,0.12)",
+          },
+        },
       },
     ],
-  });
+    },
+    { notMerge: true }
+  );
 }
 
 function buildMetricMapByKey(rows, metric) {
@@ -439,15 +450,12 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
 
   const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
   const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
-  const minValue = data.length ? Math.min(...data.map((d) => d.value)) : 0;
-  const maxValue = data.length ? Math.max(...data.map((d) => d.value)) : 1;
-  const styledData = data.map(({ name, value }) => {
-    const color = treemapColorByValue(value, minValue, maxValue);
+  const styledData = data.map((item, index) => {
+    const color = TREEMAP_PALETTE[index % TREEMAP_PALETTE.length];
     return {
-      name,
-      value,
+      ...item,
       itemStyle: { color },
-      label: { color: labelColorForBackground(color) },
+      label: { color: getTextColor(color) },
     };
   });
 
@@ -457,7 +465,8 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
     setStatus("");
   }
 
-  treemapChart.setOption({
+  treemapChart.setOption(
+    {
     tooltip: {
       formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
     },
@@ -468,21 +477,31 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
         roam: false,
         nodeClick: false,
         breadcrumb: { show: false },
-        borderWidth: 2,
-        gapWidth: 2,
+        itemStyle: {
+          borderColor: "#ffffff",
+          borderWidth: 2,
+          gapWidth: 2,
+        },
         label: {
           formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
           fontSize: 12,
+          color: ({ data: item }) => {
+            const color = item?.itemStyle?.color || TREEMAP_PALETTE[0];
+            return getTextColor(color);
+          },
         },
+        visibleMin: 300,
         emphasis: {
           itemStyle: {
-            shadowBlur: 15,
-            shadowColor: "rgba(15, 23, 42, 0.25)",
+            shadowBlur: 20,
+            shadowColor: "rgba(0,0,0,0.15)",
           },
         },
       },
     ],
-  });
+    },
+    { notMerge: true }
+  );
 }
 
 function renderSummary(metric, dateA, dateB) {
