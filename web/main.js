@@ -36,7 +36,11 @@ const state = {
 };
 
 const numberFmt = new Intl.NumberFormat("en-US");
-const TREEMAP_PALETTE = ["#0f3d2e", "#145c3d", "#1f7a4c", "#2d9b5f", "#52b788", "#95d5b2"];
+const TREEMAP_COLOR_SCALE = {
+  start: "#d8f3dc",
+  mid: "#52b788",
+  end: "#0f4e6b",
+};
 
 window.addEventListener("resize", () => {
   lineChart.resize();
@@ -88,6 +92,29 @@ function getTextColor(bgColor) {
   const { r, g, b } = hexToRgb(bgColor);
   const brightness = (r * 299 + g * 587 + b * 114) / 1000;
   return brightness > 150 ? "#1f2937" : "#ffffff";
+}
+
+function interpolateColor(startColor, endColor, factor) {
+  const clampedFactor = Math.max(0, Math.min(1, factor));
+  const from = hexToRgb(startColor);
+  const to = hexToRgb(endColor);
+
+  const r = Math.round(from.r + clampedFactor * (to.r - from.r));
+  const g = Math.round(from.g + clampedFactor * (to.g - from.g));
+  const b = Math.round(from.b + clampedFactor * (to.b - from.b));
+
+  return `rgb(${r},${g},${b})`;
+}
+
+function buildTreemapColor(value, min, max) {
+  const denominator = max - min;
+  const normalized = denominator === 0 ? 0 : (value - min) / denominator;
+
+  if (normalized < 0.5) {
+    return interpolateColor(TREEMAP_COLOR_SCALE.start, TREEMAP_COLOR_SCALE.mid, normalized * 2);
+  }
+
+  return interpolateColor(TREEMAP_COLOR_SCALE.mid, TREEMAP_COLOR_SCALE.end, (normalized - 0.5) * 2);
 }
 
 function setStatus(message, isError = false) {
@@ -450,8 +477,12 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
 
   const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
   const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
-  const styledData = data.map((item, index) => {
-    const color = TREEMAP_PALETTE[index % TREEMAP_PALETTE.length];
+  const values = data.map((item) => item.value);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+
+  const styledData = data.map((item) => {
+    const color = buildTreemapColor(item.value, min, max);
     return {
       ...item,
       itemStyle: { color },
@@ -486,7 +517,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
           formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
           fontSize: 12,
           color: ({ data: item }) => {
-            const color = item?.itemStyle?.color || TREEMAP_PALETTE[0];
+            const color = item?.itemStyle?.color || TREEMAP_COLOR_SCALE.start;
             return getTextColor(color);
           },
         },
