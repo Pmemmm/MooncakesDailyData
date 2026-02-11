@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mooncakes Daily Data Viewer</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Mooncakes Daily Data</h1>
+
+      <section class="card">
+        <div class="controls-grid">
+          <label>
+            Metric
+            <select id="metricSelect">
+              <option value="line_count">line_count</option>
+              <option value="package_count">package_count</option>
+              <option value="module_count">module_count</option>
+            </select>
+          </label>
+
+          <label>
+            Date A (base)
+            <select id="dateASelect"></select>
+          </label>
+
+          <label>
+            Date B (compare)
+            <select id="dateBSelect"></select>
+          </label>
+
+          <label>
+            Aggregate by
+            <select id="aggregateSelect">
+              <option value="package">package</option>
+              <option value="contributor">contributor</option>
+            </select>
+          </label>
+        </div>
+
+        <p id="deltaHint" class="delta-hint">Δ line_count (DateB − DateA) = 0</p>
+        <p id="summary" class="summary">line_count | DateB − DateA = 0</p>
+        <p id="status" class="status" aria-live="polite"></p>
+      </section>
+
+      <section class="card">
+        <h2>Trend</h2>
+        <div id="lineChart" class="chart"></div>
+      </section>
+
+      <section class="card">
+        <h2>Diff Treemap</h2>
+        <div id="treemapChart" class="chart"></div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
