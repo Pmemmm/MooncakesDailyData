@@ -135,7 +135,7 @@ async function discoverDataFiles() {
     }
   }
 
-  throw new Error("Unable to discover CSV files in ../data.");
+  throw new Error("Unable to discover CSV files in ./data.");
 }
 
 function parseCsv(csvText) {
@@ -386,7 +386,7 @@ async function init() {
     state.dates = [...state.fileByDate.keys()].sort();
 
     if (state.dates.length === 0) {
-      throw new Error("No date CSV files found under ../data.");
+      throw new Error("No date CSV files found under ./data.");
     }
 
     for (const date of state.dates) {
