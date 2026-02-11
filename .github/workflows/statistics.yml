@@ -5,8 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "31 2 * * *" # UTC 02:31 = 北京时间 10:31
-    - cron: "31 5 * * *" # UTC 05:31 = 北京时间 13:31
+    - cron: "31 */2 * * *" # 每 2 小时执行一次（UTC）
   workflow_dispatch:
 
 jobs:
