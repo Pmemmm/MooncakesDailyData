@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 f4ah6o/http11,新增,14915,4,0,0,14915,4
+dijdzv/moon-release,有变化,17,0,15505,11,15522,11
 mizchi/bit,有变化,5026,-1,92947,34,97973,33
 mizchi/bitflow,有变化,12157,2,1712,3,13869,5
 moonbit-community/rabbita,有变化,384,1,15181,12,15565,13
@@ -145,7 +146,6 @@ DawnMagnet/sparse-table,无变化,0,0,172,2,172,2
 Demonmasterlqx/box2d_ffi,无变化,0,0,2101,2,2101,2
 Demonmasterlqx/moonbit_stickman_map_loader,无变化,0,0,952,3,952,3
 Demonmasterlqx/MoonP5,无变化,0,0,3563,4,3563,4
-dijdzv/moon-release,无变化,0,0,15505,11,15505,11
 dijdzv/websys,无变化,0,0,180855,1,180855,1
 djisnj/djisnj,无变化,0,0,16,1,16,1
 dongyvxuan/dongyx,无变化,0,0,33,2,33,2
