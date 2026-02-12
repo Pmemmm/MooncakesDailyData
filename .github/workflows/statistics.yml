@@ -11,6 +11,8 @@ on:
 jobs:
   fetch-and-diff:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,6 +32,12 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install --upgrade pip requests
 
+      - name: Verify timezone
+        run: |
+          echo "Current TZ: $TZ"
+          date
+          date +%F
+
       - name: Run daily fetch and diff
         run: bash run_daily.sh
 
@@ -42,5 +50,6 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "chore: update daily MoonBit statistics"
+          DATE_BJ=$(date +%F)
+          git commit -m "Daily MoonBit Statistics for ${DATE_BJ}"
           git push
