@@ -34,6 +34,7 @@ const state = {
   rowsByDate: new Map(),
   totalsByDate: new Map(),
   dates: [],
+  selectedRange: "30",
 };
 
 const numberFmt = new Intl.NumberFormat("en-US");
@@ -389,17 +390,59 @@ function getYAxisRange(values, emphasizeTrend) {
   };
 }
 
+function getRangeStartPercent(range) {
+  const total = state.dates.length;
+
+  if (range === "all" || total === 0) {
+    return 0;
+  }
+
+  const showCount = Number(range);
+  if (!Number.isFinite(showCount) || showCount <= 0) {
+    return 0;
+  }
+
+  return total > showCount ? ((total - showCount) / total) * 100 : 0;
+}
+
+function setRange(days) {
+  state.selectedRange = String(days);
+  const startPercent = getRangeStartPercent(state.selectedRange);
+
+  lineChart.dispatchAction({
+    type: "dataZoom",
+    start: startPercent,
+    end: 100,
+  });
+}
+
+function bindRangeButtons() {
+  const buttons = [...document.querySelectorAll(".chart-toolbar button")];
+  if (buttons.length === 0) return;
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      buttons.forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      const range = btn.dataset.range || "all";
+      setRange(range);
+    });
+  });
+}
+
 function renderLineChart(metric, emphasizeTrend) {
   const trendColor = getCssVar("--trend-color", "#2f80ed");
   const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
   const isDark = document.documentElement.dataset.theme === "dark";
+  const startPercent = getRangeStartPercent(state.selectedRange);
 
   const values = state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0);
   const yAxisRange = getYAxisRange(values, emphasizeTrend);
 
   lineChart.setOption(
     {
-    grid: { left: 80, right: 40, top: 40, bottom: 40, containLabel: true },
+    grid: { left: 80, right: 40, top: 40, bottom: 90, containLabel: true },
     tooltip: {
       trigger: "axis",
       valueFormatter: (v) => formatNumber(v),
@@ -423,6 +466,20 @@ function renderLineChart(metric, emphasizeTrend) {
       },
       splitLine: { lineStyle: { color: isDark ? "#1f2937" : "#eef2f6" } },
     },
+    dataZoom: [
+      {
+        type: "slider",
+        show: true,
+        realtime: true,
+        xAxisIndex: 0,
+        start: startPercent,
+        end: 100,
+      },
+      {
+        type: "inside",
+        xAxisIndex: 0,
+      },
+    ],
     series: [
       {
         type: "line",
@@ -637,6 +694,8 @@ async function init() {
     [els.metric, els.dateA, els.dateB, els.aggregate, els.emphasizeTrend].forEach((control) => {
       control.addEventListener("change", renderAll);
     });
+
+    bindRangeButtons();
 
     setStatus("");
     renderAll();
