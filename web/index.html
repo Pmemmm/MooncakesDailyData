@@ -53,8 +53,14 @@
         <p id="status" class="status" aria-live="polite"></p>
       </section>
 
-      <section class="card">
+      <section class="card trend-card">
         <h2>Trend</h2>
+        <div class="chart-toolbar" aria-label="Trend range shortcuts">
+          <button type="button" data-range="7">7D</button>
+          <button type="button" data-range="30" class="active">30D</button>
+          <button type="button" data-range="90">90D</button>
+          <button type="button" data-range="all">ALL</button>
+        </div>
         <div id="lineChart" class="chart"></div>
       </section>
 
