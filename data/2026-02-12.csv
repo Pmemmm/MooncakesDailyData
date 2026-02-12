@@ -259,8 +259,8 @@ test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
-bit,mizchi/bit,0.16.0,92947,34
-bitflow,mizchi/bitflow,0.2.0,9730,4
+bit,mizchi/bit,0.17.1,97973,33
+bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.8,6210,3
