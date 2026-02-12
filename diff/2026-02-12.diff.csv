@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-moonbit-community/rabbita,有变化,144,0,15181,12,15325,12
+moonbit-community/rabbita,有变化,173,1,15181,12,15354,13
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
