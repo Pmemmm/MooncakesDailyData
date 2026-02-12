@@ -1,7 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 f4ah6o/http11,新增,14915,4,0,0,14915,4
 mizchi/bitflow,有变化,8018,1,1712,3,9730,4
-moonbit-community/rabbita,有变化,173,1,15181,12,15354,13
+moonbit-community/rabbita,有变化,384,1,15181,12,15565,13
 moonbitlang/parser,有变化,2822,0,146785,16,149607,16
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
