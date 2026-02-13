@@ -129,7 +129,7 @@ cowsay,bzy-debug/cowsay,0.1.0,90,2
 cowsay_lib,bzy-debug/cowsay_lib,0.1.0,82,1
 hello,bzy-debug/hello,0.1.20240510+81e045f4e,24,2
 json_parser,bzy-debug/json_parser,0.1.0,1070,1
-string_zipper,bzy-debug/string_zipper,0.1.2,1575,1
+string_zipper,bzy-debug/string_zipper,0.1.3,2185,1
 text_document,bzy-debug/text_document,0.1.0,1213,1
 codex_worfkow,Yu-zh/codex_worfkow,0.1.0,2436,4
 either,Yu-zh/either,0.1.0,69,1
@@ -328,7 +328,7 @@ whenwords,mizchi/whenwords,0.1.3,1058,2
 wit,mizchi/wit,0.2.0,4156,2
 wite,mizchi/wite,0.3.0,37425,15
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
-x,mizchi/x,0.1.1,9248,8
+x,mizchi/x,0.1.3,9335,8
 zlib,mizchi/zlib,0.3.3,2218,2
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
@@ -678,7 +678,7 @@ moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.1,25532,2
 moon_cpal,Milky2018/moon_cpal,0.10.9,17365,18
-moon_dagre,Milky2018/moon_dagre,0.1.0,11234,3
+moon_dagre,Milky2018/moon_dagre,0.1.1,10406,1
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
