@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 dowdiness/margs,新增,4570,2,0,0,4570,2
 mizchi/layout,新增,1263,4,0,0,1263,4
+bobzhang/beautiful_mermaid,有变化,3894,38,29664,3,33558,41
 dijdzv/moon-release,有变化,-42,0,15522,11,15480,11
 mizchi/crater,有变化,4287,2,106554,39,110841,41
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -63,7 +64,6 @@ bob/aegis,无变化,0,0,1126,2,1126,2
 bob/hashbrown,无变化,0,0,1549,3,1549,3
 bob/lexer,无变化,0,0,244,1,244,1
 bob/toml,无变化,0,0,7656,3,7656,3
-bobzhang/beautiful_mermaid,无变化,0,0,29664,3,29664,3
 bobzhang/codex_workflow,无变化,0,0,2436,4,2436,4
 bobzhang/colors,无变化,0,0,1678,2,1678,2
 bobzhang/flowgraph,无变化,0,0,1105,1,1105,1
