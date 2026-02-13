@@ -168,7 +168,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.16.6,28679,42
-core,moonbitlang/core,0.1.20260210+bd827dc85,139497,66
+core,moonbitlang/core,0.1.20260213+3382e0600,139497,66
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.2,4451,6
@@ -286,7 +286,7 @@ llm,mizchi/llm,0.2.2,7450,8
 lsp,mizchi/lsp,0.1.2,28260,7
 luna,mizchi/luna,0.12.3,63268,60
 markdown,mizchi/markdown,0.4.7,21747,14
-mars,mizchi/mars,0.3.6,14497,11
+mars,mizchi/mars,0.3.7,14503,11
 mbts,mizchi/mbts,0.0.3,12071,9
 moomaid,mizchi/moomaid,0.1.1,3203,4
 moon_component,mizchi/moon_component,0.3.2,13986,35
@@ -328,6 +328,7 @@ whenwords,mizchi/whenwords,0.1.3,1058,2
 wit,mizchi/wit,0.2.0,4156,2
 wite,mizchi/wite,0.3.0,37425,15
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
+x,mizchi/x,0.1.1,9248,8
 zlib,mizchi/zlib,0.3.3,2218,2
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1

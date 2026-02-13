@@ -1,10 +1,12 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 dowdiness/margs,新增,4570,2,0,0,4570,2
 mizchi/layout,新增,1263,4,0,0,1263,4
+mizchi/x,新增,9248,8,0,0,9248,8
 bobzhang/beautiful_mermaid,有变化,3894,38,29664,3,33558,41
 dijdzv/moon-release,有变化,-42,0,15522,11,15480,11
 Milky2018/wasmoon,有变化,4748,0,202288,34,207036,34
 mizchi/crater,有变化,4287,2,106554,39,110841,41
+mizchi/mars,有变化,6,0,14497,11,14503,11
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -481,7 +483,6 @@ mizchi/llm,无变化,0,0,7450,8,7450,8
 mizchi/lsp,无变化,0,0,28260,7,28260,7
 mizchi/luna,无变化,0,0,63268,60,63268,60
 mizchi/markdown,无变化,0,0,21747,14,21747,14
-mizchi/mars,无变化,0,0,14497,11,14497,11
 mizchi/mbts,无变化,0,0,12071,9,12071,9
 mizchi/moomaid,无变化,0,0,3203,4,3203,4
 mizchi/moon_component,无变化,0,0,13986,35,13986,35
