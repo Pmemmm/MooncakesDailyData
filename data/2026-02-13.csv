@@ -183,11 +183,11 @@ protobuf,moonbitlang/protobuf,0.1.1,1449,1
 quickcheck,moonbitlang/quickcheck,0.9.10,3712,7
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
-ulex,moonbitlang/ulex,0.3.26,9873,31
+ulex,moonbitlang/ulex,0.3.27,9920,31
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1
 wasm4,moonbitlang/wasm4,0.2.9,813,1
 x,moonbitlang/x,0.4.40,22528,23
-yacc,moonbitlang/yacc,0.7.9,51981,29
+yacc,moonbitlang/yacc,0.7.10,52046,29
 test,Young-Flash/test,0.2.0,25,2
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2
 test_publish,Young-Flash/test_publish,0.2.0,25,2

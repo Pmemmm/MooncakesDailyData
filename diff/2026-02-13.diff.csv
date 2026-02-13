@@ -10,6 +10,8 @@ Milky2018/moon_dagre,有变化,-828,-2,11234,3,10406,1
 Milky2018/wasmoon,有变化,4748,0,202288,34,207036,34
 mizchi/crater,有变化,4287,2,106554,39,110841,41
 mizchi/mars,有变化,6,0,14497,11,14503,11
+moonbitlang/ulex,有变化,47,0,9873,31,9920,31
+moonbitlang/yacc,有变化,65,0,51981,29,52046,29
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -559,11 +561,9 @@ moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
 moonbitlang/quickcheck,无变化,0,0,3712,7,3712,7
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
 moonbitlang/std,无变化,0,0,99,1,99,1
-moonbitlang/ulex,无变化,0,0,9873,31,9873,31
 moonbitlang/ulex-runtime,无变化,0,0,131,1,131,1
 moonbitlang/wasm4,无变化,0,0,813,1,813,1
 moonbitlang/x,无变化,0,0,22528,23,22528,23
-moonbitlang/yacc,无变化,0,0,51981,29,51981,29
 moonrockz/gherkin,无变化,0,0,11821,9,11821,9
 moransky/bloom_filter,无变化,0,0,105,2,105,2
 my-xn/hello,无变化,0,0,25,2,25,2
