@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 ryota0624/k6,新增,3490,5,0,0,3490,5
+ryota0624/moonbit_otel,有变化,-252,0,11153,14,10901,14
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -646,7 +647,6 @@ ruifeng/XMLParser,无变化,0,0,4093,2,4093,2
 Rutubet/moon_rsa,无变化,0,0,708,2,708,2
 ryota0624/circuit_breaker,无变化,0,0,995,2,995,2
 ryota0624/moonbit_cloudevents,无变化,0,0,510,2,510,2
-ryota0624/moonbit_otel,无变化,0,0,11153,14,11153,14
 ryota0624/moonbit_test_containers,无变化,0,0,2530,2,2530,2
 ryota0624/mustache,无变化,0,0,1454,2,1454,2
 ryota0624/opentelemetry_proto_mbt,无变化,0,0,6573,11,6573,11
