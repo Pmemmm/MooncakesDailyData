@@ -313,7 +313,7 @@ sol,mizchi/sol,0.5.2,57554,47
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
 starlint,mizchi/starlint,0.9.0,17495,7
-svg,mizchi/svg,0.1.8,23447,2
+svg,mizchi/svg,0.1.9,23746,4
 syntree,mizchi/syntree,0.2.3,29888,34
 tempfile,mizchi/tempfile,0.1.2,496,2
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
