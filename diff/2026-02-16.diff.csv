@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 ryota0624/oauth2,新增,4014,4,0,0,4014,4
 dijdzv/websys,有变化,6389,0,223648,1,230037,1
+gmlewis/fonts,有变化,602,0,13382,19,13984,19
 mizchi/bit,有变化,12596,1,105649,32,118245,33
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -208,7 +209,6 @@ gmlewis/b2,无变化,0,0,568,1,568,1
 gmlewis/base64,无变化,0,0,937,2,937,2
 gmlewis/crc32,无变化,0,0,207,1,207,1
 gmlewis/flate,无变化,0,0,4351,3,4351,3
-gmlewis/fonts,无变化,0,0,13382,19,13382,19
 gmlewis/fonts-a,无变化,0,0,292358,61,292358,61
 gmlewis/fonts-b,无变化,0,0,45648,12,45648,12
 gmlewis/fonts-c,无变化,0,0,172588,32,172588,32
