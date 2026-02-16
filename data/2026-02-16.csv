@@ -671,7 +671,7 @@ datetime,MINGtoMING/datetime,0.1.0,531,1
 simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
-gamepad,Milky2018/gamepad,0.3.26,8357,1
+gamepad,Milky2018/gamepad,0.4.0,9660,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.1.2,33591,49
@@ -844,7 +844,7 @@ mhx,f4ah6o/mhx,0.1.1,3923,7
 mhx-spec,f4ah6o/mhx-spec,0.1.1,2288,6
 moonchat,f4ah6o/moonchat,0.2.0,1764,5
 simple-webauthn,f4ah6o/simple-webauthn,0.1.0,5885,7
-sse,f4ah6o/sse,0.1.0,768,1
+sse,f4ah6o/sse,0.3.0,895,3
 tmpx,f4ah6o/tmpx,0.4.0,1879,2
 uuidm,f4ah6o/uuidm,0.2.0,3810,1
 moon-release,dijdzv/moon-release,0.3.2,15479,11
