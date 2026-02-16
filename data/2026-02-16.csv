@@ -305,6 +305,8 @@ playwright,mizchi/playwright,0.2.2,7716,4
 process_pool,mizchi/process_pool,0.1.3,1162,2
 protocol,mizchi/protocol,0.0.5,803,2
 ripple,mizchi/ripple,0.1.2,4575,2
+rlm,mizchi/rlm,0.1.0,5747,1
+rlm_moonbit,mizchi/rlm_moonbit,0.1.0,5747,1
 sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.3,4947,2
