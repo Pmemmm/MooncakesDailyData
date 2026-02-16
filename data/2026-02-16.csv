@@ -707,7 +707,7 @@ event-graph-walker,dowdiness/event-graph-walker,0.1.0,10354,7
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 incr,dowdiness/incr,0.3.0,2394,1
 js_engine,dowdiness/js_engine,0.1.0,27583,8
-margs,dowdiness/margs,0.1.0,4570,2
+margs,dowdiness/margs,0.1.2,4638,2
 cstdio-ffi,Bemly/cstdio-ffi,0.0.0,720,2
 mcp,colmugx/mcp,0.5.2,3767,9
 reader,colmugx/reader,0.3.0,228,1
