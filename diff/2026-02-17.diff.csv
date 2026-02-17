@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+f4ah6o/direct_sdk,有变化,830,0,12448,22,13278,22
 ryota0624/oauth2,有变化,956,-1,4014,4,4970,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -168,7 +169,6 @@ Erolaffy/easyio,无变化,0,0,211,1,211,1
 Eunoiay/Eunoiay,无变化,0,0,13,1,13,1
 extism/moonbit-pdk,无变化,0,0,1165,12,1165,12
 f4ah6o/aletheia,无变化,0,0,19440,30,19440,30
-f4ah6o/direct_sdk,无变化,0,0,12448,22,12448,22
 f4ah6o/duckdb,无变化,0,0,17953,2,17953,2
 f4ah6o/encoding_sjis,无变化,0,0,7469,2,7469,2
 f4ah6o/encoding_sjis_mbt,无变化,0,0,7469,2,7469,2
