@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 f4ah6o/direct_sdk,有变化,830,0,12448,22,13278,22
+Milky2018/moon_cpal,有变化,39,0,17565,18,17604,18
 ryota0624/oauth2,有变化,956,-1,4014,4,4970,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -430,7 +431,6 @@ Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,33591,49,33591,49
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
 Milky2018/moon_cosmic,无变化,0,0,25532,2,25532,2
-Milky2018/moon_cpal,无变化,0,0,17565,18,17565,18
 Milky2018/moon_dagre,无变化,0,0,10406,1,10406,1
 Milky2018/moon_rapier,无变化,0,0,102662,12,102662,12
 Milky2018/moon_skrifa,无变化,0,0,46194,3,46194,3
