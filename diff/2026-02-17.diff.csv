@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 f4ah6o/direct_sdk,有变化,830,0,12448,22,13278,22
 Milky2018/moon_cpal,有变化,39,0,17565,18,17604,18
 mizchi/bit,有变化,12511,4,118245,33,130756,37
+mizchi/font,有变化,567,0,1112,2,1679,2
 mizchi/wite,有变化,1153,0,37443,15,38596,15
 ryota0624/oauth2,有变化,956,-1,4014,4,4970,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -469,7 +470,6 @@ mizchi/crdt_db,无变化,0,0,5786,11,5786,11
 mizchi/cst,无变化,0,0,2508,4,2508,4
 mizchi/discord,无变化,0,0,1666,3,1666,3
 mizchi/flatbuffers,无变化,0,0,10671,3,10671,3
-mizchi/font,无变化,0,0,1112,2,1112,2
 mizchi/git,无变化,0,0,53603,9,53603,9
 mizchi/js,无变化,0,0,78307,112,78307,112
 mizchi/js_io,无变化,0,0,170,2,170,2
