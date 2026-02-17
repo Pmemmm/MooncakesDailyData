@@ -1,6 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 f4ah6o/direct_sdk,有变化,830,0,12448,22,13278,22
 Milky2018/moon_cpal,有变化,39,0,17565,18,17604,18
+mizchi/bit,有变化,12182,4,118245,33,130427,37
+mizchi/wite,有变化,1153,0,37443,15,38596,15
 ryota0624/oauth2,有变化,956,-1,4014,4,4970,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -456,7 +458,6 @@ MINGtoMING/datetime,无变化,0,0,531,1,531,1
 MINGtoMING/simdstring,无变化,0,0,289,3,289,3
 misika727/sqrt,无变化,0,0,63,2,63,2
 mizchi/ast_printer,无变化,0,0,2556,1,2556,1
-mizchi/bit,无变化,0,0,118245,33,118245,33
 mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/cbor,无变化,0,0,1323,2,1323,2
@@ -526,7 +527,6 @@ mizchi/webdriver.mbt,无变化,0,0,1848,1,1848,1
 mizchi/whenwords,无变化,0,0,1058,2,1058,2
 mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
-mizchi/wite,无变化,0,0,37443,15,37443,15
 mizchi/x,无变化,0,0,9335,8,9335,8
 mizchi/zlib,无变化,0,0,2218,2,2218,2
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
