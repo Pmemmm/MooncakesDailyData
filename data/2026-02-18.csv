@@ -263,7 +263,7 @@ ast_printer,mizchi/ast_printer,0.2.2,2556,1
 bit,mizchi/bit,0.21.2,130756,37
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
-brotli,mizchi/brotli,0.1.0,16031,1
+brotli,mizchi/brotli,0.1.1,16031,1
 cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.8,6210,3
 codegen,mizchi/codegen,0.2.3,7115,5
@@ -321,7 +321,7 @@ syntree,mizchi/syntree,0.2.3,29888,34
 tempfile,mizchi/tempfile,0.1.2,496,2
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 ts,mizchi/ts,0.1.2,72195,8
-tui,mizchi/tui,0.6.0,35917,34
+tui,mizchi/tui,0.7.0,36511,34
 wasi,mizchi/wasi,0.1.2,3654,28
 wasi_interface,mizchi/wasi_interface,0.3.0,3605,3
 wasmtime,mizchi/wasmtime,0.1.5,2680,4
@@ -330,7 +330,7 @@ webdriver,mizchi/webdriver,0.2.3,4894,1
 webdriver.mbt,mizchi/webdriver.mbt,0.1.0,1848,1
 whenwords,mizchi/whenwords,0.1.3,1058,2
 wit,mizchi/wit,0.3.0,4397,2
-wite,mizchi/wite,0.6.2,41403,16
+wite,mizchi/wite,0.6.3,41412,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
 x,mizchi/x,0.1.3,9335,8
 zlib,mizchi/zlib,0.3.3,2218,2
@@ -686,6 +686,7 @@ moon_dagre,Milky2018/moon_dagre,0.1.1,10406,1
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
+moon_rodio,Milky2018/moon_rodio,0.1.0,16574,3
 moon_skrifa,Milky2018/moon_skrifa,0.1.3,46194,3
 moon_swash,Milky2018/moon_swash,0.1.2,67270,8
 moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
