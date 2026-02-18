@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 jtenner/sfo,新增,13087,1,0,0,13087,1
 mizchi/brotli,新增,16031,1,0,0,16031,1
 gmlewis/fonts,有变化,140,0,13984,19,14124,19
+mizchi/font,有变化,1912,0,1679,2,3591,2
 mizchi/wite,有变化,1036,1,38596,15,39632,16
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -470,7 +471,6 @@ mizchi/crdt_db,无变化,0,0,5786,11,5786,11
 mizchi/cst,无变化,0,0,2508,4,2508,4
 mizchi/discord,无变化,0,0,1666,3,1666,3
 mizchi/flatbuffers,无变化,0,0,10671,3,10671,3
-mizchi/font,无变化,0,0,1679,2,1679,2
 mizchi/git,无变化,0,0,53603,9,53603,9
 mizchi/js,无变化,0,0,78307,112,78307,112
 mizchi/js_io,无变化,0,0,170,2,170,2
