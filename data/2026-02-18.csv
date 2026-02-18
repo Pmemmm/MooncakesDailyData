@@ -280,7 +280,7 @@ js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.4.3,6617,6
 js_regexp,mizchi/js_regexp,0.0.4,145,2
-layout,mizchi/layout,0.1.1,1848,6
+layout,mizchi/layout,0.1.2,1953,11
 lib,mizchi/lib,0.1.2,118,2
 libgit2,mizchi/libgit2,0.1.0,2525,4
 libjit,mizchi/libjit,0.1.1,9787,3
@@ -698,7 +698,7 @@ selene,Milky2018/selene,0.19.4,6474,17
 selene-canvas,Milky2018/selene-canvas,0.19.4,597,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
-wasmoon,Milky2018/wasmoon,0.4.0,207036,34
+wasmoon,Milky2018/wasmoon,0.5.0,203419,33
 wgpu_mbt,Milky2018/wgpu_mbt,0.8.0,30618,7
 xml,Milky2018/xml,0.2.0,12989,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
