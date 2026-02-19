@@ -31,6 +31,7 @@ codex_workflow,bobzhang/codex_workflow,0.1.0,2436,4
 colors,bobzhang/colors,0.8.0,1678,2
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
+holm,bobzhang/holm,0.1.0,7262,8
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
 lexer,bobzhang/lexer,0.1.2,599,1
 liquid,bobzhang/liquid,0.1.0,3145,2
@@ -288,7 +289,7 @@ llm,mizchi/llm,0.2.2,7450,8
 lsp,mizchi/lsp,0.1.2,28260,7
 luna,mizchi/luna,0.12.3,63268,60
 markdown,mizchi/markdown,0.4.7,21747,14
-mars,mizchi/mars,0.3.7,14503,11
+mars,mizchi/mars,0.3.9,14517,11
 mbts,mizchi/mbts,0.0.3,12071,9
 moomaid,mizchi/moomaid,0.1.2,3809,4
 moon_component,mizchi/moon_component,0.4.0,16096,38
@@ -311,8 +312,8 @@ rlm_moonbit,mizchi/rlm_moonbit,0.1.0,5747,1
 sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.3,4947,2
-similarity,mizchi/similarity,0.2.0,2663,5
-sol,mizchi/sol,0.6.0,59325,51
+similarity,mizchi/similarity,0.2.1,2664,5
+sol,mizchi/sol,0.7.1,59277,51
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
 starlint,mizchi/starlint,0.9.0,17495,7
