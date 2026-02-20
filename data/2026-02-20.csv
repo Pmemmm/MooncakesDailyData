@@ -324,7 +324,7 @@ syntree,mizchi/syntree,0.2.3,29888,34
 tempfile,mizchi/tempfile,0.1.2,496,2
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 ts,mizchi/ts,0.1.2,72195,8
-tui,mizchi/tui,0.7.0,36511,34
+tui,mizchi/tui,0.8.0,36737,34
 wasi,mizchi/wasi,0.1.2,3654,28
 wasi_interface,mizchi/wasi_interface,0.3.0,3605,3
 wasmtime,mizchi/wasmtime,0.1.5,2680,4
