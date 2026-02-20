@@ -289,7 +289,7 @@ libgit2,mizchi/libgit2,0.1.0,2525,4
 libjit,mizchi/libjit,0.1.1,9787,3
 llm,mizchi/llm,0.2.2,7450,8
 lsp,mizchi/lsp,0.1.2,28260,7
-luna,mizchi/luna,0.12.3,63268,60
+luna,mizchi/luna,0.13.0,63637,60
 markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.9,14517,11
 mbts,mizchi/mbts,0.0.3,12071,9
@@ -888,3 +888,4 @@ grpc,naokikawamoto16/grpc,0.1.0,3792,5
 turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.2,1849,3
 sfo,jtenner/sfo,0.1.1,13087,1
+sql,ash1day/sql,0.1.0,6085,4
