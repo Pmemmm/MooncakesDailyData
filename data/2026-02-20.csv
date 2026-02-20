@@ -241,7 +241,7 @@ moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
-nanoid,hustcer/nanoid,0.2.3,1949,2
+nanoid,hustcer/nanoid,0.3.0,1314,2
 biblatex,Lampese/biblatex,0.1.0,1714,2
 lomo,Lampese/lomo,0.0.5,26092,10
 MCIL,Lampese/MCIL,0.1.1,18534,4
@@ -889,3 +889,5 @@ turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.2,1849,3
 sfo,jtenner/sfo,0.1.1,13087,1
 sql,ash1day/sql,0.1.0,6085,4
+flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
+moonclaw,vectie/moonclaw,0.1.0,871,2
