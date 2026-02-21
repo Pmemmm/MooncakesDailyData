@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 mizchi/bit,有变化,7842,1,130756,37,138598,38
+yatsuna827/pk-rng-lcg32,有变化,-5,0,270,2,265,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -835,7 +836,6 @@ yamajik/wasi-bindings,无变化,0,0,8887,34,8887,34
 yangqing/hello,无变化,0,0,29,2,29,2
 yanyeting/minmax,无变化,0,0,33,2,33,2
 yatsuna827/pk-rng-gen3,无变化,0,0,6337,11,6337,11
-yatsuna827/pk-rng-lcg32,无变化,0,0,270,2,270,2
 YHSZ-ONEC/yhsz,无变化,0,0,12,1,12,1
 yj-qin/llhttp,无变化,0,0,1376,1,1376,1
 yj-qin/moonlox,无变化,0,0,2551,2,2551,2
