@@ -315,7 +315,7 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.3,4947,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.8.0,60260,51
+sol,mizchi/sol,0.9.0,60424,51
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
 starlint,mizchi/starlint,0.9.0,17495,7
@@ -688,6 +688,7 @@ moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.1,25532,2
 moon_cpal,Milky2018/moon_cpal,0.11.3,17604,18
 moon_dagre,Milky2018/moon_dagre,0.1.1,10406,1
+moon_elk,Milky2018/moon_elk,0.1.0,260334,35
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
