@@ -270,7 +270,7 @@ cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.8,6210,3
 codegen,mizchi/codegen,0.2.3,7115,5
 converge,mizchi/converge,0.1.9,8050,14
-crater,mizchi/crater,0.4.5,110841,41
+crater,mizchi/crater,0.7.0,116962,42
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
 cst,mizchi/cst,0.1.4,2508,4
 discord,mizchi/discord,0.1.1,1666,3
