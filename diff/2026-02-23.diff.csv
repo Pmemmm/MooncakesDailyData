@@ -5,6 +5,9 @@ moonrockz/moonspec,新增,7494,13,0,0,7494,13
 tiye/genai,新增,1285,2,0,0,1285,2
 hustcer/nanoid,有变化,198,0,1314,2,1512,2
 Milky2018/wasmoon,有变化,685,0,210345,43,211030,43
+mizchi/bit,有变化,-3423,0,138598,38,135175,38
+mizchi/x,有变化,49224,59,9335,8,58559,67
+sacckey/lunaboy,有变化,64,0,4575,3,4639,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -466,7 +469,6 @@ MINGtoMING/simdstring,无变化,0,0,289,3,289,3
 misika727/sqrt,无变化,0,0,63,2,63,2
 mizchi/ast_printer,无变化,0,0,2556,1,2556,1
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,138598,38,138598,38
 mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,16031,1,16031,1
@@ -541,7 +543,6 @@ mizchi/whisper-mbt,无变化,0,0,1318,3,1318,3
 mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,41412,16,41412,16
-mizchi/x,无变化,0,0,9335,8,9335,8
 mizchi/zlib,无变化,0,0,2218,2,2218,2
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
 moonbit-community/cmark,无变化,0,0,30339,7,30339,7
@@ -671,7 +672,6 @@ ryota0624/moonbit_test_containers,无变化,0,0,2530,2,2530,2
 ryota0624/mustache,无变化,0,0,1454,2,1454,2
 ryota0624/oauth2,无变化,0,0,7347,6,7347,6
 ryota0624/opentelemetry_proto_mbt,无变化,0,0,6573,11,6573,11
-sacckey/lunaboy,无变化,0,0,4575,3,4575,3
 Seedking/SemVer,无变化,0,0,608,1,608,1
 SeisanSoda/hello,无变化,0,0,26,2,26,2
 sennenki/immutable,无变化,0,0,4570,10,4570,10
