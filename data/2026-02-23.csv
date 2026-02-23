@@ -285,6 +285,7 @@ js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.4.3,6617,6
 js_regexp,mizchi/js_regexp,0.0.4,145,2
+kagura,mizchi/kagura,0.1.0,34156,29
 layout,mizchi/layout,0.1.2,1953,11
 lib,mizchi/lib,0.1.2,118,2
 libgit2,mizchi/libgit2,0.1.0,2525,4

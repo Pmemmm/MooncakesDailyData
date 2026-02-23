@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 mizchi/glfw,新增,462,2,0,0,462,2
+mizchi/kagura,新增,34156,29,0,0,34156,29
 moonrockz/moonspec,新增,7494,13,0,0,7494,13
 tiye/genai,新增,1285,2,0,0,1285,2
 hustcer/nanoid,有变化,198,0,1314,2,1512,2
