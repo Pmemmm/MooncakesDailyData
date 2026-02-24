@@ -13,7 +13,7 @@ function getBasePath() {
 }
 
 const BASE_PATH = getBasePath();
-const DATA_ROOT = `${BASE_PATH}/data`;
+const DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -149,7 +149,7 @@ function normalizeDateText(raw) {
   return String(raw).replace(/\/$/, "").trim();
 }
 
-function extractDateEntriesFromDirectoryHtml(html) {
+function extractDateEntriesFromDirectoryHtml(html, dataRoot) {
   const parser = new DOMParser();
   const doc = parser.parseFromString(html, "text/html");
   const links = [...doc.querySelectorAll("a")].map((a) => a.getAttribute("href") || "");
@@ -160,20 +160,20 @@ function extractDateEntriesFromDirectoryHtml(html) {
 
     const folder = clean.match(/(\d{4}-\d{2}-\d{2})$/);
     if (folder) {
-      entries.push({ date: folder[1], url: `${DATA_ROOT}/${folder[1]}/summary.csv` });
+      entries.push({ date: folder[1], url: `${dataRoot}/${folder[1]}/summary.csv` });
       continue;
     }
 
     const file = clean.match(/(\d{4}-\d{2}-\d{2})\.csv$/);
     if (file) {
-      entries.push({ date: file[1], url: `${DATA_ROOT}/${file[1]}.csv` });
+      entries.push({ date: file[1], url: `${dataRoot}/${file[1]}.csv` });
     }
   }
 
   return entries;
 }
 
-function extractDateEntriesFromSitemap(xmlText) {
+function extractDateEntriesFromSitemap(xmlText, dataRoot) {
   const parser = new DOMParser();
   const doc = parser.parseFromString(xmlText, "application/xml");
   const locs = [...doc.querySelectorAll("url > loc")].map((n) => n.textContent || "");
@@ -182,20 +182,20 @@ function extractDateEntriesFromSitemap(xmlText) {
   for (const loc of locs) {
     const folder = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\/summary\.csv$/);
     if (folder) {
-      entries.push({ date: folder[1], url: `${DATA_ROOT}/${folder[1]}/summary.csv` });
+      entries.push({ date: folder[1], url: `${dataRoot}/${folder[1]}/summary.csv` });
       continue;
     }
 
     const file = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\.csv$/);
     if (file) {
-      entries.push({ date: file[1], url: `${DATA_ROOT}/${file[1]}.csv` });
+      entries.push({ date: file[1], url: `${dataRoot}/${file[1]}.csv` });
     }
   }
 
   return entries;
 }
 
-function extractDateEntriesFromGithubContents(items) {
+function extractDateEntriesFromGithubContents(items, dataRoot) {
   if (!Array.isArray(items)) return [];
 
   return items
@@ -203,9 +203,26 @@ function extractDateEntriesFromGithubContents(items) {
       const name = asText(item?.name);
       const match = name.match(/^(\d{4}-\d{2}-\d{2})\.csv$/);
       if (!match) return null;
-      return { date: match[1], url: `${DATA_ROOT}/${match[1]}.csv` };
+      return { date: match[1], url: `${dataRoot}/${match[1]}.csv` };
     })
     .filter(Boolean);
+}
+
+async function discoverDataFilesFromIndex(dataRoot) {
+  try {
+    const resp = await fetch(`${dataRoot}/index.json`, { cache: "no-store" });
+    if (!resp.ok) return [];
+
+    const payload = await resp.json();
+    if (!Array.isArray(payload?.dates)) return [];
+
+    return payload.dates
+      .map((date) => asText(date))
+      .filter((date) => /^\d{4}-\d{2}-\d{2}$/.test(date))
+      .map((date) => ({ date, url: `${dataRoot}/${date}.csv` }));
+  } catch (_err) {
+    return [];
+  }
 }
 
 function detectGithubRepoFromLocation() {
@@ -220,7 +237,7 @@ function detectGithubRepoFromLocation() {
   return { owner, repo };
 }
 
-async function discoverDataFilesFromGithubApi() {
+async function discoverDataFilesFromGithubApi(dataRoot) {
   const repoInfo = detectGithubRepoFromLocation();
   if (!repoInfo) return [];
 
@@ -237,7 +254,7 @@ async function discoverDataFilesFromGithubApi() {
       });
       if (!resp.ok) continue;
 
-      const entries = extractDateEntriesFromGithubContents(await resp.json());
+      const entries = extractDateEntriesFromGithubContents(await resp.json(), dataRoot);
       if (entries.length > 0) return entries;
     } catch (_err) {
       // try next
@@ -248,35 +265,47 @@ async function discoverDataFilesFromGithubApi() {
 }
 
 async function discoverDataFiles() {
-  const sitemapCandidates = [`${BASE_PATH}/sitemap.xml`, "./sitemap.xml"];
+  const sitemapCandidates = [`${BASE_PATH}/sitemap.xml`, "../sitemap.xml", "./sitemap.xml"];
   for (const candidate of sitemapCandidates) {
     try {
       const resp = await fetch(candidate, { cache: "no-store" });
       if (!resp.ok) continue;
 
-      const entries = extractDateEntriesFromSitemap(await resp.text());
-      if (entries.length > 0) return entries;
+      const xmlText = await resp.text();
+      for (const dataRoot of DATA_ROOTS) {
+        const entries = extractDateEntriesFromSitemap(xmlText, dataRoot);
+        if (entries.length > 0) return entries;
+      }
     } catch (_err) {
       // try next
     }
   }
 
-  for (const candidate of [`${DATA_ROOT}/`, DATA_ROOT]) {
-    try {
-      const resp = await fetch(candidate, { cache: "no-store" });
-      if (!resp.ok) continue;
+  for (const dataRoot of DATA_ROOTS) {
+    const indexEntries = await discoverDataFilesFromIndex(dataRoot);
+    if (indexEntries.length > 0) return indexEntries;
+  }
 
-      const entries = extractDateEntriesFromDirectoryHtml(await resp.text());
-      if (entries.length > 0) return entries;
-    } catch (_err) {
-      // try next
+  for (const dataRoot of DATA_ROOTS) {
+    for (const candidate of [`${dataRoot}/`, dataRoot]) {
+      try {
+        const resp = await fetch(candidate, { cache: "no-store" });
+        if (!resp.ok) continue;
+
+        const entries = extractDateEntriesFromDirectoryHtml(await resp.text(), dataRoot);
+        if (entries.length > 0) return entries;
+      } catch (_err) {
+        // try next
+      }
     }
   }
 
-  const githubEntries = await discoverDataFilesFromGithubApi();
-  if (githubEntries.length > 0) return githubEntries;
+  for (const dataRoot of DATA_ROOTS) {
+    const githubEntries = await discoverDataFilesFromGithubApi(dataRoot);
+    if (githubEntries.length > 0) return githubEntries;
+  }
 
-  throw new Error(`Unable to discover CSV files in ${DATA_ROOT}.`);
+  throw new Error(`Unable to discover CSV files in ${DATA_ROOTS.join(", ")}.`);
 }
 
 function parseCsv(csvText) {
@@ -536,6 +565,7 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
   const valueAByKey = buildMetricMapByKey(rowsA, metric);
   const rowsBByKey = buildRowsBByKey(rowsB, metric);
   const grouped = new Map();
+  const contributorByPackage = new Map();
 
   for (const [key, rowB] of rowsBByKey.entries()) {
     const label = aggregateBy === "contributor" ? rowB.contributor : rowB.package;
@@ -545,9 +575,32 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
     if (diff <= 0) continue;
 
     grouped.set(label, (grouped.get(label) || 0) + diff);
+
+    if (aggregateBy !== "package" || !rowB.contributor || !rowB.package) continue;
+
+    const contributorTotals = contributorByPackage.get(rowB.package) || new Map();
+    contributorTotals.set(rowB.contributor, (contributorTotals.get(rowB.contributor) || 0) + diff);
+    contributorByPackage.set(rowB.package, contributorTotals);
   }
 
-  return grouped;
+  const topContributorByPackage = new Map();
+  for (const [packageName, contributorTotals] of contributorByPackage.entries()) {
+    let topName = "";
+    let topValue = 0;
+
+    for (const [name, value] of contributorTotals.entries()) {
+      if (value > topValue) {
+        topName = name;
+        topValue = value;
+      }
+    }
+
+    if (topName) {
+      topContributorByPackage.set(packageName, { name: topName, value: topValue });
+    }
+  }
+
+  return { grouped, topContributorByPackage };
 }
 
 function renderTreemap(metric, dateA, dateB, aggregateBy) {
@@ -570,7 +623,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   const rowsA = state.rowsByDate.get(dateA) || [];
   const rowsB = state.rowsByDate.get(dateB) || [];
 
-  const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
+  const { grouped, topContributorByPackage } = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
   const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
   const values = data.map((item) => item.value);
   const min = Math.min(...values);
@@ -597,7 +650,15 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   treemapChart.setOption(
     {
     tooltip: {
-      formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
+      formatter: (params) => {
+        const base = `${params.name}<br/>+${formatNumber(params.value || 0)}`;
+        if (aggregateBy !== "package") return base;
+
+        const topContributor = topContributorByPackage.get(params.name);
+        if (!topContributor) return `${base}<br/>Contributor: N/A`;
+
+        return `${base}<br/>Contributor: ${topContributor.name} (+${formatNumber(topContributor.value)} lines)`;
+      },
     },
     series: [
       {
