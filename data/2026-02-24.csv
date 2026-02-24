@@ -31,6 +31,7 @@ codex_workflow,bobzhang/codex_workflow,0.1.0,2436,4
 colors,bobzhang/colors,0.8.0,1678,2
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
+hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
 lexer,bobzhang/lexer,0.1.2,599,1
@@ -90,6 +91,7 @@ small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
 submodule-test,tonyfettes/submodule-test,0.1.1,27,2
+telegram-bot,tonyfettes/telegram-bot,0.1.0,28891,1
 tiktoken,tonyfettes/tiktoken,0.2.1,100493,2
 toml_parser,tonyfettes/toml_parser,0.1.0,1195,2
 torch,tonyfettes/torch,0.2.8,9999,20
