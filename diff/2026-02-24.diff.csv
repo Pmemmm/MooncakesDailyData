@@ -5,7 +5,9 @@ tonyfettes/telegram-bot,新增,28891,1,0,0,28891,1
 Milky2018/moon_elk,有变化,918,1,261416,37,262334,38
 Milky2018/moon_rodio,有变化,5431,53,16574,3,22005,56
 Milky2018/moon_skrifa,有变化,343,0,46194,3,46537,3
+Milky2018/moon_swash,有变化,311,0,67270,8,67581,8
 moonrockz/cucumber-expressions,有变化,733,0,2475,1,3208,1
+oboard/morm,有变化,428,0,3129,6,3557,6
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -443,7 +445,6 @@ Milky2018/moon_cosmic,无变化,0,0,25532,2,25532,2
 Milky2018/moon_cpal,无变化,0,0,17604,18,17604,18
 Milky2018/moon_dagre,无变化,0,0,10423,1,10423,1
 Milky2018/moon_rapier,无变化,0,0,102662,12,102662,12
-Milky2018/moon_swash,无变化,0,0,67270,8,67270,8
 Milky2018/moon_taffy,无变化,0,0,57409,2,57409,2
 Milky2018/moon_yazi,无变化,0,0,3593,1,3593,1
 Milky2018/moon_zeno,无变化,0,0,6338,1,6338,1
@@ -618,7 +619,6 @@ oboard/mocket,无变化,0,0,5442,11,5442,11
 oboard/moonbit-eval,无变化,0,0,53193,5,53193,5
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
-oboard/morm,无变化,0,0,3129,6,3129,6
 oboard/numoon,无变化,0,0,1332,2,1332,2
 oboard/readline,无变化,0,0,342,2,342,2
 oboard/redis,无变化,0,0,5222,1,5222,1
