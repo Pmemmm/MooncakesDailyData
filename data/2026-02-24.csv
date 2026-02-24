@@ -227,7 +227,7 @@ caterfoil,tiye/caterfoil,0.0.2,2580,2
 cirru-edn,tiye/cirru-edn,0.2.3,1131,2
 cirru-parser,tiye/cirru-parser,0.2.2,1247,2
 dom-ffi,tiye/dom-ffi,0.2.3,2395,2
-genai,tiye/genai,0.0.1,1285,2
+genai,tiye/genai,0.0.2,2161,2
 lexicon-fractional-index,tiye/lexicon-fractional-index,0.0.4,957,2
 preact,tiye/preact,0.0.1-a3,3007,2
 quaternion,tiye/quaternion,0.1.2,1076,1
@@ -354,7 +354,7 @@ mocket,oboard/mocket,0.6.7,5442,11
 moonbit-eval,oboard/moonbit-eval,0.8.17,53193,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
-morm,oboard/morm,0.2.2,3557,6
+morm,oboard/morm,0.2.4,3577,6
 numoon,oboard/numoon,0.4.1,1332,2
 readline,oboard/readline,0.1.6,342,2
 redis,oboard/redis,0.1.3,5222,1
@@ -720,7 +720,7 @@ moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
 event-graph-walker,dowdiness/event-graph-walker,0.1.0,10354,7
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
-incr,dowdiness/incr,0.3.0,2394,1
+incr,dowdiness/incr,0.3.2,5757,5
 js_engine,dowdiness/js_engine,0.1.0,27583,8
 margs,dowdiness/margs,0.1.2,4638,2
 cstdio-ffi,Bemly/cstdio-ffi,0.0.0,720,2
