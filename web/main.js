@@ -536,6 +536,7 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
   const valueAByKey = buildMetricMapByKey(rowsA, metric);
   const rowsBByKey = buildRowsBByKey(rowsB, metric);
   const grouped = new Map();
+  const contributorByPackage = new Map();
 
   for (const [key, rowB] of rowsBByKey.entries()) {
     const label = aggregateBy === "contributor" ? rowB.contributor : rowB.package;
@@ -545,9 +546,32 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
     if (diff <= 0) continue;
 
     grouped.set(label, (grouped.get(label) || 0) + diff);
+
+    if (aggregateBy !== "package" || !rowB.contributor || !rowB.package) continue;
+
+    const contributorTotals = contributorByPackage.get(rowB.package) || new Map();
+    contributorTotals.set(rowB.contributor, (contributorTotals.get(rowB.contributor) || 0) + diff);
+    contributorByPackage.set(rowB.package, contributorTotals);
   }
 
-  return grouped;
+  const topContributorByPackage = new Map();
+  for (const [packageName, contributorTotals] of contributorByPackage.entries()) {
+    let topName = "";
+    let topValue = 0;
+
+    for (const [name, value] of contributorTotals.entries()) {
+      if (value > topValue) {
+        topName = name;
+        topValue = value;
+      }
+    }
+
+    if (topName) {
+      topContributorByPackage.set(packageName, { name: topName, value: topValue });
+    }
+  }
+
+  return { grouped, topContributorByPackage };
 }
 
 function renderTreemap(metric, dateA, dateB, aggregateBy) {
@@ -570,7 +594,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   const rowsA = state.rowsByDate.get(dateA) || [];
   const rowsB = state.rowsByDate.get(dateB) || [];
 
-  const grouped = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
+  const { grouped, topContributorByPackage } = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
   const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
   const values = data.map((item) => item.value);
   const min = Math.min(...values);
@@ -597,7 +621,15 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   treemapChart.setOption(
     {
     tooltip: {
-      formatter: (params) => `${params.name}<br/>+${formatNumber(params.value || 0)}`,
+      formatter: (params) => {
+        const base = `${params.name}<br/>+${formatNumber(params.value || 0)}`;
+        if (aggregateBy !== "package") return base;
+
+        const topContributor = topContributorByPackage.get(params.name);
+        if (!topContributor) return `${base}<br/>Contributor: N/A`;
+
+        return `${base}<br/>Contributor: ${topContributor.name} (+${formatNumber(topContributor.value)} lines)`;
+      },
     },
     series: [
       {
