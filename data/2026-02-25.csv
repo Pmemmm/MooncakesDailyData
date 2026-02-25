@@ -690,7 +690,7 @@ html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.1.2,33591,49
 moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
-moon_cosmic,Milky2018/moon_cosmic,0.1.4,28368,2
+moon_cosmic,Milky2018/moon_cosmic,0.1.5,30029,2
 moon_cpal,Milky2018/moon_cpal,0.11.3,17604,18
 moon_dagre,Milky2018/moon_dagre,0.2.0,10423,1
 moon_elk,Milky2018/moon_elk,0.1.3,262095,39
@@ -893,9 +893,10 @@ moonbitap,fuwasegu/moonbitap,0.1.0,333,1
 cucumber-expressions,moonrockz/cucumber-expressions,0.3.2,3208,1
 cucumber-messages,moonrockz/cucumber-messages,0.2.0,3958,1
 directories,moonrockz/directories,0.1.0,743,1
+expect,moonrockz/expect,0.1.0,394,1
 gherkin,moonrockz/gherkin,0.3.0,11821,9
 mediator,moonrockz/mediator,0.1.0,951,6
-moonspec,moonrockz/moonspec,0.4.0,13492,13
+moonspec,moonrockz/moonspec,0.5.0,28202,14
 grpc,naokikawamoto16/grpc,0.1.0,3792,5
 turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.2,1849,3
