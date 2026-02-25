@@ -171,7 +171,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.16.6,28679,42
-core,moonbitlang/core,0.1.20260213+3382e0600,139497,66
+core,moonbitlang/core,0.1.20260225+8cca5f22a,139497,66
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.2,4451,6
@@ -690,7 +690,7 @@ html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.1.2,33591,49
 moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
-moon_cosmic,Milky2018/moon_cosmic,0.1.1,25532,2
+moon_cosmic,Milky2018/moon_cosmic,0.1.4,28368,2
 moon_cpal,Milky2018/moon_cpal,0.11.3,17604,18
 moon_dagre,Milky2018/moon_dagre,0.2.0,10423,1
 moon_elk,Milky2018/moon_elk,0.1.2,262334,38
@@ -895,7 +895,7 @@ cucumber-messages,moonrockz/cucumber-messages,0.2.0,3958,1
 directories,moonrockz/directories,0.1.0,743,1
 gherkin,moonrockz/gherkin,0.3.0,11821,9
 mediator,moonrockz/mediator,0.1.0,951,6
-moonspec,moonrockz/moonspec,0.3.1,13092,13
+moonspec,moonrockz/moonspec,0.3.2,13076,13
 grpc,naokikawamoto16/grpc,0.1.0,3792,5
 turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.2,1849,3

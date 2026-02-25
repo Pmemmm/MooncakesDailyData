@@ -1,7 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 moonrockz/directories,新增,743,1,0,0,743,1
+Milky2018/moon_cosmic,有变化,2836,0,25532,2,28368,2
 Milky2018/moon_skrifa,有变化,-18,0,46537,3,46519,3
-moonrockz/moonspec,有变化,5598,0,7494,13,13092,13
+moonrockz/moonspec,有变化,5582,0,7494,13,13076,13
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -436,7 +437,6 @@ Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,33591,49,33591,49
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
-Milky2018/moon_cosmic,无变化,0,0,25532,2,25532,2
 Milky2018/moon_cpal,无变化,0,0,17604,18,17604,18
 Milky2018/moon_dagre,无变化,0,0,10423,1,10423,1
 Milky2018/moon_elk,无变化,0,0,262334,38,262334,38
