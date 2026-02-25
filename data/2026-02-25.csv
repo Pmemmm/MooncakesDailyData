@@ -698,7 +698,7 @@ moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
 moon_rodio,Milky2018/moon_rodio,0.1.1,22005,56
-moon_skrifa,Milky2018/moon_skrifa,0.1.4,46537,3
+moon_skrifa,Milky2018/moon_skrifa,0.1.5,46519,3
 moon_swash,Milky2018/moon_swash,0.1.3,67581,8
 moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
 moon_yazi,Milky2018/moon_yazi,0.1.0,3593,1
@@ -895,7 +895,7 @@ cucumber-messages,moonrockz/cucumber-messages,0.2.0,3958,1
 directories,moonrockz/directories,0.1.0,743,1
 gherkin,moonrockz/gherkin,0.3.0,11821,9
 mediator,moonrockz/mediator,0.1.0,951,6
-moonspec,moonrockz/moonspec,0.2.0,7494,13
+moonspec,moonrockz/moonspec,0.3.1,13092,13
 grpc,naokikawamoto16/grpc,0.1.0,3792,5
 turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.2,1849,3
