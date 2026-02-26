@@ -693,7 +693,7 @@ moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.5,30029,2
 moon_cpal,Milky2018/moon_cpal,0.11.3,17604,18
 moon_dagre,Milky2018/moon_dagre,0.2.0,10423,1
-moon_elk,Milky2018/moon_elk,0.1.4,263478,41
+moon_elk,Milky2018/moon_elk,0.1.5,263709,41
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.5,102662,12
@@ -833,6 +833,7 @@ moongrep,moonbit-community/moongrep,0.1.2,638,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 piediff,moonbit-community/piediff,0.0.8,2344,5
 rabbita,moonbit-community/rabbita,0.11.4,15576,13
+sqlite3,moonbit-community/sqlite3,0.1.2,515,1
 yaml,moonbit-community/yaml,0.0.3,5863,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
