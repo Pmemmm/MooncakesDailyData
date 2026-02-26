@@ -875,6 +875,7 @@ jww_parser,horideicom/jww_parser,0.202602.0,2497,3
 example,liuxinbo1984/example,0.1.8,94,2
 srt,angela/srt,0.1.0,236,3
 vcf,angela/vcf,0.0.5,343,2
+abort_hook,sennenki/abort_hook,0.1.0,53,2
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
