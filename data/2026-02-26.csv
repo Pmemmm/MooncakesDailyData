@@ -87,6 +87,7 @@ os,tonyfettes/os,0.1.0,395,2
 path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.4,843,1
 platform,tonyfettes/platform,0.1.0,56,1
+raylib,tonyfettes/raylib,0.1.1,320549,311
 small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
@@ -209,7 +210,7 @@ lazy-list,CAIMEOX/lazy-list,0.1.2,597,1
 list,CAIMEOX/list,0.1.0,740,2
 midi,CAIMEOX/midi,0.1.0,4090,2
 moon_egg,CAIMEOX/moon_egg,0.1.0,4168,1
-moon_floating,CAIMEOX/moon_floating,0.2.0,14770,8
+moon_floating,CAIMEOX/moon_floating,0.3.0,24829,8
 qc_pyext,CAIMEOX/qc_pyext,0.1.1,598,1
 quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1
@@ -351,7 +352,7 @@ base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.4.3,948,2
 mocket,oboard/mocket,0.6.7,5442,11
-moonbit-eval,oboard/moonbit-eval,0.8.17,53193,5
+moonbit-eval,oboard/moonbit-eval,0.8.19,54026,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
 morm,oboard/morm,0.2.4,3577,6
