@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+moonbit-community/jsondiff,有变化,162,0,1334,1,1496,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -551,7 +552,6 @@ moonbit-community/fuzzy_match,无变化,0,0,571,1,571,1
 moonbit-community/ini,无变化,0,0,1794,1,1794,1
 moonbit-community/jade-ui,无变化,0,0,9182,4,9182,4
 moonbit-community/js-ffi,无变化,0,0,1304,1,1304,1
-moonbit-community/jsondiff,无变化,0,0,1334,1,1334,1
 moonbit-community/moongrep,无变化,0,0,638,2,638,2
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/piediff,无变化,0,0,2344,5,2344,5

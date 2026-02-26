@@ -181,7 +181,7 @@ lex,moonbitlang/lex,0.3.9,8652,20
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
-parser,moonbitlang/parser,0.1.16,149607,16
+parser,moonbitlang/parser,0.1.17,149607,16
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
 quickcheck,moonbitlang/quickcheck,0.9.10,3712,7
 regexp,moonbitlang/regexp,0.3.5,12052,5
@@ -828,7 +828,7 @@ fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1
 ini,moonbit-community/ini,0.2.2,1794,1
 jade-ui,moonbit-community/jade-ui,0.1.0,9182,4
 js-ffi,moonbit-community/js-ffi,0.4.2,1304,1
-jsondiff,moonbit-community/jsondiff,0.1.0,1334,1
+jsondiff,moonbit-community/jsondiff,0.1.1,1496,1
 moongrep,moonbit-community/moongrep,0.1.2,638,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 piediff,moonbit-community/piediff,0.0.8,2344,5
