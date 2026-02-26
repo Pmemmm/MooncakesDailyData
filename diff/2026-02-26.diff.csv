@@ -4,6 +4,7 @@ sennenki/abort_hook,新增,53,2,0,0,53,2
 tonyfettes/raylib,新增,320549,311,0,0,320549,311
 CAIMEOX/moon_floating,有变化,10059,0,14770,8,24829,8
 Milky2018/moon_elk,有变化,1614,2,262095,39,263709,41
+mizchi/cloudflare,有变化,2888,5,6210,3,9098,8
 moonbit-community/jsondiff,有变化,162,0,1334,1,1496,1
 oboard/moonbit-eval,有变化,833,0,53193,5,54026,5
 typinglabs/romaji_typing,有变化,109,0,1849,3,1958,3
@@ -474,7 +475,6 @@ mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,16031,1,16031,1
 mizchi/cbor,无变化,0,0,1323,2,1323,2
-mizchi/cloudflare,无变化,0,0,6210,3,6210,3
 mizchi/codegen,无变化,0,0,7115,5,7115,5
 mizchi/converge,无变化,0,0,8050,14,8050,14
 mizchi/crater,无变化,0,0,116962,42,116962,42
