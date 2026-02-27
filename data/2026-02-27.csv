@@ -150,6 +150,7 @@ jmop,Yoorkin/jmop,0.1.1,2187,2
 logr_moonbit,Yoorkin/logr_moonbit,0.1.0,2508,1
 prettyprinter,Yoorkin/prettyprinter,0.4.10,1655,2
 rabbit-tea,Yoorkin/rabbit-tea,0.10.11,21568,18
+shiki,Yoorkin/shiki,0.1.0,138,1
 splice,Yoorkin/splice,0.1.2,246,1
 stack,Yoorkin/stack,0.1.4,75,1
 trace,Yoorkin/trace,0.1.0,26,1
@@ -834,7 +835,7 @@ jsondiff,moonbit-community/jsondiff,0.1.1,1496,1
 moongrep,moonbit-community/moongrep,0.1.2,638,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 piediff,moonbit-community/piediff,0.0.8,2344,5
-rabbita,moonbit-community/rabbita,0.11.4,15576,13
+rabbita,moonbit-community/rabbita,0.11.5,18643,14
 sqlite3,moonbit-community/sqlite3,0.1.2,515,1
 yaml,moonbit-community/yaml,0.0.3,5863,1
 csv_parser,maria/csv_parser,0.1.0,929,2
