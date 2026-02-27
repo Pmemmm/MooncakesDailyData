@@ -3,6 +3,7 @@ ivgtr/moonzip,新增,12712,13,0,0,12712,13
 mizchi/threads,新增,6944,12,0,0,6944,12
 Yoorkin/shiki,新增,138,1,0,0,138,1
 Milky2018/moon_elk,有变化,6531,-2,263709,41,270240,39
+mizchi/bit,有变化,2681,0,135175,38,137856,38
 moonbit-community/rabbita,有变化,3067,1,15576,13,18643,14
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -467,7 +468,6 @@ MINGtoMING/simdstring,无变化,0,0,289,3,289,3
 misika727/sqrt,无变化,0,0,63,2,63,2
 mizchi/ast_printer,无变化,0,0,2556,1,2556,1
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,135175,38,135175,38
 mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,16031,1,16031,1

@@ -267,7 +267,7 @@ aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.24.2,135175,38
+bit,mizchi/bit,0.25.0,137856,38
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.1.1,16031,1
