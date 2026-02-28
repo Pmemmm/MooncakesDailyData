@@ -87,7 +87,7 @@ os,tonyfettes/os,0.1.0,395,2
 path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.4,843,1
 platform,tonyfettes/platform,0.1.0,56,1
-raylib,tonyfettes/raylib,0.1.1,320549,311
+raylib,tonyfettes/raylib,0.2.2,19329,4
 small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
@@ -217,7 +217,7 @@ quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1
 state,CAIMEOX/state,0.1.1,335,1
 svg,CAIMEOX/svg,0.1.2,1497,1
-symbit,CAIMEOX/symbit,0.1.6,100877,53
+symbit,CAIMEOX/symbit,0.2.0,117573,57
 t,CAIMEOX/t,0.1.0,215,1
 vlq,CAIMEOX/vlq,0.1.0,241,1
 zipper,CAIMEOX/zipper,0.1.0,257,1
@@ -357,7 +357,7 @@ mocket,oboard/mocket,0.6.7,5442,11
 moonbit-eval,oboard/moonbit-eval,0.8.19,54026,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
-morm,oboard/morm,0.2.4,3577,6
+morm,oboard/morm,0.2.7,17230,11
 numoon,oboard/numoon,0.4.1,1332,2
 readline,oboard/readline,0.1.6,342,2
 redis,oboard/redis,0.1.3,5222,1
@@ -707,10 +707,12 @@ moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
 moon_yazi,Milky2018/moon_yazi,0.1.0,3593,1
 moon_zeno,Milky2018/moon_zeno,0.1.0,6338,1
 options,Milky2018/options,0.1.2,328,1
+pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.19.4,6474,17
-selene-canvas,Milky2018/selene-canvas,0.19.4,597,1
+selene,Milky2018/selene,0.20.1,6738,18
+selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
+selene_raylib,Milky2018/selene_raylib,0.20.1,829,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.1,211030,43
@@ -816,6 +818,7 @@ style_print,xingwangzhe/style_print,0.1.7,651,1
 dom_api,fgeygfe/dom_api,0.1.0,354,1
 ssmp,nodex/ssmp,0.1.1,109,1
 reactive,himeno/reactive,0.1.2,569,1
+moonbit_zstd,Ronlands/moonbit_zstd,0.1.1,13544,10
 ttf_parser_moonbit,Ronlands/ttf_parser_moonbit,0.1.1,1918,8
 unicode_xid,KeqingMoe/unicode_xid,0.0.1,2391,2
 hello,wangweigang/hello,0.1.0,276,3
