@@ -1,0 +1,79 @@
+name: Daily MoonBit Snapshot
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "7 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  snapshot-daily:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Create daily snapshot from realtime latest
+        run: |
+          set -euo pipefail
+          TODAY=$(date +%F)
+          SRC="data_realtime/latest.csv"
+          DEST="data_daily/${TODAY}.csv"
+
+          if [ ! -f "$SRC" ]; then
+            echo "Missing source file: $SRC"
+            exit 1
+          fi
+
+          mkdir -p data_daily
+
+          if [ ! -f "$DEST" ]; then
+            cp "$SRC" "$DEST"
+            echo "Created daily snapshot: $DEST"
+          else
+            echo "Daily snapshot already exists: $DEST"
+          fi
+
+          python - <<'PY'
+import json
+from pathlib import Path
+
+folder = Path("data_daily")
+folder.mkdir(exist_ok=True)
+
+files = sorted(
+    p.name
+    for p in folder.glob("*.csv")
+    if len(p.stem) == 10
+)
+
+latest = files[-1] if files else ""
+manifest = {
+    "latest": latest,
+    "files": files,
+}
+
+(folder / "manifest.json").write_text(
+    json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+    encoding="utf-8",
+)
+PY
+
+      - name: Commit and push daily snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data_daily
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          DATE_BJ=$(date +%F)
+          git commit -m "Daily MoonBit Snapshot for ${DATE_BJ}"
+          git push
