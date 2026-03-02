@@ -3,18 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mooncakes Daily Data Viewer</title>
-    <link rel="stylesheet" href="./style.css" />
-
-    <link rel="icon" href="./dailydata.svg" type="image/svg+xml" />
+    <title>Mooncakes Daily Data Viewer (Daily Snapshot)</title>
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="icon" href="../dailydata.svg" type="image/svg+xml" />
   </head>
   <body>
     <main class="container">
-      <h1>Mooncakes Daily Data</h1>
+      <h1>Mooncakes Daily Snapshot</h1>
 
       <nav class="view-switch" aria-label="Data view switcher">
-        <a class="view-switch-link active" href="./">Realtime</a>
-        <a class="view-switch-link" href="./daily/">Daily Snapshot</a>
+        <a class="view-switch-link" href="../">Realtime</a>
+        <a class="view-switch-link active" href="./">Daily Snapshot</a>
       </nav>
 
       <section class="card">
@@ -77,8 +76,12 @@
       </section>
     </main>
 
+    <script>
+      window.DATA_DIR = "../data_daily";
+      window.DATA_MANIFEST_PATH = "../data_daily/manifest.json";
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-    <script src="./main.js"></script>
+    <script src="../main.js"></script>
   </body>
 </html>
