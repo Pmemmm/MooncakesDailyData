@@ -206,3 +206,32 @@ select:focus-visible {
   color: #dc2626;
   font-weight: 600;
 }
+
+
+.view-switch {
+  display: flex;
+  gap: 10px;
+  margin: 0 0 var(--space-lg);
+}
+
+.view-switch-link {
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  background: var(--bg-card);
+  color: var(--text-main);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.view-switch-link:hover {
+  border-color: var(--trend-color);
+}
+
+.view-switch-link.active {
+  background: var(--trend-color);
+  border-color: var(--trend-color);
+  color: #fff;
+}
