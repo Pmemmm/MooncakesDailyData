@@ -334,6 +334,7 @@ syntree,mizchi/syntree,0.2.3,29888,34
 tempfile,mizchi/tempfile,0.1.2,496,2
 threads,mizchi/threads,0.1.2,6944,12
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
+tornado,mizchi/tornado,0.5.0,9070,12
 ts,mizchi/ts,0.1.2,72195,8
 tui,mizchi/tui,0.8.0,36737,34
 wasi,mizchi/wasi,0.1.2,3654,28
