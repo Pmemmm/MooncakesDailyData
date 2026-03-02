@@ -29,6 +29,7 @@ def write_index_json(data_dir: Path) -> None:
 
 today = date.today().isoformat()
 out = DATA_DIR / f"{today}.csv"
+latest = DATA_DIR / "latest.csv"
 
 resp = requests.get(URL, timeout=30)
 resp.raise_for_status()
@@ -41,6 +42,9 @@ csv_text = csv_bytes.decode("utf-8-sig")
 csv_text = csv_text.replace("\r\n", "\n").replace("\r", "\n")
 
 with out.open("w", encoding="utf-8", newline="\n") as f:
+    f.write(csv_text)
+
+with latest.open("w", encoding="utf-8", newline="\n") as f:
     f.write(csv_text)
 
 write_index_json(DATA_DIR)
