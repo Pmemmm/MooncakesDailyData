@@ -1,34 +1,39 @@
-import requests
+import json
 from datetime import date
-from pathlib import Path
 from io import BytesIO
+from pathlib import Path
 import zipfile
+
+import requests
 
 URL = "https://mooncakes.io/api/v0/modules/statistics?raw=true"
 
-DATA_DIR = Path("data")
-DATA_DIR.mkdir(exist_ok=True)
+REALTIME_DIR = Path("data_realtime")
+REALTIME_DIR.mkdir(exist_ok=True)
 
 
-def write_index_json(data_dir: Path) -> None:
-    dates = sorted(
-        p.stem
+def write_manifest_json(data_dir: Path, latest_file: str) -> None:
+    files = sorted(
+        p.name
         for p in data_dir.glob("*.csv")
-        if len(p.stem) == 10
+        if p.name != "latest.csv" and len(p.stem) == 10
     )
 
-    index_path = data_dir / "index.json"
-    lines = ["{", '  "dates": [']
-    for idx, day in enumerate(dates):
-        suffix = "," if idx < len(dates) - 1 else ""
-        lines.append(f'    "{day}"{suffix}')
-    lines.append("  ]")
-    lines.append("}")
-    index_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    manifest = {
+        "latest": latest_file,
+        "files": files,
+    }
+
+    manifest_path = data_dir / "manifest.json"
+    manifest_path.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 
 today = date.today().isoformat()
-out = DATA_DIR / f"{today}.csv"
+daily_name = f"{today}.csv"
+latest_name = "latest.csv"
 
 resp = requests.get(URL, timeout=30)
 resp.raise_for_status()
@@ -40,7 +45,7 @@ with zipfile.ZipFile(BytesIO(resp.content)) as zf:
 csv_text = csv_bytes.decode("utf-8-sig")
 csv_text = csv_text.replace("\r\n", "\n").replace("\r", "\n")
 
-with out.open("w", encoding="utf-8", newline="\n") as f:
-    f.write(csv_text)
+(REALTIME_DIR / latest_name).write_text(csv_text, encoding="utf-8", newline="\n")
+(REALTIME_DIR / daily_name).write_text(csv_text, encoding="utf-8", newline="\n")
 
-write_index_json(DATA_DIR)
+write_manifest_json(REALTIME_DIR, daily_name)
