@@ -13,7 +13,7 @@ function getBasePath() {
 }
 
 const BASE_PATH = getBasePath();
-const DATA_MANIFEST_URL = window.DATA_MANIFEST_PATH || `${BASE_PATH}/data_realtime/manifest.json`;
+const DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -155,26 +155,163 @@ function normalizeDateText(raw) {
   return String(raw).replace(/\/$/, "").trim();
 }
 
-async function discoverDataFiles() {
-  try {
-    const resp = await fetch(DATA_MANIFEST_URL, { cache: "no-store" });
-    if (!resp.ok) {
-      throw new Error(`Failed to load manifest: ${DATA_MANIFEST_URL}`);
+function extractDateEntriesFromDirectoryHtml(html, dataRoot) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, "text/html");
+  const links = [...doc.querySelectorAll("a")].map((a) => a.getAttribute("href") || "");
+
+  const entries = [];
+  for (const href of links) {
+    const clean = normalizeDateText(href);
+
+    const folder = clean.match(/(\d{4}-\d{2}-\d{2})$/);
+    if (folder) {
+      entries.push({ date: folder[1], url: `${dataRoot}/${folder[1]}/summary.csv` });
+      continue;
     }
 
-    const payload = await resp.json();
-    const files = Array.isArray(payload?.files) ? payload.files : [];
-
-    return files
-      .map((file) => asText(file))
-      .filter((file) => /^\d{4}-\d{2}-\d{2}\.csv$/.test(file))
-      .map((file) => {
-        const base = DATA_MANIFEST_URL.slice(0, DATA_MANIFEST_URL.lastIndexOf("/"));
-        return { date: file.replace(/\.csv$/, ""), url: `${base}/${file}` };
-      });
-  } catch (err) {
-    throw new Error(err.message || "Failed to discover CSV files from manifest.");
+    const file = clean.match(/(\d{4}-\d{2}-\d{2})\.csv$/);
+    if (file) {
+      entries.push({ date: file[1], url: `${dataRoot}/${file[1]}.csv` });
+    }
   }
+
+  return entries;
+}
+
+function extractDateEntriesFromSitemap(xmlText, dataRoot) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlText, "application/xml");
+  const locs = [...doc.querySelectorAll("url > loc")].map((n) => n.textContent || "");
+
+  const entries = [];
+  for (const loc of locs) {
+    const folder = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\/summary\.csv$/);
+    if (folder) {
+      entries.push({ date: folder[1], url: `${dataRoot}/${folder[1]}/summary.csv` });
+      continue;
+    }
+
+    const file = loc.match(/\/data\/(\d{4}-\d{2}-\d{2})\.csv$/);
+    if (file) {
+      entries.push({ date: file[1], url: `${dataRoot}/${file[1]}.csv` });
+    }
+  }
+
+  return entries;
+}
+
+function extractDateEntriesFromGithubContents(items, dataRoot) {
+  if (!Array.isArray(items)) return [];
+
+  return items
+    .map((item) => {
+      const name = asText(item?.name);
+      const match = name.match(/^(\d{4}-\d{2}-\d{2})\.csv$/);
+      if (!match) return null;
+      return { date: match[1], url: `${dataRoot}/${match[1]}.csv` };
+    })
+    .filter(Boolean);
+}
+
+async function discoverDataFilesFromIndex(dataRoot) {
+  try {
+    const resp = await fetch(`${dataRoot}/index.json`, { cache: "no-store" });
+    if (!resp.ok) return [];
+
+    const payload = await resp.json();
+    if (!Array.isArray(payload?.dates)) return [];
+
+    return payload.dates
+      .map((date) => asText(date))
+      .filter((date) => /^\d{4}-\d{2}-\d{2}$/.test(date))
+      .map((date) => ({ date, url: `${dataRoot}/${date}.csv` }));
+  } catch (_err) {
+    return [];
+  }
+}
+
+function detectGithubRepoFromLocation() {
+  const host = window.location.hostname || "";
+  if (!host.endsWith("github.io")) return null;
+
+  const owner = host.split(".")[0];
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+  const repo = pathParts[0] || `${owner}.github.io`;
+
+  if (!owner || !repo) return null;
+  return { owner, repo };
+}
+
+async function discoverDataFilesFromGithubApi(dataRoot) {
+  const repoInfo = detectGithubRepoFromLocation();
+  if (!repoInfo) return [];
+
+  const { owner, repo } = repoInfo;
+  const candidateRefs = ["HEAD", "main", "master"];
+
+  for (const ref of candidateRefs) {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/data?ref=${encodeURIComponent(ref)}`;
+
+    try {
+      const resp = await fetch(url, {
+        cache: "no-store",
+        headers: { Accept: "application/vnd.github+json" },
+      });
+      if (!resp.ok) continue;
+
+      const entries = extractDateEntriesFromGithubContents(await resp.json(), dataRoot);
+      if (entries.length > 0) return entries;
+    } catch (_err) {
+      // try next
+    }
+  }
+
+  return [];
+}
+
+async function discoverDataFiles() {
+  const sitemapCandidates = [`${BASE_PATH}/sitemap.xml`, "../sitemap.xml", "./sitemap.xml"];
+  for (const candidate of sitemapCandidates) {
+    try {
+      const resp = await fetch(candidate, { cache: "no-store" });
+      if (!resp.ok) continue;
+
+      const xmlText = await resp.text();
+      for (const dataRoot of DATA_ROOTS) {
+        const entries = extractDateEntriesFromSitemap(xmlText, dataRoot);
+        if (entries.length > 0) return entries;
+      }
+    } catch (_err) {
+      // try next
+    }
+  }
+
+  for (const dataRoot of DATA_ROOTS) {
+    const indexEntries = await discoverDataFilesFromIndex(dataRoot);
+    if (indexEntries.length > 0) return indexEntries;
+  }
+
+  for (const dataRoot of DATA_ROOTS) {
+    for (const candidate of [`${dataRoot}/`, dataRoot]) {
+      try {
+        const resp = await fetch(candidate, { cache: "no-store" });
+        if (!resp.ok) continue;
+
+        const entries = extractDateEntriesFromDirectoryHtml(await resp.text(), dataRoot);
+        if (entries.length > 0) return entries;
+      } catch (_err) {
+        // try next
+      }
+    }
+  }
+
+  for (const dataRoot of DATA_ROOTS) {
+    const githubEntries = await discoverDataFilesFromGithubApi(dataRoot);
+    if (githubEntries.length > 0) return githubEntries;
+  }
+
+  throw new Error(`Unable to discover CSV files in ${DATA_ROOTS.join(", ")}.`);
 }
 
 function parseCsv(csvText) {
