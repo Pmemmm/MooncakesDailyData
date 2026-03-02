@@ -43,6 +43,12 @@ const TREEMAP_COLOR_SCALE = {
   mid: "#52b788",
   end: "#0f4e6b",
 };
+const TREEMAP_NEGATIVE_COLOR_SCALE = {
+  start: "#fde2e4",
+  mid: "#f08080",
+  end: "#9d0208",
+};
+const TREEMAP_ZERO_COLOR = "#9ca3af";
 
 window.addEventListener("resize", () => {
   lineChart.resize();
@@ -561,7 +567,8 @@ function buildRowsBByKey(rows, metric) {
   return map;
 }
 
-function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
+// CHANGED: include both positive and negative deltas for treemap aggregation.
+function computeDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
   const valueAByKey = buildMetricMapByKey(rowsA, metric);
   const rowsBByKey = buildRowsBByKey(rowsB, metric);
   const grouped = new Map();
@@ -572,7 +579,7 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
     if (!label) continue;
 
     const diff = rowB.metricValue - (valueAByKey.get(key) || 0);
-    if (diff <= 0) continue;
+    if (diff === 0) continue;
 
     grouped.set(label, (grouped.get(label) || 0) + diff);
 
@@ -589,7 +596,7 @@ function computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy) {
     let topValue = 0;
 
     for (const [name, value] of contributorTotals.entries()) {
-      if (value > topValue) {
+      if (Math.abs(value) > Math.abs(topValue)) {
         topName = name;
         topValue = value;
       }
@@ -616,22 +623,34 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
     treemapChart.setOption({
       series: [{ type: "treemap", data: [] }],
     });
-    setStatus("No positive additions between dates (Date A must be earlier than Date B).");
+    setStatus("No diff data between dates (Date A must be earlier than Date B).");
     return;
   }
 
   const rowsA = state.rowsByDate.get(dateA) || [];
   const rowsB = state.rowsByDate.get(dateB) || [];
 
-  const { grouped, topContributorByPackage } = computePositiveDiffAggregation(rowsA, rowsB, metric, aggregateBy);
-  const data = [...grouped.entries()].map(([name, value]) => ({ name, value }));
+  const { grouped, topContributorByPackage } = computeDiffAggregation(rowsA, rowsB, metric, aggregateBy);
+  // CHANGED: ECharts treemap value must be non-negative; keep signed delta in a dedicated field.
+  const data = [...grouped.entries()].map(([name, delta]) => ({
+    name,
+    delta,
+    value: Math.abs(delta),
+  }));
   const values = data.map((item) => item.value);
   const min = Math.min(...values);
   const max = Math.max(...values);
 
   const styledData = data.map((item) => {
     const normalized = (item.value - min) / ((max - min) || 1);
-    const color = buildTreemapColor(item.value, min, max);
+    // CHANGED: color by delta sign (positive vs negative) with separate palettes.
+    const color = item.delta > 0
+      ? buildTreemapColor(item.value, min, max)
+      : item.delta < 0
+        ? (normalized < 0.5
+          ? interpolateColor(TREEMAP_NEGATIVE_COLOR_SCALE.start, TREEMAP_NEGATIVE_COLOR_SCALE.mid, normalized * 2)
+          : interpolateColor(TREEMAP_NEGATIVE_COLOR_SCALE.mid, TREEMAP_NEGATIVE_COLOR_SCALE.end, (normalized - 0.5) * 2))
+        : TREEMAP_ZERO_COLOR;
     const textColor = getTreemapLabelColor(normalized);
 
     return {
@@ -642,7 +661,7 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
   });
 
   if (data.length === 0) {
-    setStatus("No positive additions between dates.");
+    setStatus("No non-zero diff items between dates.");
   } else {
     setStatus("");
   }
@@ -651,13 +670,16 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
     {
     tooltip: {
       formatter: (params) => {
-        const base = `${params.name}<br/>+${formatNumber(params.value || 0)}`;
+        const delta = params.data?.delta || 0;
+        const sign = delta > 0 ? "+" : delta < 0 ? "-" : "";
+        const base = `${params.name}<br/>Δ ${sign}${formatNumber(Math.abs(delta))}`;
         if (aggregateBy !== "package") return base;
 
         const topContributor = topContributorByPackage.get(params.name);
         if (!topContributor) return `${base}<br/>Contributor: N/A`;
 
-        return `${base}<br/>Contributor: ${topContributor.name} (+${formatNumber(topContributor.value)} lines)`;
+        const contributorSign = topContributor.value > 0 ? "+" : topContributor.value < 0 ? "-" : "";
+        return `${base}<br/>Contributor: ${topContributor.name} (${contributorSign}${formatNumber(Math.abs(topContributor.value))} lines)`;
       },
     },
     series: [
@@ -673,7 +695,12 @@ function renderTreemap(metric, dateA, dateB, aggregateBy) {
           gapWidth: 2,
         },
         label: {
-          formatter: ({ data: item }) => `${item?.name || ""}\n+${formatNumber(item?.value || 0)}`,
+          // CHANGED: show signed delta in label while using absolute value for layout.
+          formatter: ({ data: item }) => {
+            const delta = item?.delta || 0;
+            const sign = delta > 0 ? "+" : delta < 0 ? "-" : "";
+            return `${item?.name || ""}\n${sign}${formatNumber(Math.abs(delta))}`;
+          },
           fontSize: 12,
           color: ({ data: item }) => item?.label?.color || "#111827",
         },
