@@ -13,7 +13,11 @@ function getBasePath() {
 }
 
 const BASE_PATH = getBasePath();
-const DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
+const DATA_DIR = asText(window.DATA_DIR);
+const DATA_MANIFEST_PATH = asText(window.DATA_MANIFEST_PATH);
+
+const DEFAULT_DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
+const DATA_ROOTS = DATA_DIR ? [DATA_DIR] : DEFAULT_DATA_ROOTS;
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -231,6 +235,26 @@ async function discoverDataFilesFromIndex(dataRoot) {
   }
 }
 
+async function discoverDataFilesFromManifest(manifestPath, dataRoot) {
+  try {
+    const resp = await fetch(manifestPath, { cache: "no-store" });
+    if (!resp.ok) return [];
+
+    const payload = await resp.json();
+    if (!Array.isArray(payload?.files)) return [];
+
+    return payload.files
+      .map((name) => asText(name))
+      .filter((name) => /^\d{4}-\d{2}-\d{2}\.csv$/.test(name))
+      .map((name) => {
+        const date = name.slice(0, 10);
+        return { date, url: `${dataRoot}/${name}` };
+      });
+  } catch (_err) {
+    return [];
+  }
+}
+
 function detectGithubRepoFromLocation() {
   const host = window.location.hostname || "";
   if (!host.endsWith("github.io")) return null;
@@ -284,6 +308,17 @@ async function discoverDataFiles() {
       }
     } catch (_err) {
       // try next
+    }
+  }
+
+  const manifestCandidates = DATA_MANIFEST_PATH
+    ? [DATA_MANIFEST_PATH]
+    : DATA_ROOTS.map((dataRoot) => `${dataRoot}/manifest.json`);
+
+  for (const manifestPath of manifestCandidates) {
+    for (const dataRoot of DATA_ROOTS) {
+      const manifestEntries = await discoverDataFilesFromManifest(manifestPath, dataRoot);
+      if (manifestEntries.length > 0) return manifestEntries;
     }
   }
 
