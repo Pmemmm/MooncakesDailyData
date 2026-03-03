@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-cg-zhou/bezier-easing,新增,364,2,0,0,364,2
+cg-zhou/bezier-easing,新增,376,2,0,0,376,2
 Milky2018/selene_webgpu,新增,2195,1,0,0,2195,1
 Milky2018/moon_dagre,有变化,228,0,10423,1,10651,1
 Milky2018/selene,有变化,1539,4,6738,18,8277,22
