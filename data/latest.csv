@@ -89,7 +89,7 @@ path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.4,843,1
 platform,tonyfettes/platform,0.1.0,56,1
 raylib,tonyfettes/raylib,0.2.3,19329,4
-raylib-examples,tonyfettes/raylib-examples,0.2.3,401351,577
+raylib-examples,tonyfettes/raylib-examples,0.2.4,401351,577
 small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
@@ -720,7 +720,7 @@ selene_raylib,Milky2018/selene_raylib,0.20.1,829,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.8.0,30618,7
+wgpu_mbt,Milky2018/wgpu_mbt,0.8.1,30617,7
 xml,Milky2018/xml,0.2.0,12989,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
@@ -912,6 +912,7 @@ moonspec,moonrockz/moonspec,0.5.0,28202,14
 grpc,naokikawamoto16/grpc,0.1.0,3792,5
 turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.3,1958,3
+bezier-easing,cg-zhou/bezier-easing,0.2.0,364,2
 sfo,jtenner/sfo,0.1.1,13087,1
 sql,ash1day/sql,0.1.0,6085,4
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
