@@ -5,6 +5,7 @@ Milky2018/selene,有变化,4808,10,12656,41,17464,51
 Milky2018/selene_raylib,有变化,835,0,1624,6,2459,6
 Milky2018/selene_webgpu,有变化,228,0,3827,6,4055,6
 Milky2018/wgpu_mbt,有变化,-20,0,30617,7,30597,7
+oboard/mocket,有变化,4,0,5442,11,5446,11
 Yoorkin/shiki,有变化,36,0,138,1,174,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -629,7 +630,6 @@ oboard/assets,无变化,0,0,182,1,182,1
 oboard/base16384,无变化,0,0,284,1,284,1
 oboard/mimetype,无变化,0,0,1158,2,1158,2
 oboard/mio,无变化,0,0,948,2,948,2
-oboard/mocket,无变化,0,0,5442,11,5442,11
 oboard/moonbit-eval,无变化,0,0,54026,5,54026,5
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1

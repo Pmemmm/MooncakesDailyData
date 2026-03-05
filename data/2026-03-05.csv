@@ -359,7 +359,7 @@ assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.4.3,948,2
-mocket,oboard/mocket,0.6.7,5442,11
+mocket,oboard/mocket,0.6.8,5446,11
 moonbit-eval,oboard/moonbit-eval,0.8.19,54026,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
