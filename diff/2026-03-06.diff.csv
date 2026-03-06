@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 trkbt10/vcdb,新增,21335,21,0,0,21335,21
+Milky2018/moon_rodio,有变化,-33,-1,22005,56,21972,55
 Milky2018/selene,有变化,16,0,17464,51,17480,51
 Milky2018/selene_raylib,有变化,-53,0,2459,6,2406,6
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -446,7 +447,6 @@ Milky2018/moon_cpal,无变化,0,0,17604,18,17604,18
 Milky2018/moon_dagre,无变化,0,0,10651,1,10651,1
 Milky2018/moon_elk,无变化,0,0,270436,39,270436,39
 Milky2018/moon_rapier,无变化,0,0,102662,12,102662,12
-Milky2018/moon_rodio,无变化,0,0,22005,56,22005,56
 Milky2018/moon_skrifa,无变化,0,0,46519,3,46519,3
 Milky2018/moon_swash,无变化,0,0,67581,8,67581,8
 Milky2018/moon_taffy,无变化,0,0,57409,2,57409,2
