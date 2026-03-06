@@ -717,11 +717,11 @@ options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.24.4,17480,51
+selene,Milky2018/selene,0.25.1,18854,50
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
-selene_raylib,Milky2018/selene_raylib,0.24.4,2406,6
-selene_tools,Milky2018/selene_tools,0.24.4,470,2
-selene_webgpu,Milky2018/selene_webgpu,0.24.4,4055,6
+selene_raylib,Milky2018/selene_raylib,0.25.1,2967,6
+selene_tools,Milky2018/selene_tools,0.25.1,470,2
+selene_webgpu,Milky2018/selene_webgpu,0.25.1,4103,6
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
