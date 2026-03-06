@@ -5,6 +5,7 @@ Milky2018/moon_rodio,有变化,425,-1,22005,56,22430,55
 Milky2018/selene,有变化,1390,-1,17464,51,18854,50
 Milky2018/selene_raylib,有变化,508,0,2459,6,2967,6
 Milky2018/selene_webgpu,有变化,48,0,4055,6,4103,6
+mizchi/sol,有变化,27,0,60424,51,60451,51
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -528,7 +529,6 @@ mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4947,2,4947,2
 mizchi/similarity,无变化,0,0,2664,5,2664,5
-mizchi/sol,无变化,0,0,60424,51,60424,51
 mizchi/sqlc_gen_moonbit,无变化,0,0,24540,30,24540,30
 mizchi/sqlite,无变化,0,0,2232,1,2232,1
 mizchi/starlint,无变化,0,0,17495,7,17495,7
