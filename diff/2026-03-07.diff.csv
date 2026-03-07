@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-hustcer/fzip,新增,3628,2,0,0,3628,2
+hustcer/fzip,新增,3666,2,0,0,3666,2
 Milky2018/zstd,新增,39568,1,0,0,39568,1
 MarchLiu/jse,有变化,1489,1,211,1,1700,2
 oboard/mocket,有变化,517,2,5446,11,5963,13
