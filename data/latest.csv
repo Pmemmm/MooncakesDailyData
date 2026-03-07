@@ -250,6 +250,7 @@ moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
+fzip,hustcer/fzip,0.1.2,3628,2
 nanoid,hustcer/nanoid,0.5.0,1512,2
 biblatex,Lampese/biblatex,0.1.0,1714,2
 lomo,Lampese/lomo,0.0.5,26092,10
@@ -727,6 +728,7 @@ toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.0,30597,7
 xml,Milky2018/xml,0.2.0,12989,1
+zstd,Milky2018/zstd,0.1.0,39568,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
@@ -925,4 +927,4 @@ sql,ash1day/sql,0.1.0,6085,4
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
 moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
-jse,MarchLiu/jse,0.1.1,211,1
+jse,MarchLiu/jse,0.2.0,1700,2
