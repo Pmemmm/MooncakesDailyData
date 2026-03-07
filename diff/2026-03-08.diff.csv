@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 hustcer/fzip,有变化,137,0,3666,2,3803,2
 mizchi/bit,有变化,14852,1,141691,38,156543,39
+oboard/morm,有变化,5274,2,17230,11,22504,13
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -634,7 +635,6 @@ oboard/mocket,无变化,0,0,5963,13,5963,13
 oboard/moonbit-eval,无变化,0,0,54026,5,54026,5
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
-oboard/morm,无变化,0,0,17230,11,17230,11
 oboard/numoon,无变化,0,0,1332,2,1332,2
 oboard/readline,无变化,0,0,342,2,342,2
 oboard/redis,无变化,0,0,5222,1,5222,1
