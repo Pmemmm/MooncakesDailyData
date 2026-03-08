@@ -283,6 +283,7 @@ converge,mizchi/converge,0.1.9,8050,14
 crater,mizchi/crater,0.7.0,116962,42
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
 cst,mizchi/cst,0.1.4,2508,4
+differencial_ecs,mizchi/differencial_ecs,0.1.0,629,3
 discord,mizchi/discord,0.1.1,1666,3
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
 font,mizchi/font,0.3.1,8687,2
