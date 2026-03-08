@@ -3,6 +3,7 @@ mizchi/differentiable_ecs,新增,682,3,0,0,682,3
 mizchi/parquet,新增,4307,2,0,0,4307,2
 mizchi/bit,有变化,3119,0,156543,39,159662,39
 mizchi/differencial_ecs,有变化,53,0,629,3,682,3
+mizchi/kagura,有变化,26339,22,34156,29,60495,51
 mizchi/terrain,有变化,1,0,30795,120,30796,120
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -500,7 +501,6 @@ mizchi/js_io,无变化,0,0,170,2,170,2
 mizchi/js_regexp,无变化,0,0,145,2,145,2
 mizchi/json,无变化,0,0,191,1,191,1
 mizchi/jsonschema,无变化,0,0,6617,6,6617,6
-mizchi/kagura,无变化,0,0,34156,29,34156,29
 mizchi/layout,无变化,0,0,1953,11,1953,11
 mizchi/lib,无变化,0,0,118,2,118,2
 mizchi/libgit2,无变化,0,0,2525,4,2525,4
