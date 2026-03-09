@@ -6,6 +6,7 @@ mizchi/bit,有变化,3119,0,156543,39,159662,39
 mizchi/differencial_ecs,有变化,53,0,629,3,682,3
 mizchi/kagura,有变化,26339,22,34156,29,60495,51
 mizchi/terrain,有变化,1,0,30795,120,30796,120
+moonbitlang/parser,有变化,-143,0,103243,11,103100,11
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -589,7 +590,6 @@ moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
-moonbitlang/parser,无变化,0,0,103243,11,103243,11
 moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
 moonbitlang/quickcheck,无变化,0,0,3712,7,3712,7
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
