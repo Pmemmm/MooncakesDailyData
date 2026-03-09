@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 mizchi/differentiable_ecs,新增,682,3,0,0,682,3
 mizchi/parquet,新增,9417,2,0,0,9417,2
+sennenki/lz_string,新增,1049,1,0,0,1049,1
 Milky2018/moon_rapier,有变化,311,0,102662,12,102973,12
 Milky2018/selene_raylib,有变化,135,0,6155,6,6290,6
 mizchi/bit,有变化,3119,0,156543,39,159662,39

@@ -355,7 +355,7 @@ whisper-mbt,mizchi/whisper-mbt,0.1.1,1318,3
 wit,mizchi/wit,0.3.0,4397,2
 wite,mizchi/wite,0.6.5,41513,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
-x,mizchi/x,0.1.5,9335,8
+x,mizchi/x,0.1.6,9335,8
 zlib,mizchi/zlib,0.3.3,2218,2
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
@@ -898,6 +898,7 @@ abort_hook,sennenki/abort_hook,0.1.0,53,2
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
+lz_string,sennenki/lz_string,0.1.0,1049,1
 process,sennenki/process,0.1.0,708,1
 reisen,sennenki/reisen,0.1.1,21122,11
 sexp,sennenki/sexp,0.1.0,1792,1
