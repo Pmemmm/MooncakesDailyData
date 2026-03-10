@@ -1,7 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+FlyCloudC/symbol,新增,166,1,0,0,166,1
 golemcloud/golem_sdk,新增,65049,66,0,0,65049,66
 golemcloud/golem_sdk_tools,新增,7657,2,0,0,7657,2
 moonbit-community/starter,新增,43,1,0,0,43,1
+sennenki/clipboard,新增,383,1,0,0,383,1
+sennenki/mbtify,新增,149,2,0,0,149,2
 sennenki/slugify,新增,806,1,0,0,806,1
 Milky2018/gamepad,有变化,3067,0,10330,1,13397,1
 mizchi/brotli,有变化,2307,2,16031,1,18338,3

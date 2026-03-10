@@ -195,7 +195,7 @@ ulex,moonbitlang/ulex,0.3.27,9920,31
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1
 wasm4,moonbitlang/wasm4,0.2.9,813,1
 x,moonbitlang/x,0.4.40,22528,23
-yacc,moonbitlang/yacc,0.7.10,52046,29
+yacc,moonbitlang/yacc,0.7.11,52046,29
 test,Young-Flash/test,0.2.0,25,2
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2
 test_publish,Young-Flash/test_publish,0.2.0,25,2
@@ -526,6 +526,7 @@ GJK,FlyCloudC/GJK,0.1.1,281,1
 mgraph,FlyCloudC/mgraph,0.1.4,283,1
 miniKanren,FlyCloudC/miniKanren,0.1.7,536,1
 scheme,FlyCloudC/scheme,0.5.0,1777,3
+symbol,FlyCloudC/symbol,0.1.0,166,1
 NetworkX,smallbearrr/NetworkX,0.1.4,1907,1
 pandas,smallbearrr/pandas,0.7.1,6324,2
 assembler,AdUhTkJm/assembler,0.1.1,431,1
@@ -854,7 +855,7 @@ moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 piediff,moonbit-community/piediff,0.0.8,2344,5
 rabbita,moonbit-community/rabbita,0.11.5,18643,14
 sqlite3,moonbit-community/sqlite3,0.1.2,515,1
-starter,moonbit-community/starter,0.1.0,43,1
+starter,moonbit-community/starter,0.2.0,43,1
 yaml,moonbit-community/yaml,0.0.3,5863,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
@@ -896,10 +897,12 @@ example,liuxinbo1984/example,0.1.8,94,2
 srt,angela/srt,0.1.1,1062,3
 vcf,angela/vcf,0.0.5,343,2
 abort_hook,sennenki/abort_hook,0.1.0,53,2
+clipboard,sennenki/clipboard,0.1.0,383,1
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
 lz_string,sennenki/lz_string,0.1.0,1049,1
+mbtify,sennenki/mbtify,0.1.0,149,2
 process,sennenki/process,0.1.0,708,1
 reisen,sennenki/reisen,0.1.1,21122,11
 sexp,sennenki/sexp,0.1.0,1792,1
