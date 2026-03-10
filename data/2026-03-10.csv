@@ -176,7 +176,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.16.7,29878,42
-core,moonbitlang/core,0.1.20260225+8cca5f22a,139497,66
+core,moonbitlang/core,0.1.20260310+cd28f524e,150855,67
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.4,4439,6
@@ -698,7 +698,7 @@ datetime,MINGtoMING/datetime,0.1.0,531,1
 simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
-gamepad,Milky2018/gamepad,0.4.2,10330,1
+gamepad,Milky2018/gamepad,0.4.3,13397,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.1.2,33591,49
@@ -854,6 +854,7 @@ moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 piediff,moonbit-community/piediff,0.0.8,2344,5
 rabbita,moonbit-community/rabbita,0.11.5,18643,14
 sqlite3,moonbit-community/sqlite3,0.1.2,515,1
+starter,moonbit-community/starter,0.1.0,43,1
 yaml,moonbit-community/yaml,0.0.3,5863,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
@@ -933,3 +934,5 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
 moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
+golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
+golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
