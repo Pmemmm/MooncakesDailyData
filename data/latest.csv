@@ -275,7 +275,7 @@ audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.28.0,159662,39
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
-brotli,mizchi/brotli,0.1.1,16031,1
+brotli,mizchi/brotli,0.2.0,18338,3
 cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.9,9098,8
 codegen,mizchi/codegen,0.2.3,7115,5
@@ -902,6 +902,7 @@ lz_string,sennenki/lz_string,0.1.0,1049,1
 process,sennenki/process,0.1.0,708,1
 reisen,sennenki/reisen,0.1.1,21122,11
 sexp,sennenki/sexp,0.1.0,1792,1
+slugify,sennenki/slugify,0.1.0,806,1
 tsparser,sennenki/tsparser,0.1.2,13828,1
 shadow,zen314/shadow,0.1.0,529,2
 httprouter,paveg/httprouter,0.2.0,1937,2

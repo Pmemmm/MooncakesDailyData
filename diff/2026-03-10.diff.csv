@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+sennenki/slugify,新增,806,1,0,0,806,1
+mizchi/brotli,有变化,2307,2,16031,1,18338,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -477,7 +479,6 @@ mizchi/audio,无变化,0,0,5420,1,5420,1
 mizchi/bit,无变化,0,0,159662,39,159662,39
 mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
-mizchi/brotli,无变化,0,0,16031,1,16031,1
 mizchi/cbor,无变化,0,0,1323,2,1323,2
 mizchi/cloudflare,无变化,0,0,9098,8,9098,8
 mizchi/codegen,无变化,0,0,7115,5,7115,5
