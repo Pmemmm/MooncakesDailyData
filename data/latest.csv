@@ -363,7 +363,7 @@ assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.4.3,948,2
-mocket,oboard/mocket,0.6.9,5963,13
+mocket,oboard/mocket,0.6.10,5971,13
 moonbit-eval,oboard/moonbit-eval,0.8.19,54026,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
@@ -905,7 +905,7 @@ lens,sennenki/lens,0.1.1,749,1
 lz_string,sennenki/lz_string,0.1.0,1049,1
 mbtify,sennenki/mbtify,0.1.0,149,2
 process,sennenki/process,0.1.0,708,1
-reisen,sennenki/reisen,0.1.1,21122,11
+reisen,sennenki/reisen,0.1.2,21168,11
 sexp,sennenki/sexp,0.1.0,1792,1
 slugify,sennenki/slugify,0.1.0,806,1
 tsparser,sennenki/tsparser,0.1.2,13828,1
