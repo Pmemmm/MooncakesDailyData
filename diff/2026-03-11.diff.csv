@@ -13,6 +13,7 @@ Milky2018/moon_swash,有变化,-83,-1,67581,8,67498,7
 Milky2018/selene,有变化,9021,3,32849,50,41870,53
 Milky2018/selene_raylib,有变化,310,0,6290,6,6600,6
 Milky2018/selene_webgpu,有变化,-1,0,6329,6,6328,6
+mizchi/crater,有变化,29872,0,116962,42,146834,42
 moonbitlang/async,有变化,-365,1,29878,42,29513,43
 moonbitlang/parser,有变化,77,0,103100,11,103177,11
 moonbitlang/x,有变化,-21,0,22528,23,22507,23
@@ -491,7 +492,6 @@ mizchi/cbor,无变化,0,0,1323,2,1323,2
 mizchi/cloudflare,无变化,0,0,9098,8,9098,8
 mizchi/codegen,无变化,0,0,7115,5,7115,5
 mizchi/converge,无变化,0,0,8050,14,8050,14
-mizchi/crater,无变化,0,0,116962,42,116962,42
 mizchi/crdt_db,无变化,0,0,5786,11,5786,11
 mizchi/cst,无变化,0,0,2508,4,2508,4
 mizchi/differencial_ecs,无变化,0,0,682,3,682,3
