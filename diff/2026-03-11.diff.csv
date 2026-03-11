@@ -1,6 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Milky2018/diago,新增,96991,29,0,0,96991,29
-Milky2018/window,新增,17302,13,0,0,17302,13
+Milky2018/window,新增,16199,13,0,0,16199,13
 gmlewis/flate,有变化,6,0,4351,3,4357,3
 gmlewis/fonts,有变化,1,0,14124,19,14125,19
 gmlewis/gzip,有变化,3,0,1443,1,1446,1
@@ -9,6 +9,7 @@ gmlewis/spin-moonbit-sdk,有变化,734,0,13005,46,13739,46
 gmlewis/zlib,有变化,3,0,703,1,706,1
 justjavac/ffi,有变化,-2,0,443,1,441,1
 Milky2018/selene,有变化,7757,1,32849,50,40606,51
+moonbitlang/async,有变化,-365,1,29878,42,29513,43
 moonbitlang/parser,有变化,77,0,103100,11,103177,11
 moonbitlang/x,有变化,-21,0,22528,23,22507,23
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -587,7 +588,6 @@ moonbit-community/yaml,无变化,0,0,6251,1,6251,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,29878,42,29878,42
 moonbitlang/core,无变化,0,0,150855,67,150855,67
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
 moonbitlang/esp32,无变化,0,0,797,8,797,8
