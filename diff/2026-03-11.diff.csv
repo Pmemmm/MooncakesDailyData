@@ -8,7 +8,11 @@ gmlewis/io,有变化,-4,0,3535,1,3531,1
 gmlewis/spin-moonbit-sdk,有变化,734,0,13005,46,13739,46
 gmlewis/zlib,有变化,3,0,703,1,706,1
 justjavac/ffi,有变化,-2,0,443,1,441,1
-Milky2018/selene,有变化,7757,1,32849,50,40606,51
+Milky2018/moon_cosmic,有变化,-615,-1,30180,2,29565,1
+Milky2018/moon_swash,有变化,-83,-1,67581,8,67498,7
+Milky2018/selene,有变化,9021,3,32849,50,41870,53
+Milky2018/selene_raylib,有变化,310,0,6290,6,6600,6
+Milky2018/selene_webgpu,有变化,-1,0,6329,6,6328,6
 moonbitlang/async,有变化,-365,1,29878,42,29513,43
 moonbitlang/parser,有变化,77,0,103100,11,103177,11
 moonbitlang/x,有变化,-21,0,22528,23,22507,23
@@ -449,14 +453,12 @@ Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,33591,49,33591,49
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
-Milky2018/moon_cosmic,无变化,0,0,30180,2,30180,2
 Milky2018/moon_cpal,无变化,0,0,18234,19,18234,19
 Milky2018/moon_dagre,无变化,0,0,10651,1,10651,1
 Milky2018/moon_elk,无变化,0,0,270436,39,270436,39
 Milky2018/moon_rapier,无变化,0,0,102973,12,102973,12
 Milky2018/moon_rodio,无变化,0,0,22430,55,22430,55
 Milky2018/moon_skrifa,无变化,0,0,46519,3,46519,3
-Milky2018/moon_swash,无变化,0,0,67581,8,67581,8
 Milky2018/moon_taffy,无变化,0,0,57409,2,57409,2
 Milky2018/moon_yazi,无变化,0,0,3593,1,3593,1
 Milky2018/moon_zeno,无变化,0,0,6338,1,6338,1
@@ -467,9 +469,7 @@ Milky2018/options,无变化,0,0,328,1,328,1
 Milky2018/pacman,无变化,0,0,1121,1,1121,1
 Milky2018/pthread,无变化,0,0,1854,1,1854,1
 Milky2018/pug,无变化,0,0,10601,2,10601,2
-Milky2018/selene_raylib,无变化,0,0,6290,6,6290,6
 Milky2018/selene_tools,无变化,0,0,470,2,470,2
-Milky2018/selene_webgpu,无变化,0,0,6329,6,6329,6
 Milky2018/selene-canvas,无变化,0,0,591,1,591,1
 Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/toolkit,无变化,0,0,28,1,28,1
