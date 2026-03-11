@@ -700,7 +700,7 @@ datetime,MINGtoMING/datetime,0.1.0,531,1
 simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
-diago,Milky2018/diago,0.1.1,96561,29
+diago,Milky2018/diago,0.2.1,96991,29
 gamepad,Milky2018/gamepad,0.4.3,13397,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
@@ -733,7 +733,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.0,30597,7
-window,Milky2018/window,0.1.1,17294,13
+window,Milky2018/window,0.1.2,17302,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
