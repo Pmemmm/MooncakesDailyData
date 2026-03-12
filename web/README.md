@@ -10,7 +10,8 @@ This `/web` page is fully static (HTML + CSS + JavaScript) and designed for GitH
 
 ## How data is loaded
 
-- The app reads data at runtime from `../data`.
+- Realtime view (`/web/index.html`) reads data at runtime from `../data`.
+- Daily Snapshot (`/web/daily/index.html`) reads data from `../../data_daily`.
 - It discovers available dates dynamically (no hardcoded list), supporting both:
   - `data/YYYY-MM-DD/summary.csv`
   - `data/YYYY-MM-DD.csv`
