@@ -272,10 +272,17 @@ async function discoverDataFilesFromGithubApi(dataRoot) {
   if (!repoInfo) return [];
 
   const { owner, repo } = repoInfo;
+  const repoDataPath = dataRoot
+    .split("/")
+    .map((part) => part.trim())
+    .filter((part) => part && part !== "." && part !== "..")
+    .join("/");
+
+  if (!repoDataPath) return [];
   const candidateRefs = ["HEAD", "main", "master"];
 
   for (const ref of candidateRefs) {
-    const url = `https://api.github.com/repos/${owner}/${repo}/contents/data?ref=${encodeURIComponent(ref)}`;
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${encodeURIComponent(repoDataPath)}?ref=${encodeURIComponent(ref)}`;
 
     try {
       const resp = await fetch(url, {
@@ -295,6 +302,14 @@ async function discoverDataFilesFromGithubApi(dataRoot) {
 }
 
 async function discoverDataFiles() {
+  const allEntries = new Map();
+  const appendEntries = (entries) => {
+    for (const entry of entries) {
+      if (!entry?.date || !entry?.url) continue;
+      allEntries.set(entry.date, entry.url);
+    }
+  };
+
   const sitemapCandidates = [`${BASE_PATH}/sitemap.xml`, "../sitemap.xml", "./sitemap.xml"];
   for (const candidate of sitemapCandidates) {
     try {
@@ -304,7 +319,7 @@ async function discoverDataFiles() {
       const xmlText = await resp.text();
       for (const dataRoot of DATA_ROOTS) {
         const entries = extractDateEntriesFromSitemap(xmlText, dataRoot);
-        if (entries.length > 0) return entries;
+        appendEntries(entries);
       }
     } catch (_err) {
       // try next
@@ -318,13 +333,13 @@ async function discoverDataFiles() {
   for (const manifestPath of manifestCandidates) {
     for (const dataRoot of DATA_ROOTS) {
       const manifestEntries = await discoverDataFilesFromManifest(manifestPath, dataRoot);
-      if (manifestEntries.length > 0) return manifestEntries;
+      appendEntries(manifestEntries);
     }
   }
 
   for (const dataRoot of DATA_ROOTS) {
     const indexEntries = await discoverDataFilesFromIndex(dataRoot);
-    if (indexEntries.length > 0) return indexEntries;
+    appendEntries(indexEntries);
   }
 
   for (const dataRoot of DATA_ROOTS) {
@@ -334,7 +349,7 @@ async function discoverDataFiles() {
         if (!resp.ok) continue;
 
         const entries = extractDateEntriesFromDirectoryHtml(await resp.text(), dataRoot);
-        if (entries.length > 0) return entries;
+        appendEntries(entries);
       } catch (_err) {
         // try next
       }
@@ -343,7 +358,11 @@ async function discoverDataFiles() {
 
   for (const dataRoot of DATA_ROOTS) {
     const githubEntries = await discoverDataFilesFromGithubApi(dataRoot);
-    if (githubEntries.length > 0) return githubEntries;
+    appendEntries(githubEntries);
+  }
+
+  if (allEntries.size > 0) {
+    return [...allEntries.entries()].map(([date, url]) => ({ date, url }));
   }
 
   throw new Error(`Unable to discover CSV files in ${DATA_ROOTS.join(", ")}.`);
