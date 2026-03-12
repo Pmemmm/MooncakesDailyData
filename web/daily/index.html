@@ -29,12 +29,21 @@
 
           <label>
             Date A (base)
-            <select id="dateASelect"></select>
+            <input id="dateASelect" type="date" list="availableDates" />
           </label>
 
           <label>
             Date B (compare)
-            <select id="dateBSelect"></select>
+            <input id="dateBSelect" type="date" list="availableDates" />
+          </label>
+
+          <label>
+            Quick range
+            <div class="quick-range-group" aria-label="Quick date range shortcuts">
+              <button type="button" class="quick-range-btn" data-quick-range="7">最近 7 天</button>
+              <button type="button" class="quick-range-btn" data-quick-range="14">最近 14 天</button>
+              <button type="button" class="quick-range-btn" data-quick-range="30">最近 30 天</button>
+            </div>
           </label>
 
           <label>
@@ -80,6 +89,7 @@
       window.DATA_DIR = "../../data_daily";
       window.DATA_MANIFEST_PATH = "../../data_daily/manifest.json";
     </script>
+    <datalist id="availableDates"></datalist>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
     <script src="../main.js"></script>

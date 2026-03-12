@@ -28,6 +28,7 @@ const els = {
   deltaHint: document.getElementById("deltaHint"),
   summary: document.getElementById("summary"),
   status: document.getElementById("status"),
+  availableDates: document.getElementById("availableDates"),
 };
 
 const lineChart = echarts.init(document.getElementById("lineChart"));
@@ -157,6 +158,84 @@ function metricLabel(metric) {
 
 function normalizeDateText(raw) {
   return String(raw).replace(/\/$/, "").trim();
+}
+
+function toDateUtc(dateText) {
+  const text = asText(dateText);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(text)) return null;
+
+  const date = new Date(`${text}T00:00:00Z`);
+  return Number.isFinite(date.getTime()) ? date : null;
+}
+
+function toDateText(dateObj) {
+  return dateObj.toISOString().slice(0, 10);
+}
+
+function shiftDays(dateText, offset) {
+  const date = toDateUtc(dateText);
+  if (!date) return "";
+
+  const shifted = new Date(date.getTime());
+  shifted.setUTCDate(shifted.getUTCDate() + offset);
+  return toDateText(shifted);
+}
+
+function getLatestDateOnOrBefore(targetDate) {
+  for (let idx = state.dates.length - 1; idx >= 0; idx -= 1) {
+    const candidate = state.dates[idx];
+    if (candidate <= targetDate) return candidate;
+  }
+  return "";
+}
+
+function getLatestDateBefore(targetDate) {
+  for (let idx = state.dates.length - 1; idx >= 0; idx -= 1) {
+    const candidate = state.dates[idx];
+    if (candidate < targetDate) return candidate;
+  }
+  return "";
+}
+
+function resolveDefaultDateA(dateB, daysBack = 7) {
+  if (!dateB) return "";
+
+  const target = shiftDays(dateB, -Math.abs(daysBack));
+  const onOrBeforeTarget = getLatestDateOnOrBefore(target);
+  if (onOrBeforeTarget && onOrBeforeTarget < dateB) {
+    return onOrBeforeTarget;
+  }
+
+  const fallbackEarlier = getLatestDateBefore(dateB);
+  if (fallbackEarlier) {
+    return fallbackEarlier;
+  }
+
+  return dateB;
+}
+
+function resolveClosestAvailableDate(rawDate) {
+  const text = asText(rawDate);
+  if (!text || state.dates.length === 0) return "";
+  if (state.dates.includes(text)) return text;
+
+  const target = toDateUtc(text);
+  if (!target) return "";
+
+  let bestDate = state.dates[0];
+  let bestDistance = Math.abs(toDateUtc(bestDate).getTime() - target.getTime());
+
+  for (let idx = 1; idx < state.dates.length; idx += 1) {
+    const candidate = state.dates[idx];
+    const distance = Math.abs(toDateUtc(candidate).getTime() - target.getTime());
+
+    if (distance < bestDistance || (distance === bestDistance && candidate < bestDate)) {
+      bestDate = candidate;
+      bestDistance = distance;
+    }
+  }
+
+  return bestDate;
 }
 
 function extractDateEntriesFromDirectoryHtml(html, dataRoot) {
@@ -431,30 +510,61 @@ function computeTotals(rows) {
 }
 
 function populateDateSelectors() {
-  const prevA = els.dateA.value;
-  const prevB = els.dateB.value;
+  const prevA = resolveClosestAvailableDate(els.dateA.value);
+  const prevB = resolveClosestAvailableDate(els.dateB.value);
 
-  const options = state.dates.map((d) => `<option value="${d}">${d}</option>`).join("");
-  els.dateA.innerHTML = options;
-  els.dateB.innerHTML = options;
-
-  if (state.dates.includes(prevA)) {
-    els.dateA.value = prevA;
-  }
-  if (state.dates.includes(prevB)) {
-    els.dateB.value = prevB;
+  if (els.availableDates) {
+    els.availableDates.innerHTML = state.dates.map((d) => `<option value="${d}"></option>`).join("");
   }
 
-  if (!els.dateA.value && state.dates.length > 0) {
-    if (state.dates.length >= 2) {
-      els.dateA.value = state.dates[state.dates.length - 2];
-    } else {
-      els.dateA.value = state.dates[0];
-    }
+  const minDate = state.dates[0] || "";
+  const maxDate = state.dates[state.dates.length - 1] || "";
+  els.dateA.min = minDate;
+  els.dateA.max = maxDate;
+  els.dateB.min = minDate;
+  els.dateB.max = maxDate;
+
+  els.dateB.value = prevB || maxDate;
+  els.dateA.value = prevA || resolveDefaultDateA(els.dateB.value, 7);
+
+  if (els.dateA.value >= els.dateB.value) {
+    els.dateA.value = resolveDefaultDateA(els.dateB.value, 7);
   }
-  if (!els.dateB.value && state.dates.length > 0) {
-    els.dateB.value = state.dates[state.dates.length - 1];
+}
+
+function enforceDateOrder(changedField) {
+  const normalizedA = resolveClosestAvailableDate(els.dateA.value);
+  const normalizedB = resolveClosestAvailableDate(els.dateB.value);
+
+  if (normalizedB) els.dateB.value = normalizedB;
+  if (normalizedA) els.dateA.value = normalizedA;
+
+  if (els.dateA.value < els.dateB.value) return;
+
+  if (changedField === "dateB") {
+    els.dateA.value = resolveDefaultDateA(els.dateB.value, 7);
+  } else {
+    const fallback = getLatestDateBefore(els.dateB.value);
+    els.dateA.value = fallback || resolveDefaultDateA(els.dateB.value, 7);
   }
+}
+
+function bindQuickRangeButtons() {
+  const buttons = [...document.querySelectorAll("[data-quick-range]")];
+  if (buttons.length === 0) return;
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const days = Number(btn.dataset.quickRange);
+      const dateB = state.dates[state.dates.length - 1] || "";
+      if (!dateB || !Number.isFinite(days)) return;
+
+      els.dateB.value = dateB;
+      els.dateA.value = resolveDefaultDateA(dateB, days);
+      enforceDateOrder("dateB");
+      renderAll();
+    });
+  });
 }
 
 function getYAxisRange(values, emphasizeTrend) {
@@ -833,11 +943,22 @@ async function init() {
 
     populateDateSelectors();
 
-    [els.metric, els.dateA, els.dateB, els.aggregate, els.emphasizeTrend].forEach((control) => {
+    [els.metric, els.aggregate, els.emphasizeTrend].forEach((control) => {
       control.addEventListener("change", renderAll);
     });
 
+    els.dateB.addEventListener("change", () => {
+      enforceDateOrder("dateB");
+      renderAll();
+    });
+
+    els.dateA.addEventListener("change", () => {
+      enforceDateOrder("dateA");
+      renderAll();
+    });
+
     bindRangeButtons();
+    bindQuickRangeButtons();
 
     setStatus("");
     renderAll();
