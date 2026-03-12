@@ -27,6 +27,7 @@ utils,peter-jerry-ye/utils,0.4.3,1942,5
 wasi,peter-jerry-ye/wasi,0.24.3,6826,15
 wasi-imports,peter-jerry-ye/wasi-imports,0.1.5,9056,30
 beautiful_mermaid,bobzhang/beautiful_mermaid,0.1.5,33558,41
+blog-app,bobzhang/blog-app,0.1.0,1295,3
 codex_workflow,bobzhang/codex_workflow,0.1.0,2436,4
 colors,bobzhang/colors,0.8.0,1678,2
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
@@ -45,9 +46,11 @@ moonjq,bobzhang/moonjq,0.1.0,10898,3
 qrc,bobzhang/qrc,0.1.0,882,3
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6
 sexp,bobzhang/sexp,0.1.1,33,1
+splitwise,bobzhang/splitwise,0.1.0,1185,3
 tar,bobzhang/tar,0.1.0,538,2
 testa,bobzhang/testa,0.1.0,16,2
 testb,bobzhang/testb,0.1.0,24,2
+todo-list,bobzhang/todo-list,0.1.0,571,3
 toml,bobzhang/toml,0.1.7,10006,3
 unmarshal,bobzhang/unmarshal,0.2.4,8861,3
 uri,bobzhang/uri,0.1.0,606,1
@@ -151,6 +154,7 @@ hashtbl,Yoorkin/hashtbl,0.1.2,59,2
 hello,Yoorkin/hello,0.1.3,33,2
 jmop,Yoorkin/jmop,0.1.1,2187,2
 logr_moonbit,Yoorkin/logr_moonbit,0.1.0,2508,1
+moonbee,Yoorkin/moonbee,0.1.0,2228,1
 prettyprinter,Yoorkin/prettyprinter,0.4.10,1655,2
 rabbit-tea,Yoorkin/rabbit-tea,0.10.11,21568,18
 shiki,Yoorkin/shiki,0.1.1,174,1
@@ -701,7 +705,7 @@ simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
 diago,Milky2018/diago,0.2.1,96991,29
-gamepad,Milky2018/gamepad,0.4.3,13397,1
+gamepad,Milky2018/gamepad,0.4.4,13392,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.1.2,33591,49
@@ -724,11 +728,11 @@ options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.28.2,41870,53
+selene,Milky2018/selene,0.28.3,41911,53
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
-selene_raylib,Milky2018/selene_raylib,0.28.2,6600,6
-selene_tools,Milky2018/selene_tools,0.28.2,470,2
-selene_webgpu,Milky2018/selene_webgpu,0.28.2,6328,6
+selene_raylib,Milky2018/selene_raylib,0.28.3,6600,6
+selene_tools,Milky2018/selene_tools,0.28.3,470,2
+selene_webgpu,Milky2018/selene_webgpu,0.28.3,6328,6
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
