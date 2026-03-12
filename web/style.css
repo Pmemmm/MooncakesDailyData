@@ -91,7 +91,8 @@ label {
   text-transform: none;
 }
 
-select {
+select,
+input[type="date"] {
   width: 100%;
   height: 42px;
   border: 1px solid var(--border-subtle);
@@ -106,7 +107,8 @@ select {
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-select:focus-visible {
+select:focus-visible,
+input[type="date"]:focus-visible {
   outline: none;
   border-color: var(--trend-color);
   box-shadow: 0 0 0 3px rgba(47, 128, 237, 0.18);
@@ -114,6 +116,30 @@ select:focus-visible {
 
 .checkbox-label {
   justify-content: flex-start;
+}
+
+.quick-range-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  flex-wrap: wrap;
+}
+
+.quick-range-btn {
+  border: 1px solid var(--border-subtle);
+  border-radius: 999px;
+  background: var(--bg-soft);
+  color: var(--text-main);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 10px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.quick-range-btn:hover {
+  border-color: var(--trend-color);
 }
 
 .checkbox-control {
