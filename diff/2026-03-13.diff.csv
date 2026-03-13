@@ -1,6 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Milky2018/sysinfo,新增,6722,1,0,0,6722,1
 bikallem/webapi,有变化,89152,-9,82215,11,171367,2
 hustcer/fzip,有变化,384,0,4980,2,5364,2
+Milky2018/diago,有变化,12933,1,96991,29,109924,30
 Milky2018/selene,有变化,238,0,41911,53,42149,53
 Milky2018/selene_raylib,有变化,6,0,6600,6,6606,6
 Milky2018/selene_webgpu,有变化,11,0,6328,6,6339,6
@@ -444,7 +446,6 @@ maria/toml_parser,无变化,0,0,1018,2,1018,2
 mattn/postgres,无变化,0,0,562,1,562,1
 meguruli/ds,无变化,0,0,6475,1,6475,1
 Mepy/Laurus,无变化,0,0,15557,7,15557,7
-Milky2018/diago,无变化,0,0,96991,29,96991,29
 Milky2018/gamepad,无变化,0,0,13392,1,13392,1
 Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3

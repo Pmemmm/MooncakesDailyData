@@ -704,7 +704,7 @@ datetime,MINGtoMING/datetime,0.1.0,531,1
 simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
-diago,Milky2018/diago,0.2.1,96991,29
+diago,Milky2018/diago,0.2.2,109924,30
 gamepad,Milky2018/gamepad,0.4.4,13392,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
@@ -734,6 +734,7 @@ selene_raylib,Milky2018/selene_raylib,0.28.4,6606,6
 selene_tools,Milky2018/selene_tools,0.28.4,470,2
 selene_webgpu,Milky2018/selene_webgpu,0.28.4,6339,6
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
+sysinfo,Milky2018/sysinfo,0.1.0,6722,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.1,30678,7
