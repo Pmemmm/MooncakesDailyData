@@ -1,7 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Milky2018/sysinfo,新增,6305,1,0,0,6305,1
 bikallem/webapi,有变化,89152,-9,82215,11,171367,2
-hustcer/fzip,有变化,384,0,4980,2,5364,2
+hustcer/fzip,有变化,489,0,4980,2,5469,2
 Milky2018/diago,有变化,12933,1,96991,29,109924,30
 Milky2018/selene,有变化,663,0,41911,53,42574,53
 Milky2018/selene_raylib,有变化,6,0,6600,6,6606,6
