@@ -1,11 +1,12 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-Milky2018/sysinfo,新增,6722,1,0,0,6722,1
+Milky2018/sysinfo,新增,6305,1,0,0,6305,1
 bikallem/webapi,有变化,89152,-9,82215,11,171367,2
 hustcer/fzip,有变化,384,0,4980,2,5364,2
 Milky2018/diago,有变化,12933,1,96991,29,109924,30
-Milky2018/selene,有变化,238,0,41911,53,42149,53
+Milky2018/selene,有变化,663,0,41911,53,42574,53
 Milky2018/selene_raylib,有变化,6,0,6600,6,6606,6
 Milky2018/selene_webgpu,有变化,11,0,6328,6,6339,6
+moonbitlang/quickcheck,有变化,5268,3,3712,7,8980,10
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -602,7 +603,6 @@ moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/parser,无变化,0,0,103177,11,103177,11
 moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
-moonbitlang/quickcheck,无变化,0,0,3712,7,3712,7
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
 moonbitlang/std,无变化,0,0,99,1,99,1
 moonbitlang/ulex,无变化,0,0,9920,31,9920,31

@@ -192,7 +192,7 @@ mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
 parser,moonbitlang/parser,0.2.3,103177,11
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
-quickcheck,moonbitlang/quickcheck,0.9.10,3712,7
+quickcheck,moonbitlang/quickcheck,0.11.1,8980,10
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
 ulex,moonbitlang/ulex,0.3.27,9920,31
@@ -728,13 +728,13 @@ options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.28.4,42149,53
+selene,Milky2018/selene,0.28.6,42574,53
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
-selene_raylib,Milky2018/selene_raylib,0.28.4,6606,6
-selene_tools,Milky2018/selene_tools,0.28.4,470,2
-selene_webgpu,Milky2018/selene_webgpu,0.28.4,6339,6
+selene_raylib,Milky2018/selene_raylib,0.28.6,6606,6
+selene_tools,Milky2018/selene_tools,0.28.6,470,2
+selene_webgpu,Milky2018/selene_webgpu,0.28.6,6339,6
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
-sysinfo,Milky2018/sysinfo,0.1.0,6722,1
+sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.1,30678,7
