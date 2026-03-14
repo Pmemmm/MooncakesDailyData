@@ -743,7 +743,7 @@ sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.1,30678,7
-window,Milky2018/window,0.2.0,15110,14
+window,Milky2018/window,0.2.3,15722,14
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
@@ -848,6 +848,7 @@ ssmp,nodex/ssmp,0.1.1,109,1
 reactive,himeno/reactive,0.1.2,569,1
 moonbit_zstd,Ronlands/moonbit_zstd,0.1.2,13701,10
 ttf_parser_moonbit,Ronlands/ttf_parser_moonbit,0.1.1,1918,8
+qt,KeqingMoe/qt,0.1.0,398,4
 unicode_xid,KeqingMoe/unicode_xid,0.0.1,2391,2
 hello,wangweigang/hello,0.1.0,276,3
 quickxorhash,baka-gourd/quickxorhash,0.1.0,575,2
