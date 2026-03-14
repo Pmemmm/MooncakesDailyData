@@ -5,11 +5,14 @@ bobzhang/noteapp,新增,966,4,0,0,966,4
 bobzhang/pollapp,新增,1010,4,0,0,1010,4
 bobzhang/taskflow,新增,8516,5,0,0,8516,5
 KeqingMoe/qt,新增,398,4,0,0,398,4
+mizchi/actrun,新增,36727,3,0,0,36727,3
 Showichiro/jira_cli_mbt,新增,8392,7,0,0,8392,7
 bobzhang/blog-app,有变化,24,1,1295,3,1319,4
 bobzhang/splitwise,有变化,57,1,1185,3,1242,4
 bobzhang/todo-list,有变化,342,1,571,3,913,4
 hustcer/fzip,有变化,33,0,5469,2,5502,2
+justjavac/glob,有变化,1,0,523,1,524,1
+justjavac/num_cpus,有变化,-3,0,242,2,239,2
 Milky2018/window,有变化,745,0,15110,14,15855,14
 mizchi/bit,有变化,48322,1,159662,39,207984,40
 mizchi/crater,有变化,531,0,146834,42,147365,42
@@ -351,9 +354,7 @@ justjavac/cache_padded,无变化,0,0,1440,1,1440,1
 justjavac/case,无变化,0,0,1373,1,1373,1
 justjavac/core_affinity,无变化,0,0,389,2,389,2
 justjavac/ffi,无变化,0,0,441,1,441,1
-justjavac/glob,无变化,0,0,523,1,523,1
 justjavac/itoa,无变化,0,0,658,1,658,1
-justjavac/num_cpus,无变化,0,0,242,2,242,2
 justjavac/webview,无变化,0,0,1261,17,1261,17
 justjavac/win32_messagebox,无变化,0,0,216,1,216,1
 justjoheinz/complex,无变化,0,0,164,1,164,1
