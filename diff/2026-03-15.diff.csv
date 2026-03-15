@@ -3,6 +3,7 @@ bikallem/webapi,有变化,29354,9,171373,2,200727,11
 KeqingMoe/qt,有变化,69,0,398,4,467,4
 Milky2018/window,有变化,40,0,15855,14,15895,14
 mizchi/actrun,有变化,53,1,36727,3,36780,4
+moonbitlang/quickcheck,有变化,-4830,-3,8980,10,4150,7
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -609,7 +610,6 @@ moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/parser,无变化,0,0,103177,11,103177,11
 moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
-moonbitlang/quickcheck,无变化,0,0,8980,10,8980,10
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
 moonbitlang/std,无变化,0,0,99,1,99,1
 moonbitlang/ulex,无变化,0,0,9920,31,9920,31

@@ -197,7 +197,7 @@ mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
 parser,moonbitlang/parser,0.2.3,103177,11
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
-quickcheck,moonbitlang/quickcheck,0.11.1,8980,10
+quickcheck,moonbitlang/quickcheck,0.11.2,4150,7
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
 ulex,moonbitlang/ulex,0.3.27,9920,31
