@@ -99,6 +99,7 @@ pcre2,tonyfettes/pcre2,0.4.5,840,1
 platform,tonyfettes/platform,0.1.0,56,1
 raylib,tonyfettes/raylib,0.2.3,19329,4
 raylib-examples,tonyfettes/raylib-examples,0.2.4,401351,577
+rc,tonyfettes/rc,0.1.0,219,1
 small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
