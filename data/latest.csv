@@ -33,6 +33,7 @@ colors,bobzhang/colors,0.8.0,1678,2
 contacts,bobzhang/contacts,0.2.0,1022,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
+gallery,bobzhang/gallery,0.1.0,8886,2
 games,bobzhang/games,0.2.0,439442,588
 hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
@@ -721,7 +722,7 @@ moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.8,31966,1
 moon_cpal,Milky2018/moon_cpal,0.11.4,18234,19
 moon_dagre,Milky2018/moon_dagre,0.2.1,10651,1
-moon_elk,Milky2018/moon_elk,0.1.8,270436,39
+moon_elk,Milky2018/moon_elk,0.1.9,270398,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.6,102973,12
@@ -745,7 +746,7 @@ sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
 wgpu_mbt,Milky2018/wgpu_mbt,0.9.1,30678,7
-window,Milky2018/window,0.2.6,15895,14
+window,Milky2018/window,0.2.7,16160,14
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
@@ -758,6 +759,7 @@ ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 incr,dowdiness/incr,0.3.3,6735,5
 js_engine,dowdiness/js_engine,0.1.0,27583,8
 margs,dowdiness/margs,0.1.2,4638,2
+rle,dowdiness/rle,0.1.0,4124,5
 cstdio-ffi,Bemly/cstdio-ffi,0.0.0,720,2
 mcp,colmugx/mcp,0.5.2,3767,9
 reader,colmugx/reader,0.3.0,228,1
