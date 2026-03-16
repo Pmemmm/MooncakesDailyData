@@ -746,7 +746,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.9.3,32682,7
+wgpu_mbt,Milky2018/wgpu_mbt,0.10.0,35979,7
 window,Milky2018/window,0.2.10,16185,14
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
