@@ -48,6 +48,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 noteapp,bobzhang/noteapp,0.2.0,966,4
 pollapp,bobzhang/pollapp,0.2.0,1010,4
+prove,bobzhang/prove,0.0.1,273,16
 qrc,bobzhang/qrc,0.1.0,882,3
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6
 sexp,bobzhang/sexp,0.1.1,33,1
@@ -282,7 +283,7 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.9.1,43144,5
+actrun,mizchi/actrun,0.12.0,43354,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.32.2,219803,40
@@ -768,6 +769,7 @@ Introsort,pzl-love/Introsort,0.1.1,320,2
 moonbit_libbpf,hevienz/moonbit_libbpf,0.9.2,544,2
 zls,sohaha/zls,0.1.0,25,2
 bloom_filter,moransky/bloom_filter,0.1.0,105,2
+compress,bikallem/compress,0.1.0,10122,13
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
 rsignal,bikallem/rsignal,0.3.0,2549,3
@@ -917,6 +919,7 @@ srt,angela/srt,0.1.1,1062,3
 vcf,angela/vcf,0.0.5,343,2
 abort_hook,sennenki/abort_hook,0.1.0,53,2
 clipboard,sennenki/clipboard,0.1.0,383,1
+ignore,sennenki/ignore,0.1.0,1439,1
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
