@@ -1,7 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 trkbt10/subprocess,新增,1882,6,0,0,1882,6
 bikallem/webapi,有变化,209,0,200727,11,200936,11
-Milky2018/wgpu_mbt,有变化,3297,0,32682,7,35979,7
+Milky2018/wgpu_mbt,有变化,3295,0,32682,7,35977,7
 Milky2018/window,有变化,3993,-1,16185,14,20178,13
 mizchi/actrun,有变化,5653,1,37046,4,42699,5
 mizchi/bit,有变化,9857,0,209867,40,219724,40
