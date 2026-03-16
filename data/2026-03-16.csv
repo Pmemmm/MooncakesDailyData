@@ -282,10 +282,10 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.6.0,42699,5
+actrun,mizchi/actrun,0.9.1,43144,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.32.1,219724,40
+bit,mizchi/bit,0.32.2,219803,40
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -380,7 +380,7 @@ mocket,oboard/mocket,0.6.10,5971,13
 moonbit-eval,oboard/moonbit-eval,0.8.19,54026,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
-morm,oboard/morm,0.2.8,22504,13
+morm,oboard/morm,0.3.0,21995,13
 numoon,oboard/numoon,0.4.1,1332,2
 readline,oboard/readline,0.1.6,342,2
 redis,oboard/redis,0.1.3,5222,1
@@ -934,6 +934,7 @@ channel,bnyu2/channel,0.1.1,967,2
 mongodb,allain/mongodb,0.1.1,9540,3
 lunaboy,sacckey/lunaboy,0.1.2,4639,3
 sha256,shu-kitamura/sha256,0.1.1,263,1
+llm_interop,trkbt10/llm_interop,0.1.0,13984,15
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21
 subprocess,trkbt10/subprocess,0.2.0,1882,6
 vcdb,trkbt10/vcdb,0.1.0,21335,21
