@@ -572,17 +572,35 @@ function getYAxisRange(values, emphasizeTrend) {
   const max = Math.max(...values);
 
   if (!emphasizeTrend) {
-    const top = Math.max(max, 0);
-    const baseRange = top || 1;
-    return {
-      min: 0,
-      max: Math.ceil(top + baseRange * 0.1),
-    };
+    return getPaddedYAxisRange(min, max);
   }
 
   const range = max - min || Math.max(Math.abs(max) * 0.05, 1);
   const padding = range * 0.2;
 
+  return {
+    min: Math.floor(min - padding),
+    max: Math.ceil(max + padding),
+  };
+}
+
+function getPaddedYAxisRange(rawMin, rawMax) {
+  const min = Number(rawMin);
+  const max = Number(rawMax);
+
+  if (!Number.isFinite(min) || !Number.isFinite(max)) {
+    return { min: 0, max: 1 };
+  }
+
+  if (min === max) {
+    const fallbackPadding = Math.max(Math.abs(max) * 0.1, 1);
+    return {
+      min: Math.floor(min - fallbackPadding),
+      max: Math.ceil(max + fallbackPadding),
+    };
+  }
+
+  const padding = (max - min) * 0.1;
   return {
     min: Math.floor(min - padding),
     max: Math.ceil(max + padding),
@@ -638,6 +656,10 @@ function renderLineChart(metric, emphasizeTrend) {
 
   const values = state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0);
   const yAxisRange = getYAxisRange(values, emphasizeTrend);
+  const dynamicYAxisBounds = {
+    min: (extent) => getPaddedYAxisRange(extent?.min, extent?.max).min,
+    max: (extent) => getPaddedYAxisRange(extent?.min, extent?.max).max,
+  };
 
   lineChart.setOption(
     {
@@ -655,8 +677,8 @@ function renderLineChart(metric, emphasizeTrend) {
     },
     yAxis: {
       type: "value",
-      min: yAxisRange.min,
-      max: yAxisRange.max,
+      min: emphasizeTrend ? yAxisRange.min : dynamicYAxisBounds.min,
+      max: emphasizeTrend ? yAxisRange.max : dynamicYAxisBounds.max,
       axisTick: { show: false },
       axisLabel: {
         color: "#6b7280",
