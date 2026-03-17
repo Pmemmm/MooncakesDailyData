@@ -48,7 +48,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 noteapp,bobzhang/noteapp,0.2.0,966,4
 pollapp,bobzhang/pollapp,0.2.0,1010,4
-prove,bobzhang/prove,0.0.1,273,16
+prove,bobzhang/prove,0.0.2,3164,84
 qrc,bobzhang/qrc,0.1.0,882,3
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6
 sexp,bobzhang/sexp,0.1.1,33,1
@@ -286,7 +286,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.15.0,44130,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.32.2,219803,40
+bit,mizchi/bit,0.32.3,221689,40
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -747,7 +747,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.10.1,35977,7
+wgpu_mbt,Milky2018/wgpu_mbt,0.10.2,36371,7
 window,Milky2018/window,0.2.11,20178,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
