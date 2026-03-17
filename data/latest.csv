@@ -286,7 +286,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.16.0,44345,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.32.4,221691,40
+bit,mizchi/bit,0.33.0,222732,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -963,7 +963,7 @@ moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
 timespec,kawaz/timespec,0.2.0,4205,1
-unicodegrapheme,kawaz/unicodegrapheme,0.2.0,14560,1
+unicodegrapheme,kawaz/unicodegrapheme,0.6.0,2339,1
 golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
