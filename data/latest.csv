@@ -263,7 +263,7 @@ msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
-fzip,hustcer/fzip,0.5.1,5788,2
+fzip,hustcer/fzip,0.5.2,5883,2
 nanoid,hustcer/nanoid,0.5.0,1512,2
 biblatex,Lampese/biblatex,0.1.0,1714,2
 lomo,Lampese/lomo,0.0.5,26092,10
@@ -747,7 +747,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.1,6305,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.10.3,37026,7
+wgpu_mbt,Milky2018/wgpu_mbt,0.11.0,37263,7
 window,Milky2018/window,0.2.11,20178,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
@@ -937,6 +937,7 @@ channel,bnyu2/channel,0.1.1,967,2
 mongodb,allain/mongodb,0.1.1,9540,3
 lunaboy,sacckey/lunaboy,0.1.2,4639,3
 sha256,shu-kitamura/sha256,0.1.1,263,1
+jpeg2000,trkbt10/jpeg2000,0.2.0,36963,25
 llm_interop,trkbt10/llm_interop,0.1.0,13984,15
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21
 subprocess,trkbt10/subprocess,0.2.0,1882,6
@@ -961,7 +962,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
 moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
-timespec,kawaz/timespec,0.1.0,4093,1
+timespec,kawaz/timespec,0.2.0,4205,1
 golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
