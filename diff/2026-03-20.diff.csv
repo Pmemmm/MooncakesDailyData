@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bikallem/freetype,新增,19969,23,0,0,19969,23
 bobzhang/taskflow,有变化,1,0,12668,5,12669,5
 bobzhang/todo-list,有变化,-4,0,1019,4,1015,4
 mizchi/actrun,有变化,127,0,47976,5,48103,5
