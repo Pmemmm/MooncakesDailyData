@@ -322,7 +322,7 @@ markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.10,14703,12
 mbts,mizchi/mbts,0.0.3,12071,9
 moomaid,mizchi/moomaid,0.1.2,3809,4
-moon_component,mizchi/moon_component,0.4.0,16096,38
+moon_component,mizchi/moon_component,0.5.1,16206,38
 moon-install,mizchi/moon-install,0.1.1,1006,2
 moonix,mizchi/moonix,0.2.0,16216,20
 moonlight,mizchi/moonlight,0.1.2,29907,19
@@ -964,7 +964,7 @@ moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
 timespec,kawaz/timespec,0.2.0,4205,1
-unicodegrapheme,kawaz/unicodegrapheme,0.7.0,2415,1
+unicodegrapheme,kawaz/unicodegrapheme,0.7.1,2414,1
 golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
