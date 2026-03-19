@@ -286,7 +286,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.18.0,47976,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.33.2,224426,49
+bit,mizchi/bit,0.33.3,224421,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -724,7 +724,7 @@ moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.8,31966,1
 moon_cpal,Milky2018/moon_cpal,0.11.4,18234,19
 moon_dagre,Milky2018/moon_dagre,0.2.1,10651,1
-moon_elk,Milky2018/moon_elk,0.1.12,270439,39
+moon_elk,Milky2018/moon_elk,0.1.13,271133,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.2.6,102973,12
