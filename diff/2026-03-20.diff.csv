@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 bikallem/freetype,新增,19969,23,0,0,19969,23
 bobzhang/taskflow,有变化,1,0,12668,5,12669,5
 bobzhang/todo-list,有变化,-4,0,1019,4,1015,4
+bobzhang/toml,有变化,971,1,11020,4,11991,5
 KeqingMoe/qt,有变化,5666,-3,954,5,6620,2
 mizchi/actrun,有变化,127,0,47976,5,48103,5
 mizchi/luna,有变化,-1,0,64862,63,64861,63
@@ -100,7 +101,6 @@ bobzhang/splitwise,无变化,0,0,2086,4,2086,4
 bobzhang/tar,无变化,0,0,538,2,538,2
 bobzhang/testa,无变化,0,0,16,2,16,2
 bobzhang/testb,无变化,0,0,24,2,24,2
-bobzhang/toml,无变化,0,0,11020,4,11020,4
 bobzhang/unmarshal,无变化,0,0,8861,3,8861,3
 bobzhang/uri,无变化,0,0,606,1,606,1
 bobzhang/uuidm,无变化,0,0,2192,1,2192,1
