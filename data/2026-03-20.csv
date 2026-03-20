@@ -232,7 +232,7 @@ quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1
 state,CAIMEOX/state,0.1.1,335,1
 svg,CAIMEOX/svg,0.1.2,1497,1
-symbit,CAIMEOX/symbit,0.3.0,216683,67
+symbit,CAIMEOX/symbit,0.4.0,173816,50
 t,CAIMEOX/t,0.1.0,215,1
 vlq,CAIMEOX/vlq,0.1.0,241,1
 zipper,CAIMEOX/zipper,0.1.0,257,1
@@ -283,7 +283,7 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.19.0,48103,5
+actrun,mizchi/actrun,0.20.0,49895,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.33.3,224421,49
@@ -305,6 +305,7 @@ font,mizchi/font,0.3.1,8687,2
 git,mizchi/git,0.2.0,53603,9
 glfw,mizchi/glfw,0.2.1,462,2
 image,mizchi/image,0.1.1,3797,1
+jq,mizchi/jq,0.1.1,7599,2
 js,mizchi/js,0.10.14,78307,112
 js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
@@ -940,7 +941,7 @@ mongodb,allain/mongodb,0.1.1,9540,3
 lunaboy,sacckey/lunaboy,0.1.2,4639,3
 sha256,shu-kitamura/sha256,0.1.1,263,1
 jpeg2000,trkbt10/jpeg2000,0.2.0,36963,25
-llm_interop,trkbt10/llm_interop,0.1.0,13984,15
+llm_interop,trkbt10/llm_interop,0.2.2,23029,17
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21
 subprocess,trkbt10/subprocess,0.2.0,1882,6
 vcdb,trkbt10/vcdb,0.1.0,21335,21
@@ -964,8 +965,9 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
 moonclaw,vectie/moonclaw,0.1.0,871,2
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
+grapheme,kawaz/grapheme,0.10.0,1003,1
 timespec,kawaz/timespec,0.2.0,4205,1
-unicodegrapheme,kawaz/unicodegrapheme,0.7.1,2414,1
+unicodegrapheme,kawaz/unicodegrapheme,0.9.0,33,1
 golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
