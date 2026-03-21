@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+dowdiness/incr,有变化,3170,0,6735,5,9905,5
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -166,7 +167,6 @@ djisnj/djisnj,无变化,0,0,16,1,16,1
 dongyvxuan/dongyx,无变化,0,0,33,2,33,2
 dowdiness/event-graph-walker,无变化,0,0,10354,7,10354,7
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
-dowdiness/incr,无变化,0,0,6735,5,6735,5
 dowdiness/js_engine,无变化,0,0,27583,8,27583,8
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/rle,无变化,0,0,4124,5,4124,5
