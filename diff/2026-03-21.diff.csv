@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 bikallem/blit,新增,298,1,0,0,298,1
 hiroyannnn/strsim,新增,861,3,0,0,861,3
 mizchi/v8,新增,4588,2,0,0,4588,2
+trkbt10/osenv,新增,1792,6,0,0,1792,6
 bikallem/compress,有变化,22147,3,10150,13,32297,16
 mizchi/actrun,有变化,959,0,50388,5,51347,5
 mizchi/crater,有变化,24,0,147365,42,147389,42
@@ -10,6 +11,7 @@ mizchi/playwright,有变化,38,0,8325,4,8363,4
 mizchi/wite,有变化,1281,0,43723,16,45004,16
 oboard/mocket,有变化,702,1,5971,13,6673,14
 oboard/morm,有变化,-986,-1,21304,18,20318,17
+trkbt10/llm_interop,有变化,2035,0,23029,17,25064,17
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -881,7 +883,6 @@ tonyfettes/wtf16,无变化,0,0,458,1,458,1
 tonyfettes/wtf8,无变化,0,0,330,1,330,1
 trash33/sudoku,无变化,0,0,427,2,427,2
 trkbt10/jpeg2000,无变化,0,0,36963,25,36963,25
-trkbt10/llm_interop,无变化,0,0,23029,17,23029,17
 trkbt10/micado_mbt,无变化,0,0,8453,21,8453,21
 trkbt10/subprocess,无变化,0,0,1882,6,1882,6
 trkbt10/vcdb,无变化,0,0,21335,21,21335,21
