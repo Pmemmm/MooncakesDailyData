@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 bikallem/blit,新增,298,1,0,0,298,1
+bikallem/chai,新增,4002,2,0,0,4002,2
 hiroyannnn/strsim,新增,861,3,0,0,861,3
 mizchi/v8,新增,4588,2,0,0,4588,2
 trkbt10/osenv,新增,1792,6,0,0,1792,6
