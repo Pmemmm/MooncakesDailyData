@@ -288,7 +288,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.22.1,51347,5
 ast_printer,mizchi/ast_printer,0.2.2,2556,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.33.3,224421,49
+bit,mizchi/bit,0.34.0,227493,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -345,7 +345,7 @@ rlm,mizchi/rlm,0.1.0,5747,1
 rlm_moonbit,mizchi/rlm_moonbit,0.1.0,5747,1
 sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
-signals,mizchi/signals,0.6.3,4947,2
+signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
 sol,mizchi/sol,0.14.0,70026,55
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
@@ -360,7 +360,7 @@ tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 tornado,mizchi/tornado,0.5.0,9070,12
 ts,mizchi/ts,0.1.2,72195,8
 tui,mizchi/tui,0.8.0,36737,34
-v8,mizchi/v8,0.1.0,4588,2
+v8,mizchi/v8,0.2.0,7480,2
 wasi,mizchi/wasi,0.1.2,3654,28
 wasi_interface,mizchi/wasi_interface,0.3.0,3605,3
 wasmtime,mizchi/wasmtime,0.1.5,2680,4
