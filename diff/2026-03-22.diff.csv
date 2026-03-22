@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-hustcer/tabular,新增,14705,3,0,0,14705,3
+hustcer/tabular,新增,15097,3,0,0,15097,3
 dowdiness/incr,有变化,3642,0,6735,5,10377,5
 hevienz/moonbit_libbpf,有变化,24,0,544,2,568,2
 sennenki/mbtify,有变化,60,0,149,2,209,2
