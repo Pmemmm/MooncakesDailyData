@@ -267,6 +267,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
 fzip,hustcer/fzip,0.5.3,6103,2
 nanoid,hustcer/nanoid,0.5.0,1512,2
+tabular,hustcer/tabular,0.5.0,14705,3
 biblatex,Lampese/biblatex,0.1.0,1714,2
 lomo,Lampese/lomo,0.0.5,26092,10
 MCIL,Lampese/MCIL,0.1.1,18534,4
@@ -933,7 +934,7 @@ immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
 lz_string,sennenki/lz_string,0.1.0,1049,1
-mbtify,sennenki/mbtify,0.1.0,149,2
+mbtify,sennenki/mbtify,0.1.1,209,2
 process,sennenki/process,0.1.0,708,1
 reisen,sennenki/reisen,0.1.3,21061,11
 sexp,sennenki/sexp,0.1.0,1792,1
