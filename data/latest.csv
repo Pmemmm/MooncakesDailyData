@@ -234,7 +234,7 @@ quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1
 state,CAIMEOX/state,0.1.1,335,1
 svg,CAIMEOX/svg,0.1.2,1497,1
-symbit,CAIMEOX/symbit,0.4.0,173816,50
+symbit,CAIMEOX/symbit,0.4.1,172820,50
 t,CAIMEOX/t,0.1.0,215,1
 vlq,CAIMEOX/vlq,0.1.0,241,1
 zipper,CAIMEOX/zipper,0.1.0,257,1
@@ -372,7 +372,7 @@ whenwords,mizchi/whenwords,0.1.3,1058,2
 whisper,mizchi/whisper,0.3.1,1523,3
 whisper-mbt,mizchi/whisper-mbt,0.1.1,1318,3
 wit,mizchi/wit,0.3.0,4397,2
-wite,mizchi/wite,0.10.1,45004,16
+wite,mizchi/wite,0.11.0,49049,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
 x,mizchi/x,0.1.7,9407,8
 zlib,mizchi/zlib,0.3.3,2218,2
@@ -478,7 +478,7 @@ core_affinity,justjavac/core_affinity,0.2.0,397,2
 ffi,justjavac/ffi,0.2.0,441,1
 glob,justjavac/glob,0.1.3,524,1
 itoa,justjavac/itoa,0.2.0,675,1
-num_cpus,justjavac/num_cpus,0.1.5,239,2
+num_cpus,justjavac/num_cpus,0.1.6,243,2
 webview,justjavac/webview,0.1.10,1261,17
 win32_messagebox,justjavac/win32_messagebox,0.1.1,216,1
 datetime,suiyunonghen/datetime,0.1.6,874,1

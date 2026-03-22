@@ -1,7 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 hustcer/tabular,新增,15097,3,0,0,15097,3
+CAIMEOX/symbit,有变化,-996,0,173816,50,172820,50
 dowdiness/incr,有变化,3642,0,6735,5,10377,5
 hevienz/moonbit_libbpf,有变化,24,0,544,2,568,2
+justjavac/num_cpus,有变化,4,0,239,2,243,2
+mizchi/wite,有变化,4045,0,45004,16,49049,16
 sennenki/mbtify,有变化,60,0,149,2,209,2
 trkbt10/llm_interop,有变化,1404,0,25064,17,26468,17
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -135,7 +138,6 @@ CAIMEOX/quickcheck,无变化,0,0,3421,7,3421,7
 CAIMEOX/reed_solomon,无变化,0,0,864,1,864,1
 CAIMEOX/state,无变化,0,0,335,1,335,1
 CAIMEOX/svg,无变化,0,0,1497,1,1497,1
-CAIMEOX/symbit,无变化,0,0,173816,50,173816,50
 CAIMEOX/t,无变化,0,0,215,1,215,1
 CAIMEOX/vlq,无变化,0,0,241,1,241,1
 CAIMEOX/zipper,无变化,0,0,257,1,257,1
@@ -359,7 +361,6 @@ justjavac/core_affinity,无变化,0,0,397,2,397,2
 justjavac/ffi,无变化,0,0,441,1,441,1
 justjavac/glob,无变化,0,0,524,1,524,1
 justjavac/itoa,无变化,0,0,675,1,675,1
-justjavac/num_cpus,无变化,0,0,239,2,239,2
 justjavac/webview,无变化,0,0,1261,17,1261,17
 justjavac/win32_messagebox,无变化,0,0,216,1,216,1
 justjoheinz/complex,无变化,0,0,164,1,164,1
@@ -589,7 +590,6 @@ mizchi/whisper,无变化,0,0,1523,3,1523,3
 mizchi/whisper-mbt,无变化,0,0,1318,3,1318,3
 mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
-mizchi/wite,无变化,0,0,45004,16,45004,16
 mizchi/x,无变化,0,0,9407,8,9407,8
 mizchi/zlib,无变化,0,0,2218,2,2218,2
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
