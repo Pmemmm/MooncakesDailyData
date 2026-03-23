@@ -2,7 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 dowdiness/alga,新增,1805,1,0,0,1805,1
 hiroyannnn/sketch,新增,975,2,0,0,975,2
 sennenki/2048,新增,1340,1,0,0,1340,1
-SouichiroTsujimoto/astrobit,新增,881,4,0,0,881,4
+SouichiroTsujimoto/astrobit,新增,879,4,0,0,879,4
 mizchi/sol,有变化,1922,1,70026,55,71948,56
 moonbit-community/jsondiff,有变化,-20,0,1496,1,1476,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
