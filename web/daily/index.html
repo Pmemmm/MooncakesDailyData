@@ -24,6 +24,7 @@
               <option value="line_count">line_count</option>
               <option value="package_count">package_count</option>
               <option value="module_count">module_count</option>
+              <option value="total_download">total_download</option>
             </select>
           </label>
 
@@ -86,8 +87,10 @@
     </main>
 
     <script>
-      window.DATA_DIR = "../../data_daily";
-      window.DATA_MANIFEST_PATH = "../../data_daily/manifest.json";
+      window.VIEW_MODE = "daily";
+      window.DETAIL_DATA_DIR = "../../data_daily";
+      window.DETAIL_DATA_MANIFEST_PATH = "../../data_daily/manifest.json";
+      window.TOTALS_HISTORY_PATH = "../../data_daily/stats_history.csv";
     </script>
     <datalist id="availableDates"></datalist>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>

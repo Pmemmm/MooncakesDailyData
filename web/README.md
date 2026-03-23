@@ -4,42 +4,54 @@ This `/web` page is fully static (HTML + CSS + JavaScript) and designed for GitH
 
 ## Files
 
-- `index.html`: page layout and control panel
+- `index.html`: realtime view
+- `daily/index.html`: daily snapshot view
 - `style.css`: page/card/form styles
-- `main.js`: CSV discovery, parsing, diff computation, ECharts rendering
+- `main.js`: mixed totals + detailed CSV loading, diff computation, ECharts rendering
 
 ## How data is loaded
 
-- Realtime view (`/web/index.html`) reads data at runtime from `../data`.
-- Daily Snapshot (`/web/daily/index.html`) reads data from `../../data_daily`.
-- It discovers available dates dynamically (no hardcoded list), supporting both:
-  - `data/YYYY-MM-DD/summary.csv`
-  - `data/YYYY-MM-DD.csv`
-- Date discovery tries:
-  1. `../sitemap.xml` / `./sitemap.xml`
-  2. `../data/` directory listing fallback
-  3. GitHub Contents API fallback (for GitHub Pages without directory listing)
-- CSV parsing is done in-browser using PapaParse.
+- Realtime view (`/web/index.html`)
+  - detailed CSV snapshots: `../data`
+  - totals history: `../data_daily/stats_history.csv`
+  - latest totals: `https://mooncakes.io/api/v0/modules/statistics`
+- Daily Snapshot (`/web/daily/index.html`)
+  - detailed CSV snapshots: `../../data_daily`
+  - totals history: `../../data_daily/stats_history.csv`
 
-## How diff is computed
+Detailed CSV discovery remains dynamic and supports both:
+
+- `data/YYYY-MM-DD/summary.csv`
+- `data/YYYY-MM-DD.csv`
+
+Date discovery tries:
+
+1. `../sitemap.xml` / `./sitemap.xml`
+2. manifest/index files
+3. directory listing fallback
+4. GitHub Contents API fallback
+
+CSV parsing is done in-browser using PapaParse.
+
+## How totals and diff work
 
 - Users select **Date A (base)** and **Date B (compare)**.
-- Trend totals per date:
-  - `line_count`: sum of `line_count`
-  - `package_count`: sum of `package_count`
-  - `module_count`: row count (`1` per row)
-- Treemap diff is computed on the fly in browser:
+- Totals panels and trend use a mixed source:
+  - historical `line_count` / `package_count` / `module_count` can fall back to totals derived from detailed CSV snapshots
+  - `data_daily/stats_history.csv` overrides those totals and adds `total_download`
+  - realtime view also overrides the latest day with the live statistics API response
+- Treemap diff is computed on the fly in browser from detailed CSV snapshots only:
   - key = `package + "::" + module/file identifier`
   - for each key in Date B: `diff = valueB - valueA`
-  - keep only `diff > 0` (positive additions)
+  - both positive and negative deltas are shown
   - attribution always uses Date B fields only (package/contributor)
   - unattributable rows are skipped (never labeled `unknown`)
-- The `diff/` folder is not used.
+- `total_download` is intentionally excluded from treemap because the API exposes it only as a total metric.
 
 ## GitHub Pages
 
 1. Push repository to GitHub.
-2. In **Settings → Pages**, pick the branch (for example `main`) and root folder.
+2. In **Settings -> Pages**, pick the branch (for example `main`) and root folder.
 3. Open:
    - `https://<username>.github.io/<repo>/web/`
 

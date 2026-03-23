@@ -13,11 +13,27 @@ function getBasePath() {
 }
 
 const BASE_PATH = getBasePath();
-const DATA_DIR = asText(window.DATA_DIR);
-const DATA_MANIFEST_PATH = asText(window.DATA_MANIFEST_PATH);
+const VIEW_MODE = asText(window.VIEW_MODE) || "realtime";
+const DETAIL_DATA_DIR = asText(window.DETAIL_DATA_DIR || window.DATA_DIR);
+const DETAIL_DATA_MANIFEST_PATH = asText(window.DETAIL_DATA_MANIFEST_PATH || window.DATA_MANIFEST_PATH);
+const TOTALS_HISTORY_PATH = asText(window.TOTALS_HISTORY_PATH);
+const REALTIME_STATS_API = asText(window.REALTIME_STATS_API);
 
-const DEFAULT_DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
-const DATA_ROOTS = DATA_DIR ? [DATA_DIR] : DEFAULT_DATA_ROOTS;
+const DEFAULT_DETAIL_DATA_ROOTS = [...new Set([`${BASE_PATH}/data`, "../data", "./../data", "./data", "data"])];
+const DETAIL_DATA_ROOTS = DETAIL_DATA_DIR ? [DETAIL_DATA_DIR] : DEFAULT_DETAIL_DATA_ROOTS;
+const METRIC_LABELS = {
+  line_count: "line_count",
+  package_count: "package_count",
+  module_count: "module_count",
+  total_download: "total_download",
+};
+const TOTAL_METRIC_KEYS = ["line_count", "package_count", "module_count", "total_download"];
+const API_TOTAL_FIELD_MAP = {
+  total_lines: "line_count",
+  total_packages: "package_count",
+  total_modules: "module_count",
+  total_downloads: "total_download",
+};
 
 const els = {
   metric: document.getElementById("metricSelect"),
@@ -35,9 +51,11 @@ const lineChart = echarts.init(document.getElementById("lineChart"));
 const treemapChart = echarts.init(document.getElementById("treemapChart"));
 
 const state = {
-  fileByDate: new Map(),
-  rowsByDate: new Map(),
+  detailFileByDate: new Map(),
+  detailRowsByDate: new Map(),
   totalsByDate: new Map(),
+  detailDates: [],
+  totalDates: [],
   dates: [],
   selectedRange: "30",
 };
@@ -151,9 +169,7 @@ function toNumber(value) {
 }
 
 function metricLabel(metric) {
-  if (metric === "line_count") return "line_count";
-  if (metric === "package_count") return "package_count";
-  return "module_count";
+  return METRIC_LABELS[metric] || metric;
 }
 
 function normalizeDateText(raw) {
@@ -172,6 +188,19 @@ function toDateText(dateObj) {
   return dateObj.toISOString().slice(0, 10);
 }
 
+function sortDateStrings(dates) {
+  return [...new Set(dates.filter(Boolean))].sort((a, b) => {
+    const aTime = new Date(a).getTime();
+    const bTime = new Date(b).getTime();
+
+    if (Number.isFinite(aTime) && Number.isFinite(bTime)) {
+      return aTime - bTime;
+    }
+
+    return a.localeCompare(b);
+  });
+}
+
 function shiftDays(dateText, offset) {
   const date = toDateUtc(dateText);
   if (!date) return "";
@@ -182,16 +211,18 @@ function shiftDays(dateText, offset) {
 }
 
 function getLatestDateOnOrBefore(targetDate) {
-  for (let idx = state.dates.length - 1; idx >= 0; idx -= 1) {
-    const candidate = state.dates[idx];
+  const dates = arguments.length > 1 ? arguments[1] : state.dates;
+  for (let idx = dates.length - 1; idx >= 0; idx -= 1) {
+    const candidate = dates[idx];
     if (candidate <= targetDate) return candidate;
   }
   return "";
 }
 
 function getLatestDateBefore(targetDate) {
-  for (let idx = state.dates.length - 1; idx >= 0; idx -= 1) {
-    const candidate = state.dates[idx];
+  const dates = arguments.length > 1 ? arguments[1] : state.dates;
+  for (let idx = dates.length - 1; idx >= 0; idx -= 1) {
+    const candidate = dates[idx];
     if (candidate < targetDate) return candidate;
   }
   return "";
@@ -215,18 +246,19 @@ function resolveDefaultDateA(dateB, daysBack = 7) {
 }
 
 function resolveClosestAvailableDate(rawDate) {
+  const dates = arguments.length > 1 ? arguments[1] : state.dates;
   const text = asText(rawDate);
-  if (!text || state.dates.length === 0) return "";
-  if (state.dates.includes(text)) return text;
+  if (!text || dates.length === 0) return "";
+  if (dates.includes(text)) return text;
 
   const target = toDateUtc(text);
   if (!target) return "";
 
-  let bestDate = state.dates[0];
+  let bestDate = dates[0];
   let bestDistance = Math.abs(toDateUtc(bestDate).getTime() - target.getTime());
 
-  for (let idx = 1; idx < state.dates.length; idx += 1) {
-    const candidate = state.dates[idx];
+  for (let idx = 1; idx < dates.length; idx += 1) {
+    const candidate = dates[idx];
     const distance = Math.abs(toDateUtc(candidate).getTime() - target.getTime());
 
     if (distance < bestDistance || (distance === bestDistance && candidate < bestDate)) {
@@ -380,7 +412,7 @@ async function discoverDataFilesFromGithubApi(dataRoot) {
   return [];
 }
 
-async function discoverDataFiles() {
+async function discoverDetailDataFiles() {
   const allEntries = new Map();
   const appendEntries = (entries) => {
     for (const entry of entries) {
@@ -396,7 +428,7 @@ async function discoverDataFiles() {
       if (!resp.ok) continue;
 
       const xmlText = await resp.text();
-      for (const dataRoot of DATA_ROOTS) {
+      for (const dataRoot of DETAIL_DATA_ROOTS) {
         const entries = extractDateEntriesFromSitemap(xmlText, dataRoot);
         appendEntries(entries);
       }
@@ -405,23 +437,23 @@ async function discoverDataFiles() {
     }
   }
 
-  const manifestCandidates = DATA_MANIFEST_PATH
-    ? [DATA_MANIFEST_PATH]
-    : DATA_ROOTS.map((dataRoot) => `${dataRoot}/manifest.json`);
+  const manifestCandidates = DETAIL_DATA_MANIFEST_PATH
+    ? [DETAIL_DATA_MANIFEST_PATH]
+    : DETAIL_DATA_ROOTS.map((dataRoot) => `${dataRoot}/manifest.json`);
 
   for (const manifestPath of manifestCandidates) {
-    for (const dataRoot of DATA_ROOTS) {
+    for (const dataRoot of DETAIL_DATA_ROOTS) {
       const manifestEntries = await discoverDataFilesFromManifest(manifestPath, dataRoot);
       appendEntries(manifestEntries);
     }
   }
 
-  for (const dataRoot of DATA_ROOTS) {
+  for (const dataRoot of DETAIL_DATA_ROOTS) {
     const indexEntries = await discoverDataFilesFromIndex(dataRoot);
     appendEntries(indexEntries);
   }
 
-  for (const dataRoot of DATA_ROOTS) {
+  for (const dataRoot of DETAIL_DATA_ROOTS) {
     for (const candidate of [`${dataRoot}/`, dataRoot]) {
       try {
         const resp = await fetch(candidate, { cache: "no-store" });
@@ -435,7 +467,7 @@ async function discoverDataFiles() {
     }
   }
 
-  for (const dataRoot of DATA_ROOTS) {
+  for (const dataRoot of DETAIL_DATA_ROOTS) {
     const githubEntries = await discoverDataFilesFromGithubApi(dataRoot);
     appendEntries(githubEntries);
   }
@@ -444,7 +476,7 @@ async function discoverDataFiles() {
     return [...allEntries.entries()].map(([date, url]) => ({ date, url }));
   }
 
-  throw new Error(`Unable to discover CSV files in ${DATA_ROOTS.join(", ")}.`);
+  throw new Error(`Unable to discover CSV files in ${DETAIL_DATA_ROOTS.join(", ")}.`);
 }
 
 function parseCsv(csvText) {
@@ -493,20 +525,157 @@ function prepareRows(rawRows) {
       line_count: toNumber(row.line_count),
       package_count: toNumber(row.package_count),
       module_count: 1,
+      total_download: toNumber(row.total_download),
     };
   });
 }
 
-function computeTotals(rows) {
-  return rows.reduce(
-    (acc, row) => {
-      acc.line_count += row.line_count;
-      acc.package_count += row.package_count;
-      acc.module_count += row.module_count;
-      return acc;
-    },
-    { line_count: 0, package_count: 0, module_count: 0 }
-  );
+function emptyTotals() {
+  return {
+    line_count: 0,
+    package_count: 0,
+    module_count: 0,
+    total_download: 0,
+  };
+}
+
+function computeDetailTotals(rows) {
+  return rows.reduce((acc, row) => {
+    acc.line_count += row.line_count;
+    acc.package_count += row.package_count;
+    acc.module_count += row.module_count;
+    return acc;
+  }, emptyTotals());
+}
+
+function parseTotalsHistoryRows(rawRows) {
+  return rawRows
+    .map((row) => {
+      const date = asText(row.date);
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
+
+      return {
+        date,
+        totals: {
+          line_count: toNumber(row.total_lines),
+          package_count: toNumber(row.total_packages),
+          module_count: toNumber(row.total_modules),
+          total_download: toNumber(row.total_downloads),
+        },
+      };
+    })
+    .filter(Boolean);
+}
+
+function mergeTotalsForDate(date, totals) {
+  const current = state.totalsByDate.get(date) || {};
+  const next = { ...current };
+
+  for (const metric of TOTAL_METRIC_KEYS) {
+    const value = totals?.[metric];
+    if (Number.isFinite(value)) {
+      next[metric] = value;
+    }
+  }
+
+  state.totalsByDate.set(date, next);
+}
+
+async function loadDetailRowsAndTotals() {
+  const discovered = await discoverDetailDataFiles();
+
+  for (const entry of discovered) {
+    state.detailFileByDate.set(entry.date, entry.url);
+  }
+
+  state.detailDates = sortDateStrings([...state.detailFileByDate.keys()]);
+
+  for (const date of state.detailDates) {
+    const url = state.detailFileByDate.get(date);
+    const resp = await fetch(url, { cache: "no-store" });
+    if (!resp.ok) {
+      throw new Error(`Failed to load ${url}`);
+    }
+
+    const rows = prepareRows(parseCsv(await resp.text()));
+    state.detailRowsByDate.set(date, rows);
+    mergeTotalsForDate(date, computeDetailTotals(rows));
+  }
+}
+
+async function loadTotalsHistory() {
+  if (!TOTALS_HISTORY_PATH) return;
+
+  try {
+    const resp = await fetch(TOTALS_HISTORY_PATH, { cache: "no-store" });
+    if (!resp.ok) return;
+
+    const entries = parseTotalsHistoryRows(parseCsv(await resp.text()));
+    for (const entry of entries) {
+      mergeTotalsForDate(entry.date, entry.totals);
+    }
+  } catch (_err) {
+    // history file is optional until the first snapshot is generated
+  }
+}
+
+function mapRealtimeApiTotals(payload) {
+  const totals = emptyTotals();
+
+  for (const [apiField, metric] of Object.entries(API_TOTAL_FIELD_MAP)) {
+    totals[metric] = toNumber(payload?.[apiField]);
+  }
+
+  return totals;
+}
+
+async function loadRealtimeTotalsOverride() {
+  if (VIEW_MODE !== "realtime" || !REALTIME_STATS_API) return;
+
+  try {
+    const resp = await fetch(REALTIME_STATS_API, { cache: "no-store" });
+    if (!resp.ok) return;
+
+    const now = new Date();
+    const today = `${now.getUTCFullYear()}-${String(now.getUTCMonth() + 1).padStart(2, "0")}-${String(now.getUTCDate()).padStart(2, "0")}`;
+    mergeTotalsForDate(today, mapRealtimeApiTotals(await resp.json()));
+  } catch (_err) {
+    // keep historical fallback if the live request is unavailable
+  }
+}
+
+function rebuildAvailableDates() {
+  state.totalDates = sortDateStrings([...state.totalsByDate.keys()]);
+  state.dates = sortDateStrings([...state.detailDates, ...state.totalDates]);
+}
+
+function getAvailableDatesForMetric(metric) {
+  return state.totalDates.filter((date) => Object.prototype.hasOwnProperty.call(state.totalsByDate.get(date) || {}, metric));
+}
+
+function getTotalsForDate(date, metric = "") {
+  if (!date || state.totalDates.length === 0) {
+    return emptyTotals();
+  }
+
+  if (!metric && state.totalsByDate.has(date)) {
+    return state.totalsByDate.get(date);
+  }
+
+  const metricDates = metric ? getAvailableDatesForMetric(metric) : state.totalDates;
+  if (metric && Object.prototype.hasOwnProperty.call(state.totalsByDate.get(date) || {}, metric)) {
+    return state.totalsByDate.get(date);
+  }
+
+  const fallbackDate = getLatestDateOnOrBefore(date, metricDates) || resolveClosestAvailableDate(date, metricDates);
+  return state.totalsByDate.get(fallbackDate) || emptyTotals();
+}
+
+function resolveDetailDateForSelection(date) {
+  if (state.detailDates.length === 0) return "";
+  if (state.detailRowsByDate.has(date)) return date;
+
+  return getLatestDateOnOrBefore(date, state.detailDates) || resolveClosestAvailableDate(date, state.detailDates);
 }
 
 function populateDateSelectors() {
@@ -607,8 +776,8 @@ function getPaddedYAxisRange(rawMin, rawMax) {
   };
 }
 
-function getRangeStartPercent(range) {
-  const total = state.dates.length;
+function getRangeStartPercent(range, dates = state.dates) {
+  const total = dates.length;
 
   if (range === "all" || total === 0) {
     return 0;
@@ -624,7 +793,7 @@ function getRangeStartPercent(range) {
 
 function setRange(days) {
   state.selectedRange = String(days);
-  const startPercent = getRangeStartPercent(state.selectedRange);
+  const startPercent = getRangeStartPercent(state.selectedRange, state.totalDates.length > 0 ? state.totalDates : state.dates);
 
   lineChart.dispatchAction({
     type: "dataZoom",
@@ -649,12 +818,34 @@ function bindRangeButtons() {
 }
 
 function renderLineChart(metric, emphasizeTrend) {
+  const metricDates = getAvailableDatesForMetric(metric);
+  const chartDates = metricDates.length > 0
+    ? metricDates
+    : (metric === "total_download" ? [] : (state.totalDates.length > 0 ? state.totalDates : state.dates));
   const trendColor = getCssVar("--trend-color", "#2f80ed");
   const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
   const isDark = document.documentElement.dataset.theme === "dark";
-  const startPercent = getRangeStartPercent(state.selectedRange);
+  const startPercent = getRangeStartPercent(state.selectedRange, chartDates);
 
-  const values = state.dates.map((date) => state.totalsByDate.get(date)?.[metric] || 0);
+  if (chartDates.length === 0) {
+    lineChart.setOption(
+      {
+        title: {
+          text: "No historical data yet for this metric.",
+          left: "center",
+          top: "middle",
+          textStyle: { fontSize: 14, fontWeight: "normal", color: "#6b7280" },
+        },
+        xAxis: { type: "category", data: [] },
+        yAxis: { type: "value" },
+        series: [{ type: "line", data: [] }],
+      },
+      { notMerge: true }
+    );
+    return;
+  }
+
+  const values = chartDates.map((date) => getTotalsForDate(date, metric)?.[metric] ?? 0);
   const yAxisRange = getYAxisRange(values, emphasizeTrend);
   const dynamicYAxisBounds = {
     min: (extent) => getPaddedYAxisRange(extent?.min, extent?.max).min,
@@ -670,7 +861,7 @@ function renderLineChart(metric, emphasizeTrend) {
     },
     xAxis: {
       type: "category",
-      data: state.dates,
+      data: chartDates,
       axisTick: { show: false },
       axisLabel: { color: "#6b7280", fontSize: 12 },
       axisLine: { lineStyle: { color: isDark ? "#2d3748" : "#d9e1e6" } },
@@ -927,40 +1118,170 @@ function renderAll() {
   renderTreemap(metric, dateA, dateB, aggregateBy);
 }
 
+function renderTreemap(metric, dateA, dateB, aggregateBy) {
+  if (metric === "total_download") {
+    treemapChart.setOption(
+      {
+        title: {
+          text: "total_download has no detailed CSV breakdown.",
+          left: "center",
+          top: "middle",
+          textStyle: { fontSize: 14, fontWeight: "normal", color: "#6b7280" },
+        },
+        series: [{ type: "treemap", data: [] }],
+      },
+      { notMerge: true }
+    );
+    setStatus("Treemap and diff analysis still use detailed CSV, so total_download is only available in totals panels.");
+    return;
+  }
+
+  const detailDateA = resolveDetailDateForSelection(dateA);
+  const detailDateB = resolveDetailDateForSelection(dateB);
+
+  if (!detailDateA || !detailDateB) {
+    treemapChart.setOption(
+      {
+        title: {
+          text: "Detailed CSV snapshots are not available yet.",
+          left: "center",
+          top: "middle",
+          textStyle: { fontSize: 14, fontWeight: "normal", color: "#6b7280" },
+        },
+        series: [{ type: "treemap", data: [] }],
+      },
+      { notMerge: true }
+    );
+    setStatus("Treemap diff requires detailed CSV snapshots.");
+    return;
+  }
+
+  if (detailDateA === detailDateB && state.detailDates.length === 1) {
+    treemapChart.setOption({
+      series: [{ type: "treemap", data: [] }],
+    });
+    setStatus("Only one detailed snapshot is available, so Date A and Date B resolve to the same day.");
+    return;
+  }
+
+  if (detailDateA >= detailDateB) {
+    treemapChart.setOption({
+      series: [{ type: "treemap", data: [] }],
+    });
+    setStatus("No diff data between dates (Date A must be earlier than Date B).");
+    return;
+  }
+
+  const rowsA = state.detailRowsByDate.get(detailDateA) || [];
+  const rowsB = state.detailRowsByDate.get(detailDateB) || [];
+  const { grouped, topContributorByPackage } = computeDiffAggregation(rowsA, rowsB, metric, aggregateBy);
+  const data = [...grouped.entries()].map(([name, delta]) => ({
+    name,
+    delta,
+    value: Math.abs(delta),
+  }));
+  const values = data.map((item) => item.value);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+
+  const styledData = data.map((item) => {
+    const normalized = (item.value - min) / ((max - min) || 1);
+    const color = item.delta > 0
+      ? buildTreemapColor(item.value, min, max)
+      : item.delta < 0
+        ? (normalized < 0.5
+          ? interpolateColor(TREEMAP_NEGATIVE_COLOR_SCALE.start, TREEMAP_NEGATIVE_COLOR_SCALE.mid, normalized * 2)
+          : interpolateColor(TREEMAP_NEGATIVE_COLOR_SCALE.mid, TREEMAP_NEGATIVE_COLOR_SCALE.end, (normalized - 0.5) * 2))
+        : TREEMAP_ZERO_COLOR;
+    const textColor = getTreemapLabelColor(normalized);
+
+    return {
+      ...item,
+      itemStyle: { color },
+      label: { color: textColor },
+    };
+  });
+
+  if (data.length === 0) {
+    setStatus("No non-zero diff items between dates.");
+  } else if (detailDateA !== dateA || detailDateB !== dateB) {
+    setStatus(`Treemap uses detailed snapshots ${detailDateA} -> ${detailDateB}.`);
+  } else {
+    setStatus("");
+  }
+
+  treemapChart.setOption(
+    {
+      title: { text: "" },
+      tooltip: {
+        formatter: (params) => {
+          const delta = params.data?.delta || 0;
+          const sign = delta > 0 ? "+" : delta < 0 ? "-" : "";
+          const base = `${params.name}<br/>Δ ${sign}${formatNumber(Math.abs(delta))}`;
+          if (aggregateBy !== "package") return base;
+
+          const topContributor = topContributorByPackage.get(params.name);
+          if (!topContributor) return `${base}<br/>Contributor: N/A`;
+
+          const contributorSign = topContributor.value > 0 ? "+" : topContributor.value < 0 ? "-" : "";
+          return `${base}<br/>Contributor: ${topContributor.name} (${contributorSign}${formatNumber(Math.abs(topContributor.value))} lines)`;
+        },
+      },
+      series: [
+        {
+          type: "treemap",
+          data: styledData,
+          roam: false,
+          nodeClick: false,
+          breadcrumb: { show: false },
+          itemStyle: {
+            borderColor: "#ffffff",
+            borderWidth: 2,
+            gapWidth: 2,
+          },
+          label: {
+            formatter: ({ data: item }) => {
+              const delta = item?.delta || 0;
+              const sign = delta > 0 ? "+" : delta < 0 ? "-" : "";
+              return `${item?.name || ""}\n${sign}${formatNumber(Math.abs(delta))}`;
+            },
+            fontSize: 12,
+            color: ({ data: item }) => item?.label?.color || "#111827",
+          },
+          visibleMin: 300,
+          emphasis: {
+            itemStyle: {
+              shadowBlur: 20,
+              shadowColor: "rgba(0,0,0,0.15)",
+            },
+          },
+        },
+      ],
+    },
+    { notMerge: true }
+  );
+}
+
+function renderSummary(metric, dateA, dateB) {
+  const valueA = getTotalsForDate(dateA, metric)?.[metric] ?? 0;
+  const valueB = getTotalsForDate(dateB, metric)?.[metric] ?? 0;
+  const diff = dateA >= dateB ? 0 : valueB - valueA;
+  const sign = diff > 0 ? "+" : "";
+
+  els.deltaHint.textContent = `Δ ${metricLabel(metric)} (${dateB} - ${dateA}) = ${sign}${formatNumber(diff)}`;
+  els.summary.textContent = `${metricLabel(metric)} | ${dateB} - ${dateA} = ${sign}${formatNumber(diff)}`;
+}
+
 async function init() {
   try {
-    setStatus("Loading CSV data...");
-    const discovered = await discoverDataFiles();
-
-    for (const entry of discovered) {
-      state.fileByDate.set(entry.date, entry.url);
-    }
-
-    state.dates = [...state.fileByDate.keys()].sort((a, b) => {
-      const aTime = new Date(a).getTime();
-      const bTime = new Date(b).getTime();
-
-      if (Number.isFinite(aTime) && Number.isFinite(bTime)) {
-        return aTime - bTime;
-      }
-
-      return a.localeCompare(b);
-    });
+    setStatus("Loading totals history and detailed CSV snapshots...");
+    await loadDetailRowsAndTotals();
+    await loadTotalsHistory();
+    await loadRealtimeTotalsOverride();
+    rebuildAvailableDates();
 
     if (state.dates.length === 0) {
-      throw new Error("No date CSV files found under ./data.");
-    }
-
-    for (const date of state.dates) {
-      const url = state.fileByDate.get(date);
-      const resp = await fetch(url, { cache: "no-store" });
-      if (!resp.ok) {
-        throw new Error(`Failed to load ${url}`);
-      }
-
-      const rows = prepareRows(parseCsv(await resp.text()));
-      state.rowsByDate.set(date, rows);
-      state.totalsByDate.set(date, computeTotals(rows));
+      throw new Error("No date data files found.");
     }
 
     populateDateSelectors();

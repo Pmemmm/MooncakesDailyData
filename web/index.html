@@ -25,6 +25,7 @@
               <option value="line_count">line_count</option>
               <option value="package_count">package_count</option>
               <option value="module_count">module_count</option>
+              <option value="total_download">total_download</option>
             </select>
           </label>
 
@@ -87,7 +88,10 @@
     </main>
 
     <script>
-      window.DATA_DIR = "../data";
+      window.VIEW_MODE = "realtime";
+      window.DETAIL_DATA_DIR = "../data";
+      window.TOTALS_HISTORY_PATH = "../data_daily/stats_history.csv";
+      window.REALTIME_STATS_API = "https://mooncakes.io/api/v0/modules/statistics";
     </script>
     <datalist id="availableDates"></datalist>
     <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
