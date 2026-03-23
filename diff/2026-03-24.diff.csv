@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bikallem/blit,有变化,244,0,298,1,542,1
 SouichiroTsujimoto/astrobit,有变化,8,0,879,4,887,4
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -52,7 +53,6 @@ BigOrangeQWQ/wit-wasi-clocks,无变化,0,0,117,2,117,2
 BigOrangeQWQ/wit-wasi-io,无变化,0,0,838,4,838,4
 BigOrangeQWQ/wit-wasi-random,无变化,0,0,111,3,111,3
 BigThree33/find_min,无变化,0,0,37,2,37,2
-bikallem/blit,无变化,0,0,298,1,298,1
 bikallem/chai,无变化,0,0,4002,2,4002,2
 bikallem/compress,无变化,0,0,32324,16,32324,16
 bikallem/freetype,无变化,0,0,19969,23,19969,23
