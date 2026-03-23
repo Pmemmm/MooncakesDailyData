@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 hiroyannnn/sketch,新增,975,2,0,0,975,2
+mizchi/sol,有变化,1922,1,70026,55,71948,56
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -563,7 +564,6 @@ mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4954,2,4954,2
 mizchi/similarity,无变化,0,0,2664,5,2664,5
-mizchi/sol,无变化,0,0,70026,55,70026,55
 mizchi/sqlc_gen_moonbit,无变化,0,0,24540,30,24540,30
 mizchi/sqlite,无变化,0,0,2232,1,2232,1
 mizchi/starlint,无变化,0,0,17495,7,17495,7
