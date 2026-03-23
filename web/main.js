@@ -630,6 +630,7 @@ function renderLineChart(metric, emphasizeTrend) {
   const trendColor = getCssVar("--trend-color", "#2f80ed");
   const trendFill = getCssVar("--trend-fill", "rgba(47,128,237,0.12)");
   const isDark = document.documentElement.dataset.theme === "dark";
+  const shouldSmooth = metric !== "total_download";
 
   if (chartDates.length === 0) {
     lineChart.setOption(
@@ -678,7 +679,7 @@ function renderLineChart(metric, emphasizeTrend) {
       series: [
         {
           type: "line",
-          smooth: true,
+          smooth: shouldSmooth,
           symbolSize: 6,
           data: values,
           lineStyle: { width: 3, color: isDark ? "#5ea0ff" : trendColor },
