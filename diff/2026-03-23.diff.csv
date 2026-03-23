@@ -1,7 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+dowdiness/alga,新增,1805,1,0,0,1805,1
 hiroyannnn/sketch,新增,975,2,0,0,975,2
 sennenki/2048,新增,1340,1,0,0,1340,1
+SouichiroTsujimoto/astrobit,新增,881,4,0,0,881,4
 mizchi/sol,有变化,1922,1,70026,55,71948,56
+moonbit-community/jsondiff,有变化,-20,0,1496,1,1476,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -601,7 +604,6 @@ moonbit-community/fuzzy_match,无变化,0,0,571,1,571,1
 moonbit-community/ini,无变化,0,0,1794,1,1794,1
 moonbit-community/jade-ui,无变化,0,0,9182,4,9182,4
 moonbit-community/js-ffi,无变化,0,0,1304,1,1304,1
-moonbit-community/jsondiff,无变化,0,0,1496,1,1496,1
 moonbit-community/moongrep,无变化,0,0,639,2,639,2
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/piediff,无变化,0,0,2344,5,2344,5
