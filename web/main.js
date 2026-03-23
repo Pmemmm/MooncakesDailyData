@@ -63,6 +63,7 @@ const state = {
   totalDates: [],
   dates: [],
   selectedRange: "30",
+  detailTotalsReady: false,
 };
 
 const numberFmt = new Intl.NumberFormat("en-US");
@@ -456,7 +457,10 @@ async function warmInitialDetailTotals() {
 
 async function loadRemainingDetailTotalsInBackground() {
   const pendingDates = state.detailDates.filter((date) => !state.detailRowsByDate.has(date));
-  if (pendingDates.length === 0) return;
+  if (pendingDates.length === 0) {
+    state.detailTotalsReady = true;
+    return;
+  }
 
   const batchSize = 4;
   for (let idx = 0; idx < pendingDates.length; idx += batchSize) {
@@ -464,6 +468,7 @@ async function loadRemainingDetailTotalsInBackground() {
     await Promise.all(batch.map((date) => ensureDetailRowsLoaded(date)));
   }
 
+  state.detailTotalsReady = true;
   rebuildAvailableDates();
   renderLineChart(els.metric.value, els.emphasizeTrend.checked);
   renderSummary(els.metric.value, els.dateA.value, els.dateB.value);
@@ -509,6 +514,11 @@ function rebuildAvailableDates() {
 
 function getAvailableDatesForMetric(metric) {
   return state.totalDates.filter((date) => Object.prototype.hasOwnProperty.call(state.totalsByDate.get(date) || {}, metric));
+}
+
+function hasCompleteHistoryForMetric(metric) {
+  if (metric === "total_download") return true;
+  return state.detailTotalsReady;
 }
 
 function getTotalsForDate(date, metric = "") {
@@ -625,6 +635,24 @@ function bindRangeButtons() {
 }
 
 function renderLineChart(metric, emphasizeTrend) {
+  if (!hasCompleteHistoryForMetric(metric)) {
+    lineChart.setOption(
+      {
+        title: {
+          text: "Loading full trend history...",
+          left: "center",
+          top: "middle",
+          textStyle: { fontSize: 14, fontWeight: "normal", color: "#6b7280" },
+        },
+        xAxis: { type: "category", data: [] },
+        yAxis: { type: "value" },
+        series: [{ type: "line", data: [] }],
+      },
+      { notMerge: true }
+    );
+    return;
+  }
+
   const metricDates = getAvailableDatesForMetric(metric);
   const chartDates = metricDates.length > 0 ? metricDates : (metric === "total_download" ? [] : (state.totalDates.length > 0 ? state.totalDates : state.dates));
   const trendColor = getCssVar("--trend-color", "#2f80ed");
@@ -906,6 +934,12 @@ async function renderTreemap(metric, dateA, dateB, aggregateBy) {
 }
 
 function renderSummary(metric, dateA, dateB) {
+  if (!hasCompleteHistoryForMetric(metric)) {
+    els.deltaHint.textContent = `Loading full ${metric} history...`;
+    els.summary.textContent = `${metric} history is still loading...`;
+    return;
+  }
+
   const valueA = getTotalsForDate(dateA, metric)?.[metric] ?? 0;
   const valueB = getTotalsForDate(dateB, metric)?.[metric] ?? 0;
   const diff = dateA >= dateB ? 0 : valueB - valueA;
