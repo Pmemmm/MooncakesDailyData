@@ -348,7 +348,7 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.14.0,70026,55
+sol,mizchi/sol,0.14.1,71948,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
 starlint,mizchi/starlint,0.9.0,17495,7
@@ -928,6 +928,7 @@ jww_parser,horideicom/jww_parser,0.202602.0,2497,3
 example,liuxinbo1984/example,0.1.8,94,2
 srt,angela/srt,0.1.1,1062,3
 vcf,angela/vcf,0.0.5,343,2
+2048,sennenki/2048,0.1.0,1340,1
 abort_hook,sennenki/abort_hook,0.1.0,53,2
 clipboard,sennenki/clipboard,0.1.0,383,1
 ignore,sennenki/ignore,0.1.0,1439,1
