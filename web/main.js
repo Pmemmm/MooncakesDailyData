@@ -462,10 +462,11 @@ async function loadRemainingDetailTotalsInBackground() {
   for (let idx = 0; idx < pendingDates.length; idx += batchSize) {
     const batch = pendingDates.slice(idx, idx + batchSize);
     await Promise.all(batch.map((date) => ensureDetailRowsLoaded(date)));
-    rebuildAvailableDates();
-    renderLineChart(els.metric.value, els.emphasizeTrend.checked);
-    renderSummary(els.metric.value, els.dateA.value, els.dateB.value);
   }
+
+  rebuildAvailableDates();
+  renderLineChart(els.metric.value, els.emphasizeTrend.checked);
+  renderSummary(els.metric.value, els.dateA.value, els.dateB.value);
 }
 
 async function loadTotalsHistory() {
