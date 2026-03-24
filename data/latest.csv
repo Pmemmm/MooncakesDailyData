@@ -730,7 +730,7 @@ diago,Milky2018/diago,0.2.2,109924,30
 gamepad,Milky2018/gamepad,0.4.4,13392,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
-mgstudio,Milky2018/mgstudio,0.1.2,33591,49
+mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.1.8,31966,1
@@ -784,8 +784,8 @@ zls,sohaha/zls,0.1.0,25,2
 bloom_filter,moransky/bloom_filter,0.1.0,105,2
 blit,bikallem/blit,0.2.2,556,1
 chai,bikallem/chai,0.1.0,4002,2
-compress,bikallem/compress,0.3.0,32324,16
-freetype,bikallem/freetype,0.1.0,19969,23
+compress,bikallem/compress,0.3.2,32253,15
+freetype,bikallem/freetype,0.1.1,19866,22
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
 rsignal,bikallem/rsignal,0.3.0,2549,3
@@ -883,6 +883,7 @@ debug,moonbit-community/debug,0.1.3,5992,5
 debug_deriving,moonbit-community/debug_deriving,0.1.1,637,1
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1
+harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21
 ini,moonbit-community/ini,0.2.2,1794,1
 jade-ui,moonbit-community/jade-ui,0.1.0,9182,4
 js-ffi,moonbit-community/js-ffi,0.4.2,1304,1

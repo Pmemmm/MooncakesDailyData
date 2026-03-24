@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+moonbit-community/harfbuzz,新增,214779,21,0,0,214779,21
 sennenki/console,新增,3740,5,0,0,3740,5
 tonyfettes/tree_sitter_bash,新增,31,1,0,0,31,1
 tonyfettes/tree_sitter_c_sharp,新增,31,1,0,0,31,1
@@ -8,6 +9,9 @@ tonyfettes/tree_sitter_sql,新增,28,1,0,0,28,1
 tonyfettes/tree_sitter_toml,新增,31,1,0,0,31,1
 tonyfettes/tree_sitter_zig,新增,30,1,0,0,30,1
 bikallem/blit,有变化,258,0,298,1,556,1
+bikallem/compress,有变化,-71,-1,32324,16,32253,15
+bikallem/freetype,有变化,-103,-1,19969,23,19866,22
+Milky2018/mgstudio,有变化,134805,16,33591,49,168396,65
 Milky2018/selene,有变化,2797,1,42574,53,45371,54
 Milky2018/selene_raylib,有变化,248,0,6606,6,6854,6
 Milky2018/selene_webgpu,有变化,94,0,6339,6,6433,6
@@ -66,8 +70,6 @@ BigOrangeQWQ/wit-wasi-io,无变化,0,0,838,4,838,4
 BigOrangeQWQ/wit-wasi-random,无变化,0,0,111,3,111,3
 BigThree33/find_min,无变化,0,0,37,2,37,2
 bikallem/chai,无变化,0,0,4002,2,4002,2
-bikallem/compress,无变化,0,0,32324,16,32324,16
-bikallem/freetype,无变化,0,0,19969,23,19969,23
 bikallem/mariadb,无变化,0,0,942,4,942,4
 bikallem/reactive,无变化,0,0,555,1,555,1
 bikallem/rsignal,无变化,0,0,2549,3,2549,3
@@ -478,7 +480,6 @@ Milky2018/diago,无变化,0,0,109924,30,109924,30
 Milky2018/gamepad,无变化,0,0,13392,1,13392,1
 Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
-Milky2018/mgstudio,无变化,0,0,33591,49,33591,49
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
 Milky2018/moon_cosmic,无变化,0,0,31966,1,31966,1
 Milky2018/moon_cpal,无变化,0,0,18234,19,18234,19
