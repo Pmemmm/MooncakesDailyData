@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+brickfrog/moontrace,新增,1696,4,0,0,1696,4
 moonbit-community/harfbuzz,新增,214779,21,0,0,214779,21
 sennenki/console,新增,3740,5,0,0,3740,5
 tonyfettes/tree_sitter_bash,新增,31,1,0,0,31,1
