@@ -305,7 +305,7 @@ cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.9,9098,8
 codegen,mizchi/codegen,0.2.3,7115,5
 converge,mizchi/converge,0.1.9,8050,14
-crater,mizchi/crater,0.9.2,147862,42
+crater,mizchi/crater,0.9.4,147956,42
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
 cst,mizchi/cst,0.1.4,2508,4
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3
