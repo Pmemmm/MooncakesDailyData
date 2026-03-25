@@ -940,7 +940,7 @@ vcf,angela/vcf,0.0.5,343,2
 2048,sennenki/2048,0.1.0,1340,1
 abort_hook,sennenki/abort_hook,0.1.0,53,2
 clipboard,sennenki/clipboard,0.1.0,383,1
-console,sennenki/console,0.1.0,3740,5
+console,sennenki/console,0.1.1,3741,5
 ignore,sennenki/ignore,0.1.0,1439,1
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
@@ -992,5 +992,5 @@ golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
-moontrace,brickfrog/moontrace,0.2.0,2192,5
+moontrace,brickfrog/moontrace,0.3.0,2477,5
 astrobit,SouichiroTsujimoto/astrobit,0.1.5,887,4
