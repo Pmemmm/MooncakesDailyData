@@ -7,6 +7,7 @@ Milky2018/moon_cosmic,有变化,64,0,31966,1,32030,1
 Milky2018/moon_rapier,有变化,11233,0,102973,12,114206,12
 Milky2018/moon_rodio,有变化,-41,0,22430,55,22389,55
 mizchi/ast_printer,有变化,184,0,2556,1,2740,1
+mizchi/bit,有变化,1320,0,227493,49,228813,49
 mizchi/glfw,有变化,19,0,462,2,481,2
 mizchi/kagura,有变化,9180,7,60495,51,69675,58
 moonbitlang/parser,有变化,-3516,1,103177,11,99661,12
@@ -512,7 +513,6 @@ MINGtoMING/simdstring,无变化,0,0,289,3,289,3
 misika727/sqrt,无变化,0,0,63,2,63,2
 mizchi/actrun,无变化,0,0,51347,5,51347,5
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,227493,49,227493,49
 mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,18338,3,18338,3
