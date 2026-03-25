@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 1 * * *" # Beijing time 09:00
+    - cron: "30 23 * * *" # Beijing time 07:30 (提前 1.5 小时)
   workflow_dispatch:
 
 jobs:
