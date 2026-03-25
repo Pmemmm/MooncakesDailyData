@@ -105,6 +105,7 @@ rc,tonyfettes/rc,0.1.1,227,1
 small,tonyfettes/small,0.1.0,262,1
 socket,tonyfettes/socket,0.1.2,371,5
 ssl,tonyfettes/ssl,0.1.1,242,2
+starlark,tonyfettes/starlark,0.1.0,14597,7
 submodule-test,tonyfettes/submodule-test,0.1.1,27,2
 telegram-bot,tonyfettes/telegram-bot,0.1.0,28891,1
 tiktoken,tonyfettes/tiktoken,0.2.1,100493,2
@@ -207,7 +208,7 @@ lex,moonbitlang/lex,0.3.9,8652,20
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
-parser,moonbitlang/parser,0.2.3,103177,11
+parser,moonbitlang/parser,0.2.4,99661,12
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
 quickcheck,moonbitlang/quickcheck,0.11.2,4150,7
 regexp,moonbitlang/regexp,0.3.5,12052,5
@@ -294,7 +295,7 @@ test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.23.0,51347,5
-ast_printer,mizchi/ast_printer,0.2.2,2556,1
+ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.34.0,227493,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
@@ -313,7 +314,7 @@ discord,mizchi/discord,0.1.1,1666,3
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
 font,mizchi/font,0.3.1,8687,2
 git,mizchi/git,0.2.0,53603,9
-glfw,mizchi/glfw,0.2.1,462,2
+glfw,mizchi/glfw,0.2.2,481,2
 image,mizchi/image,0.1.1,3797,1
 jq,mizchi/jq,0.2.1,10923,2
 js,mizchi/js,0.10.14,78307,112
@@ -321,7 +322,7 @@ js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.4.3,6617,6
 js_regexp,mizchi/js_regexp,0.0.4,145,2
-kagura,mizchi/kagura,0.2.0,60495,51
+kagura,mizchi/kagura,0.3.1,69675,58
 layout,mizchi/layout,0.2.0,1852,6
 lib,mizchi/lib,0.1.2,118,2
 libgit2,mizchi/libgit2,0.1.0,2525,4
@@ -992,5 +993,5 @@ golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
-moontrace,brickfrog/moontrace,0.3.0,2477,5
+moontrace,brickfrog/moontrace,0.4.0,2859,5
 astrobit,SouichiroTsujimoto/astrobit,0.1.5,887,4
