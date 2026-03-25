@@ -741,7 +741,7 @@ moon_elk,Milky2018/moon_elk,0.1.13,271133,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.3.0,114206,12
-moon_rodio,Milky2018/moon_rodio,0.2.0,22430,55
+moon_rodio,Milky2018/moon_rodio,0.3.0,22389,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.5,46519,3
 moon_swash,Milky2018/moon_swash,0.1.4,67498,7
 moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
@@ -785,7 +785,7 @@ zls,sohaha/zls,0.1.0,25,2
 bloom_filter,moransky/bloom_filter,0.1.0,105,2
 blit,bikallem/blit,0.2.2,556,1
 chai,bikallem/chai,0.1.0,4002,2
-compress,bikallem/compress,0.3.2,32253,15
+compress,bikallem/compress,0.3.3,32288,15
 freetype,bikallem/freetype,0.2.0,19979,22
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
@@ -941,7 +941,7 @@ vcf,angela/vcf,0.0.5,343,2
 2048,sennenki/2048,0.1.0,1340,1
 abort_hook,sennenki/abort_hook,0.1.0,53,2
 clipboard,sennenki/clipboard,0.1.0,383,1
-console,sennenki/console,0.1.1,3741,5
+console,sennenki/console,0.1.3,3757,5
 ignore,sennenki/ignore,0.1.0,1439,1
 immutable,sennenki/immutable,0.1.3,4570,10
 js,sennenki/js,0.1.2,1546,1
