@@ -740,7 +740,7 @@ moon_dagre,Milky2018/moon_dagre,0.2.4,10506,1
 moon_elk,Milky2018/moon_elk,0.1.13,271133,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
-moon_rapier,Milky2018/moon_rapier,0.2.6,102973,12
+moon_rapier,Milky2018/moon_rapier,0.3.0,114206,12
 moon_rodio,Milky2018/moon_rodio,0.2.0,22430,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.5,46519,3
 moon_swash,Milky2018/moon_swash,0.1.4,67498,7
@@ -994,4 +994,4 @@ golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
 moontrace,brickfrog/moontrace,0.4.0,2859,5
-astrobit,SouichiroTsujimoto/astrobit,0.1.5,887,4
+astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4

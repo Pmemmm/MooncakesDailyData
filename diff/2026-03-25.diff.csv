@@ -3,11 +3,13 @@ tonyfettes/starlark,新增,14597,7,0,0,14597,7
 bikallem/freetype,有变化,113,0,19866,22,19979,22
 brickfrog/moontrace,有变化,667,0,2192,5,2859,5
 Milky2018/moon_cosmic,有变化,64,0,31966,1,32030,1
+Milky2018/moon_rapier,有变化,11233,0,102973,12,114206,12
 mizchi/ast_printer,有变化,184,0,2556,1,2740,1
 mizchi/glfw,有变化,19,0,462,2,481,2
 mizchi/kagura,有变化,9180,7,60495,51,69675,58
 moonbitlang/parser,有变化,-3516,1,103177,11,99661,12
 sennenki/console,有变化,1,0,3740,5,3741,5
+SouichiroTsujimoto/astrobit,有变化,129,0,887,4,1016,4
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -478,7 +480,6 @@ Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
 Milky2018/moon_cpal,无变化,0,0,18234,19,18234,19
 Milky2018/moon_dagre,无变化,0,0,10506,1,10506,1
 Milky2018/moon_elk,无变化,0,0,271133,39,271133,39
-Milky2018/moon_rapier,无变化,0,0,102973,12,102973,12
 Milky2018/moon_rodio,无变化,0,0,22430,55,22430,55
 Milky2018/moon_skrifa,无变化,0,0,46519,3,46519,3
 Milky2018/moon_swash,无变化,0,0,67498,7,67498,7
@@ -764,7 +765,6 @@ smallbearrr/NetworkX,无变化,0,0,1907,1,1907,1
 smallbearrr/pandas,无变化,0,0,6324,2,6324,2
 sohaha/zls,无变化,0,0,25,2,25,2
 sombozone/moon_expr,无变化,0,0,4004,7,4004,7
-SouichiroTsujimoto/astrobit,无变化,0,0,887,4,887,4
 structuraBlock/MoonStats,无变化,0,0,328,2,328,2
 suiyunonghen/datetime,无变化,0,0,874,1,874,1
 suiyunonghen/linklist,无变化,0,0,908,1,908,1
