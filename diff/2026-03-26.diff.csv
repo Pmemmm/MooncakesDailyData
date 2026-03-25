@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bikallem/compress,有变化,2576,0,32288,15,34864,15
+bikallem/freetype,有变化,1065,0,19979,22,21044,22
 mizchi/bit,有变化,297,0,228813,49,229110,49
 mizchi/crater,有变化,567,0,147389,42,147956,42
 mizchi/font,有变化,1624,0,8687,2,10311,2
@@ -56,8 +58,6 @@ BigOrangeQWQ/wit-wasi-random,无变化,0,0,111,3,111,3
 BigThree33/find_min,无变化,0,0,37,2,37,2
 bikallem/blit,无变化,0,0,556,1,556,1
 bikallem/chai,无变化,0,0,4002,2,4002,2
-bikallem/compress,无变化,0,0,32288,15,32288,15
-bikallem/freetype,无变化,0,0,19979,22,19979,22
 bikallem/mariadb,无变化,0,0,942,4,942,4
 bikallem/reactive,无变化,0,0,555,1,555,1
 bikallem/rsignal,无变化,0,0,2549,3,2549,3
