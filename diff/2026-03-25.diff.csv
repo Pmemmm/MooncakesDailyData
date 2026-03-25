@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 bikallem/freetype,有变化,113,0,19866,22,19979,22
+Milky2018/moon_cosmic,有变化,64,0,31966,1,32030,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -468,7 +469,6 @@ Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,168396,65,168396,65
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
-Milky2018/moon_cosmic,无变化,0,0,31966,1,31966,1
 Milky2018/moon_cpal,无变化,0,0,18234,19,18234,19
 Milky2018/moon_dagre,无变化,0,0,10506,1,10506,1
 Milky2018/moon_elk,无变化,0,0,271133,39,271133,39
