@@ -6,7 +6,8 @@ bikallem/compress,有变化,2576,0,32288,15,34864,15
 bikallem/freetype,有变化,1065,0,19979,22,21044,22
 mizchi/bit,有变化,297,0,228813,49,229110,49
 mizchi/crater,有变化,2105,0,147389,42,149494,42
-mizchi/font,有变化,1624,0,8687,2,10311,2
+mizchi/font,有变化,1776,0,8687,2,10463,2
+mizchi/svg,有变化,165,0,23746,4,23911,4
 tonyfettes/tree_sitter,有变化,-79,0,7532,6,7453,6
 tonyfettes/tree_sitter_bash,有变化,5,0,31,1,36,1
 tonyfettes/tree_sitter_c,有变化,5,0,30,1,35,1
@@ -602,7 +603,6 @@ mizchi/sol,无变化,0,0,71948,56,71948,56
 mizchi/sqlc_gen_moonbit,无变化,0,0,24540,30,24540,30
 mizchi/sqlite,无变化,0,0,2232,1,2232,1
 mizchi/starlint,无变化,0,0,17495,7,17495,7
-mizchi/svg,无变化,0,0,23746,4,23746,4
 mizchi/syntree,无变化,0,0,29888,34,29888,34
 mizchi/tempfile,无变化,0,0,496,2,496,2
 mizchi/terrain,无变化,0,0,30796,120,30796,120
