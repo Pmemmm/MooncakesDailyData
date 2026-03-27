@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+grandEarshot/anthropic-sdk-moonbit,新增,2926,1,0,0,2926,1
 sennenki/mbt_prompt_services,新增,352,1,0,0,352,1
 mizchi/crater,有变化,349,0,149494,42,149843,42
 oboard/moonbit-eval,有变化,6031,0,54026,5,60057,5
