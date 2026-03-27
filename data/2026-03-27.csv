@@ -787,7 +787,8 @@ bloom_filter,moransky/bloom_filter,0.1.0,105,2
 blit,bikallem/blit,0.2.2,556,1
 chai,bikallem/chai,0.1.0,4002,2
 compress,bikallem/compress,0.3.4,34864,15
-freetype,bikallem/freetype,0.3.0,21044,22
+freetype,bikallem/freetype,0.4.0,34522,24
+image,bikallem/image,0.1.0,13076,9
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
 rsignal,bikallem/rsignal,0.3.0,2549,3
