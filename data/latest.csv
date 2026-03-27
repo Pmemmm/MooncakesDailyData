@@ -787,7 +787,7 @@ bloom_filter,moransky/bloom_filter,0.1.0,105,2
 blit,bikallem/blit,0.2.2,556,1
 chai,bikallem/chai,0.1.0,4002,2
 compress,bikallem/compress,0.3.4,34864,15
-freetype,bikallem/freetype,0.4.0,34522,24
+freetype,bikallem/freetype,0.5.1,42835,25
 image,bikallem/image,0.1.0,13076,9
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
@@ -950,9 +950,9 @@ js,sennenki/js,0.1.2,1546,1
 lens,sennenki/lens,0.1.1,749,1
 lz_string,sennenki/lz_string,0.1.0,1049,1
 mbtify,sennenki/mbtify,0.1.1,209,2
-mbt_prompt_services,sennenki/mbt_prompt_services,0.1.0,352,1
-pretty_prompt,sennenki/pretty_prompt,0.1.0,6632,6
-pretty_prompt_demo,sennenki/pretty_prompt_demo,0.1.1,70,1
+mbt_prompt_services,sennenki/mbt_prompt_services,0.1.1,357,1
+pretty_prompt,sennenki/pretty_prompt,0.1.1,6643,6
+pretty_prompt_demo,sennenki/pretty_prompt_demo,0.1.3,70,1
 process,sennenki/process,0.1.0,708,1
 reisen,sennenki/reisen,0.1.3,21061,11
 sexp,sennenki/sexp,0.1.0,1792,1
