@@ -393,7 +393,7 @@ base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.4.3,948,2
 mocket,oboard/mocket,0.6.11,6673,14
-moonbit-eval,oboard/moonbit-eval,0.8.22,60189,5
+moonbit-eval,oboard/moonbit-eval,0.8.24,60442,5
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
 morm,oboard/morm,0.3.4,20363,17
@@ -788,7 +788,7 @@ bloom_filter,moransky/bloom_filter,0.1.0,105,2
 blit,bikallem/blit,0.2.2,556,1
 chai,bikallem/chai,0.1.0,4002,2
 compress,bikallem/compress,0.3.4,34864,15
-freetype,bikallem/freetype,0.5.2,44203,25
+freetype,bikallem/freetype,0.5.3,50690,26
 image,bikallem/image,0.1.0,13076,9
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
