@@ -1,7 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Milky2018/selene_editor,新增,10272,9,0,0,10272,9
 mizchi/crater-browser,新增,100629,14,0,0,100629,14
 bikallem/freetype,有变化,7855,1,42835,25,50690,26
 brickfrog/moontrace,有变化,283,0,2859,5,3142,5
+Milky2018/selene,有变化,6452,0,45371,54,51823,54
+Milky2018/selene_raylib,有变化,-64,0,6854,6,6790,6
+Milky2018/selene_webgpu,有变化,19,0,6433,6,6452,6
 Milky2018/window,有变化,76,0,20178,13,20254,13
 oboard/moonbit-eval,有变化,253,0,60189,5,60442,5
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -492,10 +496,7 @@ Milky2018/options,无变化,0,0,328,1,328,1
 Milky2018/pacman,无变化,0,0,1121,1,1121,1
 Milky2018/pthread,无变化,0,0,1854,1,1854,1
 Milky2018/pug,无变化,0,0,10601,2,10601,2
-Milky2018/selene,无变化,0,0,45371,54,45371,54
-Milky2018/selene_raylib,无变化,0,0,6854,6,6854,6
 Milky2018/selene_tools,无变化,0,0,470,2,470,2
-Milky2018/selene_webgpu,无变化,0,0,6433,6,6433,6
 Milky2018/selene-canvas,无变化,0,0,591,1,591,1
 Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/sysinfo,无变化,0,0,6305,1,6305,1
