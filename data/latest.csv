@@ -297,7 +297,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.23.0,51347,5
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.36.0,231993,49
+bit,mizchi/bit,0.37.0,233761,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -484,6 +484,7 @@ btoi,justjavac/btoi,0.1.6,895,1
 bytesize,justjavac/bytesize,0.2.0,717,1
 cache_padded,justjavac/cache_padded,0.1.0,1440,1
 case,justjavac/case,0.1.6,1373,1
+clipboard,justjavac/clipboard,0.1.2,530,4
 core_affinity,justjavac/core_affinity,0.2.0,397,2
 ffi,justjavac/ffi,0.2.0,441,1
 glob,justjavac/glob,0.1.3,524,1
@@ -956,7 +957,7 @@ mbt_prompt_services,sennenki/mbt_prompt_services,0.1.2,349,1
 pretty_prompt,sennenki/pretty_prompt,0.1.1,6643,6
 pretty_prompt_demo,sennenki/pretty_prompt_demo,0.1.3,70,1
 process,sennenki/process,0.1.0,708,1
-reisen,sennenki/reisen,0.1.3,21061,11
+reisen,sennenki/reisen,0.1.4,21061,11
 sexp,sennenki/sexp,0.1.0,1792,1
 slugify,sennenki/slugify,0.1.0,806,1
 tsparser,sennenki/tsparser,0.1.2,13828,1
@@ -1001,7 +1002,7 @@ golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
-moontrace,brickfrog/moontrace,0.5.0,3142,5
+moontrace,brickfrog/moontrace,0.5.1,3244,5
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
