@@ -1,6 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 brickfrog/tempo,新增,1647,3,0,0,1647,3
-bobzhang/games,有变化,5159,7,439442,588,444601,595
+bobzhang/games,有变化,7761,7,439442,588,447203,595
 mizchi/bit,有变化,208,0,233761,49,233969,49
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
