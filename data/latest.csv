@@ -34,7 +34,7 @@ contacts,bobzhang/contacts,0.3.1,1652,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
 gallery,bobzhang/gallery,0.2.1,8886,2
-games,bobzhang/games,0.2.0,439442,588
+games,bobzhang/games,0.3.0,444601,595
 hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
@@ -297,7 +297,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.23.0,51347,5
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.37.0,233761,49
+bit,mizchi/bit,0.38.0,233969,49
 bitflow,mizchi/bitflow,0.3.1,13869,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
