@@ -294,7 +294,7 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.26.0,51761,5
+actrun,mizchi/actrun,0.27.0,52553,5
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.38.0,233969,49
@@ -1008,4 +1008,4 @@ tempo,brickfrog/tempo,0.2.1,1647,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
-mdclip,ushironoko/mdclip,0.2.0,585,4
+mdclip,ushironoko/mdclip,0.3.0,625,4
