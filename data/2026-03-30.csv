@@ -273,7 +273,7 @@ msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
-fzip,hustcer/fzip,0.5.5,6246,2
+fzip,hustcer/fzip,0.5.6,6894,2
 nanoid,hustcer/nanoid,0.5.0,1512,2
 tabular,hustcer/tabular,0.5.1,15097,3
 biblatex,Lampese/biblatex,0.1.0,1714,2
@@ -737,7 +737,7 @@ html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
-moon_cosmic,Milky2018/moon_cosmic,0.1.9,32030,1
+moon_cosmic,Milky2018/moon_cosmic,0.2.0,36642,5
 moon_cpal,Milky2018/moon_cpal,0.11.4,18234,19
 moon_dagre,Milky2018/moon_dagre,0.2.4,10506,1
 moon_elk,Milky2018/moon_elk,0.1.13,271133,39

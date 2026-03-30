@@ -3,6 +3,8 @@ moonbit-community/dom_sanitizer,新增,2546,1,0,0,2546,1
 sennenki/ytyj,新增,334,5,0,0,334,5
 ushironoko/mdclip,新增,1553,4,0,0,1553,4
 bobzhang/games,有变化,6359,0,449555,595,455914,595
+hustcer/fzip,有变化,648,0,6246,2,6894,2
+Milky2018/moon_cosmic,有变化,4612,4,32030,1,36642,5
 Milky2018/moon_skrifa,有变化,1338,0,46519,3,47857,3
 Milky2018/moon_swash,有变化,-1070,0,67498,7,66428,7
 Milky2018/selene,有变化,343,0,51823,54,52166,54
@@ -315,7 +317,6 @@ hiroyannnn/strsim,无变化,0,0,861,3,861,3
 horideicom/encoding_sjis,无变化,0,0,7475,2,7475,2
 horideicom/jww_parser,无变化,0,0,2497,3,2497,3
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
-hustcer/fzip,无变化,0,0,6246,2,6246,2
 hustcer/nanoid,无变化,0,0,1512,2,1512,2
 hustcer/tabular,无变化,0,0,15097,3,15097,3
 hzqdf/aoko,无变化,0,0,20,0,20,0
@@ -485,7 +486,6 @@ Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,168396,65,168396,65
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
-Milky2018/moon_cosmic,无变化,0,0,32030,1,32030,1
 Milky2018/moon_cpal,无变化,0,0,18234,19,18234,19
 Milky2018/moon_dagre,无变化,0,0,10506,1,10506,1
 Milky2018/moon_elk,无变化,0,0,271133,39,271133,39
