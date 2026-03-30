@@ -1,10 +1,14 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+moonbit-community/dom_sanitizer,新增,2546,1,0,0,2546,1
 sennenki/ytyj,新增,334,5,0,0,334,5
 ushironoko/mdclip,新增,1553,4,0,0,1553,4
 bobzhang/games,有变化,6359,0,449555,595,455914,595
-Milky2018/selene,有变化,323,0,51823,54,52146,54
-Milky2018/selene_editor,有变化,966,0,10272,9,11238,9
-Milky2018/selene_raylib,有变化,46,0,6790,6,6836,6
+Milky2018/moon_skrifa,有变化,1338,0,46519,3,47857,3
+Milky2018/moon_swash,有变化,-1070,0,67498,7,66428,7
+Milky2018/selene,有变化,343,0,51823,54,52166,54
+Milky2018/selene_editor,有变化,958,0,10272,9,11230,9
+Milky2018/selene_raylib,有变化,690,0,6790,6,7480,6
+Milky2018/selene_webgpu,有变化,134,0,6452,6,6586,6
 mizchi/actrun,有变化,1206,0,51347,5,52553,5
 moonbit-community/rabbita,有变化,18,0,18643,14,18661,14
 moonbitlang/core,有变化,5606,4,150855,67,156461,71
@@ -487,8 +491,6 @@ Milky2018/moon_dagre,无变化,0,0,10506,1,10506,1
 Milky2018/moon_elk,无变化,0,0,271133,39,271133,39
 Milky2018/moon_rapier,无变化,0,0,114206,12,114206,12
 Milky2018/moon_rodio,无变化,0,0,22389,55,22389,55
-Milky2018/moon_skrifa,无变化,0,0,46519,3,46519,3
-Milky2018/moon_swash,无变化,0,0,67498,7,67498,7
 Milky2018/moon_taffy,无变化,0,0,57409,2,57409,2
 Milky2018/moon_yazi,无变化,0,0,3593,1,3593,1
 Milky2018/moon_zeno,无变化,0,0,6338,1,6338,1
@@ -500,7 +502,6 @@ Milky2018/pacman,无变化,0,0,1121,1,1121,1
 Milky2018/pthread,无变化,0,0,1854,1,1854,1
 Milky2018/pug,无变化,0,0,10601,2,10601,2
 Milky2018/selene_tools,无变化,0,0,470,2,470,2
-Milky2018/selene_webgpu,无变化,0,0,6452,6,6452,6
 Milky2018/selene-canvas,无变化,0,0,591,1,591,1
 Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/sysinfo,无变化,0,0,6305,1,6305,1
