@@ -1,9 +1,12 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+justjavac/auto_launch,新增,1874,4,0,0,1874,4
 moonbit-community/dom_sanitizer,新增,2546,1,0,0,2546,1
 sennenki/ytyj,新增,334,5,0,0,334,5
 ushironoko/mdclip,新增,1553,4,0,0,1553,4
 bobzhang/games,有变化,6359,0,449555,595,455914,595
 hustcer/fzip,有变化,648,0,6246,2,6894,2
+justjavac/clipboard,有变化,20,0,530,4,550,4
+justjavac/num_cpus,有变化,28,0,243,2,271,2
 Milky2018/moon_cosmic,有变化,4612,4,32030,1,36642,5
 Milky2018/moon_skrifa,有变化,1338,0,46519,3,47857,3
 Milky2018/moon_swash,有变化,-1070,0,67498,7,66428,7
@@ -373,12 +376,10 @@ justjavac/btoi,无变化,0,0,895,1,895,1
 justjavac/bytesize,无变化,0,0,717,1,717,1
 justjavac/cache_padded,无变化,0,0,1440,1,1440,1
 justjavac/case,无变化,0,0,1373,1,1373,1
-justjavac/clipboard,无变化,0,0,530,4,530,4
 justjavac/core_affinity,无变化,0,0,397,2,397,2
 justjavac/ffi,无变化,0,0,441,1,441,1
 justjavac/glob,无变化,0,0,524,1,524,1
 justjavac/itoa,无变化,0,0,675,1,675,1
-justjavac/num_cpus,无变化,0,0,243,2,243,2
 justjavac/webview,无变化,0,0,1261,17,1261,17
 justjavac/win32_messagebox,无变化,0,0,216,1,216,1
 justjoheinz/complex,无变化,0,0,164,1,164,1
