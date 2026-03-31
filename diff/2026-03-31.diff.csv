@@ -1,8 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cg-zhou/drawille,新增,584,2,0,0,584,2
+justjavac/dirs,新增,1425,1,0,0,1425,1
 mizchi/vfs,新增,633,4,0,0,633,4
 moonbit-community/sqlparser,新增,14703,2,0,0,14703,2
-bobzhang/games,有变化,39093,25,455914,595,495007,620
+bobzhang/games,有变化,112654,144,455914,595,568568,739
 CAIMEOX/symbit,有变化,27511,0,172820,50,200331,50
 Kaida-Amethyst/sdl3,有变化,4230,1,18709,3,22939,4
 Milky2018/gamepad,有变化,-11,0,13392,1,13381,1
@@ -16,6 +17,8 @@ Milky2018/selene_raylib,有变化,224,0,7480,6,7704,6
 Milky2018/selene_webgpu,有变化,3,0,6586,6,6589,6
 mizchi/actrun,有变化,5497,4,52553,5,58050,9
 mizchi/crater,有变化,2165,0,151404,42,153569,42
+mizchi/pixelmatch,有变化,502,1,2621,3,3123,4
+mizchi/zlib,有变化,786,3,2218,2,3004,5
 moonbit-community/sqlite3,有变化,232,0,515,2,747,2
 moonbitlang/parser,有变化,5,0,99661,12,99666,12
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -568,7 +571,6 @@ mizchi/npm_typed,无变化,0,0,83306,103,83306,103
 mizchi/numbt,无变化,0,0,4602,1,4602,1
 mizchi/oci_wasm,无变化,0,0,2061,7,2061,7
 mizchi/parquet,无变化,0,0,9417,2,9417,2
-mizchi/pixelmatch,无变化,0,0,2621,3,2621,3
 mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
 mizchi/protocol,无变化,0,0,803,2,803,2
@@ -606,7 +608,6 @@ mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,49049,16,49049,16
 mizchi/x,无变化,0,0,9407,8,9407,8
-mizchi/zlib,无变化,0,0,2218,2,2218,2
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
 moonbit-community/cmark,无变化,0,0,30339,7,30339,7
 moonbit-community/debug,无变化,0,0,5992,5,5992,5

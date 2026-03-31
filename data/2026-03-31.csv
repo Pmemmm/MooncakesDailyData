@@ -34,7 +34,7 @@ contacts,bobzhang/contacts,0.3.1,1652,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
 gallery,bobzhang/gallery,0.2.1,8886,2
-games,bobzhang/games,0.9.23,495007,620
+games,bobzhang/games,0.9.24,568568,739
 hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
@@ -305,7 +305,7 @@ cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.9,9098,8
 codegen,mizchi/codegen,0.2.3,7115,5
 converge,mizchi/converge,0.1.9,8050,14
-crater,mizchi/crater,0.13.0,153569,42
+crater,mizchi/crater,0.14.0,153569,42
 crater-browser,mizchi/crater-browser,0.2.0,100629,14
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
 cst,mizchi/cst,0.1.4,2508,4
@@ -316,7 +316,7 @@ flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
 font,mizchi/font,0.7.0,10463,2
 git,mizchi/git,0.2.0,53603,9
 glfw,mizchi/glfw,0.2.2,481,2
-image,mizchi/image,0.1.1,3797,1
+image,mizchi/image,0.1.2,3797,1
 jq,mizchi/jq,0.2.1,10923,2
 js,mizchi/js,0.10.14,78307,112
 js_io,mizchi/js_io,0.1.1,170,2
@@ -347,7 +347,7 @@ npm_typed,mizchi/npm_typed,0.1.11,83306,103
 numbt,mizchi/numbt,0.2.2,4602,1
 oci_wasm,mizchi/oci_wasm,0.5.0,2061,7
 parquet,mizchi/parquet,0.2.0,9417,2
-pixelmatch,mizchi/pixelmatch,0.3.5,2621,3
+pixelmatch,mizchi/pixelmatch,0.4.1,3123,4
 playwright,mizchi/playwright,0.3.7,8363,4
 process_pool,mizchi/process_pool,0.1.3,1162,2
 protocol,mizchi/protocol,0.0.5,803,2
@@ -386,7 +386,7 @@ wit,mizchi/wit,0.3.0,4397,2
 wite,mizchi/wite,0.11.0,49049,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
 x,mizchi/x,0.1.7,9407,8
-zlib,mizchi/zlib,0.3.3,2218,2
+zlib,mizchi/zlib,0.4.0,3004,5
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
 assets,oboard/assets,0.1.1,182,1
@@ -488,6 +488,7 @@ cache_padded,justjavac/cache_padded,0.1.0,1440,1
 case,justjavac/case,0.1.6,1373,1
 clipboard,justjavac/clipboard,0.1.3,550,4
 core_affinity,justjavac/core_affinity,0.2.0,397,2
+dirs,justjavac/dirs,0.1.0,1425,1
 ffi,justjavac/ffi,0.2.0,441,1
 glob,justjavac/glob,0.1.3,524,1
 itoa,justjavac/itoa,0.2.0,675,1
