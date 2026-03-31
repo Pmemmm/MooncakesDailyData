@@ -34,7 +34,7 @@ contacts,bobzhang/contacts,0.3.1,1652,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
 gallery,bobzhang/gallery,0.2.1,8886,2
-games,bobzhang/games,0.9.16,471800,596
+games,bobzhang/games,0.9.17,472582,596
 hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
@@ -294,7 +294,7 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.27.0,52553,5
+actrun,mizchi/actrun,0.28.1,58050,9
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
 bit,mizchi/bit,0.38.0,233969,49
