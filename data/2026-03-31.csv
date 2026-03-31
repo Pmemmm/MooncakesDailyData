@@ -34,7 +34,7 @@ contacts,bobzhang/contacts,0.3.1,1652,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
 gallery,bobzhang/gallery,0.2.1,8886,2
-games,bobzhang/games,0.9.20,484022,602
+games,bobzhang/games,0.9.23,495007,620
 hol,bobzhang/hol,0.1.0,5644,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.0,379,2
@@ -738,7 +738,7 @@ html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
-moon_cosmic,Milky2018/moon_cosmic,0.2.0,36642,5
+moon_cosmic,Milky2018/moon_cosmic,0.3.0,50142,8
 moon_cpal,Milky2018/moon_cpal,0.11.5,18326,19
 moon_dagre,Milky2018/moon_dagre,0.2.4,10506,1
 moon_elk,Milky2018/moon_elk,0.1.13,271133,39

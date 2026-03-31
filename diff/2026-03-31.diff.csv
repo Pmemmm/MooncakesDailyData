@@ -1,10 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cg-zhou/drawille,新增,584,2,0,0,584,2
 moonbit-community/sqlparser,新增,14703,2,0,0,14703,2
-bobzhang/games,有变化,28108,7,455914,595,484022,602
+bobzhang/games,有变化,39093,25,455914,595,495007,620
 CAIMEOX/symbit,有变化,27511,0,172820,50,200331,50
 Kaida-Amethyst/sdl3,有变化,4230,1,18709,3,22939,4
 Milky2018/gamepad,有变化,-11,0,13392,1,13381,1
+Milky2018/moon_cosmic,有变化,13500,3,36642,5,50142,8
 Milky2018/moon_cpal,有变化,92,0,18234,19,18326,19
 Milky2018/moon_rapier,有变化,1879,2,114206,12,116085,14
 Milky2018/moon_yazi,有变化,-3,0,3593,1,3590,1
@@ -486,7 +487,6 @@ Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
 Milky2018/mgstudio,无变化,0,0,168396,65,168396,65
 Milky2018/moon_accesskit,无变化,0,0,19019,4,19019,4
-Milky2018/moon_cosmic,无变化,0,0,36642,5,36642,5
 Milky2018/moon_dagre,无变化,0,0,10506,1,10506,1
 Milky2018/moon_elk,无变化,0,0,271133,39,271133,39
 Milky2018/moon_rodio,无变化,0,0,22389,55,22389,55
