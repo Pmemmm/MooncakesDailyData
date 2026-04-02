@@ -1,4 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+tonyfettes/gdk,新增,1888,1,0,0,1888,1
+tonyfettes/gio,新增,40294,1,0,0,40294,1
+tonyfettes/giraffe,新增,426,1,0,0,426,1
+tonyfettes/glib,新增,825,1,0,0,825,1
+tonyfettes/gobject,新增,212,1,0,0,212,1
+tonyfettes/gtk,新增,30949,1,0,0,30949,1
+tonyfettes/pango,新增,1945,1,0,0,1945,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
