@@ -1,6 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 moonbit-community/verified,新增,2729,29,0,0,2729,29
 ubugeeei/vapor_moon,新增,14961,15,0,0,14961,15
+mizchi/bit,有变化,12004,2,233969,49,245973,51
+mizchi/bitflow,有变化,899,0,13869,5,14768,5
 moonbit-community/postgres,有变化,-448,0,9464,11,9016,11
 oboard/mocket,有变化,21,0,6673,14,6694,14
 tonyfettes/url,有变化,9756,0,3360,1,13116,1
@@ -522,8 +524,6 @@ misika727/sqrt,无变化,0,0,63,2,63,2
 mizchi/actrun,无变化,0,0,58050,9,58050,9
 mizchi/ast_printer,无变化,0,0,2740,1,2740,1
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,233969,49,233969,49
-mizchi/bitflow,无变化,0,0,13869,5,13869,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,18338,3,18338,3
 mizchi/cbor,无变化,0,0,1323,2,1323,2
