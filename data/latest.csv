@@ -502,8 +502,8 @@ ffi,justjavac/ffi,0.2.0,441,1
 glob,justjavac/glob,0.1.3,524,1
 itoa,justjavac/itoa,0.2.0,675,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
-terminal_size,justjavac/terminal_size,0.1.1,326,2
-walkdir,justjavac/walkdir,0.1.0,394,4
+terminal_size,justjavac/terminal_size,0.1.2,310,2
+walkdir,justjavac/walkdir,0.1.3,394,4
 webview,justjavac/webview,0.1.10,1261,17
 win32_messagebox,justjavac/win32_messagebox,0.1.1,216,1
 datetime,suiyunonghen/datetime,0.1.6,874,1
@@ -1031,3 +1031,4 @@ anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
 mdclip,ushironoko/mdclip,0.4.0,1553,4
 vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
 meow,xrr2016/meow,0.4.0,43,1
+Halo,wflixu/Halo,0.5.1,1837,7
