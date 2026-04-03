@@ -9,6 +9,7 @@ tonyfettes/gobject,新增,212,1,0,0,212,1
 tonyfettes/gtk,新增,30949,1,0,0,30949,1
 tonyfettes/pango,新增,1945,1,0,0,1945,1
 xrr2016/meow,新增,50,2,0,0,50,2
+mizchi/zlib,有变化,12,0,3004,5,3016,5
 tonyfettes/c,有变化,2307,1,5069,22,7376,23
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -617,7 +618,6 @@ mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,49049,16,49049,16
 mizchi/x,无变化,0,0,9407,8,9407,8
-mizchi/zlib,无变化,0,0,3004,5,3004,5
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
 moonbit-community/cmark,无变化,0,0,30339,7,30339,7
 moonbit-community/debug,无变化,0,0,5992,5,5992,5
