@@ -1,5 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 justjavac/sys_locale,新增,650,3,0,0,650,3
+mizchi/flaker,新增,5982,20,0,0,5982,20
+sacckey/moon8bit,新增,3115,7,0,0,3115,7
 xrr2016/rmdir,新增,64,1,0,0,64,1
 xrr2016/meow,有变化,4,1,43,1,47,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1

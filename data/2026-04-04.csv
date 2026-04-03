@@ -320,6 +320,7 @@ cst,mizchi/cst,0.1.4,2508,4
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3
 differentiable_ecs,mizchi/differentiable_ecs,0.2.0,682,3
 discord,mizchi/discord,0.1.1,1666,3
+flaker,mizchi/flaker,0.0.1,5982,20
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
 font,mizchi/font,0.7.0,10463,2
 git,mizchi/git,0.2.0,53603,9
@@ -987,6 +988,7 @@ ulid,paveg/ulid,0.1.0,962,1
 channel,bnyu2/channel,0.1.1,967,2
 mongodb,allain/mongodb,0.1.1,9540,3
 lunaboy,sacckey/lunaboy,0.1.2,4639,3
+moon8bit,sacckey/moon8bit,0.1.0,3115,7
 sha256,shu-kitamura/sha256,0.1.1,263,1
 isobmff,trkbt10/isobmff,0.1.0,1655,5
 jpeg2000,trkbt10/jpeg2000,0.2.0,36963,25
