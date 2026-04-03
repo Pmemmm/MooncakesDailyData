@@ -71,7 +71,7 @@ any,tonyfettes/any,0.1.5,358,1
 assert,tonyfettes/assert,0.1.0,119,1
 atomics,tonyfettes/atomics,0.1.0,183,2
 base64,tonyfettes/base64,0.1.0,244,1
-c,tonyfettes/c,0.7.4,5069,22
+c,tonyfettes/c,0.7.7,7376,23
 create-moonbit-raylib-android-app,tonyfettes/create-moonbit-raylib-android-app,0.1.0,4618,1
 dl,tonyfettes/dl,0.1.1,149,1
 dotenv,tonyfettes/dotenv,0.4.1,1379,1
@@ -502,6 +502,7 @@ glob,justjavac/glob,0.1.3,524,1
 itoa,justjavac/itoa,0.2.0,675,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
 terminal_size,justjavac/terminal_size,0.1.1,326,2
+walkdir,justjavac/walkdir,0.1.0,394,4
 webview,justjavac/webview,0.1.10,1261,17
 win32_messagebox,justjavac/win32_messagebox,0.1.1,216,1
 datetime,suiyunonghen/datetime,0.1.6,874,1
