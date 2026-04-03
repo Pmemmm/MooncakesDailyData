@@ -396,6 +396,7 @@ x,mizchi/x,0.1.7,9407,8
 zlib,mizchi/zlib,0.4.0,3004,5
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
+apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2

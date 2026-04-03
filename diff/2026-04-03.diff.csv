@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+oboard/apple_silicon_accelerometer,新增,406,2,0,0,406,2
 tonyfettes/gdk,新增,1888,1,0,0,1888,1
 tonyfettes/gio,新增,40294,1,0,0,40294,1
 tonyfettes/giraffe,新增,426,1,0,0,426,1
