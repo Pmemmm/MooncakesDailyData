@@ -302,10 +302,10 @@ moonorm,summer-boythink/moonorm,0.1.0,34,3
 test,lynzrand/test,0.4.16,11,1
 aegis,jedisct1/aegis,0.2.1,1131,2
 core-extra,loneoutpost/core-extra,0.0.6,926,3
-actrun,mizchi/actrun,0.28.1,58050,9
+actrun,mizchi/actrun,0.29.1,59799,10
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.39.2,245973,51
+bit,mizchi/bit,0.40.0,252209,51
 bitflow,mizchi/bitflow,0.4.0,14768,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3

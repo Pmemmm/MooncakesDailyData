@@ -4,6 +4,8 @@ mizchi/flaker,新增,5982,20,0,0,5982,20
 sacckey/moon8bit,新增,3115,7,0,0,3115,7
 xrr2016/rmdir,新增,85,2,0,0,85,2
 CAIMEOX/symbit,有变化,16599,1,200331,50,216930,51
+mizchi/actrun,有变化,1749,1,58050,9,59799,10
+mizchi/bit,有变化,6236,0,245973,51,252209,51
 xrr2016/meow,有变化,4,1,43,1,47,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -520,10 +522,8 @@ MINGtoMING/bzip2,无变化,0,0,137,1,137,1
 MINGtoMING/datetime,无变化,0,0,531,1,531,1
 MINGtoMING/simdstring,无变化,0,0,289,3,289,3
 misika727/sqrt,无变化,0,0,63,2,63,2
-mizchi/actrun,无变化,0,0,58050,9,58050,9
 mizchi/ast_printer,无变化,0,0,2740,1,2740,1
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,245973,51,245973,51
 mizchi/bitflow,无变化,0,0,14768,5,14768,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,18338,3,18338,3
