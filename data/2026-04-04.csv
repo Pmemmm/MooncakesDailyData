@@ -250,7 +250,7 @@ quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1
 state,CAIMEOX/state,0.1.1,335,1
 svg,CAIMEOX/svg,0.1.2,1497,1
-symbit,CAIMEOX/symbit,0.5.0,200331,50
+symbit,CAIMEOX/symbit,0.5.1,216930,51
 t,CAIMEOX/t,0.1.0,215,1
 vlq,CAIMEOX/vlq,0.1.0,241,1
 zipper,CAIMEOX/zipper,0.1.0,257,1
