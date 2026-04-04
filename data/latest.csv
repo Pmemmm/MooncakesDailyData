@@ -817,7 +817,7 @@ image,bikallem/image,0.1.0,13076,9
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
 rsignal,bikallem/rsignal,0.3.0,2549,3
-webapi,bikallem/webapi,0.4.5,200936,11
+webapi,bikallem/webapi,0.4.6,182745,2
 readline.mbt,allwefantasy/readline.mbt,0.1.0,2457,2
 binaryPrimitives,AXiX-official/binaryPrimitives,0.1.2,317,1
 xxhash,AXiX-official/xxhash,0.1.0,322,1
@@ -1040,6 +1040,6 @@ anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
 mdclip,ushironoko/mdclip,0.4.0,1553,4
 vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
 meow,xrr2016/meow,0.12.0,103,2
-rmdir,xrr2016/rmdir,0.4.0,85,2
+rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 Halo,wflixu/Halo,0.5.1,1837,7
