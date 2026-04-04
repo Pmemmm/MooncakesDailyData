@@ -309,7 +309,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.29.1,59799,10
 ast_printer,mizchi/ast_printer,0.2.3,2740,1
 audio,mizchi/audio,0.1.0,5420,1
-bit,mizchi/bit,0.40.1,252313,51
+bit,mizchi/bit,0.40.2,253540,51
 bitflow,mizchi/bitflow,0.4.0,14768,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
@@ -374,7 +374,7 @@ similarity,mizchi/similarity,0.2.1,2664,5
 sol,mizchi/sol,0.14.1,71948,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
-starlint,mizchi/starlint,0.10.0,18208,7
+starlint,mizchi/starlint,0.10.1,18204,7
 svg,mizchi/svg,0.2.0,23911,4
 syntree,mizchi/syntree,0.2.3,29888,34
 tempfile,mizchi/tempfile,0.1.2,496,2
@@ -504,7 +504,7 @@ clipboard,justjavac/clipboard,0.1.4,586,4
 core_affinity,justjavac/core_affinity,0.2.2,332,2
 dirs,justjavac/dirs,0.1.0,1425,1
 ffi,justjavac/ffi,0.2.0,441,1
-glob,justjavac/glob,0.1.4,472,1
+glob,justjavac/glob,0.1.5,472,1
 itoa,justjavac/itoa,0.2.2,757,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
 replace_self,justjavac/replace_self,0.1.0,1097,2
