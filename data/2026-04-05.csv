@@ -500,11 +500,11 @@ auto_launch,justjavac/auto_launch,0.1.0,1874,4
 btoi,justjavac/btoi,0.1.7,1057,1
 bytesize,justjavac/bytesize,0.2.0,717,1
 cache_padded,justjavac/cache_padded,0.1.0,1440,1
-case,justjavac/case,0.1.8,1132,1
+case,justjavac/case,0.2.0,1308,1
 clipboard,justjavac/clipboard,0.1.4,586,4
 core_affinity,justjavac/core_affinity,0.2.2,332,2
 dirs,justjavac/dirs,0.1.0,1425,1
-ffi,justjavac/ffi,0.2.0,441,1
+ffi,justjavac/ffi,0.2.1,201,1
 glob,justjavac/glob,0.1.5,472,1
 itoa,justjavac/itoa,0.2.2,757,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
@@ -817,7 +817,7 @@ image,bikallem/image,0.1.0,13076,9
 mariadb,bikallem/mariadb,0.0.1,942,4
 reactive,bikallem/reactive,0.2.0,555,1
 rsignal,bikallem/rsignal,0.3.0,2549,3
-webapi,bikallem/webapi,0.4.6,182745,2
+webapi,bikallem/webapi,0.4.8,184770,3
 readline.mbt,allwefantasy/readline.mbt,0.1.0,2457,2
 binaryPrimitives,AXiX-official/binaryPrimitives,0.1.2,317,1
 xxhash,AXiX-official/xxhash,0.1.0,322,1

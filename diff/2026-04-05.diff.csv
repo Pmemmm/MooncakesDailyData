@@ -1,7 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 mizchi/github,新增,1337,11,0,0,1337,11
 xrr2016/tui,新增,518,2,0,0,518,2
-bikallem/webapi,有变化,-18191,-9,200936,11,182745,2
+bikallem/webapi,有变化,-16166,-8,200936,11,184770,3
+justjavac/case,有变化,176,0,1132,1,1308,1
+justjavac/ffi,有变化,-240,0,441,1,201,1
 xrr2016/meow,有变化,56,0,47,2,103,2
 xrr2016/rmdir,有变化,1,0,85,2,86,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -370,11 +372,9 @@ justjavac/auto_launch,无变化,0,0,1874,4,1874,4
 justjavac/btoi,无变化,0,0,1057,1,1057,1
 justjavac/bytesize,无变化,0,0,717,1,717,1
 justjavac/cache_padded,无变化,0,0,1440,1,1440,1
-justjavac/case,无变化,0,0,1132,1,1132,1
 justjavac/clipboard,无变化,0,0,586,4,586,4
 justjavac/core_affinity,无变化,0,0,332,2,332,2
 justjavac/dirs,无变化,0,0,1425,1,1425,1
-justjavac/ffi,无变化,0,0,441,1,441,1
 justjavac/glob,无变化,0,0,472,1,472,1
 justjavac/itoa,无变化,0,0,757,1,757,1
 justjavac/num_cpus,无变化,0,0,271,2,271,2
