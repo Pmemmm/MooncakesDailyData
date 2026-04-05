@@ -1035,7 +1035,7 @@ golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
 moontrace,brickfrog/moontrace,0.6.0,3252,5
-tempo,brickfrog/tempo,0.2.1,1647,3
+tempo,brickfrog/tempo,0.2.3,1760,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
