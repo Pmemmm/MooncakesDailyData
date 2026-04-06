@@ -874,7 +874,7 @@ moonbit_cloudevents,ryota0624/moonbit_cloudevents,0.1.2,510,2
 moonbit_otel,ryota0624/moonbit_otel,0.1.0,10901,14
 moonbit_test_containers,ryota0624/moonbit_test_containers,0.0.4,2530,2
 mustache,ryota0624/mustache,0.0.6,1454,2
-oauth2,ryota0624/oauth2,0.2.1,7892,6
+oauth2,ryota0624/oauth2,0.2.2,7919,6
 opentelemetry_proto_mbt,ryota0624/opentelemetry_proto_mbt,0.0.2,6573,11
 html-parser,cou723/html-parser,0.1.0,794,4
 btree,HCHogan/btree,0.2.1,1129,1
