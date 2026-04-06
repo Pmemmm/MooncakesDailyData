@@ -32,7 +32,7 @@ codex_workflow,bobzhang/codex_workflow,0.1.0,2436,4
 colors,bobzhang/colors,0.8.0,1678,2
 compose-demo,bobzhang/compose-demo,0.1.0,1540,8
 contacts,bobzhang/contacts,0.3.2,1655,4
-crescent,bobzhang/crescent,0.6.11,21049,20
+crescent,bobzhang/crescent,0.7.3,21226,20
 finapp,bobzhang/finapp,0.1.0,2463,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
@@ -336,7 +336,7 @@ jq,mizchi/jq,0.2.1,10923,2
 js,mizchi/js,0.10.15,78311,112
 js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
-jsonschema,mizchi/jsonschema,0.4.3,6617,6
+jsonschema,mizchi/jsonschema,0.8.0,3190,4
 js_regexp,mizchi/js_regexp,0.0.4,145,2
 kagura,mizchi/kagura,0.3.1,69675,58
 layout,mizchi/layout,0.2.0,1852,6
@@ -500,10 +500,10 @@ Learn_Test1,jankin_li/Learn_Test1,0.1.0,25,2
 new_lib,jankin_li/new_lib,0.1.0,25,2
 auto_launch,justjavac/auto_launch,0.1.2,1882,4
 btoi,justjavac/btoi,0.1.7,1057,1
-bytesize,justjavac/bytesize,0.2.0,717,1
+bytesize,justjavac/bytesize,0.2.1,864,1
 cache_padded,justjavac/cache_padded,0.1.0,1440,1
 case,justjavac/case,0.2.0,1308,1
-clipboard,justjavac/clipboard,0.1.4,586,4
+clipboard,justjavac/clipboard,0.1.5,579,4
 core_affinity,justjavac/core_affinity,0.2.2,332,2
 dialog,justjavac/dialog,0.1.1,2284,6
 dirs,justjavac/dirs,0.1.0,1425,1

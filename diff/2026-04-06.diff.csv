@@ -1,12 +1,15 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-bobzhang/crescent,新增,21049,20,0,0,21049,20
+bobzhang/crescent,新增,21226,20,0,0,21226,20
 justjavac/dialog,新增,2284,6,0,0,2284,6
 justjavac/global_hotkey,新增,1306,1,0,0,1306,1
 justjavac/notification,新增,424,1,0,0,424,1
 justjavac/tray,新增,733,5,0,0,733,5
 justjavac/auto_launch,有变化,8,0,1874,4,1882,4
+justjavac/bytesize,有变化,147,0,717,1,864,1
+justjavac/clipboard,有变化,-7,0,586,4,579,4
 justjavac/sys_locale,有变化,80,0,752,3,832,3
 justjavac/windows_subsystem,有变化,5,0,75,1,80,1
+mizchi/jsonschema,有变化,-3427,-2,6617,6,3190,4
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -371,10 +374,8 @@ jtenner/sfo,无变化,0,0,13087,1,13087,1
 Jtian-t/Deque,无变化,0,0,268,1,268,1
 jumpping/baby,无变化,0,0,4270,6,4270,6
 justjavac/btoi,无变化,0,0,1057,1,1057,1
-justjavac/bytesize,无变化,0,0,717,1,717,1
 justjavac/cache_padded,无变化,0,0,1440,1,1440,1
 justjavac/case,无变化,0,0,1308,1,1308,1
-justjavac/clipboard,无变化,0,0,586,4,586,4
 justjavac/core_affinity,无变化,0,0,332,2,332,2
 justjavac/dirs,无变化,0,0,1425,1,1425,1
 justjavac/ffi,无变化,0,0,201,1,201,1
@@ -558,7 +559,6 @@ mizchi/js,无变化,0,0,78311,112,78311,112
 mizchi/js_io,无变化,0,0,170,2,170,2
 mizchi/js_regexp,无变化,0,0,145,2,145,2
 mizchi/json,无变化,0,0,191,1,191,1
-mizchi/jsonschema,无变化,0,0,6617,6,6617,6
 mizchi/kagura,无变化,0,0,69675,58,69675,58
 mizchi/layout,无变化,0,0,1852,6,1852,6
 mizchi/lib,无变化,0,0,118,2,118,2
