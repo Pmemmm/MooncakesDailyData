@@ -211,7 +211,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.17.0,29628,43
-core,moonbitlang/core,0.1.20260330+4d98d95d4,156461,71
+core,moonbitlang/core,0.1.20260407+9f1423bcb,160327,72
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.4,4439,6
