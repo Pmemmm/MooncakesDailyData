@@ -229,7 +229,7 @@ std,moonbitlang/std,0.1.0,99,1
 ulex,moonbitlang/ulex,0.3.27,9920,31
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1
 wasm4,moonbitlang/wasm4,0.2.9,813,1
-x,moonbitlang/x,0.4.41,22507,23
+x,moonbitlang/x,0.4.42,22819,23
 yacc,moonbitlang/yacc,0.7.12,52046,29
 test,Young-Flash/test,0.2.0,25,2
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2
@@ -1015,7 +1015,7 @@ llm_interop,trkbt10/llm_interop,0.3.0,26468,17
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21
 osenv,trkbt10/osenv,0.1.0,1792,6
 subprocess,trkbt10/subprocess,0.2.0,1882,6
-vcdb,trkbt10/vcdb,0.1.0,21335,21
+vcdb,trkbt10/vcdb,0.2.0,30986,25
 hello,tekihei2317/hello,0.0.3,55,2
 mknip,nysopua/mknip,0.1.0,1466,2
 moonbitap,fuwasegu/moonbitap,0.1.0,333,1
@@ -1057,4 +1057,4 @@ rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.5.1,1837,7
-webview,lepus-apps/webview,0.1.1,1374,2
+webview,lepus-apps/webview,0.1.2,2289,3
