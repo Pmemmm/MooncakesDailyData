@@ -760,7 +760,7 @@ datetime,MINGtoMING/datetime,0.1.0,531,1
 simdstring,MINGtoMING/simdstring,0.2.0,289,3
 examine,Penguinsltp/examine,0.1.0,66,2
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3
-diago,Milky2018/diago,0.2.2,109924,30
+diago,Milky2018/diago,0.2.5,137028,32
 gamepad,Milky2018/gamepad,0.4.5,13381,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
@@ -769,15 +769,15 @@ moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.3.0,50142,8
 moon_cpal,Milky2018/moon_cpal,0.11.6,18940,19
-moon_dagre,Milky2018/moon_dagre,0.2.4,10506,1
-moon_elk,Milky2018/moon_elk,0.1.13,271133,39
+moon_dagre,Milky2018/moon_dagre,0.2.5,10424,1
+moon_elk,Milky2018/moon_elk,0.1.14,271139,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.4.0,116085,14
-moon_rodio,Milky2018/moon_rodio,0.3.1,22499,55
+moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
-moon_taffy,Milky2018/moon_taffy,0.2.0,57409,2
+moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
 options,Milky2018/options,0.1.2,328,1
@@ -1057,4 +1057,4 @@ rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.5.1,1837,7
-webview,lepus-apps/webview,0.1.2,2289,3
+webview,lepus-apps/webview,0.1.5,2286,3
