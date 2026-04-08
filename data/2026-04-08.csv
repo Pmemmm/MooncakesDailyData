@@ -512,6 +512,7 @@ ffi,justjavac/ffi,0.2.1,201,1
 glob,justjavac/glob,0.1.5,472,1
 global_hotkey,justjavac/global_hotkey,0.1.2,1418,1
 itoa,justjavac/itoa,0.2.2,757,1
+keepawake,justjavac/keepawake,0.1.0,725,2
 notification,justjavac/notification,0.1.1,435,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
 replace_self,justjavac/replace_self,0.1.1,1142,2
@@ -765,7 +766,7 @@ gamepad,Milky2018/gamepad,0.4.5,13381,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
-moon_accesskit,Milky2018/moon_accesskit,0.2.1,19019,4
+moon_accesskit,Milky2018/moon_accesskit,0.2.2,19180,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.3.0,50142,8
 moon_cpal,Milky2018/moon_cpal,0.11.6,18940,19
@@ -1002,7 +1003,7 @@ tsparser,sennenki/tsparser,0.1.2,13828,1
 ytyj,sennenki/ytyj,0.1.0,334,5
 shadow,zen314/shadow,0.1.0,529,2
 httprouter,paveg/httprouter,0.2.0,1937,2
-molt,paveg/molt,0.1.0,5072,11
+molt,paveg/molt,0.1.7,5072,11
 ulid,paveg/ulid,0.1.0,962,1
 channel,bnyu2/channel,0.1.1,967,2
 mongodb,allain/mongodb,0.1.1,9540,3
