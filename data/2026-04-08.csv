@@ -45,7 +45,7 @@ kanban,bobzhang/kanban,0.3.2,3820,4
 lexer,bobzhang/lexer,0.1.3,599,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.0,887,1
-loop_invariants,bobzhang/loop_invariants,0.3.4,108188,188
+loop_invariants,bobzhang/loop_invariants,0.3.5,128920,193
 mbtexcel,bobzhang/mbtexcel,0.1.4,130597,10
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
@@ -939,7 +939,7 @@ raylib,moonbit-community/raylib,0.3.1,21670,4
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
 starter,moonbit-community/starter,0.2.0,43,1
-verified,moonbit-community/verified,0.0.1,2729,29
+verified,moonbit-community/verified,0.0.2,4118,36
 yaml,moonbit-community/yaml,0.0.4,6251,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
@@ -1046,7 +1046,7 @@ golem_sdk,golemcloud/golem_sdk,0.4.0,65049,66
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.4.0,7657,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 cube_render,yuntian/cube_render,0.0.3,3570,11
-moontrace,brickfrog/moontrace,0.6.0,3252,5
+moontrace,brickfrog/moontrace,0.7.0,3291,5
 tempo,brickfrog/tempo,0.2.3,1760,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
@@ -1058,4 +1058,5 @@ rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.5.1,1837,7
+Orion,wflixu/Orion,0.1.0,2519,8
 webview,lepus-apps/webview,0.1.5,2286,3

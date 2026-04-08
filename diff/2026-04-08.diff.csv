@@ -2,6 +2,9 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 justjavac/keepawake,新增,725,2,0,0,725,2
 Tigls/mb-getrandom,新增,210,1,0,0,210,1
 Tigls/mb-hash,新增,898,1,0,0,898,1
+wflixu/Orion,新增,2519,8,0,0,2519,8
+bobzhang/loop_invariants,有变化,20732,5,108188,188,128920,193
+brickfrog/moontrace,有变化,39,0,3252,5,3291,5
 lepus-apps/webview,有变化,912,1,1374,2,2286,3
 Milky2018/diago,有变化,27104,2,109924,30,137028,32
 Milky2018/moon_accesskit,有变化,161,0,19019,4,19180,4
@@ -10,6 +13,7 @@ Milky2018/moon_dagre,有变化,-82,0,10506,1,10424,1
 Milky2018/moon_elk,有变化,6,0,271133,39,271139,39
 Milky2018/moon_rodio,有变化,215,0,22499,55,22714,55
 Milky2018/moon_taffy,有变化,804,0,57409,2,58213,2
+moonbit-community/verified,有变化,1389,7,2729,29,4118,36
 moonbitlang/x,有变化,312,0,22507,23,22819,23
 trkbt10/vcdb,有变化,9651,4,21335,21,30986,25
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -98,7 +102,6 @@ bobzhang/kanban,无变化,0,0,3820,4,3820,4
 bobzhang/lexer,无变化,0,0,599,1,599,1
 bobzhang/liquid,无变化,0,0,3145,2,3145,2
 bobzhang/lisp_interpreter,无变化,0,0,887,1,887,1
-bobzhang/loop_invariants,无变化,0,0,108188,188,108188,188
 bobzhang/mbtexcel,无变化,0,0,130597,10,130597,10
 bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
 bobzhang/moonjq,无变化,0,0,10898,3,10898,3
@@ -123,7 +126,6 @@ bobzhang/uuidm,无变化,0,0,2192,1,2192,1
 bobzhang/vg,无变化,0,0,6383,6,6383,6
 bobzhang/zip,无变化,0,0,17585,16,17585,16
 bobzhang/zipc,无变化,0,0,6456,6,6456,6
-brickfrog/moontrace,无变化,0,0,3252,5,3252,5
 brickfrog/tempo,无变化,0,0,1760,3,1760,3
 buggg-hfc/hello,无变化,0,0,83,3,83,3
 bzy-debug/cowsay,无变化,0,0,90,2,90,2
@@ -651,7 +653,6 @@ moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,747,2,747,2
 moonbit-community/sqlparser,无变化,0,0,14703,2,14703,2
 moonbit-community/starter,无变化,0,0,43,1,43,1
-moonbit-community/verified,无变化,0,0,2729,29,2729,29
 moonbit-community/yaml,无变化,0,0,6251,1,6251,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
