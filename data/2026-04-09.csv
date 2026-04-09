@@ -332,7 +332,7 @@ font,mizchi/font,0.7.0,10463,2
 git,mizchi/git,0.2.0,53603,9
 github,mizchi/github,0.1.2,1337,11
 glfw,mizchi/glfw,0.2.2,481,2
-image,mizchi/image,0.1.2,3797,1
+image,mizchi/image,0.3.0,5934,1
 jq,mizchi/jq,0.2.1,10923,2
 js,mizchi/js,0.10.15,78311,112
 js_io,mizchi/js_io,0.1.1,170,2
@@ -387,7 +387,7 @@ threads,mizchi/threads,0.1.2,6944,12
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 tornado,mizchi/tornado,0.5.0,9070,12
 ts,mizchi/ts,0.1.2,72195,8
-tui,mizchi/tui,0.8.0,36737,34
+tui,mizchi/tui,0.9.0,36909,34
 v8,mizchi/v8,0.2.0,7480,2
 vfs,mizchi/vfs,0.2.2,2686,8
 wasi,mizchi/wasi,0.1.2,3654,28
