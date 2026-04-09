@@ -211,7 +211,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.17.0,29628,43
-core,moonbitlang/core,0.1.20260407+9f1423bcb,160327,72
+core,moonbitlang/core,0.1.20260409+9a9aff28a,160327,72
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.4,4439,6
@@ -1017,7 +1017,7 @@ llm_interop,trkbt10/llm_interop,0.3.0,26468,17
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21
 osenv,trkbt10/osenv,0.1.0,1792,6
 subprocess,trkbt10/subprocess,0.2.0,1882,6
-vcdb,trkbt10/vcdb,0.2.0,30986,25
+vcdb,trkbt10/vcdb,0.3.0,34280,25
 hello,tekihei2317/hello,0.0.3,55,2
 mknip,nysopua/mknip,0.1.0,1466,2
 moonbitap,fuwasegu/moonbitap,0.1.0,333,1
