@@ -32,7 +32,7 @@ codex_workflow,bobzhang/codex_workflow,0.1.0,2436,4
 colors,bobzhang/colors,0.8.0,1678,2
 compose-demo,bobzhang/compose-demo,0.1.0,1540,8
 contacts,bobzhang/contacts,0.3.2,1655,4
-crescent,bobzhang/crescent,0.8.1,20865,19
+crescent,bobzhang/crescent,0.8.5,21248,19
 finapp,bobzhang/finapp,0.1.0,2463,4
 flowgraph,bobzhang/flowgraph,0.1.0,1105,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.0,1223,2
@@ -1059,4 +1059,4 @@ tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.5.1,1837,7
 Orion,wflixu/Orion,0.1.0,2519,8
-webview,lepus-apps/webview,0.1.8,3100,3
+webview,lepus-apps/webview,0.1.9,3105,3
