@@ -4,6 +4,8 @@ lepus-apps/lepus,新增,3739,67,0,0,3739,67
 bobzhang/crescent,有变化,453,-1,20795,20,21248,19
 brickfrog/tempo,有变化,294,0,1760,3,2054,3
 lepus-apps/webview,有变化,819,0,2286,3,3105,3
+moonbitlang/x,有变化,31,0,22819,23,22850,23
+moonbitlang/yacc,有变化,725,0,52046,29,52771,29
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -673,8 +675,6 @@ moonbitlang/std,无变化,0,0,99,1,99,1
 moonbitlang/ulex,无变化,0,0,9920,31,9920,31
 moonbitlang/ulex-runtime,无变化,0,0,131,1,131,1
 moonbitlang/wasm4,无变化,0,0,813,1,813,1
-moonbitlang/x,无变化,0,0,22819,23,22819,23
-moonbitlang/yacc,无变化,0,0,52046,29,52046,29
 moonrockz/cucumber-expressions,无变化,0,0,3208,1,3208,1
 moonrockz/cucumber-messages,无变化,0,0,3958,1,3958,1
 moonrockz/directories,无变化,0,0,743,1,743,1
