@@ -334,7 +334,7 @@ github,mizchi/github,0.1.2,1337,11
 glfw,mizchi/glfw,0.2.2,481,2
 image,mizchi/image,0.3.0,5934,1
 jq,mizchi/jq,0.2.1,10923,2
-js,mizchi/js,0.10.15,78311,112
+js,mizchi/js,0.10.16,78165,112
 js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.8.0,3190,4
@@ -346,7 +346,7 @@ libgit2,mizchi/libgit2,0.1.0,2525,4
 libjit,mizchi/libjit,0.1.1,9787,3
 llm,mizchi/llm,0.2.2,7450,8
 lsp,mizchi/lsp,0.1.2,28260,7
-luna,mizchi/luna,0.18.3,64860,63
+luna,mizchi/luna,0.18.4,65007,63
 markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
@@ -359,7 +359,7 @@ moonlight,mizchi/moonlight,0.1.2,29907,19
 mwac,mizchi/mwac,0.2.0,9887,15
 nn,mizchi/nn,0.1.3,23065,9
 nom,mizchi/nom,0.1.2,3433,3
-npm_typed,mizchi/npm_typed,0.1.11,83306,103
+npm_typed,mizchi/npm_typed,0.1.13,83249,103
 numbt,mizchi/numbt,0.2.2,4602,1
 oci_wasm,mizchi/oci_wasm,0.5.0,2061,7
 parquet,mizchi/parquet,0.2.0,9417,2
@@ -375,7 +375,7 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.14.1,71948,56
+sol,mizchi/sol,0.15.2,71955,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
 sqlite,mizchi/sqlite,0.2.3,2232,1
 starlint,mizchi/starlint,0.10.1,18204,7
@@ -403,7 +403,7 @@ wit,mizchi/wit,0.3.0,4397,2
 wite,mizchi/wite,0.11.0,49049,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
 x,mizchi/x,0.1.7,9407,8
-zlib,mizchi/zlib,0.4.3,3016,5
+zlib,mizchi/zlib,0.4.4,3032,6
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
@@ -869,7 +869,7 @@ unscanny,edragain2nd/unscanny,0.1.2,916,1
 pk-rng-gen3,yatsuna827/pk-rng-gen3,0.1.0,6337,11
 pk-rng-lcg32,yatsuna827/pk-rng-lcg32,0.1.2,265,2
 circuit_breaker,ryota0624/circuit_breaker,0.1.3,995,2
-googleapis,ryota0624/googleapis,0.1.0,37715,18
+googleapis,ryota0624/googleapis,0.2.0,39301,18
 googleauth,ryota0624/googleauth,0.1.0,3110,3
 k6,ryota0624/k6,0.4.1,3490,5
 moonbit_cloudevents,ryota0624/moonbit_cloudevents,0.1.2,510,2
@@ -1052,6 +1052,7 @@ tempo,brickfrog/tempo,0.3.1,2054,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
+moon_switch,grandEarshot/moon_switch,0.1.0,2148,2
 mdclip,ushironoko/mdclip,0.4.0,1553,4
 vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
 meow,xrr2016/meow,0.12.0,103,2
