@@ -515,6 +515,7 @@ itoa,justjavac/itoa,0.2.2,757,1
 keepawake,justjavac/keepawake,0.1.0,725,2
 notification,justjavac/notification,0.1.1,435,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
+quickjs,justjavac/quickjs,0.1.1,1546,5
 replace_self,justjavac/replace_self,0.1.1,1142,2
 sys_locale,justjavac/sys_locale,0.1.4,1024,3
 terminal_size,justjavac/terminal_size,0.1.3,332,2
@@ -1059,4 +1060,5 @@ tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.5.1,1837,7
 Orion,wflixu/Orion,0.1.0,2519,8
+lepus,lepus-apps/lepus,0.1.0,3739,67
 webview,lepus-apps/webview,0.1.9,3105,3

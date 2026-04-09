@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+justjavac/quickjs,新增,1546,5,0,0,1546,5
+lepus-apps/lepus,新增,3739,67,0,0,3739,67
 bobzhang/crescent,有变化,453,-1,20795,20,21248,19
 brickfrog/tempo,有变化,294,0,1760,3,2054,3
 lepus-apps/webview,有变化,819,0,2286,3,3105,3
