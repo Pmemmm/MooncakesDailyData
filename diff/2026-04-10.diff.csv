@@ -1,6 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 moonbit-community/warren,新增,798,4,0,0,798,4
+Tigls/mb-chacha,新增,528,1,0,0,528,1
+Tigls/mb-hmac,新增,318,1,0,0,318,1
+Tigls/mb-jwt,新增,464,1,0,0,464,1
+Bemly/cstdio-ffi,有变化,1005,0,720,2,1725,2
 CAIMEOX/symbit,有变化,18132,3,224190,51,242322,54
+grandEarshot/moon_switch,有变化,-11,0,2148,2,2137,2
 lepus-apps/lepus,有变化,13368,10,3739,67,17107,77
 Milky2018/sysinfo,有变化,205,0,6305,1,6510,1
 Milky2018/window,有变化,499,0,20893,13,21392,13
@@ -39,7 +44,6 @@ AXiX-official/binaryPrimitives,无变化,0,0,317,1,317,1
 AXiX-official/xxhash,无变化,0,0,322,1,322,1
 baka-gourd/quickxorhash,无变化,0,0,575,2,575,2
 baobolong/hello,无变化,0,0,25,2,25,2
-Bemly/cstdio-ffi,无变化,0,0,720,2,720,2
 beso1225/tour,无变化,0,0,91,2,91,2
 BigOrangeQWQ/Bits,无变化,0,0,1419,2,1419,2
 BigOrangeQWQ/fmt,无变化,0,0,910,1,910,1
@@ -294,7 +298,6 @@ gmlewis/zlib,无变化,0,0,706,1,706,1
 golemcloud/golem_sdk,无变化,0,0,65049,66,65049,66
 golemcloud/golem_sdk_tools,无变化,0,0,7657,2,7657,2
 grandEarshot/anthropic-sdk-moonbit,无变化,0,0,2926,1,2926,1
-grandEarshot/moon_switch,无变化,0,0,2148,2,2148,2
 GreyIcesea/isprime,无变化,0,0,41,1,41,1
 Guest0x0/dregex,无变化,0,0,420,1,420,1
 Guest0x0/HAMT,无变化,0,0,273,1,273,1

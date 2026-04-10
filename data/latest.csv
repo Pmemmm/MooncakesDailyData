@@ -814,7 +814,7 @@ incr,dowdiness/incr,0.4.1,10377,5
 js_engine,dowdiness/js_engine,0.1.0,27583,8
 margs,dowdiness/margs,0.1.2,4638,2
 rle,dowdiness/rle,0.1.0,4124,5
-cstdio-ffi,Bemly/cstdio-ffi,0.0.0,720,2
+cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
 mcp,colmugx/mcp,0.5.2,3767,9
 reader,colmugx/reader,0.3.0,228,1
 Introsort,pzl-love/Introsort,0.1.1,320,2
@@ -902,8 +902,11 @@ range,ZijianFeng33/range,0.1.0,159,2
 regexp,ZijianFeng33/regexp,0.1.0,117,2
 strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2
 moon_rsa,Rutubet/moon_rsa,0.2.0,708,2
+mb-chacha,Tigls/mb-chacha,0.1.0,528,1
 mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1
 mb-hash,Tigls/mb-hash,0.1.0,898,1
+mb-hmac,Tigls/mb-hmac,0.1.0,318,1
+mb-jwt,Tigls/mb-jwt,0.1.0,464,1
 firefly,applejag/firefly,0.2.0,2372,4
 micromath,applejag/micromath,0.2.0,655,1
 LunarTUI,FrozenLemonTee/LunarTUI,0.0.1,3792,6
@@ -1055,7 +1058,7 @@ tempo,brickfrog/tempo,0.3.1,2054,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
-moon_switch,grandEarshot/moon_switch,0.1.1,2148,2
+moon_switch,grandEarshot/moon_switch,0.1.2,2137,2
 mdclip,ushironoko/mdclip,0.4.0,1553,4
 vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
 meow,xrr2016/meow,0.12.0,103,2
