@@ -9,6 +9,9 @@ grandEarshot/moon_switch,有变化,-11,0,2148,2,2137,2
 lepus-apps/lepus,有变化,13368,10,3739,67,17107,77
 Milky2018/sysinfo,有变化,205,0,6305,1,6510,1
 Milky2018/window,有变化,499,0,20893,13,21392,13
+mizchi/bit,有变化,1493,0,255115,51,256608,51
+mizchi/tui,有变化,4,0,36909,34,36913,34
+mizchi/x,有变化,24,0,9407,8,9431,8
 moonbitlang/async,有变化,3908,2,29628,43,33536,45
 ryota0624/googleapis,有变化,37,0,39301,18,39338,18
 ryota0624/moonbit_test_containers,有变化,4,0,2530,2,2534,2
@@ -545,7 +548,6 @@ mizchi/actrun,无变化,0,0,59799,10,59799,10
 mizchi/admiral,无变化,0,0,1477,2,1477,2
 mizchi/ast_printer,无变化,0,0,2740,1,2740,1
 mizchi/audio,无变化,0,0,5420,1,5420,1
-mizchi/bit,无变化,0,0,255115,51,255115,51
 mizchi/bitflow,无变化,0,0,14768,5,14768,5
 mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,18338,3,18338,3
@@ -621,7 +623,6 @@ mizchi/threads,无变化,0,0,6944,12,6944,12
 mizchi/tmgrammar,无变化,0,0,72806,42,72806,42
 mizchi/tornado,无变化,0,0,9070,12,9070,12
 mizchi/ts,无变化,0,0,72195,8,72195,8
-mizchi/tui,无变化,0,0,36909,34,36909,34
 mizchi/v8,无变化,0,0,7480,2,7480,2
 mizchi/vfs,无变化,0,0,2686,8,2686,8
 mizchi/wasi,无变化,0,0,3654,28,3654,28
@@ -636,7 +637,6 @@ mizchi/whisper-mbt,无变化,0,0,1318,3,1318,3
 mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,49049,16,49049,16
-mizchi/x,无变化,0,0,9407,8,9407,8
 mizchi/zlib,无变化,0,0,3032,6,3032,6
 moonbit-community/casefold,无变化,0,0,2072,1,2072,1
 moonbit-community/cmark,无变化,0,0,30339,7,30339,7
