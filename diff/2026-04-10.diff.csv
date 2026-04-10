@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-lepus-apps/lepus,有变化,13363,10,3739,67,17102,77
+CAIMEOX/symbit,有变化,18132,3,224190,51,242322,54
+lepus-apps/lepus,有变化,13368,10,3739,67,17107,77
 Milky2018/sysinfo,有变化,205,0,6305,1,6510,1
 Milky2018/window,有变化,499,0,20893,13,21392,13
 ryota0624/googleapis,有变化,37,0,39301,18,39338,18
@@ -146,7 +147,6 @@ CAIMEOX/quickcheck,无变化,0,0,3421,7,3421,7
 CAIMEOX/reed_solomon,无变化,0,0,864,1,864,1
 CAIMEOX/state,无变化,0,0,335,1,335,1
 CAIMEOX/svg,无变化,0,0,1497,1,1497,1
-CAIMEOX/symbit,无变化,0,0,224190,51,224190,51
 CAIMEOX/t,无变化,0,0,215,1,215,1
 CAIMEOX/vlq,无变化,0,0,241,1,241,1
 CAIMEOX/zipper,无变化,0,0,257,1,257,1
