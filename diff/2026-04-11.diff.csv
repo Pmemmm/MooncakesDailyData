@@ -4,6 +4,7 @@ justjavac/template_codegen,新增,1475,3,0,0,1475,3
 bobzhang/crescent,有变化,555,2,21794,19,22349,21
 CAIMEOX/symbit,有变化,3519,0,242322,54,245841,54
 moonbit-community/piediff,有变化,345,-4,2344,5,2689,1
+oboard/moonbit-eval,有变化,8,0,65504,7,65512,7
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -718,7 +719,6 @@ oboard/base16384,无变化,0,0,284,1,284,1
 oboard/mimetype,无变化,0,0,1158,2,1158,2
 oboard/mio,无变化,0,0,948,2,948,2
 oboard/mocket,无变化,0,0,6694,14,6694,14
-oboard/moonbit-eval,无变化,0,0,65504,7,65504,7
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
 oboard/morm,无变化,0,0,21343,18,21343,18

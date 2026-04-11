@@ -414,7 +414,7 @@ base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.4.3,948,2
 mocket,oboard/mocket,0.6.12,6694,14
-moonbit-eval,oboard/moonbit-eval,0.8.25,65504,7
+moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
 morm,oboard/morm,0.3.6,21343,18
