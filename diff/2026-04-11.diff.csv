@@ -1,4 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+justjavac/template,新增,324,1,0,0,324,1
+justjavac/template_codegen,新增,1475,3,0,0,1475,3
+bobzhang/crescent,有变化,555,2,21794,19,22349,21
+CAIMEOX/symbit,有变化,3519,0,242322,54,245841,54
+moonbit-community/piediff,有变化,345,-4,2344,5,2689,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -72,7 +77,6 @@ bobzhang/codex_workflow,无变化,0,0,2436,4,2436,4
 bobzhang/colors,无变化,0,0,1678,2,1678,2
 bobzhang/compose-demo,无变化,0,0,1540,8,1540,8
 bobzhang/contacts,无变化,0,0,1655,4,1655,4
-bobzhang/crescent,无变化,0,0,21794,19,21794,19
 bobzhang/crescent-benchmarks,无变化,0,0,122,4,122,4
 bobzhang/crescent-examples,无变化,0,0,377,7,377,7
 bobzhang/finapp,无变化,0,0,2463,4,2463,4
@@ -141,7 +145,6 @@ CAIMEOX/quickcheck,无变化,0,0,3421,7,3421,7
 CAIMEOX/reed_solomon,无变化,0,0,864,1,864,1
 CAIMEOX/state,无变化,0,0,335,1,335,1
 CAIMEOX/svg,无变化,0,0,1497,1,1497,1
-CAIMEOX/symbit,无变化,0,0,242322,54,242322,54
 CAIMEOX/t,无变化,0,0,215,1,215,1
 CAIMEOX/vlq,无变化,0,0,241,1,241,1
 CAIMEOX/zipper,无变化,0,0,257,1,257,1
@@ -645,7 +648,6 @@ moonbit-community/js-ffi,无变化,0,0,1304,1,1304,1
 moonbit-community/jsondiff,无变化,0,0,1476,1,1476,1
 moonbit-community/moongrep,无变化,0,0,639,2,639,2
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
-moonbit-community/piediff,无变化,0,0,2344,5,2344,5
 moonbit-community/postgres,无变化,0,0,9016,11,9016,11
 moonbit-community/rabbita,无变化,0,0,19203,17,19203,17
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
