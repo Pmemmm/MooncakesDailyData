@@ -317,7 +317,7 @@ bit,mizchi/bit,0.42.1,256608,51
 bitflow,mizchi/bitflow,0.4.1,14768,5
 blas,mizchi/blas,0.1.2,1219,2
 brotli,mizchi/brotli,0.2.0,18338,3
-canvas,mizchi/canvas,0.8.0,5902,1
+canvas,mizchi/canvas,0.9.0,6034,1
 cbor,mizchi/cbor,0.1.1,1323,2
 cloudflare,mizchi/cloudflare,0.1.9,9098,8
 codegen,mizchi/codegen,0.2.3,7115,5
