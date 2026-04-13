@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+applejag/micromath,有变化,5,0,655,1,660,1
 CAIMEOX/symbit,有变化,144,0,256062,55,256206,55
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -23,7 +24,6 @@ amor2025/pad,无变化,0,0,191,1,191,1
 angela/srt,无变化,0,0,1062,3,1062,3
 angela/vcf,无变化,0,0,343,2,343,2
 applejag/firefly,无变化,0,0,2372,4,2372,4
-applejag/micromath,无变化,0,0,655,1,655,1
 ash1day/sql,无变化,0,0,6085,4,6085,4
 Asterless/MoonCoc,无变化,0,0,1074,3,1074,3
 Asterless/MoonPtime,无变化,0,0,908,1,908,1
