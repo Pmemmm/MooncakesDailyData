@@ -801,7 +801,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.11.0,37263,7
+wgpu_mbt,Milky2018/wgpu_mbt,0.12.2,41181,10
 window,Milky2018/window,0.3.1,21392,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
@@ -1046,7 +1046,7 @@ drawille,cg-zhou/drawille,0.1.1,584,2
 sfo,jtenner/sfo,0.1.1,13087,1
 sql,ash1day/sql,0.1.0,6085,4
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
-moonclaw,vectie/moonclaw,0.1.0,871,2
+moonclaw,vectie/moonclaw,0.1.1,252037,112
 moonzip,ivgtr/moonzip,0.2.4,12712,13
 jse,MarchLiu/jse,0.2.1,1685,2
 grapheme,kawaz/grapheme,0.10.2,638,1
