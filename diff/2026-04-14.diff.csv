@@ -2,7 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 Metalymph/relay,新增,474,2,0,0,474,2
 Metalymph/valkey,新增,252,1,0,0,252,1
 applejag/micromath,有变化,5,0,655,1,660,1
-bobzhang/crescent,有变化,536,0,22349,21,22885,21
+bobzhang/crescent,有变化,858,1,22349,21,23207,22
 bobzhang/loop_invariants,有变化,2765,0,128920,193,131685,193
 CAIMEOX/symbit,有变化,144,0,256062,55,256206,55
 Milky2018/selene,有变化,2157,1,53774,54,55931,55
