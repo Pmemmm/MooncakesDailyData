@@ -943,6 +943,7 @@ debug_deriving,moonbit-community/debug_deriving,0.1.1,637,1
 dom_sanitizer,moonbit-community/dom_sanitizer,0.1.0,2546,1
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1
+graphviz,moonbit-community/graphviz,0.1.0,129412,85
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21
 ini,moonbit-community/ini,0.2.2,1794,1
 jade-ui,moonbit-community/jade-ui,0.1.0,9182,4
