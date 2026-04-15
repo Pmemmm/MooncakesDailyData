@@ -1004,6 +1004,7 @@ console,sennenki/console,0.1.3,3757,5
 ignore,sennenki/ignore,0.1.0,1439,1
 immutable,sennenki/immutable,0.1.4,4658,9
 js,sennenki/js,0.1.2,1546,1
+js-ffi,sennenki/js-ffi,0.4.2,1328,1
 lens,sennenki/lens,0.1.1,749,1
 lz_string,sennenki/lz_string,0.1.0,1049,1
 mbtify,sennenki/mbtify,0.1.2,209,2
