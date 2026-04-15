@@ -225,7 +225,7 @@ mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
 parser,moonbitlang/parser,0.2.5,99666,12
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
-quickcheck,moonbitlang/quickcheck,0.11.2,4150,7
+quickcheck,moonbitlang/quickcheck,0.11.3,11703,11
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
 ulex,moonbitlang/ulex,0.3.27,9920,31
@@ -804,7 +804,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.2,218027,43
-wgpu_mbt,Milky2018/wgpu_mbt,0.12.3,41311,10
+wgpu_mbt,Milky2018/wgpu_mbt,0.12.4,41407,10
 window,Milky2018/window,0.3.1,21392,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
