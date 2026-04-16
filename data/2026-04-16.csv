@@ -787,7 +787,7 @@ moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
 moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
-moon_wesl,Milky2018/moon_wesl,0.1.0,2399,1
+moon_wesl,Milky2018/moon_wesl,0.1.1,16484,1
 moon_wgsl,Milky2018/moon_wgsl,0.1.1,7634,1
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
@@ -795,15 +795,15 @@ options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.32.2,55931,55
+selene,Milky2018/selene,0.32.3,59870,58
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
 selene_editor,Milky2018/selene_editor,0.30.5,18896,9
-selene_editor_frontend,Milky2018/selene_editor_frontend,0.32.2,13548,4
-selene_editor_service,Milky2018/selene_editor_service,0.32.2,2626,2
-selene_editor_shared,Milky2018/selene_editor_shared,0.32.2,1145,2
-selene_raylib,Milky2018/selene_raylib,0.32.2,7898,6
+selene_editor_frontend,Milky2018/selene_editor_frontend,0.32.3,14241,4
+selene_editor_service,Milky2018/selene_editor_service,0.32.3,2794,2
+selene_editor_shared,Milky2018/selene_editor_shared,0.32.3,1293,2
+selene_raylib,Milky2018/selene_raylib,0.32.3,8153,6
 selene_tools,Milky2018/selene_tools,0.32.2,470,2
-selene_webgpu,Milky2018/selene_webgpu,0.32.2,6671,6
+selene_webgpu,Milky2018/selene_webgpu,0.32.3,7890,6
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
@@ -1085,3 +1085,4 @@ Halo,wflixu/Halo,0.5.1,1837,7
 Orion,wflixu/Orion,0.1.1,5569,9
 lepus,lepus-apps/lepus,0.1.7,19657,77
 webview,lepus-apps/webview,0.1.11,3111,3
+parkit,cogna-dev/parkit,0.1.0,1750,3
