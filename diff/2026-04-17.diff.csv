@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+cogna-dev/mapi,新增,2138,6,0,0,2138,6
+cogna-dev/x,有变化,1235,2,1447,2,2682,4
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -170,7 +172,6 @@ cogna-dev/hello,无变化,0,0,1109,2,1109,2
 cogna-dev/mcp-sdk,无变化,0,0,2657,3,2657,3
 cogna-dev/parkit,无变化,0,0,1750,3,1750,3
 cogna-dev/sbom,无变化,0,0,4461,13,4461,13
-cogna-dev/x,无变化,0,0,1447,2,1447,2
 colmugx/mcp,无变化,0,0,3767,9,3767,9
 colmugx/reader,无变化,0,0,228,1,228,1
 cou723/html-parser,无变化,0,0,794,4,794,4
