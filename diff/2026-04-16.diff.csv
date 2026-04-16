@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cogna-dev/parkit,新增,1750,3,0,0,1750,3
-Milky2018/moon_wesl,有变化,14085,0,2399,1,16484,1
+Milky2018/moon_wesl,有变化,14393,0,2399,1,16792,1
+Milky2018/moon_wgsl,有变化,584,0,7634,1,8218,1
 Milky2018/selene,有变化,3939,3,55931,55,59870,58
 Milky2018/selene_editor_frontend,有变化,693,0,13548,4,14241,4
 Milky2018/selene_editor_service,有变化,168,0,2626,2,2794,2
@@ -520,7 +521,6 @@ Milky2018/moon_rodio,无变化,0,0,22714,55,22714,55
 Milky2018/moon_skrifa,无变化,0,0,47857,3,47857,3
 Milky2018/moon_swash,无变化,0,0,66428,7,66428,7
 Milky2018/moon_taffy,无变化,0,0,58213,2,58213,2
-Milky2018/moon_wgsl,无变化,0,0,7634,1,7634,1
 Milky2018/moon_yazi,无变化,0,0,3590,1,3590,1
 Milky2018/moon_zeno,无变化,0,0,6338,1,6338,1
 Milky2018/moonchor,无变化,0,0,3803,13,3803,13
