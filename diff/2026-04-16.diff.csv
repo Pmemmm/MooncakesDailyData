@@ -1,5 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+codeworm96/magpiedb,新增,11745,7,0,0,11745,7
 cogna-dev/parkit,新增,1750,3,0,0,1750,3
+cogna-dev/sbom,新增,4461,13,0,0,4461,13
+Kaida-Amethyst/screeps,新增,6542,3,0,0,6542,3
 Milky2018/moon_wesl,有变化,14393,0,2399,1,16792,1
 Milky2018/moon_wgsl,有变化,584,0,7634,1,8218,1
 Milky2018/selene,有变化,3939,3,55931,55,59870,58
