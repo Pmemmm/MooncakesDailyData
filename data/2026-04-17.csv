@@ -960,7 +960,7 @@ sqlite3,moonbit-community/sqlite3,0.1.5,747,2
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
 starter,moonbit-community/starter,0.2.0,43,1
 verified,moonbit-community/verified,0.0.2,4118,36
-warren,moonbit-community/warren,0.1.1,1543,6
+warren,moonbit-community/warren,0.1.3,1822,5
 yaml,moonbit-community/yaml,0.0.4,6251,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
@@ -1093,3 +1093,4 @@ mcp-sdk,cogna-dev/mcp-sdk,0.1.0,2657,3
 parkit,cogna-dev/parkit,0.1.1,1750,3
 sbom,cogna-dev/sbom,0.1.0,4461,13
 x,cogna-dev/x,0.1.2,2733,4
+pi-moonbit,eanzhao/pi-moonbit,0.1.0,31157,8
