@@ -158,8 +158,8 @@ tree_sitter_tsx,tonyfettes/tree_sitter_tsx,0.1.26,37,1
 tree_sitter_typescript,tonyfettes/tree_sitter_typescript,0.1.26,37,1
 tree_sitter_yaml,tonyfettes/tree_sitter_yaml,0.1.26,39,1
 tree_sitter_zig,tonyfettes/tree_sitter_zig,0.1.26,35,1
-tun-poc-proto,tonyfettes/tun-poc-proto,0.1.0,4534,1
-tun-poc-server,tonyfettes/tun-poc-server,0.1.0,2074,8
+tun-poc-proto,tonyfettes/tun-poc-proto,0.1.1,4751,1
+tun-poc-server,tonyfettes/tun-poc-server,0.1.1,2099,8
 unicode,tonyfettes/unicode,0.3.0,11789,5
 uri,tonyfettes/uri,0.1.0,848,1
 url,tonyfettes/url,0.3.1,13116,1
@@ -227,7 +227,7 @@ mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
 parser,moonbitlang/parser,0.2.5,99666,12
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
-quickcheck,moonbitlang/quickcheck,0.11.3,11703,11
+quickcheck,moonbitlang/quickcheck,0.13.0,12982,13
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
 ulex,moonbitlang/ulex,0.3.27,9920,31
@@ -884,7 +884,7 @@ unscanny,edragain2nd/unscanny,0.1.2,916,1
 pk-rng-gen3,yatsuna827/pk-rng-gen3,0.1.0,6337,11
 pk-rng-lcg32,yatsuna827/pk-rng-lcg32,0.1.2,265,2
 circuit_breaker,ryota0624/circuit_breaker,0.1.3,995,2
-googleapis,ryota0624/googleapis,0.2.2,42239,18
+googleapis,ryota0624/googleapis,0.2.3,42279,18
 googleauth,ryota0624/googleauth,0.1.0,3110,3
 k6,ryota0624/k6,0.4.1,3490,5
 moonbit_cloudevents,ryota0624/moonbit_cloudevents,0.1.2,510,2
@@ -1088,8 +1088,8 @@ lepus,lepus-apps/lepus,0.1.7,19657,77
 webview,lepus-apps/webview,0.1.11,3111,3
 magpiedb,codeworm96/magpiedb,0.1.0,11745,7
 hello,cogna-dev/hello,0.1.0,1109,2
-mapi,cogna-dev/mapi,0.1.0,2138,6
+mapi,cogna-dev/mapi,0.1.1,2664,6
 mcp-sdk,cogna-dev/mcp-sdk,0.1.0,2657,3
 parkit,cogna-dev/parkit,0.1.1,1750,3
 sbom,cogna-dev/sbom,0.1.0,4461,13
-x,cogna-dev/x,0.1.1,2682,4
+x,cogna-dev/x,0.1.2,2733,4
