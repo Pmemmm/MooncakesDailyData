@@ -1,6 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cogna-dev/mapi,新增,2664,6,0,0,2664,6
-eanzhao/pi-moonbit,新增,33326,9,0,0,33326,9
+eanzhao/pi-moonbit,新增,33767,9,0,0,33767,9
 tonyfettes/libghostty-vt,新增,5193,18,0,0,5193,18
 cogna-dev/x,有变化,1286,2,1447,2,2733,4
 Milky2018/selene,有变化,-461,0,59870,58,59409,58
