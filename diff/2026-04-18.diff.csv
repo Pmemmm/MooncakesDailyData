@@ -1,7 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cg-zhou/moon_lottie,新增,19074,7,0,0,19074,7
+lenitain/hcl,新增,17478,2,0,0,17478,2
 f4ah6o/duckdb,有变化,385,0,17953,2,18338,2
 ryota0624/googleapis,有变化,1706,3,18476,16,20182,19
+ryota0624/googleauth,有变化,-1,0,3110,3,3109,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -792,7 +794,6 @@ ruifeng/moondsa,无变化,0,0,5202,1,5202,1
 ruifeng/XMLParser,无变化,0,0,4093,2,4093,2
 Rutubet/moon_rsa,无变化,0,0,708,2,708,2
 ryota0624/circuit_breaker,无变化,0,0,995,2,995,2
-ryota0624/googleauth,无变化,0,0,3110,3,3110,3
 ryota0624/k6,无变化,0,0,3490,5,3490,5
 ryota0624/moonbit_cloudevents,无变化,0,0,510,2,510,2
 ryota0624/moonbit_otel,无变化,0,0,10901,14,10901,14
