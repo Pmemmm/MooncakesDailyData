@@ -956,6 +956,7 @@ js-ffi,moonbit-community/js-ffi,0.4.2,1304,1
 jsondiff,moonbit-community/jsondiff,0.1.2,1476,1
 moongrep,moonbit-community/moongrep,0.1.3,639,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
+opentelemetry,moonbit-community/opentelemetry,0.1.1,36496,39
 piediff,moonbit-community/piediff,0.0.9,2689,1
 postgres,moonbit-community/postgres,0.0.4,24685,16
 rabbita,moonbit-community/rabbita,0.11.8,19203,17
@@ -1097,7 +1098,7 @@ hello,cogna-dev/hello,0.1.0,1109,2
 mapi,cogna-dev/mapi,0.1.1,2664,6
 mcp-sdk,cogna-dev/mcp-sdk,0.1.0,2657,3
 parkit,cogna-dev/parkit,0.1.1,1750,3
-sbom,cogna-dev/sbom,0.1.0,4461,13
+sbom,cogna-dev/sbom,0.1.1,4747,13
 x,cogna-dev/x,0.1.2,2733,4
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
 moonbash,Haoxincode/moonbash,0.1.0,45029,10

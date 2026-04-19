@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 justjavac/camera,新增,578,3,0,0,578,3
 justjavac/microphone,新增,547,3,0,0,547,3
 justjavac/platform,新增,551,2,0,0,551,2
+moonbit-community/opentelemetry,新增,36496,39,0,0,36496,39
 bobzhang/colors,有变化,371,0,1678,2,2049,2
 bobzhang/flowgraph,有变化,-20,0,1105,1,1085,1
 bobzhang/fuzzyscore,有变化,-325,0,1223,2,898,2
@@ -12,6 +13,7 @@ bobzhang/sexp,有变化,17,0,33,1,50,1
 bobzhang/tar,有变化,166,0,538,2,704,2
 bobzhang/toml,有变化,2902,1,11991,5,14893,6
 bobzhang/unmarshal,有变化,84,0,8861,3,8945,3
+cogna-dev/sbom,有变化,286,0,4461,13,4747,13
 eanzhao/pi-moonbit,有变化,556,0,33767,9,34323,9
 justjavac/glob,有变化,-4,0,472,1,468,1
 Milky2018/selene,有变化,1199,0,59409,58,60608,58
@@ -186,7 +188,6 @@ cogna-dev/hello,无变化,0,0,1109,2,1109,2
 cogna-dev/mapi,无变化,0,0,2664,6,2664,6
 cogna-dev/mcp-sdk,无变化,0,0,2657,3,2657,3
 cogna-dev/parkit,无变化,0,0,1750,3,1750,3
-cogna-dev/sbom,无变化,0,0,4461,13,4461,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
 colmugx/mcp,无变化,0,0,3767,9,3767,9
 colmugx/reader,无变化,0,0,228,1,228,1
