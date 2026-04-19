@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+justjavac/platform,新增,551,2,0,0,551,2
 bobzhang/colors,有变化,371,0,1678,2,2049,2
 bobzhang/flowgraph,有变化,-20,0,1105,1,1085,1
 bobzhang/fuzzyscore,有变化,-325,0,1223,2,898,2

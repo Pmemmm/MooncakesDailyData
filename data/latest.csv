@@ -521,6 +521,7 @@ itoa,justjavac/itoa,0.2.2,757,1
 keepawake,justjavac/keepawake,0.1.0,725,2
 notification,justjavac/notification,0.1.1,435,1
 num_cpus,justjavac/num_cpus,0.1.7,271,2
+platform,justjavac/platform,0.1.0,551,2
 quickjs,justjavac/quickjs,0.1.1,1546,5
 replace_self,justjavac/replace_self,0.1.1,1142,2
 sys_locale,justjavac/sys_locale,0.1.4,1024,3
