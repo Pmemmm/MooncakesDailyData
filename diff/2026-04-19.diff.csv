@@ -21,6 +21,8 @@ Milky2018/selene_raylib,有变化,13,0,8148,6,8161,6
 Milky2018/selene_webgpu,有变化,395,0,7899,6,8294,6
 Milky2018/window,有变化,162,0,21392,13,21554,13
 mizchi/mwac,有变化,227,0,9887,15,10114,15
+moonbit-community/postgres,有变化,15669,5,9016,11,24685,16
+oboard/morm,有变化,796,0,21343,18,22139,18
 sennenki/reisen,有变化,8655,16,21595,11,30250,27
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -674,7 +676,6 @@ moonbit-community/jsondiff,无变化,0,0,1476,1,1476,1
 moonbit-community/moongrep,无变化,0,0,639,2,639,2
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/piediff,无变化,0,0,2689,1,2689,1
-moonbit-community/postgres,无变化,0,0,9016,11,9016,11
 moonbit-community/rabbita,无变化,0,0,19203,17,19203,17
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,747,2,747,2
@@ -747,7 +748,6 @@ oboard/mocket,无变化,0,0,6694,14,6694,14
 oboard/moonbit-eval,无变化,0,0,65512,7,65512,7
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
-oboard/morm,无变化,0,0,21343,18,21343,18
 oboard/numoon,无变化,0,0,1332,2,1332,2
 oboard/readline,无变化,0,0,342,2,342,2
 oboard/redis,无变化,0,0,5222,1,5222,1
