@@ -960,7 +960,7 @@ moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 opentelemetry,moonbit-community/opentelemetry,0.1.1,36496,39
 piediff,moonbit-community/piediff,0.0.9,2689,1
 postgres,moonbit-community/postgres,0.0.4,24685,16
-rabbita,moonbit-community/rabbita,0.12.0,20404,18
+rabbita,moonbit-community/rabbita,0.12.1,20501,18
 raylib,moonbit-community/raylib,0.3.1,21670,4
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
@@ -1089,7 +1089,7 @@ meow,xrr2016/meow,0.12.0,103,2
 rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
-Halo,wflixu/Halo,0.5.1,1837,7
+Halo,wflixu/Halo,0.5.2,4706,7
 Orion,wflixu/Orion,0.1.1,5569,9
 lepus,lepus-apps/lepus,0.1.7,19657,77
 webview,lepus-apps/webview,0.1.13,3111,3
