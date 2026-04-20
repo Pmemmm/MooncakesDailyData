@@ -925,6 +925,7 @@ mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1
 mb-hash,Tigls/mb-hash,0.1.0,898,1
 mb-hmac,Tigls/mb-hmac,0.1.0,318,1
 mb-jwt,Tigls/mb-jwt,0.1.0,464,1
+mb-p256,Tigls/mb-p256,0.1.0,1488,1
 firefly,applejag/firefly,0.2.0,2372,4
 micromath,applejag/micromath,0.3.0,660,1
 LunarTUI,FrozenLemonTee/LunarTUI,0.0.1,3792,6
