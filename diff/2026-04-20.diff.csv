@@ -1,8 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-hackwaly/moonback,新增,2705,5,0,0,2705,5
+hackwaly/moonback,新增,2771,5,0,0,2771,5
 codeworm96/magpiedb,有变化,1273,0,11745,7,13018,7
 Milky2018/selene_editor_frontend,有变化,35,0,14235,4,14270,4
 mizchi/ts,有变化,14794,1,72195,8,86989,9
+moonbit-community/rabbita,有变化,1201,1,19203,17,20404,18
 moonbitlang/core,有变化,2115,0,160327,72,162442,72
 moonbitlang/formatter,有变化,243,0,4439,6,4682,6
 oboard/morm,有变化,882,0,22139,18,23021,18
@@ -679,7 +680,6 @@ moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/opentelemetry,无变化,0,0,36496,39,36496,39
 moonbit-community/piediff,无变化,0,0,2689,1,2689,1
 moonbit-community/postgres,无变化,0,0,24685,16,24685,16
-moonbit-community/rabbita,无变化,0,0,19203,17,19203,17
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,747,2,747,2
 moonbit-community/sqlparser,无变化,0,0,14703,2,14703,2
