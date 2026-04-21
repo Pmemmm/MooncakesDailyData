@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+dowdiness/svg-dsl,新增,1900,1,0,0,1900,1
 Tigls/mb-p256,新增,1488,1,0,0,1488,1
 dowdiness/incr,有变化,6030,4,10377,5,16407,9
 lenitain/hcl,有变化,208,1,17478,2,17686,3
