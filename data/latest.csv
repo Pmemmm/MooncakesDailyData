@@ -430,7 +430,7 @@ stdout,oboard/stdout,0.1.1,154,1
 weatherquery,oboard/weatherquery,0.1.1,81,1
 schema,YumeCross/schema,0.4.3,1721,2
 b2,gmlewis/b2,0.34.30,568,1
-base64,gmlewis/base64,0.16.3,937,2
+base64,gmlewis/base64,0.16.5,951,2
 crc32,gmlewis/crc32,0.8.16,207,1
 flate,gmlewis/flate,0.36.4,4357,3
 fonts,gmlewis/fonts,0.19.7,14127,19
@@ -466,11 +466,11 @@ io,gmlewis/io,0.23.4,3531,1
 json,gmlewis/json,0.15.0,249,1
 jsonrpc2,gmlewis/jsonrpc2,0.0.28,1363,1
 jsonutil,gmlewis/jsonutil,0.24.0,310,1
-md5,gmlewis/md5,0.19.26,422,1
+md5,gmlewis/md5,0.19.28,422,1
 modus,gmlewis/modus,0.16.5,17723,74
-moonbit-pdk,gmlewis/moonbit-pdk,0.47.23,1179,12
+moonbit-pdk,gmlewis/moonbit-pdk,0.47.24,1241,12
 sha1,gmlewis/sha1,0.12.4,422,1
-sha256,gmlewis/sha256,0.17.24,512,1
+sha256,gmlewis/sha256,0.17.26,516,1
 spin-moonbit-sdk,gmlewis/spin-moonbit-sdk,0.54.14,13739,46
 step,gmlewis/step,0.1.10,26009,52
 zlib,gmlewis/zlib,0.21.4,706,1
@@ -810,6 +810,7 @@ selene_editor_shared,Milky2018/selene_editor_shared,0.33.1,1293,2
 selene_raylib,Milky2018/selene_raylib,0.33.1,8161,6
 selene_tools,Milky2018/selene_tools,0.32.2,470,2
 selene_webgpu,Milky2018/selene_webgpu,0.33.1,8294,6
+slotmap,Milky2018/slotmap,0.1.0,1870,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
@@ -825,9 +826,10 @@ MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
-alga,dowdiness/alga,0.1.0,1805,1
+alga,dowdiness/alga,0.2.0,8373,2
 event-graph-walker,dowdiness/event-graph-walker,0.1.0,10354,7
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
+graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.0,16407,9
 js_engine,dowdiness/js_engine,0.1.0,27583,8
 margs,dowdiness/margs,0.1.2,4638,2
