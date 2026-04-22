@@ -9,6 +9,7 @@ gmlewis/jsonrpc2,有变化,173,0,1363,1,1536,1
 gmlewis/step,有变化,10,0,26009,52,26019,52
 Milky2018/slotmap,有变化,853,0,1870,1,2723,1
 oboard/mocket,有变化,-669,-1,6694,14,6025,13
+sennenki/reisen,有变化,279,0,30250,27,30529,27
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -830,7 +831,6 @@ sennenki/mbtify,无变化,0,0,209,2,209,2
 sennenki/pretty_prompt,无变化,0,0,6643,6,6643,6
 sennenki/pretty_prompt_demo,无变化,0,0,70,1,70,1
 sennenki/process,无变化,0,0,708,1,708,1
-sennenki/reisen,无变化,0,0,30250,27,30250,27
 sennenki/sexp,无变化,0,0,1833,1,1833,1
 sennenki/slugify,无变化,0,0,806,1,806,1
 sennenki/tsparser,无变化,0,0,13828,1,13828,1
