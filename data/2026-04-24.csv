@@ -231,7 +231,7 @@ protobuf,moonbitlang/protobuf,0.1.1,1449,1
 quickcheck,moonbitlang/quickcheck,0.13.0,12982,13
 regexp,moonbitlang/regexp,0.3.5,12052,5
 std,moonbitlang/std,0.1.0,99,1
-ulex,moonbitlang/ulex,0.3.27,9920,31
+ulex,moonbitlang/ulex,0.3.28,10550,31
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1
 wasm4,moonbitlang/wasm4,0.2.9,813,1
 x,moonbitlang/x,0.4.43,22850,23
