@@ -287,7 +287,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
-moonback,hackwaly/moonback,0.1.4,2771,5
+moonback,hackwaly/moonback,0.1.6,2784,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
@@ -359,6 +359,7 @@ markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
 mbts,mizchi/mbts,0.0.3,12071,9
+mnemo,mizchi/mnemo,0.1.0,6117,1
 moomaid,mizchi/moomaid,0.1.2,3809,4
 moon_component,mizchi/moon_component,0.5.1,16206,38
 moon-install,mizchi/moon-install,0.1.1,1006,2
@@ -385,7 +386,7 @@ signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
 sol,mizchi/sol,0.15.2,71955,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
-sqlite,mizchi/sqlite,0.2.4,2233,1
+sqlite,mizchi/sqlite,0.3.0,2255,1
 starlint,mizchi/starlint,0.10.1,18204,7
 svg,mizchi/svg,0.2.0,23911,4
 syntree,mizchi/syntree,0.2.3,29888,34
