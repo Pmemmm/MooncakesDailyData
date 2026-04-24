@@ -115,7 +115,7 @@ path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.5,840,1
 platform,tonyfettes/platform,0.1.0,56,1
 pty,tonyfettes/pty,0.1.0,357,1
-raylib,tonyfettes/raylib,0.3.1,21670,4
+raylib,tonyfettes/raylib,0.4.0,30434,4
 raylib-examples,tonyfettes/raylib-examples,0.2.4,401351,577
 rc,tonyfettes/rc,0.1.1,227,1
 small,tonyfettes/small,0.1.0,262,1
@@ -359,7 +359,7 @@ markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
 mbts,mizchi/mbts,0.0.3,12071,9
-mnemo,mizchi/mnemo,0.1.0,6117,1
+mnemo,mizchi/mnemo,0.2.0,6774,1
 moomaid,mizchi/moomaid,0.1.2,3809,4
 moon_component,mizchi/moon_component,0.5.1,16206,38
 moon-install,mizchi/moon-install,0.1.1,1006,2
@@ -386,7 +386,7 @@ signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
 sol,mizchi/sol,0.15.2,71955,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.1,24540,30
-sqlite,mizchi/sqlite,0.3.0,2255,1
+sqlite,mizchi/sqlite,0.3.1,2255,1
 starlint,mizchi/starlint,0.10.1,18204,7
 svg,mizchi/svg,0.2.0,23911,4
 syntree,mizchi/syntree,0.2.3,29888,34
@@ -828,7 +828,7 @@ MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
-alga,dowdiness/alga,0.2.0,8373,2
+alga,dowdiness/alga,0.3.0,9320,2
 event-graph-walker,dowdiness/event-graph-walker,0.1.0,10354,7
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 graphviz,dowdiness/graphviz,0.1.0,4695,5
