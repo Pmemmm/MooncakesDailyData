@@ -28,6 +28,7 @@ mizchi/moomaid,有变化,7,0,3809,4,3816,4
 mizchi/moon_component,有变化,15,0,16206,38,16221,38
 mizchi/nom,有变化,-188,0,3433,3,3245,3
 mizchi/parquet,有变化,785,2,9417,2,10202,4
+mizchi/sol,有变化,60,0,71955,56,72015,56
 mizchi/sqlc_gen_moonbit,有变化,-58,0,24540,30,24482,30
 mizchi/svg,有变化,59,0,23911,4,23970,4
 mizchi/tornado,有变化,1529,0,9070,12,10599,12
@@ -656,7 +657,6 @@ mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4954,2,4954,2
 mizchi/similarity,无变化,0,0,2664,5,2664,5
-mizchi/sol,无变化,0,0,71955,56,71955,56
 mizchi/sqlite,无变化,0,0,2255,1,2255,1
 mizchi/starlint,无变化,0,0,18204,7,18204,7
 mizchi/syntree,无变化,0,0,29888,34,29888,34

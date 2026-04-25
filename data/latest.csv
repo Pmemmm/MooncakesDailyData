@@ -399,7 +399,7 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.15.2,71955,56
+sol,mizchi/sol,0.15.3,72015,56
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.2,24482,30
 sqlite,mizchi/sqlite,0.3.1,2255,1
 starlint,mizchi/starlint,0.10.1,18204,7
