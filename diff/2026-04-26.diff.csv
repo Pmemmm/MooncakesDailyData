@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 dowdiness/order-tree,新增,2081,1,0,0,2081,1
+dowdiness/incr,有变化,483,1,16407,9,16890,10
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -191,7 +192,6 @@ dowdiness/btree,无变化,0,0,4422,1,4422,1
 dowdiness/event-graph-walker,无变化,0,0,10354,7,10354,7
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
 dowdiness/graphviz,无变化,0,0,4695,5,4695,5
-dowdiness/incr,无变化,0,0,16407,9,16407,9
 dowdiness/js_engine,无变化,0,0,70812,11,70812,11
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/moondsp,无变化,0,0,25041,10,25041,10
