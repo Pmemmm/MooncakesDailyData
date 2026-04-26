@@ -854,6 +854,7 @@ incr,dowdiness/incr,0.5.0,16407,9
 js_engine,dowdiness/js_engine,0.2.1,70812,11
 margs,dowdiness/margs,0.1.2,4638,2
 moondsp,dowdiness/moondsp,0.1.0,25041,10
+order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.0,5866,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
