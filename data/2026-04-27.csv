@@ -160,8 +160,8 @@ tree_sitter_tsx,tonyfettes/tree_sitter_tsx,0.1.26,37,1
 tree_sitter_typescript,tonyfettes/tree_sitter_typescript,0.1.26,37,1
 tree_sitter_yaml,tonyfettes/tree_sitter_yaml,0.1.26,39,1
 tree_sitter_zig,tonyfettes/tree_sitter_zig,0.1.26,35,1
-tun-poc-proto,tonyfettes/tun-poc-proto,0.1.1,4751,1
-tun-poc-server,tonyfettes/tun-poc-server,0.1.1,2099,8
+tun-poc-proto,tonyfettes/tun-poc-proto,0.1.2,4933,1
+tun-poc-server,tonyfettes/tun-poc-server,0.1.4,2589,9
 unicode,tonyfettes/unicode,0.3.0,11789,5
 uri,tonyfettes/uri,0.1.0,848,1
 url,tonyfettes/url,0.3.1,13116,1
@@ -985,8 +985,8 @@ moongrep,moonbit-community/moongrep,0.1.3,639,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 opentelemetry,moonbit-community/opentelemetry,0.1.1,36496,39
 piediff,moonbit-community/piediff,0.0.9,2689,1
-postgres,moonbit-community/postgres,0.0.4,24685,16
-rabbita,moonbit-community/rabbita,0.12.1,20501,18
+postgres,moonbit-community/postgres,0.0.5,24739,16
+rabbita,moonbit-community/rabbita,0.12.2,20951,18
 raylib,moonbit-community/raylib,0.3.1,21670,4
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
@@ -1121,7 +1121,7 @@ Halo,wflixu/Halo,0.5.2,4706,7
 Orion,wflixu/Orion,0.2.0,7579,10
 lepus,lepus-apps/lepus,0.1.7,19657,77
 webview,lepus-apps/webview,0.1.13,3111,3
-hcl,lenitain/hcl,0.1.1,17686,3
+hcl,lenitain/hcl,0.1.2,23692,3
 magpiedb,codeworm96/magpiedb,0.2.0,13018,7
 hello,cogna-dev/hello,0.1.0,1109,2
 mapi,cogna-dev/mapi,0.1.1,2664,6
