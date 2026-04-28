@@ -841,6 +841,7 @@ zstd,Milky2018/zstd,0.1.0,39568,1
 relay,Metalymph/relay,0.1.0,474,2
 valkey,Metalymph/valkey,0.1.0,252,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
+markitdown,ZSeanYves/markitdown,0.2.3,29881,20
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
