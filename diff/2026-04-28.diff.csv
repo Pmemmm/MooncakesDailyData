@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 sennenki/pkgparser,新增,1327,1,0,0,1327,1
 moonbit-community/opentelemetry,有变化,223,-1,36496,39,36719,38
+oboard/mocket,有变化,866,2,6025,13,6891,15
 oboard/morm,有变化,1060,1,23021,18,24081,19
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -770,7 +771,6 @@ oboard/assets,无变化,0,0,182,1,182,1
 oboard/base16384,无变化,0,0,284,1,284,1
 oboard/mimetype,无变化,0,0,1158,2,1158,2
 oboard/mio,无变化,0,0,948,2,948,2
-oboard/mocket,无变化,0,0,6025,13,6025,13
 oboard/moonbit-eval,无变化,0,0,65512,7,65512,7
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
