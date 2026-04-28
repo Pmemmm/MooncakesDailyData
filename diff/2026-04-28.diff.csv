@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 sennenki/pkgparser,新增,1327,1,0,0,1327,1
+kokic/prime,有变化,42,1,504,1,546,2
 moonbit-community/opentelemetry,有变化,223,-1,36496,39,36719,38
 oboard/mocket,有变化,866,2,6025,13,6891,15
 oboard/morm,有变化,1060,1,23021,18,24081,19
@@ -462,7 +463,6 @@ KingBes/raylib,无变化,0,0,144,1,144,1
 KingBes/webui,无变化,0,0,110,1,110,1
 kinoamyfx/moon-axe-tools,无变化,0,0,25,2,25,2
 kokic/momoka,无变化,0,0,825,2,825,2
-kokic/prime,无变化,0,0,504,1,504,1
 Lalenture/hello,无变化,0,0,19,2,19,2
 Lampese/biblatex,无变化,0,0,1714,2,1714,2
 Lampese/lomo,无变化,0,0,26092,10,26092,10
