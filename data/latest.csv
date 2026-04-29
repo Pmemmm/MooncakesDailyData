@@ -217,7 +217,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.18.1,35193,48
-core,moonbitlang/core,0.1.20260420+69d374a17,162442,72
+core,moonbitlang/core,0.1.20260429+cd5b07232,163592,72
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.5,4682,6
@@ -813,7 +813,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
 moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.1.4,8525,1
+moon_wgsl,Milky2018/moon_wgsl,0.2.2,8974,1
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
 options,Milky2018/options,0.1.2,328,1
