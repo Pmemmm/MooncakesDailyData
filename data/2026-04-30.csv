@@ -450,7 +450,7 @@ stdout,oboard/stdout,0.1.1,154,1
 weatherquery,oboard/weatherquery,0.1.1,81,1
 schema,YumeCross/schema,0.4.3,1721,2
 b2,gmlewis/b2,0.34.30,568,1
-base64,gmlewis/base64,0.16.7,976,2
+base64,gmlewis/base64,0.16.8,976,2
 crc32,gmlewis/crc32,0.8.16,207,1
 flate,gmlewis/flate,0.36.6,4367,3
 fonts,gmlewis/fonts,0.19.8,15016,19
@@ -486,11 +486,11 @@ io,gmlewis/io,0.23.8,3586,1
 json,gmlewis/json,0.15.0,249,1
 jsonrpc2,gmlewis/jsonrpc2,0.0.29,1536,1
 jsonutil,gmlewis/jsonutil,0.24.0,310,1
-md5,gmlewis/md5,0.19.30,422,1
+md5,gmlewis/md5,0.19.31,422,1
 modus,gmlewis/modus,0.16.5,17723,74
 moonbit-pdk,gmlewis/moonbit-pdk,0.47.25,1241,12
 sha1,gmlewis/sha1,0.12.6,422,1
-sha256,gmlewis/sha256,0.17.28,516,1
+sha256,gmlewis/sha256,0.17.29,516,1
 spin-moonbit-sdk,gmlewis/spin-moonbit-sdk,0.54.14,13739,46
 step,gmlewis/step,0.1.11,26019,52
 zlib,gmlewis/zlib,0.21.6,716,1
