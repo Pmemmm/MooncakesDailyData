@@ -124,6 +124,7 @@ path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.5,840,1
 platform,tonyfettes/platform,0.1.0,56,1
 pty,tonyfettes/pty,0.1.0,357,1
+rabbita_xterm,tonyfettes/rabbita_xterm,0.1.0,2257,4
 raylib,tonyfettes/raylib,0.4.0,30434,4
 raylib-examples,tonyfettes/raylib-examples,0.2.4,401351,577
 rc,tonyfettes/rc,0.1.1,227,1
@@ -823,7 +824,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
 moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.5.0,15906,8
+moon_wgsl,Milky2018/moon_wgsl,0.6.1,15882,12
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
 options,Milky2018/options,0.1.2,328,1
