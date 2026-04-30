@@ -1,6 +1,17 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bobzhang/loop_invariants_data_structures,新增,29001,33,0,0,29001,33
+bobzhang/loop_invariants_dp,新增,4925,12,0,0,4925,12
+bobzhang/loop_invariants_geometry,新增,5419,8,0,0,5419,8
+bobzhang/loop_invariants_graph,新增,34905,49,0,0,34905,49
+bobzhang/loop_invariants_math,新增,11471,13,0,0,11471,13
+bobzhang/loop_invariants_persistent,新增,15352,42,0,0,15352,42
+bobzhang/loop_invariants_string,新增,18233,18,0,0,18233,18
+bobzhang/loop_invariants_techniques,新增,10209,11,0,0,10209,11
+bobzhang/loop_invariants_verified,新增,401,5,0,0,401,5
+bobzhang/loop_invariants,有变化,304,0,131685,193,131989,193
 MarchLiu/jse,有变化,542,0,1685,2,2227,2
 Milky2018/moon_wgsl,有变化,3161,0,12745,8,15906,8
+tiye/cirru-parser,有变化,141,0,1247,2,1388,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -89,7 +100,6 @@ bobzhang/kanban,无变化,0,0,3820,4,3820,4
 bobzhang/lexer,无变化,0,0,604,1,604,1
 bobzhang/liquid,无变化,0,0,3145,2,3145,2
 bobzhang/lisp_interpreter,无变化,0,0,1753,1,1753,1
-bobzhang/loop_invariants,无变化,0,0,131685,193,131685,193
 bobzhang/mbtexcel,无变化,0,0,130533,9,130533,9
 bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
 bobzhang/moonjq,无变化,0,0,10898,3,10898,3
@@ -910,7 +920,6 @@ Tigls/mb-jwt,无变化,0,0,464,1,464,1
 Tigls/mb-p256,无变化,0,0,1488,1,1488,1
 tiye/caterfoil,无变化,0,0,2580,2,2580,2
 tiye/cirru-edn,无变化,0,0,1131,2,1131,2
-tiye/cirru-parser,无变化,0,0,1247,2,1247,2
 tiye/dom-ffi,无变化,0,0,2395,2,2395,2
 tiye/genai,无变化,0,0,2161,2,2161,2
 tiye/json5,无变化,0,0,1028,1,1028,1

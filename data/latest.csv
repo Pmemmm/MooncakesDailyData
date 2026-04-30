@@ -47,7 +47,16 @@ kanban,bobzhang/kanban,0.3.2,3820,4
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
-loop_invariants,bobzhang/loop_invariants,0.3.6,131685,193
+loop_invariants,bobzhang/loop_invariants,0.4.0,131989,193
+loop_invariants_data_structures,bobzhang/loop_invariants_data_structures,0.4.0,29001,33
+loop_invariants_dp,bobzhang/loop_invariants_dp,0.4.0,4925,12
+loop_invariants_geometry,bobzhang/loop_invariants_geometry,0.4.0,5419,8
+loop_invariants_graph,bobzhang/loop_invariants_graph,0.4.0,34905,49
+loop_invariants_math,bobzhang/loop_invariants_math,0.4.0,11471,13
+loop_invariants_persistent,bobzhang/loop_invariants_persistent,0.4.0,15352,42
+loop_invariants_string,bobzhang/loop_invariants_string,0.4.0,18233,18
+loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.4.0,10209,11
+loop_invariants_verified,bobzhang/loop_invariants_verified,0.4.0,401,5
 mbtexcel,bobzhang/mbtexcel,0.1.5,130533,9
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
@@ -272,7 +281,7 @@ colored,zxch3n/colored,0.2.0,409,1
 expect,zxch3n/expect,0.6.2,1319,1
 caterfoil,tiye/caterfoil,0.0.2,2580,2
 cirru-edn,tiye/cirru-edn,0.2.3,1131,2
-cirru-parser,tiye/cirru-parser,0.2.2,1247,2
+cirru-parser,tiye/cirru-parser,0.3.0,1388,2
 dom-ffi,tiye/dom-ffi,0.2.3,2395,2
 genai,tiye/genai,0.0.2,2161,2
 json5,tiye/json5,0.0.2,1028,1
