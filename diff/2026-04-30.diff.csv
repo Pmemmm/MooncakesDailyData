@@ -13,6 +13,7 @@ tonyfettes/rabbita_xterm,新增,2437,4,0,0,2437,4
 bobzhang/loop_invariants,有变化,304,0,131685,193,131989,193
 MarchLiu/jse,有变化,542,0,1685,2,2227,2
 Milky2018/moon_wgsl,有变化,3137,4,12745,8,15882,12
+oboard/morm,有变化,-19,0,24081,19,24062,19
 tiye/cirru-parser,有变化,141,0,1247,2,1388,2
 tonyfettes/tun-poc-proto,有变化,126,0,4933,1,5059,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -785,7 +786,6 @@ oboard/mocket,无变化,0,0,6891,15,6891,15
 oboard/moonbit-eval,无变化,0,0,65512,7,65512,7
 oboard/mooncrypto,无变化,0,0,1010,2,1010,2
 oboard/moonetx,无变化,0,0,1323,1,1323,1
-oboard/morm,无变化,0,0,24081,19,24081,19
 oboard/numoon,无变化,0,0,1332,2,1332,2
 oboard/readline,无变化,0,0,342,2,342,2
 oboard/redis,无变化,0,0,5222,1,5222,1
