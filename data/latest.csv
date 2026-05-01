@@ -290,10 +290,12 @@ lexicon-fractional-index,tiye/lexicon-fractional-index,0.0.4,957,2
 preact,tiye/preact,0.0.1-a3,3007,2
 quaternion,tiye/quaternion,0.1.2,1076,1
 react,tiye/react,0.0.3,3112,2
+recollect,tiye/recollect,0.2.0,683,1
 respo,tiye/respo,0.3.3,7033,4
 respo_css,tiye/respo_css,0.1.6,4894,2
 respo-markdown,tiye/respo-markdown,0.1.3,1479,3
 respo-router,tiye/respo-router,0.0.1,456,2
+thin_ws,tiye/thin_ws,0.1.0,259,1
 common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
@@ -824,7 +826,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
 moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.6.1,15882,12
+moon_wgsl,Milky2018/moon_wgsl,0.6.2,27279,14
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
 options,Milky2018/options,0.1.2,328,1
@@ -1130,7 +1132,7 @@ meow,xrr2016/meow,0.12.0,103,2
 rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
-Halo,wflixu/Halo,0.5.2,4706,7
+Halo,wflixu/Halo,0.6.0,4853,7
 Orion,wflixu/Orion,0.2.0,7579,10
 lepus,lepus-apps/lepus,0.1.7,19657,77
 webview,lepus-apps/webview,0.1.13,3111,3
