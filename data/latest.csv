@@ -424,7 +424,7 @@ terrain,mizchi/terrain,0.1.1,30796,120
 threads,mizchi/threads,0.1.2,6944,12
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 tornado,mizchi/tornado,0.6.1,10599,12
-ts,mizchi/ts,0.1.4,111040,12
+ts,mizchi/ts,0.2.1,75002,12
 tui,mizchi/tui,0.9.1,36913,34
 v8,mizchi/v8,0.2.0,7480,2
 vfs,mizchi/vfs,0.2.2,2686,8
@@ -827,7 +827,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
 moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.7.0,29248,14
+moon_wgsl,Milky2018/moon_wgsl,0.7.1,29561,14
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
 moon_zeno,Milky2018/moon_zeno,0.1.1,6338,1
 options,Milky2018/options,0.1.2,328,1
