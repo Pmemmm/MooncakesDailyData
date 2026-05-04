@@ -2,7 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 mizchi/astra,新增,30943,32,0,0,30943,32
 Milky2018/moon_wgsl,有变化,313,0,29248,14,29561,14
 mizchi/sol,有变化,-34981,-23,72015,56,37034,33
-mizchi/ts,有变化,-35835,0,111040,12,75205,12
+mizchi/ts,有变化,-35645,0,111040,12,75395,12
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
