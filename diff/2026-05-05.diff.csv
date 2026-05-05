@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+hustcer/ed25519,新增,1248,2,0,0,1248,2
 PerfectPan/agent-finder,新增,938,5,0,0,938,5
 mizchi/luna,有变化,-170,-1,65427,63,65257,62
 mizchi/ts,有变化,33,0,75395,12,75428,12

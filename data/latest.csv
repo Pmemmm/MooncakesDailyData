@@ -307,6 +307,7 @@ msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
+ed25519,hustcer/ed25519,0.1.1,1248,2
 fzip,hustcer/fzip,0.5.9,7158,2
 nanoid,hustcer/nanoid,0.5.1,1586,2
 tabular,hustcer/tabular,0.5.2,15088,3
