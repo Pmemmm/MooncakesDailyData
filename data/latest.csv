@@ -331,7 +331,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.29.1,59799,10
 admiral,mizchi/admiral,0.1.0,1477,2
 ast_printer,mizchi/ast_printer,0.2.4,2462,1
-astra,mizchi/astra,0.1.0,30943,32
+astra,mizchi/astra,0.1.1,30943,32
 audio,mizchi/audio,0.1.1,5420,1
 bit,mizchi/bit,0.42.1,256608,51
 bitflow,mizchi/bitflow,0.4.1,14768,5
@@ -384,7 +384,7 @@ libgit2,mizchi/libgit2,0.1.0,2525,4
 libjit,mizchi/libjit,0.1.1,9787,3
 llm,mizchi/llm,0.3.1,7671,8
 lsp,mizchi/lsp,0.1.2,28260,7
-luna,mizchi/luna,0.19.0,65427,63
+luna,mizchi/luna,0.19.1,65257,62
 markdown,mizchi/markdown,0.4.7,21747,14
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
@@ -414,7 +414,7 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.16.0,37034,33
+sol,mizchi/sol,0.16.1,37034,33
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.2,24482,30
 sqlite,mizchi/sqlite,0.3.1,2255,1
 starlint,mizchi/starlint,0.10.1,18204,7

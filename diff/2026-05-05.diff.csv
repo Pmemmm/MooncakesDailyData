@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 PerfectPan/agent-finder,新增,938,5,0,0,938,5
+mizchi/luna,有变化,-170,-1,65427,63,65257,62
 mizchi/ts,有变化,33,0,75395,12,75428,12
 ZSeanYves/markitdown,有变化,86020,66,29881,20,115901,86
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -635,7 +636,6 @@ mizchi/libgit2,无变化,0,0,2525,4,2525,4
 mizchi/libjit,无变化,0,0,9787,3,9787,3
 mizchi/llm,无变化,0,0,7671,8,7671,8
 mizchi/lsp,无变化,0,0,28260,7,28260,7
-mizchi/luna,无变化,0,0,65427,63,65427,63
 mizchi/markdown,无变化,0,0,21747,14,21747,14
 mizchi/mars,无变化,0,0,14703,12,14703,12
 mizchi/mbt_rs,无变化,0,0,4546,1,4546,1
