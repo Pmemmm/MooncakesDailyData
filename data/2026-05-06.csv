@@ -455,7 +455,7 @@ apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
-mio,oboard/mio,0.4.3,948,2
+mio,oboard/mio,0.5.1,11222,2
 mocket,oboard/mocket,0.7.1,6891,15
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
@@ -830,7 +830,7 @@ moon_rapier,Milky2018/moon_rapier,0.4.0,116085,14
 moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.6,47857,3
 moon_swash,Milky2018/moon_swash,0.1.7,66428,7
-moon_taffy,Milky2018/moon_taffy,0.2.1,58213,2
+moon_taffy,Milky2018/moon_taffy,0.3.0,56615,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
 moon_wgsl,Milky2018/moon_wgsl,0.9.4,34462,15
 moon_yazi,Milky2018/moon_yazi,0.1.1,3590,1
@@ -867,7 +867,7 @@ moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
 alga,dowdiness/alga,0.3.0,9320,2
 btree,dowdiness/btree,0.1.0,4422,1
-event-graph-walker,dowdiness/event-graph-walker,0.1.0,10354,7
+event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.1,16890,10
