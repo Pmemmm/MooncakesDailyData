@@ -44,7 +44,7 @@ hol,bobzhang/hol,0.1.1,4609,6
 holm,bobzhang/holm,0.1.1,9430,12
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.2,24474,5
+kimicc,bobzhang/kimicc,0.1.3,27251,6
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -429,7 +429,7 @@ terrain,mizchi/terrain,0.1.1,30796,120
 threads,mizchi/threads,0.1.2,6944,12
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 tornado,mizchi/tornado,0.6.1,10599,12
-ts,mizchi/ts,0.2.12,77729,12
+ts,mizchi/ts,0.2.16,78895,12
 tui,mizchi/tui,0.9.1,36913,34
 v8,mizchi/v8,0.2.0,7480,2
 vfs,mizchi/vfs,0.2.2,2686,8
@@ -447,7 +447,7 @@ whisper-mbt,mizchi/whisper-mbt,0.1.1,1318,3
 wit,mizchi/wit,0.3.0,4397,2
 wite,mizchi/wite,0.11.0,49049,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
-x,mizchi/x,0.2.1,9436,8
+x,mizchi/x,0.2.2,9663,8
 zlib,mizchi/zlib,0.4.4,3032,6
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
@@ -456,7 +456,7 @@ assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.5.2,11412,3
-mocket,oboard/mocket,0.7.1,6891,15
+mocket,oboard/mocket,0.7.2,6970,15
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
@@ -860,7 +860,7 @@ zstd,Milky2018/zstd,0.1.0,39568,1
 relay,Metalymph/relay,0.1.0,474,2
 valkey,Metalymph/valkey,0.1.0,252,1
 bufferutils,ZSeanYves/bufferutils,0.2.5,776,1
-markitdown,ZSeanYves/markitdown,0.3.1,123684,86
+markitdown,ZSeanYves/markitdown,0.3.2,128075,86
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
@@ -1014,6 +1014,7 @@ sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
 starter,moonbit-community/starter,0.2.0,43,1
 verified,moonbit-community/verified,0.0.2,4118,36
 warren,moonbit-community/warren,0.1.3,1822,5
+XMLParser,moonbit-community/XMLParser,0.2.5,4528,2
 yaml,moonbit-community/yaml,0.0.4,6251,1
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
