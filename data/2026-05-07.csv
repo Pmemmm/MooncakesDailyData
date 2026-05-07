@@ -63,7 +63,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
-pdflite,bobzhang/pdflite,0.1.0,423983,2
+pdflite,bobzhang/pdflite,0.1.1,433270,7
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 prove,bobzhang/prove,0.0.2,3164,84
 qrc,bobzhang/qrc,0.1.1,2073,3
@@ -294,7 +294,7 @@ preact,tiye/preact,0.0.1-a3,3007,2
 quaternion,tiye/quaternion,0.1.2,1076,1
 react,tiye/react,0.0.3,3112,2
 recollect,tiye/recollect,0.2.0,683,1
-redstart,tiye/redstart,0.1.1,1791,2
+redstart,tiye/redstart,0.1.3,2033,2
 respo,tiye/respo,0.3.3,7033,4
 respo_css,tiye/respo_css,0.1.6,4894,2
 respo-markdown,tiye/respo-markdown,0.1.3,1479,3
@@ -455,7 +455,7 @@ apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.2,284,1
 mimetype,oboard/mimetype,0.1.9,1158,2
-mio,oboard/mio,0.5.1,11222,2
+mio,oboard/mio,0.5.2,11412,3
 mocket,oboard/mocket,0.7.1,6891,15
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
@@ -820,7 +820,7 @@ html,Milky2018/html,0.1.2,89678,3
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.2.2,19180,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
-moon_cosmic,Milky2018/moon_cosmic,0.3.0,50142,8
+moon_cosmic,Milky2018/moon_cosmic,0.3.1,50165,8
 moon_cpal,Milky2018/moon_cpal,0.11.6,18940,19
 moon_dagre,Milky2018/moon_dagre,0.2.5,10424,1
 moon_elk,Milky2018/moon_elk,0.1.14,271139,39
@@ -829,10 +829,10 @@ moonplant,Milky2018/moonplant,0.3.1,858,2
 moon_rapier,Milky2018/moon_rapier,0.4.0,116085,14
 moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.7,47856,3
-moon_swash,Milky2018/moon_swash,0.1.7,66428,7
+moon_swash,Milky2018/moon_swash,0.1.8,66457,7
 moon_taffy,Milky2018/moon_taffy,0.3.0,56615,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.9.4,34462,15
+moon_wgsl,Milky2018/moon_wgsl,0.10.0,50271,18
 moon_yazi,Milky2018/moon_yazi,0.1.2,3561,1
 moon_zeno,Milky2018/moon_zeno,0.1.2,6254,1
 options,Milky2018/options,0.1.2,328,1
