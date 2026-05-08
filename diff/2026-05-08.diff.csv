@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Nanaloveyuki/BitLogger,新增,497,2,0,0,497,2
 ushironoko/nash-mbt,新增,2006,3,0,0,2006,3
 cg-zhou/drawille,有变化,-1,0,584,2,583,2
 cg-zhou/moon_lottie,有变化,191,0,19074,7,19265,7
