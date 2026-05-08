@@ -832,7 +832,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.7,47856,3
 moon_swash,Milky2018/moon_swash,0.1.8,66457,7
 moon_taffy,Milky2018/moon_taffy,0.3.0,56615,2
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.11.0,52107,18
+moon_wgsl,Milky2018/moon_wgsl,0.11.1,52735,18
 moon_yazi,Milky2018/moon_yazi,0.1.2,3561,1
 moon_zeno,Milky2018/moon_zeno,0.1.2,6254,1
 options,Milky2018/options,0.1.2,328,1
@@ -1110,8 +1110,8 @@ turn,naokikawamoto16/turn,0.1.0,799,1
 romaji_typing,typinglabs/romaji_typing,0.0.3,1958,3
 bezier-easing,cg-zhou/bezier-easing,0.3.3,288,2
 bezier_easing,cg-zhou/bezier_easing,0.4.0,367,2
-drawille,cg-zhou/drawille,0.1.1,584,2
-moon_lottie,cg-zhou/moon_lottie,0.1.0,19074,7
+drawille,cg-zhou/drawille,0.1.2,583,2
+moon_lottie,cg-zhou/moon_lottie,0.3.0,19265,7
 sfo,jtenner/sfo,0.1.1,13087,1
 sql,ash1day/sql,0.1.0,6085,4
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1
@@ -1136,6 +1136,7 @@ anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
 moon_switch,grandEarshot/moon_switch,0.1.2,2137,2
 tui,grandEarshot/tui,0.1.0,5045,7
 mdclip,ushironoko/mdclip,0.4.0,1553,4
+nash-mbt,ushironoko/nash-mbt,0.1.1,2006,3
 vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
 meow,xrr2016/meow,0.12.0,103,2
 rmdir,xrr2016/rmdir,0.5.0,86,2
