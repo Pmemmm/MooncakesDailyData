@@ -106,7 +106,7 @@ js,tonyfettes/js,0.2.1,517,5
 json,tonyfettes/json,0.4.2,3704,1
 json_parser,tonyfettes/json_parser,0.1.0,1138,2
 json_test_parser,tonyfettes/json_test_parser,0.1.0,861,2
-libghostty-vt,tonyfettes/libghostty-vt,0.1.1,5193,18
+libghostty-vt,tonyfettes/libghostty-vt,0.1.2,5358,18
 lua,tonyfettes/lua,0.1.3,2734,4
 malloc,tonyfettes/malloc,0.1.3,348,1
 maria_json_parser,tonyfettes/maria_json_parser,0.1.0,1330,2
@@ -848,7 +848,7 @@ selene_editor_shared,Milky2018/selene_editor_shared,0.33.3,1293,2
 selene_raylib,Milky2018/selene_raylib,0.33.3,8172,6
 selene_tools,Milky2018/selene_tools,0.32.2,470,2
 selene_webgpu,Milky2018/selene_webgpu,0.33.3,8151,6
-slotmap,Milky2018/slotmap,0.1.1,2723,1
+slotmap,Milky2018/slotmap,0.1.2,3217,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
@@ -1158,4 +1158,4 @@ x,cogna-dev/x,0.1.2,2733,4
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
-BitLogger,Nanaloveyuki/BitLogger,0.1.0,497,2
+BitLogger,Nanaloveyuki/BitLogger,0.2.0,1582,2
