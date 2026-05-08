@@ -3,6 +3,8 @@ Nanaloveyuki/BitLogger,新增,1582,2,0,0,1582,2
 ushironoko/nash-mbt,新增,2006,3,0,0,2006,3
 cg-zhou/drawille,有变化,-1,0,584,2,583,2
 cg-zhou/moon_lottie,有变化,191,0,19074,7,19265,7
+golemcloud/golem_sdk,有变化,186,0,121836,56,122022,56
+golemcloud/golem_sdk_tools,有变化,82,0,11875,2,11957,2
 hustcer/fzip,有变化,43,0,7175,2,7218,2
 hustcer/nanoid,有变化,159,0,1586,2,1745,2
 Milky2018/moon_taffy,有变化,4881,1,56615,2,61496,3
@@ -323,8 +325,6 @@ gmlewis/sha256,无变化,0,0,516,1,516,1
 gmlewis/spin-moonbit-sdk,无变化,0,0,13739,46,13739,46
 gmlewis/step,无变化,0,0,26019,52,26019,52
 gmlewis/zlib,无变化,0,0,716,1,716,1
-golemcloud/golem_sdk,无变化,0,0,121836,56,121836,56
-golemcloud/golem_sdk_tools,无变化,0,0,11875,2,11875,2
 grandEarshot/anthropic-sdk-moonbit,无变化,0,0,2926,1,2926,1
 grandEarshot/moon_switch,无变化,0,0,2137,2,2137,2
 grandEarshot/tui,无变化,0,0,5045,7,5045,7
