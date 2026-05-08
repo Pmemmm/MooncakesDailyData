@@ -311,7 +311,7 @@ pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.1.2,1248,2
-fzip,hustcer/fzip,0.5.10,7175,2
+fzip,hustcer/fzip,0.6.0,7218,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
 biblatex,Lampese/biblatex,0.1.0,1714,2
@@ -453,7 +453,7 @@ postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
-base16384,oboard/base16384,0.1.2,284,1
+base16384,oboard/base16384,0.1.3,288,1
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.5.2,11412,3
 mocket,oboard/mocket,0.7.2,6970,15
@@ -830,7 +830,7 @@ moon_rapier,Milky2018/moon_rapier,0.4.0,116085,14
 moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.7,47856,3
 moon_swash,Milky2018/moon_swash,0.1.8,66457,7
-moon_taffy,Milky2018/moon_taffy,0.3.0,56615,2
+moon_taffy,Milky2018/moon_taffy,0.4.1,61175,1
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
 moon_wgsl,Milky2018/moon_wgsl,0.11.2,53141,18
 moon_yazi,Milky2018/moon_yazi,0.1.2,3561,1
