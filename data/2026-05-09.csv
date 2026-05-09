@@ -372,7 +372,7 @@ differentiable_ecs,mizchi/differentiable_ecs,0.2.0,682,3
 discord,mizchi/discord,0.1.2,1663,3
 flaker,mizchi/flaker,0.3.1,7121,21
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
-font,mizchi/font,0.7.0,10463,2
+font,mizchi/font,0.7.3,11144,4
 git,mizchi/git,0.2.0,53603,9
 github,mizchi/github,0.1.2,1337,11
 glfw,mizchi/glfw,0.2.2,481,2
@@ -391,7 +391,7 @@ libjit,mizchi/libjit,0.1.1,9787,3
 llm,mizchi/llm,0.3.1,7671,8
 lsp,mizchi/lsp,0.1.2,28260,7
 luna,mizchi/luna,0.19.3,65257,62
-markdown,mizchi/markdown,0.4.7,21747,14
+markdown,mizchi/markdown,0.4.8,22430,16
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
 mbts,mizchi/mbts,0.0.3,12071,9
