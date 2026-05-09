@@ -1,6 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Milky2018/moon_taffy,有变化,294,5,61496,3,61790,8
-Milky2018/moon_wgsl,有变化,5945,2,53141,18,59086,20
+Milky2018/moon_wgsl,有变化,6727,2,53141,18,59868,20
 ZSeanYves/bufferutils,有变化,5503,2,776,1,6279,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
