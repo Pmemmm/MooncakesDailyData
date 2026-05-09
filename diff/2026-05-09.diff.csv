@@ -1,8 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 CAIMEOX/rss_reader,新增,7629,7,0,0,7629,7
+kokic/moonbit-chalk,新增,248,1,0,0,248,1
+mizchi/tui-terminal-protocol,新增,860,2,0,0,860,2
 ryota0624/moovalid,新增,1283,2,0,0,1283,2
 tonyfettes/ghostty,新增,23898,2,0,0,23898,2
 bobzhang/kimicc,有变化,2427,1,27251,6,29678,7
+hustcer/fzip,有变化,36,0,7218,2,7254,2
 Milky2018/moon_taffy,有变化,294,5,61496,3,61790,8
 Milky2018/moon_wgsl,有变化,6727,2,53141,18,59868,20
 mizchi/font,有变化,681,2,10463,2,11144,4
@@ -352,7 +355,6 @@ horideicom/encoding_sjis,无变化,0,0,7475,2,7475,2
 horideicom/jww_parser,无变化,0,0,2497,3,2497,3
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 hustcer/ed25519,无变化,0,0,1248,2,1248,2
-hustcer/fzip,无变化,0,0,7218,2,7218,2
 hustcer/nanoid,无变化,0,0,1745,2,1745,2
 hustcer/tabular,无变化,0,0,15088,3,15088,3
 hzqdf/aoko,无变化,0,0,20,0,20,0
