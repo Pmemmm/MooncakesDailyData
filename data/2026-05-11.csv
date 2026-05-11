@@ -42,6 +42,7 @@ gallery,bobzhang/gallery,0.2.2,8878,2
 games,bobzhang/games,0.9.33,664414,920
 hol,bobzhang/hol,0.1.1,4609,6
 holm,bobzhang/holm,0.1.1,9430,12
+html_parser,bobzhang/html_parser,0.1.0,32873,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 kanban,bobzhang/kanban,0.3.2,3820,4
 kimicc,bobzhang/kimicc,0.1.4,29678,7
@@ -823,6 +824,7 @@ diago,Milky2018/diago,0.2.5,137028,32
 gamepad,Milky2018/gamepad,0.4.5,13381,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
+mecs,Milky2018/mecs,0.1.0,5791,2
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.2.2,19180,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
@@ -866,6 +868,7 @@ zstd,Milky2018/zstd,0.1.0,39568,1
 relay,Metalymph/relay,0.1.0,474,2
 valkey,Metalymph/valkey,0.1.0,252,1
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3
+doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69
 markitdown,ZSeanYves/markitdown,0.3.4,154480,109
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1

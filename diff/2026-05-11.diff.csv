@@ -1,4 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bobzhang/html_parser,新增,32873,2,0,0,32873,2
+Milky2018/mecs,新增,5791,2,0,0,5791,2
+ZSeanYves/doc_parser,新增,92139,69,0,0,92139,69
 dowdiness/js_engine,有变化,5107,0,70812,11,75919,11
 Milky2018/window,有变化,100,0,21373,13,21473,13
 ZSeanYves/markitdown,有变化,26324,23,128156,86,154480,109
