@@ -296,7 +296,7 @@ lexicon-fractional-index,tiye/lexicon-fractional-index,0.0.4,957,2
 preact,tiye/preact,0.0.1-a3,3007,2
 quaternion,tiye/quaternion,0.1.3,1083,1
 react,tiye/react,0.0.3,3112,2
-recollect,tiye/recollect,0.2.0,683,1
+recollect,tiye/recollect,0.2.1,938,2
 redstart,tiye/redstart,0.1.4,1964,2
 respo,tiye/respo,0.3.3,7033,4
 respo_css,tiye/respo_css,0.1.6,4894,2
@@ -434,8 +434,8 @@ threads,mizchi/threads,0.1.2,6944,12
 tmgrammar,mizchi/tmgrammar,0.1.0,72806,42
 tornado,mizchi/tornado,0.6.1,10599,12
 ts,mizchi/ts,0.3.0,80123,12
-tui,mizchi/tui,0.9.1,36913,34
-tui-terminal-protocol,mizchi/tui-terminal-protocol,0.1.0,860,2
+tui,mizchi/tui,0.9.2,37993,37
+tui-terminal-protocol,mizchi/tui-terminal-protocol,0.1.2,1021,3
 v8,mizchi/v8,0.2.0,7480,2
 vfs,mizchi/vfs,0.2.2,2686,8
 vivebox,mizchi/vivebox,0.1.1,3575,2
@@ -889,6 +889,8 @@ svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
 mcp,colmugx/mcp,0.5.2,3767,9
 reader,colmugx/reader,0.3.0,228,1
+sqlite3,colmugx/sqlite3,0.2.0,832,2
+sqlite-vec,colmugx/sqlite-vec,0.1.0,131,1
 Introsort,pzl-love/Introsort,0.1.1,320,2
 moonbit_libbpf,hevienz/moonbit_libbpf,0.10.0,568,2
 zls,sohaha/zls,0.1.0,25,2
