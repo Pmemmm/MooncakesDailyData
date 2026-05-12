@@ -1,6 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 mizchi/tui-terminal-buffer,新增,1037,1,0,0,1037,1
+moonbit-community/prettyprinter,新增,1732,1,0,0,1732,1
 totto2727/geo-mbt,新增,24431,4,0,0,24431,4
+colmugx/sqlite-vec,有变化,851,2,131,1,982,3
 hustcer/fzip,有变化,30,0,7254,2,7284,2
 mizchi/tui,有变化,626,2,37993,37,38619,39
 mizchi/webdriver,有变化,138,0,5102,1,5240,1
@@ -195,7 +197,6 @@ cogna-dev/sbom,无变化,0,0,4747,13,4747,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
 colmugx/mcp,无变化,0,0,3767,9,3767,9
 colmugx/reader,无变化,0,0,228,1,228,1
-colmugx/sqlite-vec,无变化,0,0,131,1,131,1
 colmugx/sqlite3,无变化,0,0,832,2,832,2
 cou723/html-parser,无变化,0,0,794,4,794,4
 cyhforlight/moonbit-hello-card,无变化,0,0,25,2,25,2
