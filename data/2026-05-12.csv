@@ -231,7 +231,7 @@ hashbrown,bob/hashbrown,0.1.0,1549,3
 lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
-async,moonbitlang/async,0.18.1,35193,48
+async,moonbitlang/async,0.19.0,36696,48
 core,moonbitlang/core,0.1.20260429+cd5b07232,163592,72
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
@@ -1175,4 +1175,4 @@ x,cogna-dev/x,0.1.2,2733,4
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
-BitLogger,Nanaloveyuki/BitLogger,0.4.0,6656,4
+BitLogger,Nanaloveyuki/BitLogger,0.4.1,7155,4
