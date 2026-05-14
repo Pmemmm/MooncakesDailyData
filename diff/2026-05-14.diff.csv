@@ -8,11 +8,13 @@ bobzhang/loop_invariants_math,有变化,947,2,13699,16,14646,18
 bobzhang/loop_invariants_techniques,有变化,5523,10,11002,12,16525,22
 bobzhang/pdflite,有变化,16730,0,433270,7,450000,7
 hustcer/ed25519,有变化,249,0,1248,2,1497,2
+kokic/momoka,有变化,-6,0,939,1,933,1
 kokic/sexp-html,有变化,84,0,855,1,939,1
 mizchi/astra,有变化,318,0,30919,32,31237,32
 mizchi/luna,有变化,145,0,47815,44,47960,44
 mizchi/markdown,有变化,993,8,22430,16,23423,24
 mizchi/sol,有变化,2755,0,37148,35,39903,35
+moonbitlang/parser,有变化,2024,2,99797,12,101821,14
 oboard/mocket,有变化,245,0,6970,15,7215,15
 oboard/morm,有变化,19,0,24062,19,24081,19
 oboard/redis,有变化,-68,0,5222,1,5154,1
@@ -486,7 +488,6 @@ Kilig/MATH,无变化,0,0,39,2,39,2
 KingBes/raylib,无变化,0,0,144,1,144,1
 KingBes/webui,无变化,0,0,110,1,110,1
 kinoamyfx/moon-axe-tools,无变化,0,0,25,2,25,2
-kokic/momoka,无变化,0,0,939,1,939,1
 kokic/moonbit-chalk,无变化,0,0,248,1,248,1
 kokic/prime,无变化,0,0,546,2,546,2
 Lalenture/hello,无变化,0,0,19,2,19,2
@@ -758,7 +759,6 @@ moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
-moonbitlang/parser,无变化,0,0,99797,12,99797,12
 moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
 moonbitlang/quickcheck,无变化,0,0,12982,13,12982,13
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
