@@ -4,10 +4,12 @@ mizchi/sol_adapter_cloudflare,新增,624,1,0,0,624,1
 mizchi/sol_adapter_node,新增,200,1,0,0,200,1
 moonbit-community/rabbita_tui,新增,10070,6,0,0,10070,6
 bobzhang/loop_invariants,有变化,5365,10,141619,204,146984,214
-bobzhang/loop_invariants_dp,有变化,460,1,4941,12,5401,13
-bobzhang/loop_invariants_graph,有变化,2329,4,36503,51,38832,55
-bobzhang/loop_invariants_math,有变化,1928,4,13699,16,15627,20
-bobzhang/loop_invariants_techniques,有变化,5523,10,11002,12,16525,22
+bobzhang/loop_invariants_dp,有变化,951,2,4941,12,5892,14
+bobzhang/loop_invariants_geometry,有变化,880,2,6341,9,7221,11
+bobzhang/loop_invariants_graph,有变化,3288,6,36503,51,39791,57
+bobzhang/loop_invariants_math,有变化,2687,6,13699,16,16386,22
+bobzhang/loop_invariants_string,有变化,975,2,18487,18,19462,20
+bobzhang/loop_invariants_techniques,有变化,6537,12,11002,12,17539,24
 bobzhang/pdflite,有变化,16730,0,433270,7,450000,7
 hustcer/ed25519,有变化,249,0,1248,2,1497,2
 kokic/momoka,有变化,-6,0,939,1,933,1
@@ -112,9 +114,7 @@ bobzhang/lexer,无变化,0,0,604,1,604,1
 bobzhang/liquid,无变化,0,0,3145,2,3145,2
 bobzhang/lisp_interpreter,无变化,0,0,1753,1,1753,1
 bobzhang/loop_invariants_data_structures,无变化,0,0,29164,33,29164,33
-bobzhang/loop_invariants_geometry,无变化,0,0,6341,9,6341,9
 bobzhang/loop_invariants_persistent,无变化,0,0,17908,44,17908,44
-bobzhang/loop_invariants_string,无变化,0,0,18487,18,18487,18
 bobzhang/loop_invariants_verified,无变化,0,0,1499,7,1499,7
 bobzhang/mbtexcel,无变化,0,0,130533,9,130533,9
 bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
