@@ -51,13 +51,13 @@ liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
 loop_invariants,bobzhang/loop_invariants,0.8.0,146984,214
 loop_invariants_data_structures,bobzhang/loop_invariants_data_structures,0.8.0,29164,33
-loop_invariants_dp,bobzhang/loop_invariants_dp,0.10.0,5892,14
+loop_invariants_dp,bobzhang/loop_invariants_dp,0.11.0,6705,16
 loop_invariants_geometry,bobzhang/loop_invariants_geometry,0.10.0,7221,11
-loop_invariants_graph,bobzhang/loop_invariants_graph,0.13.0,39791,57
-loop_invariants_math,bobzhang/loop_invariants_math,0.12.0,16386,22
+loop_invariants_graph,bobzhang/loop_invariants_graph,0.14.0,40304,58
+loop_invariants_math,bobzhang/loop_invariants_math,0.13.0,18453,27
 loop_invariants_persistent,bobzhang/loop_invariants_persistent,0.8.0,17908,44
-loop_invariants_string,bobzhang/loop_invariants_string,0.10.0,19462,20
-loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.13.0,17539,24
+loop_invariants_string,bobzhang/loop_invariants_string,0.11.0,19853,21
+loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.14.0,17907,25
 loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7
 mbtexcel,bobzhang/mbtexcel,0.1.5,130533,9
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
@@ -367,6 +367,7 @@ crater-wasm,mizchi/crater-wasm,0.17.1,1917,11
 crater-webdriver-bidi,mizchi/crater-webdriver-bidi,0.17.1,61396,4
 crater-webvitals,mizchi/crater-webvitals,0.17.1,788,1
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
+css,mizchi/css,0.1.0,26696,10
 cst,mizchi/cst,0.1.7,2492,4
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3
 differentiable_ecs,mizchi/differentiable_ecs,0.2.0,682,3
@@ -886,7 +887,7 @@ graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.1,16890,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
-moondsp,dowdiness/moondsp,0.2.0,40987,12
+moondsp,dowdiness/moondsp,0.3.0,41138,12
 order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
