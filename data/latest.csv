@@ -314,7 +314,7 @@ pem,hackwaly/pem,0.1.2,1306,1
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.2.0,1497,2
-fzip,hustcer/fzip,0.6.3,7384,2
+fzip,hustcer/fzip,0.7.0,7559,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
 biblatex,Lampese/biblatex,0.1.0,1714,2
@@ -886,7 +886,7 @@ graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.1,16890,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
-moondsp,dowdiness/moondsp,0.1.0,25041,10
+moondsp,dowdiness/moondsp,0.2.0,40987,12
 order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
