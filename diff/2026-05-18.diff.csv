@@ -1,4 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+emadurandal/rhodonite_app_sdl3,新增,434,1,0,0,434,1
+emadurandal/rhodonite,有变化,1541,2,27,1,1568,3
+emadurandal/rhodonite_core,有变化,15618,9,600,4,16218,13
+emadurandal/rhodonite_webgpu,有变化,1589,0,2987,5,4576,5
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -223,9 +227,6 @@ edragain2nd/compose,无变化,0,0,1233,1,1233,1
 edragain2nd/unscanny,无变化,0,0,916,1,916,1
 elzup/peeler,无变化,0,0,1096,1,1096,1
 emadurandal/examine,无变化,0,0,119,2,119,2
-emadurandal/rhodonite,无变化,0,0,27,1,27,1
-emadurandal/rhodonite_core,无变化,0,0,600,4,600,4
-emadurandal/rhodonite_webgpu,无变化,0,0,2987,5,2987,5
 emptist/ibmoonc,无变化,0,0,4970,2,4970,2
 emptist/ibmoonjs,无变化,0,0,4865,1,4865,1
 emptist/ibmoonwa,无变化,0,0,5019,2,5019,2
