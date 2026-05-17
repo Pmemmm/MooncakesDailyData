@@ -1155,7 +1155,7 @@ golem_sdk,golemcloud/golem_sdk,0.5.1,122022,56
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.5.1,11957,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 moon_openapi_cli,Showichiro/moon_openapi_cli,0.1.5,7360,15
-readdirp,i5ting/readdirp,0.1.1,1385,2
+readdirp,i5ting/readdirp,0.1.3,1515,2
 cube_render,yuntian/cube_render,0.0.3,3570,11
 jqx,shina1024/jqx,0.1.2,20766,11
 moontrace,brickfrog/moontrace,0.9.1,3339,5
@@ -1191,4 +1191,4 @@ loci,zploc/loci,0.1.0,31491,20
 BitLogger,Nanaloveyuki/BitLogger,0.4.1,7155,4
 strip,0xA672/strip,0.1.1,1892,1
 moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
-moontask,nexacodes/moontask,0.1.1,6338,10
+moontask,nexacodes/moontask,0.1.2,6493,10

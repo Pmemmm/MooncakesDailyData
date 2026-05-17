@@ -4,8 +4,8 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 chnlkw/moonxi-net,新增,5996,13,0,0,5996,13
 chnlkw/moonxi-net-gpu,新增,5545,9,0,0,5545,9
 hackwaly/redis,新增,7565,3,0,0,7565,3
-i5ting/readdirp,新增,1385,2,0,0,1385,2
-nexacodes/moontask,新增,6338,10,0,0,6338,10
+i5ting/readdirp,新增,1515,2,0,0,1515,2
+nexacodes/moontask,新增,6493,10,0,0,6493,10
 bobzhang/html_parser,有变化,5335,14,44510,2,49845,16
 dowdiness/moondsp,有变化,19,0,41138,12,41157,12
 kokic/sexp-html,有变化,282,0,939,1,1221,1
