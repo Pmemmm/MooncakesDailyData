@@ -338,7 +338,7 @@ core-extra,loneoutpost/core-extra,0.0.6,926,3
 actrun,mizchi/actrun,0.29.1,59799,10
 admiral,mizchi/admiral,0.1.0,1477,2
 ast_printer,mizchi/ast_printer,0.2.4,2462,1
-astra,mizchi/astra,0.22.3,31323,32
+astra,mizchi/astra,0.23.0,31584,45
 audio,mizchi/audio,0.1.1,5420,1
 bit,mizchi/bit,0.42.1,256608,51
 bitflow,mizchi/bitflow,0.4.1,14768,5
@@ -392,8 +392,8 @@ libgit2,mizchi/libgit2,0.1.0,2525,4
 libjit,mizchi/libjit,0.1.1,9787,3
 llm,mizchi/llm,0.3.1,7671,8
 lsp,mizchi/lsp,0.1.2,28260,7
-luna,mizchi/luna,0.22.3,48732,44
-luna_components,mizchi/luna_components,0.22.3,17482,18
+luna,mizchi/luna,0.23.0,45324,44
+luna_components,mizchi/luna_components,0.23.0,17482,18
 markdown,mizchi/markdown,0.4.9,23423,24
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
@@ -423,9 +423,9 @@ sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
 similarity,mizchi/similarity,0.2.1,2664,5
-sol,mizchi/sol,0.22.4,45949,40
-sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.22.4,805,1
-sol_adapter_node,mizchi/sol_adapter_node,0.22.4,221,1
+sol,mizchi/sol,0.23.0,45916,40
+sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.23.0,805,1
+sol_adapter_node,mizchi/sol_adapter_node,0.23.0,221,1
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.2,24482,30
 sqlite,mizchi/sqlite,0.3.1,2255,1
 starlint,mizchi/starlint,0.10.1,18204,7
@@ -604,7 +604,7 @@ Permutation,xunyoyo/Permutation,0.1.1,216,4
 momoka,kokic/momoka,0.3.0,960,1
 moonbit-chalk,kokic/moonbit-chalk,0.5.0,248,1
 prime,kokic/prime,0.1.6,546,2
-sexp-html,kokic/sexp-html,0.1.1,939,1
+sexp-html,kokic/sexp-html,0.2.0,1221,1
 json,jinser/json,0.0.1,551,2
 baby,jumpping/baby,0.2.0,4270,6
 Binary-Exponentiation,CMoonBack/Binary-Exponentiation,0.1.0,102,2
@@ -981,6 +981,8 @@ gs,ZijianFeng33/gs,0.1.0,242,2
 range,ZijianFeng33/range,0.1.0,159,2
 regexp,ZijianFeng33/regexp,0.1.0,117,2
 strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2
+moonxi-net,chnlkw/moonxi-net,0.1.1,5996,13
+moonxi-net-gpu,chnlkw/moonxi-net-gpu,0.1.1,5545,9
 moon_rsa,Rutubet/moon_rsa,0.2.0,708,2
 mb-chacha,Tigls/mb-chacha,0.1.0,528,1
 mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1
@@ -1185,4 +1187,5 @@ pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
 BitLogger,Nanaloveyuki/BitLogger,0.4.1,7155,4
-strip,0xA672/strip,0.1.0,124,1
+strip,0xA672/strip,0.1.1,1892,1
+moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
