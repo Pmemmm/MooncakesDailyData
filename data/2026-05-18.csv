@@ -231,7 +231,7 @@ hashbrown,bob/hashbrown,0.1.0,1549,3
 lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
-async,moonbitlang/async,0.19.0,36696,48
+async,moonbitlang/async,0.19.1,36833,48
 core,moonbitlang/core,0.1.20260512+bbe2b338f,170508,74
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
