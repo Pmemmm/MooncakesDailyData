@@ -832,7 +832,7 @@ guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mecs,Milky2018/mecs,0.1.0,5791,2
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
-moon_accesskit,Milky2018/moon_accesskit,0.2.2,19180,4
+moon_accesskit,Milky2018/moon_accesskit,0.3.0,19304,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
 moon_cosmic,Milky2018/moon_cosmic,0.3.1,50165,8
 moon_cpal,Milky2018/moon_cpal,0.11.6,18940,19
@@ -840,7 +840,7 @@ moon_dagre,Milky2018/moon_dagre,0.2.5,10424,1
 moon_elk,Milky2018/moon_elk,0.1.14,271139,39
 moonlight,Milky2018/moonlight,0.1.0,131,5
 moonplant,Milky2018/moonplant,0.3.1,858,2
-moon_rapier,Milky2018/moon_rapier,0.4.0,116085,14
+moon_rapier,Milky2018/moon_rapier,0.5.0,114537,14
 moon_rodio,Milky2018/moon_rodio,0.3.2,22714,55
 moon_skrifa,Milky2018/moon_skrifa,0.1.7,47856,3
 moon_swash,Milky2018/moon_swash,0.1.8,66457,7
@@ -868,7 +868,7 @@ sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.4,236903,46
 wgpu_mbt,Milky2018/wgpu_mbt,0.12.11,42705,10
-window,Milky2018/window,0.4.1,21558,13
+window,Milky2018/window,0.5.0,21641,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
 relay,Metalymph/relay,0.1.0,474,2
@@ -1168,7 +1168,7 @@ moon_switch,grandEarshot/moon_switch,0.1.2,2137,2
 tui,grandEarshot/tui,0.1.0,5045,7
 mdclip,ushironoko/mdclip,0.4.0,1553,4
 nash-mbt,ushironoko/nash-mbt,0.1.1,2006,3
-vapor_moon,ubugeeei/vapor_moon,0.1.0,14961,15
+vapor_moon,ubugeeei/vapor_moon,0.1.1,16211,15
 meow,xrr2016/meow,0.12.0,103,2
 rmdir,xrr2016/rmdir,0.5.0,86,2
 tui,xrr2016/tui,0.1.0,518,2
