@@ -64,6 +64,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
+openseek,bobzhang/openseek,0.1.0,3025,5
 pdflite,bobzhang/pdflite,0.1.4,449462,13
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 prove,bobzhang/prove,0.0.2,3164,84
@@ -465,6 +466,7 @@ apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
 base16384,oboard/base16384,0.1.3,288,1
 eval,oboard/eval,0.9.2,72786,8
+jsonx,oboard/jsonx,0.1.0,881,2
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.5.2,11412,3
 mocket,oboard/mocket,0.7.3,7215,15
@@ -868,7 +870,7 @@ sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.4,236903,46
 wgpu_mbt,Milky2018/wgpu_mbt,0.12.11,42705,10
-window,Milky2018/window,0.5.0,21641,13
+window,Milky2018/window,0.5.1,21708,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
 relay,Metalymph/relay,0.1.0,474,2
@@ -896,7 +898,7 @@ cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
 mcp,colmugx/mcp,0.5.2,3767,9
 reader,colmugx/reader,0.3.0,228,1
 sqlite3,colmugx/sqlite3,0.2.0,832,2
-sqlite-vec,colmugx/sqlite-vec,0.2.0,982,3
+sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3
 Introsort,pzl-love/Introsort,0.1.1,320,2
 moonbit_libbpf,hevienz/moonbit_libbpf,0.10.0,568,2
 zls,sohaha/zls,0.1.0,25,2
@@ -1157,6 +1159,7 @@ golem_sdk_tools,golemcloud/golem_sdk_tools,0.5.1,11957,2
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7
 moon_openapi_cli,Showichiro/moon_openapi_cli,0.1.5,7360,15
 chokidar,i5ting/chokidar,0.1.0,3902,2
+glob-watcher,i5ting/glob-watcher,0.1.0,1896,3
 readdirp,i5ting/readdirp,0.1.3,1515,2
 cube_render,yuntian/cube_render,0.0.3,3570,11
 jqx,shina1024/jqx,0.1.2,20766,11
