@@ -7,6 +7,8 @@ oboard/jsonx,新增,881,2,0,0,881,2
 0xA672/strip,有变化,299,1,1892,1,2191,2
 colmugx/sqlite-vec,有变化,1,0,982,3,983,3
 dowdiness/moondsp,有变化,645,0,41157,12,41802,12
+emadurandal/rhodonite_core,有变化,48,0,16218,13,16266,13
+emadurandal/rhodonite_webgpu,有变化,1041,0,4576,5,5617,5
 Milky2018/selene,有变化,2588,1,60304,58,62892,59
 Milky2018/selene_raylib,有变化,112,0,8172,6,8284,6
 Milky2018/selene_webgpu,有变化,213,0,8151,6,8364,6
@@ -235,8 +237,6 @@ elzup/peeler,无变化,0,0,1096,1,1096,1
 emadurandal/examine,无变化,0,0,119,2,119,2
 emadurandal/rhodonite,无变化,0,0,1568,3,1568,3
 emadurandal/rhodonite_app_sdl3,无变化,0,0,434,1,434,1
-emadurandal/rhodonite_core,无变化,0,0,16218,13,16218,13
-emadurandal/rhodonite_webgpu,无变化,0,0,4576,5,4576,5
 emptist/ibmoonc,无变化,0,0,4970,2,4970,2
 emptist/ibmoonjs,无变化,0,0,4865,1,4865,1
 emptist/ibmoonwa,无变化,0,0,5019,2,5019,2
