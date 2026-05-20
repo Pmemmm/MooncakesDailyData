@@ -893,7 +893,7 @@ graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.1,16890,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
-moondsp,dowdiness/moondsp,0.5.0,42152,12
+moondsp,dowdiness/moondsp,0.5.1,42430,12
 order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
@@ -1061,10 +1061,11 @@ sketch,hiroyannnn/sketch,0.1.0,975,2
 strsim,hiroyannnn/strsim,0.2.0,861,3
 emoji,fundon/emoji,0.3.0,1656,1
 examine,emadurandal/examine,0.1.0,119,2
-rhodonite,emadurandal/rhodonite,0.1.7,2871,3
-rhodonite_app_sdl3,emadurandal/rhodonite_app_sdl3,0.1.7,2071,1
-rhodonite_core,emadurandal/rhodonite_core,0.1.7,16266,13
-rhodonite_webgpu,emadurandal/rhodonite_webgpu,0.1.7,5617,5
+rhodonite,emadurandal/rhodonite,0.1.8,2919,3
+rhodonite_app_sdl3,emadurandal/rhodonite_app_sdl3,0.1.8,2080,1
+rhodonite_core,emadurandal/rhodonite_core,0.1.8,16488,13
+rhodonite_webgpu,emadurandal/rhodonite_webgpu,0.1.8,5776,5
+sdl3,emadurandal/sdl3,0.1.2,22948,4
 aletheia,f4ah6o/aletheia,0.6.0,19440,30
 direct_sdk,f4ah6o/direct_sdk,0.11.1,14915,22
 duckdb,f4ah6o/duckdb,0.6.3,18299,2
