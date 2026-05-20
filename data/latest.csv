@@ -24,7 +24,7 @@ parse_args,peter-jerry-ye/parse_args,0.1.1,428,1
 parser-combinator,peter-jerry-ye/parser-combinator,0.9.1,593,1
 spin-imports,peter-jerry-ye/spin-imports,0.1.3,2852,10
 utils,peter-jerry-ye/utils,0.4.3,1942,5
-wasi,peter-jerry-ye/wasi,0.24.3,6826,15
+wasi,peter-jerry-ye/wasi,0.24.4,6855,15
 wasi-imports,peter-jerry-ye/wasi-imports,0.1.5,9056,30
 beautiful_mermaid,bobzhang/beautiful_mermaid,0.1.5,33558,41
 blog-app,bobzhang/blog-app,0.3.2,2342,4
@@ -123,7 +123,7 @@ nat,tonyfettes/nat,0.1.1,1664,1
 openai,tonyfettes/openai,0.1.1,2789,3
 openssl,tonyfettes/openssl,0.2.3,290,1
 ops,tonyfettes/ops,0.0.2,7,1
-os,tonyfettes/os,0.1.0,395,2
+os,tonyfettes/os,0.1.1,417,2
 pango,tonyfettes/pango,0.1.1,1945,1
 path,tonyfettes/path,0.2.2,1354,1
 pcre2,tonyfettes/pcre2,0.4.5,840,1
@@ -316,7 +316,7 @@ redis,hackwaly/redis,0.1.1,7565,3
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.2.0,1497,2
-fzip,hustcer/fzip,0.7.0,7559,2
+fzip,hustcer/fzip,0.8.0,11958,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
 biblatex,Lampese/biblatex,0.1.0,1714,2
@@ -329,6 +329,7 @@ mooncakes_protocol,Lampese/mooncakes_protocol,0.1.0,1654,1
 moondata,Lampese/moondata,0.2.8,1165,1
 moondata2,Lampese/moondata2,0.0.2,335,1
 punycode,chawyehsu/punycode,0.0.5,378,1
+stringprep,chawyehsu/stringprep,0.0.1,9843,1
 sparse-table,DawnMagnet/sparse-table,0.1.1,172,2
 llhttp,yj-qin/llhttp,0.1.1,1376,1
 moonlox,yj-qin/moonlox,0.1.0,2551,2
@@ -396,7 +397,7 @@ llm,mizchi/llm,0.3.1,7671,8
 lsp,mizchi/lsp,0.1.2,28260,7
 luna,mizchi/luna,0.23.0,45324,44
 luna_components,mizchi/luna_components,0.23.0,17482,18
-markdown,mizchi/markdown,0.4.9,23423,24
+markdown,mizchi/markdown,0.5.0,25954,25
 mars,mizchi/mars,0.3.10,14703,12
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1
 mbts,mizchi/mbts,0.0.3,12071,9
@@ -833,6 +834,8 @@ gamepad,Milky2018/gamepad,0.4.5,13381,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mecs,Milky2018/mecs,0.1.0,5791,2
+meshopt_mbt,Milky2018/meshopt_mbt,0.1.0,3657,2
+metis,Milky2018/metis,0.1.0,1505,1
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.3.0,19304,4
 moonchor,Milky2018/moonchor,0.18.0,3803,13
@@ -890,7 +893,7 @@ graphviz,dowdiness/graphviz,0.1.0,4695,5
 incr,dowdiness/incr,0.5.1,16890,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
-moondsp,dowdiness/moondsp,0.4.0,41802,12
+moondsp,dowdiness/moondsp,0.5.0,42152,12
 order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
@@ -1192,6 +1195,7 @@ parkit,cogna-dev/parkit,0.1.1,1750,3
 sbom,cogna-dev/sbom,0.1.1,4747,13
 x,cogna-dev/x,0.1.2,2733,4
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
+vibe-map,eanzhao/vibe-map,0.5.3,10090,3
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
 BitLogger,Nanaloveyuki/BitLogger,0.5.0,7981,13
