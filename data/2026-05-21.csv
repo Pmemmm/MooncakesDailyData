@@ -313,6 +313,7 @@ moonback,hackwaly/moonback,0.1.7,2819,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
+querystring,hackwaly/querystring,0.1.0,107,1
 redis,hackwaly/redis,0.1.1,7565,3
 regex,hackwaly/regex,0.0.1,4857,9
 readline,npmstudy/readline,0.1.6,4836,4
@@ -390,6 +391,8 @@ json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.8.0,3190,4
 js_regexp,mizchi/js_regexp,0.0.4,145,2
 kagura,mizchi/kagura,0.3.2,68498,58
+kagura_core,mizchi/kagura_core,0.1.0,9983,13
+kagura_engine,mizchi/kagura_engine,0.1.0,39362,27
 layout,mizchi/layout,0.2.0,1852,6
 lib,mizchi/lib,0.1.2,118,2
 libgit2,mizchi/libgit2,0.1.0,2525,4
@@ -835,7 +838,7 @@ gamepad,Milky2018/gamepad,0.4.5,13381,1
 guardch,Milky2018/guardch,0.1.0,72,1
 html,Milky2018/html,0.1.2,89678,3
 mecs,Milky2018/mecs,0.1.0,5791,2
-meshopt_mbt,Milky2018/meshopt_mbt,0.1.0,3657,2
+meshopt_mbt,Milky2018/meshopt_mbt,0.1.1,4052,2
 metis,Milky2018/metis,0.1.1,1625,1
 mgstudio,Milky2018/mgstudio,0.2.0,168396,65
 moon_accesskit,Milky2018/moon_accesskit,0.3.0,19304,4
@@ -873,7 +876,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.4,236903,46
-wgpu_mbt,Milky2018/wgpu_mbt,0.12.11,42705,10
+wgpu_mbt,Milky2018/wgpu_mbt,0.13.0,43048,10
 window,Milky2018/window,0.5.1,21708,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
@@ -1046,6 +1049,7 @@ verified,moonbit-community/verified,0.0.2,4118,36
 warren,moonbit-community/warren,0.1.3,1822,5
 XMLParser,moonbit-community/XMLParser,0.2.5,4528,2
 yaml,moonbit-community/yaml,0.0.4,6251,1
+jsonrpc,shiguri-01/jsonrpc,0.1.0,1616,5
 csv_parser,maria/csv_parser,0.1.0,929,2
 ini_parser,maria/ini_parser,0.1.0,923,2
 json_parser,maria/json_parser,0.1.1,1254,2
@@ -1197,10 +1201,10 @@ parkit,cogna-dev/parkit,0.1.1,1750,3
 sbom,cogna-dev/sbom,0.1.1,4747,13
 x,cogna-dev/x,0.1.2,2733,4
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9
-vibe-map,eanzhao/vibe-map,0.5.3,10090,3
+vibe-map,eanzhao/vibe-map,0.6.0,10840,3
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
-BitLogger,Nanaloveyuki/BitLogger,0.5.0,7981,13
+BitLogger,Nanaloveyuki/BitLogger,0.5.1,8081,13
 strip,0xA672/strip,0.1.2,2191,2
 moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
