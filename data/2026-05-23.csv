@@ -317,6 +317,7 @@ pem,hackwaly/pem,0.1.2,1306,1
 querystring,hackwaly/querystring,0.1.2,249,1
 redis,hackwaly/redis,0.1.1,7565,3
 regex,hackwaly/regex,0.0.1,4857,9
+s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.2.1,1679,2
 fzip,hustcer/fzip,0.8.0,11958,2
