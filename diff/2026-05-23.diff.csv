@@ -7,7 +7,9 @@ moonbit-community/tty,新增,6240,14,0,0,6240,14
 bobzhang/kimicc,有变化,51722,3,63681,9,115403,12
 bobzhang/openseek,有变化,5039,10,3025,5,8064,15
 brickfrog/moontrace,有变化,8,0,3339,5,3347,5
+mizchi/x,有变化,285,0,19844,16,20129,16
 moonbitlang/quickcheck,有变化,296,3,12982,13,13278,16
+shiguri-01/jsonrpc,有变化,-169,-3,1616,5,1447,2
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -744,7 +746,6 @@ mizchi/whisper-mbt,无变化,0,0,1318,3,1318,3
 mizchi/wit,无变化,0,0,4397,2,4397,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,49049,16,49049,16
-mizchi/x,无变化,0,0,19844,16,19844,16
 mizchi/zlib,无变化,0,0,3410,6,3410,6
 moonbit-community/casefold,无变化,0,0,2269,1,2269,1
 moonbit-community/charclass,无变化,0,0,319,1,319,1
@@ -941,7 +942,6 @@ ShellWen/lru_cache,无变化,0,0,211,1,211,1
 ShellWen/sw_ini,无变化,0,0,1404,1,1404,1
 ShellWen/sw_router,无变化,0,0,589,1,589,1
 ShellWen/sw_socket,无变化,0,0,983,6,983,6
-shiguri-01/jsonrpc,无变化,0,0,1616,5,1616,5
 shiheat/find_max,无变化,0,0,25,1,25,1
 shina1024/jqx,无变化,0,0,20766,11,20766,11
 Showichiro/jira_cli_mbt,无变化,0,0,8392,7,8392,7
