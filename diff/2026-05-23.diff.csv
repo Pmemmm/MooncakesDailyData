@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 CorvusCinereus/miniaudio,新增,122,2,0,0,122,2
 hackwaly/s3,新增,1484,1,0,0,1484,1
 mizchi/gfx,新增,6125,1,0,0,6125,1
+mizchi/pkl,新增,87256,2,0,0,87256,2
 moonbit-community/tty,新增,6240,14,0,0,6240,14
 bobzhang/kimicc,有变化,51722,3,63681,9,115403,12
 moonbitlang/quickcheck,有变化,296,3,12982,13,13278,16
