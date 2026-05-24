@@ -496,7 +496,7 @@ stdout,oboard/stdout,0.1.1,154,1
 weatherquery,oboard/weatherquery,0.1.1,81,1
 schema,YumeCross/schema,0.4.3,1721,2
 b2,gmlewis/b2,0.34.30,568,1
-base64,gmlewis/base64,0.16.9,985,2
+base64,gmlewis/base64,0.16.10,985,2
 crc32,gmlewis/crc32,0.8.16,207,1
 flate,gmlewis/flate,0.36.7,4335,3
 fonts,gmlewis/fonts,0.19.9,15156,19
@@ -904,7 +904,7 @@ btree,dowdiness/btree,0.1.0,4422,1
 event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 graphviz,dowdiness/graphviz,0.1.0,4695,5
-incr,dowdiness/incr,0.5.2,18642,10
+incr,dowdiness/incr,0.6.0,20352,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
 moondsp,dowdiness/moondsp,0.5.1,42430,12

@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 connect0459/urllib,新增,23611,5,0,0,23611,5
+dowdiness/incr,有变化,1710,0,18642,10,20352,10
 mizchi/pkl,有变化,214,0,87256,2,87470,2
 mizchi/x,有变化,69,0,20129,16,20198,16
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -217,7 +218,6 @@ dowdiness/btree,无变化,0,0,4422,1,4422,1
 dowdiness/event-graph-walker,无变化,0,0,23663,12,23663,12
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
 dowdiness/graphviz,无变化,0,0,4695,5,4695,5
-dowdiness/incr,无变化,0,0,18642,10,18642,10
 dowdiness/js_engine,无变化,0,0,75919,11,75919,11
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/moondsp,无变化,0,0,42430,12,42430,12
