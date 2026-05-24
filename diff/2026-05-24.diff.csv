@@ -4,6 +4,7 @@ CorvusCinereus/miniaudio,有变化,-13,0,132,2,119,2
 dowdiness/incr,有变化,1710,0,18642,10,20352,10
 mizchi/pkl,有变化,214,0,87256,2,87470,2
 mizchi/x,有变化,69,0,20129,16,20198,16
+moonbitlang/parser,有变化,9273,0,101821,14,111094,14
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -794,7 +795,6 @@ moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
-moonbitlang/parser,无变化,0,0,101821,14,101821,14
 moonbitlang/protobuf,无变化,0,0,1449,1,1449,1
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
