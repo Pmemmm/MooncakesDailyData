@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 connect0459/urllib,新增,23485,5,0,0,23485,5
+bobzhang/kimicc,有变化,3803,0,115403,12,119206,12
 CorvusCinereus/miniaudio,有变化,-13,0,132,2,119,2
 dowdiness/incr,有变化,1710,0,18642,10,20352,10
 Milky2018/moon_wgsl,有变化,18561,0,62638,23,81199,23
@@ -97,7 +98,6 @@ bobzhang/html_parser_examples,无变化,0,0,216,2,216,2
 bobzhang/ipaddr,无变化,0,0,2023,1,2023,1
 bobzhang/issues,无变化,0,0,43389,11,43389,11
 bobzhang/kanban,无变化,0,0,3820,4,3820,4
-bobzhang/kimicc,无变化,0,0,115403,12,115403,12
 bobzhang/lexer,无变化,0,0,604,1,604,1
 bobzhang/liquid,无变化,0,0,3145,2,3145,2
 bobzhang/lisp_interpreter,无变化,0,0,1753,1,1753,1
