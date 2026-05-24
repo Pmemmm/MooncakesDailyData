@@ -865,7 +865,7 @@ moon_skrifa,Milky2018/moon_skrifa,0.1.7,47856,3
 moon_swash,Milky2018/moon_swash,0.1.8,66457,7
 moon_taffy,Milky2018/moon_taffy,0.5.1,61790,8
 moon_wesl,Milky2018/moon_wesl,0.1.2,16792,1
-moon_wgsl,Milky2018/moon_wgsl,0.12.3,62638,23
+moon_wgsl,Milky2018/moon_wgsl,0.13.0,81199,23
 moon_yazi,Milky2018/moon_yazi,0.1.2,3561,1
 moon_zeno,Milky2018/moon_zeno,0.1.2,6254,1
 options,Milky2018/options,0.1.2,328,1
@@ -894,7 +894,7 @@ relay,Metalymph/relay,0.1.0,474,2
 valkey,Metalymph/valkey,0.1.0,252,1
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3
 doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69
-markitdown,ZSeanYves/markitdown,0.3.5,202230,136
+markitdown,ZSeanYves/markitdown,0.3.6,191137,116
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
@@ -1223,4 +1223,4 @@ moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
 miniaudio,CorvusCinereus/miniaudio,0.3.1,119,2
-urllib,connect0459/urllib,0.1.0,23611,5
+urllib,connect0459/urllib,0.2.0,23485,5
