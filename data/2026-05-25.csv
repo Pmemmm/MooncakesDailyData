@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.40,120936,12
+kimicc,bobzhang/kimicc,0.1.51,121446,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -212,6 +212,7 @@ jmop,Yoorkin/jmop,0.1.1,2187,2
 logr_moonbit,Yoorkin/logr_moonbit,0.1.0,2508,1
 moonbee,Yoorkin/moonbee,0.1.2,2376,1
 prettyprinter,Yoorkin/prettyprinter,0.4.10,1655,2
+proxy,Yoorkin/proxy,0.1.0,149,1
 rabbit-tea,Yoorkin/rabbit-tea,0.10.11,21568,18
 shiki,Yoorkin/shiki,0.1.1,174,1
 splice,Yoorkin/splice,0.1.2,246,1
@@ -239,7 +240,7 @@ async,moonbitlang/async,0.19.1,36833,48
 core,moonbitlang/core,0.1.20260512+bbe2b338f,170508,74
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
-formatter,moonbitlang/formatter,0.1.5,4682,6
+formatter,moonbitlang/formatter,0.1.6,4683,6
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4
 json_deriving_codegen,moonbitlang/json_deriving_codegen,0.0.2,1188,1
 lex,moonbitlang/lex,0.3.9,8652,20
@@ -389,6 +390,7 @@ discord,mizchi/discord,0.1.2,1663,3
 flaker,mizchi/flaker,0.3.1,7121,21
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3
 font,mizchi/font,0.7.3,11144,4
+fswatch,mizchi/fswatch,0.1.0,956,1
 gfx,mizchi/gfx,0.1.0,6125,1
 git,mizchi/git,0.2.0,53603,9
 github,mizchi/github,0.1.2,1337,11
@@ -485,14 +487,14 @@ eval,oboard/eval,0.9.2,72786,8
 jsonx,oboard/jsonx,0.1.0,881,2
 mimetype,oboard/mimetype,0.1.9,1158,2
 mio,oboard/mio,0.5.2,11412,3
-mocket,oboard/mocket,0.7.3,7215,15
+mocket,oboard/mocket,0.7.4,7242,15
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2
 moonetx,oboard/moonetx,0.1.8,1323,1
-morm,oboard/morm,0.3.13,24081,19
+morm,oboard/morm,0.3.14,23993,19
 numoon,oboard/numoon,0.4.1,1332,2
 readline,oboard/readline,0.1.6,342,2
-redis,oboard/redis,0.1.4,5154,1
+redis,oboard/redis,0.1.5,5304,1
 stdout,oboard/stdout,0.1.1,154,1
 weatherquery,oboard/weatherquery,0.1.1,81,1
 schema,YumeCross/schema,0.4.3,1721,2
