@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.34,120654,12
+kimicc,bobzhang/kimicc,0.1.40,120936,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -97,6 +97,7 @@ c,tonyfettes/c,0.7.7,7376,23
 create-moonbit-raylib-android-app,tonyfettes/create-moonbit-raylib-android-app,0.1.0,4618,1
 dl,tonyfettes/dl,0.1.1,149,1
 dotenv,tonyfettes/dotenv,0.4.1,1379,1
+ds4,tonyfettes/ds4,0.1.0,2530,3
 encoding,tonyfettes/encoding,0.3.9,2233,1
 gdk,tonyfettes/gdk,0.1.1,1888,1
 ghostty,tonyfettes/ghostty,0.1.0,23898,2
@@ -245,7 +246,7 @@ lex,moonbitlang/lex,0.3.9,8652,20
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2
-parser,moonbitlang/parser,0.3.1,111094,14
+parser,moonbitlang/parser,0.3.2,116029,20
 protobuf,moonbitlang/protobuf,0.1.1,1449,1
 quickcheck,moonbitlang/quickcheck,0.14.0,13278,16
 regexp,moonbitlang/regexp,0.3.5,12052,5
@@ -774,9 +775,9 @@ teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
-linear-algebra,Luna-Flow/linear-algebra,0.2.9,16648,4
+linear-algebra,Luna-Flow/linear-algebra,0.2.10,17173,4
 luna-complex,Luna-Flow/luna-complex,0.1.0-alpha-4,1047,1
-luna-generic,Luna-Flow/luna-generic,0.2.3,262,1
+luna-generic,Luna-Flow/luna-generic,0.3.0,612,1
 luna-poly,Luna-Flow/luna-poly,0.1.2-beta-1,1636,1
 luna-utils,Luna-Flow/luna-utils,0.1.1,458,1
 quaternion,Luna-Flow/quaternion,0.1.3,702,1
@@ -1224,6 +1225,6 @@ strip,0xA672/strip,0.1.2,2191,2
 moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
-miniaudio,CorvusCinereus/miniaudio,0.3.1,119,2
+miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
 urllib,connect0459/urllib,0.2.0,23485,5
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
