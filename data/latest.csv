@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.102,124633,12
+kimicc,bobzhang/kimicc,0.1.105,124795,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -1240,4 +1240,5 @@ miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
 urllib,connect0459/urllib,0.2.0,23485,5
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.2.0,45265,15
-skir-client,gepheum/skir-client,0.1.0,4535,1
+skir-client,gepheum/skir-client,0.1.1,4536,1
+skir-client-async,gepheum/skir-client-async,0.1.0,42257,50
