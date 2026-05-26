@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.77,123195,12
+kimicc,bobzhang/kimicc,0.1.82,123565,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -183,7 +183,7 @@ tun-poc-server,tonyfettes/tun-poc-server,0.2.0,4789,13
 tun-poc-server-cn,tonyfettes/tun-poc-server-cn,0.2.0,26,1
 unicode,tonyfettes/unicode,0.3.0,11789,5
 uri,tonyfettes/uri,0.1.0,848,1
-url,tonyfettes/url,0.3.1,13116,1
+url,tonyfettes/url,0.3.2,13363,1
 utf8,tonyfettes/utf8,0.2.4,333,1
 uv,tonyfettes/uv,0.12.12,13288,2
 wasm,tonyfettes/wasm,0.1.3,703,3
@@ -237,7 +237,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.19.1,36833,48
-core,moonbitlang/core,0.1.20260512+bbe2b338f,170508,74
+core,moonbitlang/core,0.1.20260526+b53c2807d,173226,75
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.6,4683,6
@@ -312,7 +312,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
-moonback,hackwaly/moonback,0.2.1,2938,5
+moonback,hackwaly/moonback,0.2.2,2959,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
@@ -397,11 +397,15 @@ github,mizchi/github,0.1.2,1337,11
 glfw,mizchi/glfw,0.2.2,481,2
 image,mizchi/image,0.3.0,5934,1
 jq,mizchi/jq,0.2.2,10923,2
-js,mizchi/js,0.10.17,78338,112
+js,mizchi/js,0.12.1,78443,113
+js_browser,mizchi/js_browser,0.12.1,29408,12
+js_bun,mizchi/js_bun,0.12.1,929,2
+js_deno,mizchi/js_deno,0.12.1,1589,2
 js_io,mizchi/js_io,0.1.1,170,2
 json,mizchi/json,0.4.0,191,1
 jsonschema,mizchi/jsonschema,0.8.0,3190,4
 js_regexp,mizchi/js_regexp,0.0.4,145,2
+js_webextensions,mizchi/js_webextensions,0.12.1,1152,5
 kagura,mizchi/kagura,0.3.5,282,1
 kagura_core,mizchi/kagura_core,0.1.0,9983,13
 kagura_engine,mizchi/kagura_engine,0.1.0,39362,27
@@ -430,7 +434,7 @@ npm_typed,mizchi/npm_typed,0.1.14,83325,103
 numbt,mizchi/numbt,0.2.2,4602,1
 oci_wasm,mizchi/oci_wasm,0.5.0,2061,7
 parquet,mizchi/parquet,0.2.1,10202,4
-pixelmatch,mizchi/pixelmatch,0.4.1,3123,4
+pixelmatch,mizchi/pixelmatch,0.6.1,4306,5
 pkl,mizchi/pkl,0.2.2,87470,2
 playwright,mizchi/playwright,0.3.7,8363,4
 process_pool,mizchi/process_pool,0.1.3,1162,2
@@ -442,6 +446,7 @@ s3,mizchi/s3,0.1.0,646,2
 sandbox,mizchi/sandbox,0.1.1,66259,81
 semver,mizchi/semver,0.1.1,1661,4
 signals,mizchi/signals,0.6.4,4954,2
+simd,mizchi/simd,0.2.1,12985,6
 similarity,mizchi/similarity,0.2.1,2664,5
 sol,mizchi/sol,0.23.0,45916,40
 sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.23.0,805,1
@@ -477,7 +482,7 @@ wit,mizchi/wit,0.3.0,4397,2
 wite,mizchi/wite,0.11.0,49049,16
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47
 x,mizchi/x,0.3.3,20198,16
-zlib,mizchi/zlib,0.4.5,3410,6
+zlib,mizchi/zlib,0.4.6,3551,6
 postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
@@ -1061,7 +1066,7 @@ raylib,moonbit-community/raylib,0.3.1,21670,4
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2
 starter,moonbit-community/starter,0.2.0,43,1
-tty,moonbit-community/tty,0.1.0,6240,14
+tty,moonbit-community/tty,0.2.0,8306,17
 verified,moonbit-community/verified,0.0.2,4118,36
 warren,moonbit-community/warren,0.1.3,1822,5
 XMLParser,moonbit-community/XMLParser,0.2.5,4528,2
@@ -1223,8 +1228,10 @@ vibe-map,eanzhao/vibe-map,0.7.1,11339,3
 moonbash,Haoxincode/moonbash,0.1.0,45029,10
 loci,zploc/loci,0.1.0,31491,20
 BitLogger,Nanaloveyuki/BitLogger,0.5.1,8081,13
-moonbit_version_cli,0xA672/moonbit_version_cli,0.1.0,213,2
+moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2
 moonver,0xA672/moonver,0.1.0,212,2
+moonwasm_probe,0xA672/moonwasm_probe,0.10.0,313,2
+mwp,0xA672/mwp,0.1.0,241,2
 strip,0xA672/strip,0.1.2,2191,2
 moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
