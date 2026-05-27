@@ -1,7 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 f4ah6o/papyr,新增,7191,9,0,0,7191,9
 robinfang/mold,新增,2611,4,0,0,2611,4
-bobzhang/kimicc,有变化,1020,0,125755,12,126775,12
+bobzhang/kimicc,有变化,1164,0,125755,12,126919,12
 bobzhang/loop_invariants_data_structures,有变化,515,2,29164,33,29679,35
 bobzhang/loop_invariants_dp,有变化,610,3,6705,16,7315,19
 bobzhang/loop_invariants_geometry,有变化,464,2,7221,11,7685,13
