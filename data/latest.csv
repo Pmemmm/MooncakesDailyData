@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.105,124795,12
+kimicc,bobzhang/kimicc,0.1.114,125309,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -67,7 +67,7 @@ moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
 openseek,bobzhang/openseek,0.1.1,8064,15
-pdflite,bobzhang/pdflite,0.1.13,572177,21
+pdflite,bobzhang/pdflite,0.1.29,573162,22
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 prove,bobzhang/prove,0.0.2,3164,84
 qrc,bobzhang/qrc,0.1.1,2073,3
@@ -487,7 +487,7 @@ postgres,mattn/postgres,0.10.4,562,1
 eczn-utils,eczn/eczn-utils,0.2.0,50,1
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2
 assets,oboard/assets,0.1.1,182,1
-base16384,oboard/base16384,0.1.3,288,1
+base16384,oboard/base16384,0.1.4,291,1
 eval,oboard/eval,0.9.3,73024,8
 jsonx,oboard/jsonx,0.1.0,881,2
 mimetype,oboard/mimetype,0.1.9,1158,2
@@ -1055,12 +1055,12 @@ miniio,moonbit-community/miniio,0.2.0,3396,10
 moongrep,moonbit-community/moongrep,0.1.3,639,2
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1
-opentelemetry,moonbit-community/opentelemetry,0.1.2,36719,38
+opentelemetry,moonbit-community/opentelemetry,0.1.3,37233,38
 piediff,moonbit-community/piediff,0.0.9,2689,1
 postgres,moonbit-community/postgres,0.0.6,25234,16
 prettyprinter,moonbit-community/prettyprinter,0.4.10,1732,1
 pty,moonbit-community/pty,0.2.0,637,1
-rabbita,moonbit-community/rabbita,0.12.2,20951,18
+rabbita,moonbit-community/rabbita,0.12.3,20923,18
 rabbita_tui,moonbit-community/rabbita_tui,0.1.0,10070,6
 raylib,moonbit-community/raylib,0.3.1,21670,4
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2
@@ -1241,4 +1241,4 @@ urllib,connect0459/urllib,0.2.0,23485,5
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.2.0,45265,15
 skir-client,gepheum/skir-client,0.1.1,4536,1
-skir-client-async,gepheum/skir-client-async,0.1.0,42257,50
+skir-client-async,gepheum/skir-client-async,0.1.1,42256,50
