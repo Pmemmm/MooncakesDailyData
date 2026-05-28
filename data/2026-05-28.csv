@@ -47,7 +47,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.146,126919,12
+kimicc,bobzhang/kimicc,0.1.155,127380,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -66,7 +66,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
-openseek,bobzhang/openseek,0.1.1,8064,15
+openseek,bobzhang/openseek,0.1.3,10699,30
 pdflite,bobzhang/pdflite,0.1.34,572941,22
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 prove,bobzhang/prove,0.0.2,3164,84
