@@ -190,7 +190,7 @@ wasm,tonyfettes/wasm,0.1.3,703,3
 webgpu,tonyfettes/webgpu,0.1.7,1626,1
 wtf16,tonyfettes/wtf16,0.1.1,458,1
 wtf8,tonyfettes/wtf8,0.1.2,330,1
-xlog,tonyfettes/xlog,0.1.1,1396,3
+xlog,tonyfettes/xlog,0.2.0,1416,3
 cowsay,bzy-debug/cowsay,0.1.0,90,2
 cowsay_lib,bzy-debug/cowsay_lib,0.1.0,82,1
 hello,bzy-debug/hello,0.1.20240510+81e045f4e,24,2
@@ -314,7 +314,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
-moonback,hackwaly/moonback,0.2.2,2959,5
+moonback,hackwaly/moonback,0.3.0,3206,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
@@ -929,7 +929,7 @@ order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
-mcp,colmugx/mcp,0.5.2,3767,9
+mcp,colmugx/mcp,0.10.0,5882,12
 reader,colmugx/reader,0.3.0,228,1
 sqlite3,colmugx/sqlite3,0.2.0,832,2
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3

@@ -3,9 +3,12 @@ shiguri-01/mcp,新增,6172,8,0,0,6172,8
 wzzc-dev/skia_mbt,新增,11249,6,0,0,11249,6
 bobzhang/kimicc,有变化,10,0,127584,12,127594,12
 bobzhang/pdflite,有变化,-287,0,572941,22,572654,22
+colmugx/mcp,有变化,2115,3,3767,9,5882,12
+hackwaly/moonback,有变化,247,0,2959,5,3206,5
 kokic/sexp-html,有变化,104,0,1220,1,1324,1
 moonbit-community/tty,有变化,35,0,8698,17,8733,17
 robinfang/mold,有变化,855,6,2611,4,3466,10
+tonyfettes/xlog,有变化,20,0,1396,3,1416,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -203,7 +206,6 @@ cogna-dev/mcp-sdk,无变化,0,0,2657,3,2657,3
 cogna-dev/parkit,无变化,0,0,1750,3,1750,3
 cogna-dev/sbom,无变化,0,0,4747,13,4747,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
-colmugx/mcp,无变化,0,0,3767,9,3767,9
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
@@ -357,7 +359,6 @@ hackwaly/common,无变化,0,0,1320,12,1320,12
 hackwaly/easing,无变化,0,0,999,2,999,2
 hackwaly/fastcc,无变化,0,0,77867,67,77867,67
 hackwaly/find_cluster_break,无变化,0,0,629,2,629,2
-hackwaly/moonback,无变化,0,0,2959,5,2959,5
 hackwaly/moonyacc,无变化,0,0,12650,17,12650,17
 hackwaly/msgpack,无变化,0,0,1143,2,1143,2
 hackwaly/pem,无变化,0,0,1306,1,1306,1
@@ -1134,7 +1135,6 @@ tonyfettes/wasm,无变化,0,0,703,3,703,3
 tonyfettes/webgpu,无变化,0,0,1626,1,1626,1
 tonyfettes/wtf16,无变化,0,0,458,1,458,1
 tonyfettes/wtf8,无变化,0,0,330,1,330,1
-tonyfettes/xlog,无变化,0,0,1396,3,1396,3
 totto2727/geo-mbt,无变化,0,0,24431,4,24431,4
 trash33/sudoku,无变化,0,0,427,2,427,2
 trkbt10/isobmff,无变化,0,0,1655,5,1655,5
