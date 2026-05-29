@@ -781,7 +781,7 @@ line_sort,wangjuwudi/line_sort,0.1.0,155,1
 base32,yyjeqhc/base32,0.1.0,317,2
 imgui,wzzc-dev/imgui,0.1.0,499,2
 moui,wzzc-dev/moui,0.1.0,51030,20
-skia_mbt,wzzc-dev/skia_mbt,0.1.0,11249,6
+skia_mbt,wzzc-dev/skia_mbt,0.1.1,11739,8
 teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
