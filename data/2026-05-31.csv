@@ -909,8 +909,8 @@ wgpu_mbt,Milky2018/wgpu_mbt,0.13.0,43048,10
 window,Milky2018/window,0.5.1,21708,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
-relay,Metalymph/relay,0.2.2,720,2
-valkey,Metalymph/valkey,0.2.2,639,1
+relay,Metalymph/relay,0.3.0,1006,2
+valkey,Metalymph/valkey,0.3.0,1064,1
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3
 doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69
 markitdown,ZSeanYves/markitdown,0.3.6,191137,116
