@@ -69,7 +69,7 @@ noteapp,bobzhang/noteapp,0.3.2,1582,4
 openseek,bobzhang/openseek,0.1.3,10699,30
 pdflite,bobzhang/pdflite,0.1.37,579274,49
 pollapp,bobzhang/pollapp,0.3.2,1586,4
-portable_cli,bobzhang/portable_cli,0.1.1,1213,7
+portable_cli,bobzhang/portable_cli,0.1.2,2226,9
 prove,bobzhang/prove,0.0.2,3164,84
 qrc,bobzhang/qrc,0.1.1,2073,3
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6
@@ -325,6 +325,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.3.0,1834,2
+fbr,hustcer/fbr,0.2.0,16075,5
 fzip,hustcer/fzip,0.8.0,11958,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
@@ -786,7 +787,7 @@ skia_mbt,wzzc-dev/skia_mbt,0.1.2,14341,8
 teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
-window,wzzc-dev/window,0.5.1-fork.1,31126,19
+window,wzzc-dev/window,0.5.1-fork.2,31215,19
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
 linear-algebra,Luna-Flow/linear-algebra,0.2.11,23992,7
 luna-complex,Luna-Flow/luna-complex,0.1.0-alpha-4,1047,1
