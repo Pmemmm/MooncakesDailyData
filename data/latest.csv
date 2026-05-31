@@ -325,7 +325,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.3.0,1834,2
-fbr,hustcer/fbr,0.2.0,16075,5
+fbr,hustcer/fbr,0.3.1,16416,5
 fzip,hustcer/fzip,0.8.0,11958,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
@@ -386,7 +386,7 @@ crater-wasm,mizchi/crater-wasm,0.18.0,1916,11
 crater-webdriver-bidi,mizchi/crater-webdriver-bidi,0.18.0,72057,12
 crater-webvitals,mizchi/crater-webvitals,0.18.0,793,1
 crdt_db,mizchi/crdt_db,0.1.1,5786,11
-css,mizchi/css,0.3.2,39125,11
+css,mizchi/css,0.4.2,41049,12
 cst,mizchi/cst,0.1.7,2492,4
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3
 differentiable_ecs,mizchi/differentiable_ecs,0.2.0,682,3
