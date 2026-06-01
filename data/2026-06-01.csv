@@ -35,7 +35,7 @@ contacts,bobzhang/contacts,0.3.2,1655,4
 crescent,bobzhang/crescent,0.10.0,23411,23
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7
-docx2html,bobzhang/docx2html,0.1.12,17082,2
+docx2html,bobzhang/docx2html,0.1.13,17190,2
 finapp,bobzhang/finapp,0.1.0,2463,4
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2
@@ -70,7 +70,7 @@ noteapp,bobzhang/noteapp,0.3.2,1582,4
 openseek,bobzhang/openseek,0.1.3,10699,30
 pdflite,bobzhang/pdflite,0.1.37,579274,49
 pollapp,bobzhang/pollapp,0.3.2,1586,4
-portable_cli,bobzhang/portable_cli,0.1.9,9637,14
+portable_cli,bobzhang/portable_cli,0.1.10,10357,15
 prove,bobzhang/prove,0.0.2,3164,84
 qrc,bobzhang/qrc,0.1.1,2073,3
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6
@@ -893,15 +893,15 @@ options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
-selene,Milky2018/selene,0.34.0,62892,59
+selene,Milky2018/selene,0.34.2,62892,59
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1
 selene_editor,Milky2018/selene_editor,0.30.5,18896,9
-selene_editor_frontend,Milky2018/selene_editor_frontend,0.34.0,14546,4
-selene_editor_service,Milky2018/selene_editor_service,0.34.0,3032,2
-selene_editor_shared,Milky2018/selene_editor_shared,0.34.0,1293,2
-selene_raylib,Milky2018/selene_raylib,0.34.0,8284,6
+selene_editor_frontend,Milky2018/selene_editor_frontend,0.34.2,14546,4
+selene_editor_service,Milky2018/selene_editor_service,0.34.2,3032,2
+selene_editor_shared,Milky2018/selene_editor_shared,0.34.2,1293,2
+selene_raylib,Milky2018/selene_raylib,0.34.2,8308,6
 selene_tools,Milky2018/selene_tools,0.32.2,470,2
-selene_webgpu,Milky2018/selene_webgpu,0.34.0,8364,6
+selene_webgpu,Milky2018/selene_webgpu,0.34.2,8398,6
 slotmap,Milky2018/slotmap,0.1.2,3217,1
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
@@ -933,7 +933,7 @@ order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.1,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
-mcp,colmugx/mcp,0.10.0,5882,12
+mcp,colmugx/mcp,0.12.0,6838,12
 reader,colmugx/reader,0.3.0,228,1
 sqlite3,colmugx/sqlite3,0.2.0,832,2
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3
@@ -1259,3 +1259,5 @@ skir-client,gepheum/skir-client,0.1.1,4536,1
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50
 mold,robinfang/mold,0.2.0,3466,10
 moonpost,MaoDingA/moonpost,0.1.0,10407,11
+aitne,Arcelyth/aitne,0.1.0,1264,3
+decimal,DzmingLi/decimal,0.1.0,35641,41
