@@ -35,7 +35,7 @@ contacts,bobzhang/contacts,0.3.2,1655,4
 crescent,bobzhang/crescent,0.10.0,23411,23
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7
-docx2html,bobzhang/docx2html,0.1.33,20970,2
+docx2html,bobzhang/docx2html,0.1.34,20988,2
 finapp,bobzhang/finapp,0.1.0,2463,4
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2
@@ -48,7 +48,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.218,128381,12
+kimicc,bobzhang/kimicc,0.1.220,128565,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
