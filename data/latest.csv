@@ -49,7 +49,7 @@ ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 jsonl,bobzhang/jsonl,0.2.0,287,1
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.237,129223,12
+kimicc,bobzhang/kimicc,0.1.239,129223,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -553,7 +553,7 @@ moonbit-pdk,gmlewis/moonbit-pdk,0.47.27,1224,12
 sha1,gmlewis/sha1,0.12.8,422,1
 sha256,gmlewis/sha256,0.17.31,516,1
 spin-moonbit-sdk,gmlewis/spin-moonbit-sdk,0.54.14,13739,46
-step,gmlewis/step,0.1.12,26077,52
+step,gmlewis/step,0.1.13,26082,52
 zlib,gmlewis/zlib,0.21.8,720,1
 onebit-tui,Frank-III/onebit-tui,0.1.3,8004,7
 onebit-yoga,Frank-III/onebit-yoga,0.2.6,2491,4
@@ -1217,7 +1217,7 @@ readdirp,i5ting/readdirp,0.1.3,1515,2
 cube_render,yuntian/cube_render,0.0.3,3570,11
 jqx,shina1024/jqx,0.2.0,20922,11
 moontrace,brickfrog/moontrace,0.13.0,13714,10
-tempo,brickfrog/tempo,0.7.0,6602,3
+tempo,brickfrog/tempo,0.8.0,7200,3
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4
 tour,beso1225/tour,0.1.0,91,2
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1
