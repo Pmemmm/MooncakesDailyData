@@ -1,8 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-bobzhang/docx2html,有变化,851,0,20263,2,21114,2
-bobzhang/kimicc,有变化,406,0,128159,12,128565,12
+moonbit-community/chalk,新增,250,1,0,0,250,1
+bobzhang/docx2html,有变化,927,0,20263,2,21190,2
+bobzhang/kimicc,有变化,498,0,128159,12,128657,12
 brickfrog/moontrace,有变化,3805,2,9909,8,13714,10
+colmugx/mcp,有变化,1022,0,6838,12,7860,12
 dowdiness/incr,有变化,-3114,-4,32671,15,29557,11
+DzmingLi/decimal,有变化,54,0,37189,45,37243,45
 GeneWang1226/tqdmoon,有变化,-63,-1,604,3,541,2
 Metalymph/valkey,有变化,1767,0,1064,1,2831,1
 mizchi/ripple,有变化,-675,-3,5382,5,4707,2
@@ -206,7 +209,6 @@ cogna-dev/mcp-sdk,无变化,0,0,2657,3,2657,3
 cogna-dev/parkit,无变化,0,0,1750,3,1750,3
 cogna-dev/sbom,无变化,0,0,4747,13,4747,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
-colmugx/mcp,无变化,0,0,6838,12,6838,12
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
@@ -233,7 +235,6 @@ dowdiness/moondsp,无变化,0,0,42430,12,42430,12
 dowdiness/order-tree,无变化,0,0,2081,1,2081,1
 dowdiness/rle,无变化,0,0,6000,5,6000,5
 dowdiness/svg-dsl,无变化,0,0,1900,1,1900,1
-DzmingLi/decimal,无变化,0,0,37189,45,37189,45
 eanzhao/pi-moonbit,无变化,0,0,34323,9,34323,9
 eanzhao/vibe-map,无变化,0,0,11339,3,11339,3
 eczn/eczn-utils,无变化,0,0,50,1,50,1

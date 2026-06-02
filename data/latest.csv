@@ -35,7 +35,7 @@ contacts,bobzhang/contacts,0.3.2,1655,4
 crescent,bobzhang/crescent,0.10.0,23411,23
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7
-docx2html,bobzhang/docx2html,0.1.39,21114,2
+docx2html,bobzhang/docx2html,0.1.40,21190,2
 finapp,bobzhang/finapp,0.1.0,2463,4
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2
@@ -48,7 +48,7 @@ html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1
 issues,bobzhang/issues,0.1.5,43389,11
 kanban,bobzhang/kanban,0.3.2,3820,4
-kimicc,bobzhang/kimicc,0.1.220,128565,12
+kimicc,bobzhang/kimicc,0.1.223,128657,12
 lexer,bobzhang/lexer,0.1.4,604,1
 liquid,bobzhang/liquid,0.1.0,3145,2
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1
@@ -933,7 +933,7 @@ order-tree,dowdiness/order-tree,0.1.0,2081,1
 rle,dowdiness/rle,0.2.2,6000,5
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2
-mcp,colmugx/mcp,0.12.0,6838,12
+mcp,colmugx/mcp,0.13.1,7860,12
 reader,colmugx/reader,0.3.0,228,1
 sqlite3,colmugx/sqlite3,0.2.0,832,2
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3
@@ -1049,6 +1049,7 @@ quickxorhash,baka-gourd/quickxorhash,0.1.0,575,2
 firefly,firefly/firefly,0.7.0,4969,13
 ds,meguruli/ds,0.1.0,6475,1
 casefold,moonbit-community/casefold,0.1.5,2269,1
+chalk,moonbit-community/chalk,0.0.1,250,1
 charclass,moonbit-community/charclass,0.1.3,319,1
 cmark,moonbit-community/cmark,0.4.4,40197,7
 debug,moonbit-community/debug,0.1.3,5992,5
@@ -1261,4 +1262,4 @@ mold,robinfang/mold,0.2.0,3466,10
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2
 moonpost,MaoDingA/moonpost,0.1.1,11805,11
 aitne,Arcelyth/aitne,0.1.0,1264,3
-decimal,DzmingLi/decimal,0.2.0,37189,45
+decimal,DzmingLi/decimal,0.2.1,37243,45
