@@ -3,10 +3,16 @@ f4ah6o/dslx,新增,2880,1,0,0,2880,1
 FrozenLemonTee/LunarEvent,新增,539,2,0,0,539,2
 FrozenLemonTee/TerminalEvent,新增,340,2,0,0,340,2
 FrozenLemonTee/TextEditor,新增,666,2,0,0,666,2
+kujirahand/base64,新增,239,2,0,0,239,2
+kujirahand/crc32,新增,229,2,0,0,229,2
+moonbit-community/displaytext,新增,806,1,0,0,806,1
 bobzhang/docx2html,有变化,1294,8,21190,2,22484,10
-bobzhang/kimicc,有变化,392,0,128831,12,129223,12
+bobzhang/kimicc,有变化,442,0,128831,12,129273,12
+bobzhang/uuidm,有变化,102,0,2192,1,2294,1
 brickfrog/tempo,有变化,2908,0,4292,3,7200,3
 colmugx/mcp,有变化,-174,-2,7860,12,7686,10
+dowdiness/incr,有变化,-3300,-1,29557,11,26257,10
+eanzhao/vibe-map,有变化,325,0,11339,3,11664,3
 FrozenLemonTee/LunarTUI,有变化,-75,0,3792,6,3717,6
 gmlewis/fonts,有变化,3,1,15156,19,15159,20
 gmlewis/fonts-a,有变化,-1,0,292358,61,292357,61
@@ -35,6 +41,7 @@ gmlewis/fonts-w,有变化,-1,0,12578,7,12577,7
 gmlewis/fonts-y,有变化,-1,0,20708,6,20707,6
 gmlewis/fonts-z,有变化,-1,0,22338,4,22337,4
 gmlewis/step,有变化,5,0,26077,52,26082,52
+Milky2018/wgpu_mbt,有变化,520,0,43048,10,43568,10
 mizchi/experimental_crypto,有变化,8807,23,87139,58,95946,81
 moonbitlang/protobuf,有变化,3231,1,1449,1,4680,2
 tonyfettes/ghostty,有变化,23278,4,23898,2,47176,6
@@ -170,7 +177,6 @@ bobzhang/todo-list,无变化,0,0,1017,4,1017,4
 bobzhang/toml,无变化,0,0,14864,6,14864,6
 bobzhang/unmarshal,无变化,0,0,8945,3,8945,3
 bobzhang/uri,无变化,0,0,606,1,606,1
-bobzhang/uuidm,无变化,0,0,2192,1,2192,1
 bobzhang/vg,无变化,0,0,6383,6,6383,6
 bobzhang/zip,无变化,0,0,17585,16,17585,16
 bobzhang/zipc,无变化,0,0,6456,6,6456,6
@@ -258,7 +264,6 @@ dowdiness/btree,无变化,0,0,4422,1,4422,1
 dowdiness/event-graph-walker,无变化,0,0,23663,12,23663,12
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
 dowdiness/graphviz,无变化,0,0,4695,5,4695,5
-dowdiness/incr,无变化,0,0,29557,11,29557,11
 dowdiness/js_engine,无变化,0,0,75919,11,75919,11
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/moondsp,无变化,0,0,42430,12,42430,12
@@ -267,7 +272,6 @@ dowdiness/rle,无变化,0,0,6000,5,6000,5
 dowdiness/svg-dsl,无变化,0,0,1900,1,1900,1
 DzmingLi/decimal,无变化,0,0,37243,45,37243,45
 eanzhao/pi-moonbit,无变化,0,0,34323,9,34323,9
-eanzhao/vibe-map,无变化,0,0,11339,3,11339,3
 eczn/eczn-utils,无变化,0,0,50,1,50,1
 edragain2nd/biblatex,无变化,0,0,10315,3,10315,3
 edragain2nd/compose,无变化,0,0,1233,1,1233,1
@@ -632,7 +636,6 @@ Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/sysinfo,无变化,0,0,6510,1,6510,1
 Milky2018/toolkit,无变化,0,0,28,1,28,1
 Milky2018/wasmoon,无变化,0,0,236903,46,236903,46
-Milky2018/wgpu_mbt,无变化,0,0,43048,10,43048,10
 Milky2018/window,无变化,0,0,21708,13,21708,13
 Milky2018/xml,无变化,0,0,12989,1,12989,1
 Milky2018/zstd,无变化,0,0,39568,1,39568,1
