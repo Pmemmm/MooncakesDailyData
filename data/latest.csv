@@ -327,7 +327,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.3.0,1834,2
-fbr,hustcer/fbr,0.6.0,17311,5
+fbr,hustcer/fbr,0.7.0,18747,5
 fzip,hustcer/fzip,0.8.0,11958,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
@@ -920,7 +920,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1
 toolkit,Milky2018/toolkit,0.1.4,28,1
 wasmoon,Milky2018/wasmoon,0.6.4,236903,46
-wgpu_mbt,Milky2018/wgpu_mbt,0.14.1,43568,10
+wgpu_mbt,Milky2018/wgpu_mbt,0.14.2,44153,10
 window,Milky2018/window,0.5.1,21708,13
 xml,Milky2018/xml,0.2.0,12989,1
 zstd,Milky2018/zstd,0.1.0,39568,1
@@ -1071,7 +1071,7 @@ charclass,moonbit-community/charclass,0.1.3,319,1
 cmark,moonbit-community/cmark,0.4.4,40197,7
 debug,moonbit-community/debug,0.1.3,5992,5
 debug_deriving,moonbit-community/debug_deriving,0.1.1,637,1
-displaytext,moonbit-community/displaytext,0.1.1,807,1
+displaytext,moonbit-community/displaytext,0.1.3,816,1
 dom_sanitizer,moonbit-community/dom_sanitizer,0.1.0,2546,1
 elf,moonbit-community/elf,0.0.1,9902,1
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2
@@ -1104,6 +1104,7 @@ verified,moonbit-community/verified,0.0.2,4118,36
 warren,moonbit-community/warren,0.1.3,1822,5
 XMLParser,moonbit-community/XMLParser,0.2.5,4528,2
 yaml,moonbit-community/yaml,0.0.4,6251,1
+zipc,moonbit-community/zipc,0.1.1,6649,6
 jsonrpc,shiguri-01/jsonrpc,0.2.0,1447,2
 mcp,shiguri-01/mcp,0.1.0,6172,8
 webview,shiguri-01/webview,0.1.1,557,1

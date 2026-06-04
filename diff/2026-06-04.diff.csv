@@ -12,6 +12,7 @@ mizchi/physics,新增,8058,3,0,0,8058,3
 mizchi/renderer2d,新增,4074,1,0,0,4074,1
 mizchi/text,新增,1026,1,0,0,1026,1
 mizchi/widget2d,新增,636,1,0,0,636,1
+moonbit-community/zipc,新增,6649,6,0,0,6649,6
 bobzhang/kimicc,有变化,412,0,129273,12,129685,12
 bobzhang/loop_invariants_data_structures,有变化,742,2,30223,37,30965,39
 bobzhang/loop_invariants_dp,有变化,536,3,7715,21,8251,24
@@ -21,10 +22,12 @@ bobzhang/loop_invariants_math,有变化,1421,4,20679,36,22100,40
 bobzhang/loop_invariants_string,有变化,660,3,21037,26,21697,29
 bobzhang/loop_invariants_techniques,有变化,825,4,19458,31,20283,35
 bobzhang/portable_cli,有变化,8,0,10357,15,10365,15
+hustcer/fbr,有变化,1436,0,17311,5,18747,5
+Milky2018/wgpu_mbt,有变化,585,0,43568,10,44153,10
 mizchi/kagura,有变化,65846,52,282,1,66128,53
 mizchi/kagura_core,有变化,-7618,-11,9983,13,2365,2
 mizchi/kagura_engine,有变化,-13543,-8,39362,27,25819,19
-moonbit-community/displaytext,有变化,1,0,806,1,807,1
+moonbit-community/displaytext,有变化,10,0,806,1,816,1
 tonyfettes/ghostty,有变化,758,9,47176,6,47934,15
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -402,7 +405,6 @@ horideicom/encoding_sjis,无变化,0,0,7475,2,7475,2
 horideicom/jww_parser,无变化,0,0,2497,3,2497,3
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 hustcer/ed25519,无变化,0,0,1834,2,1834,2
-hustcer/fbr,无变化,0,0,17311,5,17311,5
 hustcer/fzip,无变化,0,0,11958,2,11958,2
 hustcer/nanoid,无变化,0,0,1745,2,1745,2
 hustcer/tabular,无变化,0,0,15088,3,15088,3
@@ -649,7 +651,6 @@ Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/sysinfo,无变化,0,0,6510,1,6510,1
 Milky2018/toolkit,无变化,0,0,28,1,28,1
 Milky2018/wasmoon,无变化,0,0,236903,46,236903,46
-Milky2018/wgpu_mbt,无变化,0,0,43568,10,43568,10
 Milky2018/window,无变化,0,0,21708,13,21708,13
 Milky2018/xml,无变化,0,0,12989,1,12989,1
 Milky2018/zstd,无变化,0,0,39568,1,39568,1
