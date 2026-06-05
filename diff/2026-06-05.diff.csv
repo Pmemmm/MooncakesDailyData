@@ -1,9 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 brickfrog/pippa,新增,39179,35,0,0,39179,35
 Yoorkin/cowsay,新增,194,1,0,0,194,1
+Yoorkin/meolix,新增,15792,2,0,0,15792,2
 bobzhang/openseek,有变化,7988,18,10699,30,18687,48
 colmugx/posoco,有变化,108,0,2758,1,2866,1
 hackwaly/moonback,有变化,246,0,3206,5,3452,5
+kokic/tinymark,有变化,-90,0,3481,2,3391,2
 moonbit-community/rabbita,有变化,108,0,20923,18,21031,18
 moonbit-community/zipc,有变化,417,0,6649,6,7066,6
 moonbitlang/async,有变化,3289,0,36833,48,40122,48
@@ -528,7 +530,6 @@ kokic/momoka,无变化,0,0,1008,1,1008,1
 kokic/moonbit-chalk,无变化,0,0,248,1,248,1
 kokic/prime,无变化,0,0,546,2,546,2
 kokic/sexp-html,无变化,0,0,1324,1,1324,1
-kokic/tinymark,无变化,0,0,3481,2,3481,2
 kujirahand/base64,无变化,0,0,239,2,239,2
 kujirahand/crc32,无变化,0,0,229,2,229,2
 Lalenture/hello,无变化,0,0,19,2,19,2

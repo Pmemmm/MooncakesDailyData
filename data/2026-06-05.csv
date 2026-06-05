@@ -215,6 +215,7 @@ hashtbl,Yoorkin/hashtbl,0.1.2,59,2
 hello,Yoorkin/hello,0.1.3,33,2
 jmop,Yoorkin/jmop,0.1.1,2187,2
 logr_moonbit,Yoorkin/logr_moonbit,0.1.0,2508,1
+meolix,Yoorkin/meolix,0.1.0,15792,2
 moonbee,Yoorkin/moonbee,0.1.2,2376,1
 prettyprinter,Yoorkin/prettyprinter,0.4.10,1655,2
 proxy,Yoorkin/proxy,0.1.0,149,1
@@ -651,7 +652,7 @@ momoka,kokic/momoka,0.4.0,1008,1
 moonbit-chalk,kokic/moonbit-chalk,0.5.0,248,1
 prime,kokic/prime,0.1.6,546,2
 sexp-html,kokic/sexp-html,0.2.2,1324,1
-tinymark,kokic/tinymark,0.2.0,3481,2
+tinymark,kokic/tinymark,0.2.1,3391,2
 json,jinser/json,0.0.1,551,2
 baby,jumpping/baby,0.2.0,4270,6
 Binary-Exponentiation,CMoonBack/Binary-Exponentiation,0.1.0,102,2
