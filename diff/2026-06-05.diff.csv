@@ -2,6 +2,8 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 brickfrog/pippa,新增,39179,35,0,0,39179,35
 bobzhang/openseek,有变化,7988,18,10699,30,18687,48
 colmugx/posoco,有变化,108,0,2758,1,2866,1
+moonbit-community/rabbita,有变化,108,0,20923,18,21031,18
+moonbitlang/async,有变化,3289,0,36833,48,40122,48
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -820,7 +822,6 @@ moonbit-community/postgres,无变化,0,0,25234,16,25234,16
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
 moonbit-community/pty,无变化,0,0,637,1,637,1
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
-moonbit-community/rabbita,无变化,0,0,20923,18,20923,18
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,747,2,747,2
@@ -836,7 +837,6 @@ moonbit-community/zipc,无变化,0,0,6649,6,6649,6
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,36833,48,36833,48
 moonbitlang/core,无变化,0,0,173593,75,173593,75
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
 moonbitlang/esp32,无变化,0,0,797,8,797,8
