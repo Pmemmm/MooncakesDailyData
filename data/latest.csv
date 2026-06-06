@@ -809,10 +809,10 @@ webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
 window,wzzc-dev/window,0.5.1-fork.2,31215,19
 arithmetic,Luna-Flow/arithmetic,0.1.0,635,1
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
-floating,Luna-Flow/floating,0.1.0,1497,6
+floating,Luna-Flow/floating,0.1.1,3627,6
 linear-algebra,Luna-Flow/linear-algebra,0.2.12,25376,7
-luna-complex,Luna-Flow/luna-complex,0.1.0-alpha-4,1047,1
-luna-generic,Luna-Flow/luna-generic,0.3.1,809,1
+luna-complex,Luna-Flow/luna-complex,0.2.0,1272,2
+luna-generic,Luna-Flow/luna-generic,0.3.2,858,1
 luna-poly,Luna-Flow/luna-poly,0.1.2-beta-1,1636,1
 luna-utils,Luna-Flow/luna-utils,0.1.1,458,1
 mooncake-impact-factor,Luna-Flow/mooncake-impact-factor,0.1.1,113,1
