@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+justjavac/cdp,新增,152264,4,0,0,152264,4
+justjavac/cdp_examples,新增,133,1,0,0,133,1
 Luna-Flow/floating,新增,1497,6,0,0,1497,6
 Tino-hue/depsight,新增,10029,9,0,0,10029,9
 kokic/tinymark,有变化,429,0,3391,2,3820,2

@@ -607,6 +607,8 @@ bytesize,justjavac/bytesize,0.2.1,864,1
 cache_padded,justjavac/cache_padded,0.1.0,1440,1
 camera,justjavac/camera,0.1.0,578,3
 case,justjavac/case,0.2.0,1308,1
+cdp,justjavac/cdp,0.1.2,152264,4
+cdp_examples,justjavac/cdp_examples,0.1.2,133,1
 clipboard,justjavac/clipboard,0.1.5,579,4
 core_affinity,justjavac/core_affinity,0.2.2,332,2
 dialog,justjavac/dialog,0.1.2,2493,6
