@@ -607,8 +607,8 @@ bytesize,justjavac/bytesize,0.2.1,864,1
 cache_padded,justjavac/cache_padded,0.1.0,1440,1
 camera,justjavac/camera,0.1.0,578,3
 case,justjavac/case,0.2.0,1308,1
-cdp,justjavac/cdp,0.1.2,152264,4
-cdp_examples,justjavac/cdp_examples,0.1.2,133,1
+cdp,justjavac/cdp,0.1.3,152293,4
+cdp_examples,justjavac/cdp_examples,0.1.3,143,1
 clipboard,justjavac/clipboard,0.1.5,579,4
 core_affinity,justjavac/core_affinity,0.2.2,332,2
 dialog,justjavac/dialog,0.1.2,2493,6
@@ -807,6 +807,7 @@ teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
 window,wzzc-dev/window,0.5.1-fork.2,31215,19
+arithmetic,Luna-Flow/arithmetic,0.1.0,635,1
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
 floating,Luna-Flow/floating,0.1.0,1497,6
 linear-algebra,Luna-Flow/linear-algebra,0.2.12,25376,7
