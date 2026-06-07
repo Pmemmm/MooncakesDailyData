@@ -654,7 +654,7 @@ momoka,kokic/momoka,0.4.0,1008,1
 moonbit-chalk,kokic/moonbit-chalk,0.5.0,248,1
 prime,kokic/prime,0.1.6,546,2
 sexp-html,kokic/sexp-html,0.2.2,1324,1
-tinymark,kokic/tinymark,0.2.2,3820,2
+tinymark,kokic/tinymark,0.2.3,3743,2
 json,jinser/json,0.0.1,551,2
 baby,jumpping/baby,0.2.0,4270,6
 Binary-Exponentiation,CMoonBack/Binary-Exponentiation,0.1.0,102,2
@@ -807,7 +807,7 @@ teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
 window,wzzc-dev/window,0.5.1-fork.2,31215,19
-arithmetic,Luna-Flow/arithmetic,0.1.0,635,1
+arithmetic,Luna-Flow/arithmetic,0.2.0,1232,1
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
 floating,Luna-Flow/floating,0.1.1,3627,6
 linear-algebra,Luna-Flow/linear-algebra,0.2.12,25376,7
@@ -1290,8 +1290,9 @@ skir-client-async,gepheum/skir-client-async,0.1.1,42256,50
 mold,robinfang/mold,0.2.0,3466,10
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2
 moonpost,MaoDingA/moonpost,0.1.1,11805,11
-aitne,Arcelyth/aitne,0.1.0,1264,3
+aitne,Arcelyth/aitne,0.2.0,2705,8
 decimal,DzmingLi/decimal,0.2.2,6083,1
 depsight,Tino-hue/depsight,0.5.1,10029,9
 base64,kujirahand/base64,0.1.1,239,2
 crc32,kujirahand/crc32,0.1.1,229,2
+moon_zod,Betterlol/moon_zod,0.2.1,3417,7
