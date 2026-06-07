@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Anxiu0101/yuegui,新增,2909,8,0,0,2909,8
 Betterlol/moon_zod,新增,3417,7,0,0,3417,7
 bobzhang/bap,新增,145248,23,0,0,145248,23
 connect0459/starlark,新增,53872,32,0,0,53872,32
@@ -10,7 +11,9 @@ justjavac/wallpaper,新增,528,3,0,0,528,3
 PaiGack/moonbitqrcode,新增,2026,5,0,0,2026,5
 Arcelyth/aitne,有变化,1441,5,1264,3,2705,8
 bobzhang/lexer,有变化,18,0,604,1,622,1
+bobzhang/openseek,有变化,1933,1,18687,48,20620,49
 bobzhang/toml,有变化,9776,12,14864,6,24640,18
+connect0459/urllib,有变化,-4,0,23665,5,23661,5
 justjavac/auto_launch,有变化,25,0,2073,5,2098,5
 justjavac/btoi,有变化,1,0,1057,1,1058,1
 justjavac/bytesize,有变化,4,0,864,1,868,1
@@ -158,7 +161,6 @@ bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
 bobzhang/moonjq,无变化,0,0,10898,3,10898,3
 bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
 bobzhang/noteapp,无变化,0,0,1582,4,1582,4
-bobzhang/openseek,无变化,0,0,18687,48,18687,48
 bobzhang/pdflite,无变化,0,0,584571,49,584571,49
 bobzhang/pollapp,无变化,0,0,1586,4,1586,4
 bobzhang/portable_cli,无变化,0,0,10365,15,10365,15
@@ -250,7 +252,6 @@ colmugx/posoco,无变化,0,0,2866,1,2866,1
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
-connect0459/urllib,无变化,0,0,23665,5,23665,5
 CorvusCinereus/miniaudio,无变化,0,0,138,2,138,2
 cou723/html-parser,无变化,0,0,794,4,794,4
 cyhforlight/moonbit-hello-card,无变化,0,0,25,2,25,2

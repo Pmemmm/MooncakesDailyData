@@ -69,7 +69,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
-openseek,bobzhang/openseek,0.1.4,18687,48
+openseek,bobzhang/openseek,0.1.5,20620,49
 pdflite,bobzhang/pdflite,0.1.38,584571,49
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15
@@ -1289,7 +1289,7 @@ email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
 starlark,connect0459/starlark,0.1.0,53872,32
-urllib,connect0459/urllib,0.3.0,23665,5
+urllib,connect0459/urllib,0.4.0,23661,5
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.4.0,53413,15
 skir-client,gepheum/skir-client,0.1.1,4536,1
@@ -1304,3 +1304,4 @@ base64,kujirahand/base64,0.1.1,239,2
 crc32,kujirahand/crc32,0.1.1,229,2
 moon_zod,Betterlol/moon_zod,0.2.1,3417,7
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5
+yuegui,Anxiu0101/yuegui,0.1.1,2909,8
