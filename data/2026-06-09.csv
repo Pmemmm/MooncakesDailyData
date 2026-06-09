@@ -244,7 +244,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.19.2,40122,48
-core,moonbitlang/core,0.1.20260602+08f337e2c,173593,75
+core,moonbitlang/core,0.1.20260609+84519ca0a,174156,75
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.6,4683,6
@@ -294,7 +294,7 @@ t,CAIMEOX/t,0.1.0,215,1
 vlq,CAIMEOX/vlq,0.1.0,241,1
 zipper,CAIMEOX/zipper,0.1.0,257,1
 原来可以发中文包,CAIMEOX/原来可以发中文包,0.1.1,17,1
-agent-finder,PerfectPan/agent-finder,0.1.1,896,5
+agent-finder,PerfectPan/agent-finder,0.1.2,896,5
 base64,PerfectPan/base64,0.1.1,255,1
 colored,zxch3n/colored,0.2.0,409,1
 expect,zxch3n/expect,0.6.2,1319,1
@@ -320,7 +320,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
-moonback,hackwaly/moonback,0.4.3,3452,5
+moonback,hackwaly/moonback,0.5.2,3579,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
@@ -951,7 +951,7 @@ btree,dowdiness/btree,0.1.0,4422,1
 event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
 graphviz,dowdiness/graphviz,0.1.0,4695,5
-incr,dowdiness/incr,0.8.0,26257,10
+incr,dowdiness/incr,0.9.0,27411,10
 js_engine,dowdiness/js_engine,0.2.3,75919,11
 margs,dowdiness/margs,0.1.2,4638,2
 moondsp,dowdiness/moondsp,0.5.1,42430,12
