@@ -558,7 +558,7 @@ fonts-z,gmlewis/fonts-z,0.19.10,22337,4
 gzip,gmlewis/gzip,0.34.8,1447,1
 hash,gmlewis/hash,0.20.8,804,3
 image,gmlewis/image,0.17.8,10063,5
-io,gmlewis/io,0.23.11,3639,1
+io,gmlewis/io,0.23.12,3642,1
 json,gmlewis/json,0.15.0,249,1
 jsonrpc2,gmlewis/jsonrpc2,0.0.31,1705,1
 jsonutil,gmlewis/jsonutil,0.24.0,310,1
@@ -1312,3 +1312,4 @@ moon_zod,Betterlol/moon_zod,0.2.2,3760,7
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5
 yuegui,Anxiu0101/yuegui,0.1.2,3223,8
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2
+valence,helios-house/valence,0.1.2,626,1
