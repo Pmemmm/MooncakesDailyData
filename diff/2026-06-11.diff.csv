@@ -2,8 +2,8 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 Suquster/moonbit-pathfinding,新增,11574,20,0,0,11574,20
 Betterlol/moon_zod,有变化,1153,1,3760,7,4913,8
 dowdiness/js_engine,有变化,42370,16,75919,11,118289,27
-hackwaly/moonback,有变化,662,0,3674,5,4336,5
-justjavac/cdp,有变化,297,0,152293,4,152590,4
+hackwaly/moonback,有变化,649,0,3674,5,4323,5
+justjavac/cdp,有变化,313,0,152293,4,152606,4
 justjavac/keepawake,有变化,35,0,741,2,776,2
 justjavac/template_codegen,有变化,35,0,1435,3,1470,3
 justjavac/walkdir,有变化,9,0,458,4,467,4
