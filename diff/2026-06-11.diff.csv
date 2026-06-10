@@ -1,8 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Suquster/moonbit-pathfinding,新增,11574,20,0,0,11574,20
 Betterlol/moon_zod,有变化,1153,1,3760,7,4913,8
+bobzhang/openseek,有变化,11747,8,20620,49,32367,57
 dowdiness/js_engine,有变化,42370,16,75919,11,118289,27
-hackwaly/moonback,有变化,649,0,3674,5,4323,5
+hackwaly/moonback,有变化,654,0,3674,5,4328,5
 justjavac/cdp,有变化,313,0,152293,4,152606,4
 justjavac/keepawake,有变化,35,0,741,2,776,2
 justjavac/template_codegen,有变化,35,0,1435,3,1470,3
@@ -125,7 +126,6 @@ bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
 bobzhang/moonjq,无变化,0,0,10898,3,10898,3
 bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
 bobzhang/noteapp,无变化,0,0,1582,4,1582,4
-bobzhang/openseek,无变化,0,0,20620,49,20620,49
 bobzhang/pdflite,无变化,0,0,584571,49,584571,49
 bobzhang/pollapp,无变化,0,0,1586,4,1586,4
 bobzhang/portable_cli,无变化,0,0,10365,15,10365,15

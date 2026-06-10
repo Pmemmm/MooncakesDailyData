@@ -69,7 +69,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50
 moonjq,bobzhang/moonjq,0.1.0,10898,3
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4
 noteapp,bobzhang/noteapp,0.3.2,1582,4
-openseek,bobzhang/openseek,0.1.5,20620,49
+openseek,bobzhang/openseek,0.2.0,32367,57
 pdflite,bobzhang/pdflite,0.1.38,584571,49
 pollapp,bobzhang/pollapp,0.3.2,1586,4
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15
@@ -320,7 +320,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
-moonback,hackwaly/moonback,0.6.0,4323,5
+moonback,hackwaly/moonback,0.6.1,4328,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
 pem,hackwaly/pem,0.1.2,1306,1
