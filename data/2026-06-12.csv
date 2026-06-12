@@ -19,7 +19,7 @@ codex,peter-jerry-ye/codex,0.129.0,32279,29
 io,peter-jerry-ye/io,0.3.4,601,2
 json,peter-jerry-ye/json,0.4.0,374,1
 mcp-server,peter-jerry-ye/mcp-server,0.3.5,1014,3
-md-outline,peter-jerry-ye/md-outline,0.1.1,736,3
+md-outline,peter-jerry-ye/md-outline,0.2.0,698,1
 memory,peter-jerry-ye/memory,0.8.4,589,1
 parse_args,peter-jerry-ye/parse_args,0.1.2,545,1
 parser-combinator,peter-jerry-ye/parser-combinator,0.9.1,593,1
@@ -331,7 +331,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.3.0,1834,2
-fbr,hustcer/fbr,0.7.0,18747,5
+fbr,hustcer/fbr,0.7.1,18703,5
 fzip,hustcer/fzip,0.8.0,11958,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
@@ -816,7 +816,7 @@ skia_mbt,wzzc-dev/skia_mbt,0.1.2,14341,8
 teager,wzzc-dev/teager,0.1.0,28,2
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
-window,wzzc-dev/window,0.5.1-fork.4,34919,23
+window,wzzc-dev/window,0.5.1-0.1.4,34919,23
 arithmetic,Luna-Flow/arithmetic,0.2.1,1232,1
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
 floating,Luna-Flow/floating,0.2.0,3226,6
