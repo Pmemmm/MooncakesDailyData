@@ -330,7 +330,7 @@ redis,hackwaly/redis,0.1.1,7565,3
 regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
-ed25519,hustcer/ed25519,0.3.0,1834,2
+ed25519,hustcer/ed25519,0.5.0,2164,2
 fbr,hustcer/fbr,0.7.1,18703,5
 fzip,hustcer/fzip,0.8.1,11984,2
 nanoid,hustcer/nanoid,0.6.0,1745,2
@@ -819,7 +819,7 @@ webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2
 window,wzzc-dev/window,0.5.1-0.1.4,34919,23
 arithmetic,Luna-Flow/arithmetic,0.2.1,1232,1
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5
-floating,Luna-Flow/floating,0.2.0,3226,6
+floating,Luna-Flow/floating,0.3.0,4454,10
 geometry3d,Luna-Flow/geometry3d,0.4.0,4822,7
 linear-algebra,Luna-Flow/linear-algebra,0.2.12,25376,7
 luna-complex,Luna-Flow/luna-complex,0.2.0,1272,2
@@ -921,7 +921,7 @@ mproc_examples,Milky2018/mproc_examples,0.1.0,69,1
 mproc_gen,Milky2018/mproc_gen,0.1.0,571,1
 options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
-pptz,Milky2018/pptz,0.2.1,3780,1
+pptz,Milky2018/pptz,0.2.2,3879,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
 selene,Milky2018/selene,0.35.0,63347,59
@@ -1301,7 +1301,7 @@ moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
-starlark,connect0459/starlark,0.2.0,56203,32
+starlark,connect0459/starlark,0.2.1,60153,32
 urllib,connect0459/urllib,0.4.2,24429,6
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.4.0,53413,15
