@@ -331,7 +331,7 @@ regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.5.0,2164,2
-fbr,hustcer/fbr,0.7.1,18703,5
+fbr,hustcer/fbr,0.8.0,18723,5
 fzip,hustcer/fzip,0.8.1,11984,2
 html2md,hustcer/html2md,0.1.0,9364,6
 nanoid,hustcer/nanoid,0.6.0,1745,2
@@ -1317,6 +1317,7 @@ postgresx,kaashyapan/postgresx,0.1.0,1096,1
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2
 moonpost,MaoDingA/moonpost,0.1.1,11805,11
 aitne,Arcelyth/aitne,0.2.2,2896,8
+html_escape,Arcelyth/html_escape,0.3.1,2943,1
 decimal,DzmingLi/decimal,0.2.2,6083,1
 rapidhash,DzmingLi/rapidhash,0.1.0,306,1
 depsight,Tino-hue/depsight,0.5.1,10029,9
@@ -1327,7 +1328,7 @@ moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5
 ssh_client,PaiGack/ssh_client,0.1.1,4506,6
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2
-aho-corasick,helios-house/aho-corasick,0.3.0,594,1
+aho-corasick,helios-house/aho-corasick,0.4.0,780,1
 valence,helios-house/valence,0.1.2,626,1
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20
 examine,NiHao124538/examine,0.1.0,110,2
