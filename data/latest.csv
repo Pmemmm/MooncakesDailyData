@@ -332,7 +332,7 @@ s3,hackwaly/s3,0.1.0,1484,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.5.0,2164,2
 fbr,hustcer/fbr,0.8.0,18723,5
-fzip,hustcer/fzip,0.8.1,11984,2
+fzip,hustcer/fzip,0.8.2,12051,2
 html2md,hustcer/html2md,0.1.0,9364,6
 nanoid,hustcer/nanoid,0.6.0,1745,2
 tabular,hustcer/tabular,0.5.2,15088,3
@@ -925,7 +925,7 @@ mproc_examples,Milky2018/mproc_examples,0.1.0,69,1
 mproc_gen,Milky2018/mproc_gen,0.1.0,571,1
 options,Milky2018/options,0.1.2,328,1
 pacman,Milky2018/pacman,0.1.0,1121,1
-pptz,Milky2018/pptz,0.2.4,6982,1
+pptz,Milky2018/pptz,0.3.1,8523,1
 pthread,Milky2018/pthread,0.1.0,1854,1
 pug,Milky2018/pug,0.1.1,10601,2
 selene,Milky2018/selene,0.35.0,63347,59
@@ -1307,7 +1307,7 @@ moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2
 email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
-starlark,connect0459/starlark,0.2.1,60153,32
+starlark,connect0459/starlark,0.3.0,62482,32
 urllib,connect0459/urllib,0.4.2,24429,6
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.4.0,53413,15
