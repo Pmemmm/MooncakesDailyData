@@ -1,8 +1,17 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+moonbitlang/lexer,新增,3706,3,0,0,3706,3
+moonbitlang/moon_config,新增,2441,1,0,0,2441,1
+vectie/moonlib,新增,2412,9,0,0,2412,9
+Xpeng/mooncharts,新增,1501,2,0,0,1501,2
 colmugx/mcp,有变化,303,0,7686,10,7989,10
+hustcer/fzip,有变化,10,0,12051,2,12061,2
 Luna-Flow/type_theory,有变化,898,1,2686,9,3584,10
-Milky2018/pptz,有变化,1188,10,10420,1,11608,11
+Milky2018/pptz,有变化,1294,10,10420,1,11714,11
+moonbit-community/yaml,有变化,39,0,6251,1,6290,1
+moonbitlang/parser,有变化,275,0,116526,20,116801,20
+PaiGack/ssh_client,有变化,840,0,5405,9,6245,9
 t-ujiie-g/moon-pptx,有变化,1785,0,57790,16,59575,16
+tonyfettes/ds4,有变化,19,0,2530,3,2549,3
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -401,7 +410,6 @@ horideicom/jww_parser,无变化,0,0,2497,3,2497,3
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 hustcer/ed25519,无变化,0,0,2164,2,2164,2
 hustcer/fbr,无变化,0,0,18723,5,18723,5
-hustcer/fzip,无变化,0,0,12051,2,12051,2
 hustcer/html2md,无变化,0,0,9364,6,9364,6
 hustcer/nanoid,无变化,0,0,1745,2,1745,2
 hustcer/tabular,无变化,0,0,15088,3,15088,3
@@ -871,7 +879,6 @@ moonbit-community/unicodewidth,无变化,0,0,25305,1,25305,1
 moonbit-community/verified,无变化,0,0,4118,36,4118,36
 moonbit-community/warren,无变化,0,0,2977,8,2977,8
 moonbit-community/XMLParser,无变化,0,0,4528,2,4528,2
-moonbit-community/yaml,无变化,0,0,6251,1,6251,1
 moonbit-community/zipc,无变化,0,0,1551,1,1551,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
@@ -887,7 +894,6 @@ moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
-moonbitlang/parser,无变化,0,0,116526,20,116526,20
 moonbitlang/protobuf,无变化,0,0,4680,2,4680,2
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
@@ -953,7 +959,6 @@ oboard/weatherquery,无变化,0,0,81,1,81,1
 orangenin/hello,无变化,0,0,25,2,25,2
 pai2shub/alg,无变化,0,0,976,38,976,38
 PaiGack/moonbitqrcode,无变化,0,0,2026,5,2026,5
-PaiGack/ssh_client,无变化,0,0,5405,9,5405,9
 paveg/httprouter,无变化,0,0,1937,2,1937,2
 paveg/molt,无变化,0,0,5072,11,5072,11
 paveg/ulid,无变化,0,0,962,1,962,1
@@ -1121,7 +1126,6 @@ tonyfettes/c,无变化,0,0,7381,23,7381,23
 tonyfettes/create-moonbit-raylib-android-app,无变化,0,0,4618,1,4618,1
 tonyfettes/dl,无变化,0,0,149,1,149,1
 tonyfettes/dotenv,无变化,0,0,1379,1,1379,1
-tonyfettes/ds4,无变化,0,0,2530,3,2530,3
 tonyfettes/encoding,无变化,0,0,2233,1,2233,1
 tonyfettes/gdk,无变化,0,0,1888,1,1888,1
 tonyfettes/ghostty,无变化,0,0,47934,15,47934,15
