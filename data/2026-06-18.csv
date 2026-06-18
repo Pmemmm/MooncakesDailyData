@@ -1288,8 +1288,8 @@ tui,xrr2016/tui,0.1.0,518,2
 tui-ansi,xrr2016/tui-ansi,0.1.2,313,1
 Halo,wflixu/Halo,0.6.0,4853,7
 Orion,wflixu/Orion,0.2.0,7579,10
-lepus,lepus-apps/lepus,0.1.7,19657,77
-webview,lepus-apps/webview,0.1.13,3111,3
+lepus,lepus-apps/lepus,0.1.8,19938,77
+webview,lepus-apps/webview,0.1.15,3114,3
 hcl,lenitain/hcl,0.1.3,27479,3
 kdl,lenitain/kdl,0.1.1,11139,6
 magpiedb,codeworm96/magpiedb,0.2.0,13018,7
@@ -1334,7 +1334,7 @@ base64,kujirahand/base64,0.1.1,239,2
 crc32,kujirahand/crc32,0.1.1,229,2
 moon_zod,Betterlol/moon_zod,0.5.1,8065,11
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5
-ssh_client,PaiGack/ssh_client,0.2.1,35300,16
+ssh_client,PaiGack/ssh_client,0.3.0,36305,17
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1
@@ -1342,4 +1342,4 @@ valence,helios-house/valence,0.1.2,626,1
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20
 examine,NiHao124538/examine,0.1.0,110,2
 mooncharts,Xpeng/mooncharts,0.2.0,1501,2
-MoonEvidence,starlittle/MoonEvidence,0.1.0,5127,8
+MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9
