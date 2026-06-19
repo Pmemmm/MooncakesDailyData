@@ -1314,7 +1314,7 @@ email,nexacodes/email,0.1.0,6040,6
 moontask,nexacodes/moontask,0.1.2,6493,10
 moonbit_sqlc_plugin,Mairzzcllo/moonbit_sqlc_plugin,0.1.2,15085,3
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2
-starlark,connect0459/starlark,0.3.0,62482,32
+starlark,connect0459/starlark,0.3.1,64696,32
 urllib,connect0459/urllib,0.4.2,24429,6
 clipboard,mst-mkt/clipboard,0.1.1,1446,1
 moon-pptx,t-ujiie-g/moon-pptx,0.5.2,59575,16
@@ -1327,6 +1327,7 @@ tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2
 moonpost,MaoDingA/moonpost,0.1.1,11805,11
 aitne,Arcelyth/aitne,0.2.2,2896,8
 html_escape,Arcelyth/html_escape,0.3.1,2943,1
+cog_complex,pocket7878/cog_complex,0.1.0,1552,2
 decimal,DzmingLi/decimal,0.2.2,6083,1
 rapidhash,DzmingLi/rapidhash,0.1.0,306,1
 depsight,Tino-hue/depsight,0.5.1,10029,9
@@ -1341,5 +1342,6 @@ aho-corasick,helios-house/aho-corasick,0.4.0,780,1
 valence,helios-house/valence,0.1.2,626,1
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20
 examine,NiHao124538/examine,0.1.0,110,2
-mooncharts,Xpeng/mooncharts,0.2.0,1501,2
+mooncharts,Xpeng/mooncharts,0.3.0,1845,3
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9
+agent-telemetry,cybershang/agent-telemetry,0.1.0,708,1
