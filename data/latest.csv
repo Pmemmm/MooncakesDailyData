@@ -808,7 +808,7 @@ hello,xavier865/hello,0.2.2,65,2
 sqrt,WenqiChen3019/sqrt,0.1.4,44,2
 Calculator,sjzbxhsj/Calculator,0.1.0,46,1
 error,YumeXi/error,0.2.1,306,3
-format,YumeXi/format,0.3.10,1856,4
+format,YumeXi/format,0.3.11,1935,4
 iter,YumeXi/iter,0.2.8,735,1
 Laurus,Mepy/Laurus,0.2.2,15557,7
 MoonStats,structuraBlock/MoonStats,0.3.0,328,2
@@ -967,7 +967,7 @@ MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
-alga,dowdiness/alga,0.3.1,9326,2
+alga,dowdiness/alga,0.4.0,7024,1
 btree,dowdiness/btree,0.1.0,4422,1
 event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
