@@ -89,7 +89,7 @@ toml,bobzhang/toml,0.4.1,24640,18
 unmarshal,bobzhang/unmarshal,0.2.5,8945,3
 uri,bobzhang/uri,0.1.0,606,1
 uuidm,bobzhang/uuidm,0.1.2,2294,1
-vg,bobzhang/vg,0.1.4,7003,6
+vg,bobzhang/vg,0.3.0,8049,7
 zip,bobzhang/zip,0.1.0,17585,16
 zipc,bobzhang/zipc,0.1.1,6456,6
 amjson,tonyfettes/amjson,0.1.0,927,2
@@ -245,7 +245,7 @@ lexer,bob/lexer,0.1.0,244,1
 toml,bob/toml,0.1.6,7656,3
 arduino,moonbitlang/arduino,0.0.8,1043,4
 async,moonbitlang/async,0.19.4,40826,49
-core,moonbitlang/core,0.1.20260609+84519ca0a,174156,75
+core,moonbitlang/core,0.1.20260622+a46be2066,175408,75
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2
 esp32,moonbitlang/esp32,0.1.19,797,8
 formatter,moonbitlang/formatter,0.1.6,4683,6
@@ -323,6 +323,7 @@ common,hackwaly/common,0.1.24,1320,12
 easing,hackwaly/easing,0.1.0,999,2
 fastcc,hackwaly/fastcc,0.1.0,77867,67
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2
+lexbuf,hackwaly/lexbuf,0.1.0,466,1
 moonback,hackwaly/moonback,0.6.4,4441,5
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17
 msgpack,hackwaly/msgpack,0.1.0,1143,2
@@ -331,6 +332,7 @@ querystring,hackwaly/querystring,0.1.2,249,1
 redis,hackwaly/redis,0.1.1,7565,3
 regex,hackwaly/regex,0.0.1,4857,9
 s3,hackwaly/s3,0.1.0,1484,1
+wordcount,hackwaly/wordcount,0.2.1,388,1
 readline,npmstudy/readline,0.1.6,4836,4
 ed25519,hustcer/ed25519,0.5.0,2164,2
 fbr,hustcer/fbr,0.8.0,18723,5
@@ -628,10 +630,10 @@ microphone,justjavac/microphone,0.1.2,551,3
 notification,justjavac/notification,0.1.3,437,1
 num_cpus,justjavac/num_cpus,0.1.9,273,2
 platform,justjavac/platform,0.1.2,559,2
-proton,justjavac/proton,0.1.0,34517,68
-proton_cli,justjavac/proton_cli,0.1.0,2811,2
-proton_config,justjavac/proton_config,0.1.0,583,1
-proton_ext,justjavac/proton_ext,0.1.1,6300,13
+proton,justjavac/proton,0.1.2,138248,272
+proton_cli,justjavac/proton_cli,0.1.2,2811,2
+proton_config,justjavac/proton_config,0.1.2,591,1
+proton_ext,justjavac/proton_ext,0.1.3,6297,13
 quickjs,justjavac/quickjs,0.1.4,1896,5
 replace_self,justjavac/replace_self,0.1.3,1162,2
 screenshots,justjavac/screenshots,0.1.2,490,3
@@ -668,7 +670,7 @@ i18n-ipsum,kokic/i18n-ipsum,0.1.1,506,1
 momoka,kokic/momoka,0.4.0,1008,1
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1
 prime,kokic/prime,0.1.6,546,2
-sexp-html,kokic/sexp-html,0.2.2,1324,1
+sexp-html,kokic/sexp-html,0.3.0,1354,1
 tim,kokic/tim,0.3.0,225,1
 tinymark,kokic/tinymark,0.3.2,4015,2
 YHWH,kokic/YHWH,0.2.0,195,1
@@ -964,7 +966,7 @@ MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1
-alga,dowdiness/alga,0.3.0,9320,2
+alga,dowdiness/alga,0.3.1,9326,2
 btree,dowdiness/btree,0.1.0,4422,1
 event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2
@@ -1332,7 +1334,7 @@ postgresx,kaashyapan/postgresx,0.1.0,1096,1
 uri,kaashyapan/uri,0.1.2,3473,1
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2
 moonpost,MaoDingA/moonpost,0.1.1,11805,11
-aitne,Arcelyth/aitne,0.2.5,8103,9
+aitne,Arcelyth/aitne,0.2.8,8261,10
 html_escape,Arcelyth/html_escape,0.3.3,3021,2
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2
 decimal,DzmingLi/decimal,0.2.2,6083,1
@@ -1342,7 +1344,7 @@ base64,kujirahand/base64,0.1.1,239,2
 crc32,kujirahand/crc32,0.1.1,229,2
 moon_zod,Betterlol/moon_zod,0.6.0,8805,12
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5
-ssh_client,PaiGack/ssh_client,0.3.0,36305,17
+ssh_client,PaiGack/ssh_client,0.3.2,10392,9
 zipx,wangmingfa/zipx,0.1.0,1057,2
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2
@@ -1353,5 +1355,6 @@ examine,NiHao124538/examine,0.1.0,110,2
 mooncharts,Xpeng/mooncharts,0.3.0,1845,3
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9
 agent-telemetry,cybershang/agent-telemetry,0.1.3,948,1
-hex_editor,R00TK17/hex_editor,0.1.0,7369,3
+hex_editor,R00TK17/hex_editor,0.1.1,7916,3
 moonbio,caassien/moonbio,0.1.0,525,6
+abyssal_chord,sssssurf/abyssal_chord,0.1.0,5503,2
