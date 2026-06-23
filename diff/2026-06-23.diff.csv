@@ -4,6 +4,10 @@ shiguri-01/todotxt,新增,411,1,0,0,411,1
 YumeXi/error,新增,306,3,0,0,306,3
 amor2025/fraction,有变化,5247,2,629,2,5876,4
 dowdiness/alga,有变化,-2302,-1,9326,2,7024,1
+elzup/peeler,有变化,66,1,1096,1,1162,2
+kokic/tinymark,有变化,207,0,4015,2,4222,2
+moonbitlang/ulex,有变化,-1774,-15,10550,31,8776,16
+moonbitlang/yacc,有变化,-32790,-8,52771,29,19981,21
 YumeXi/format,有变化,79,0,1856,4,1935,4
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -253,7 +257,6 @@ eczn/eczn-utils,无变化,0,0,50,1,50,1
 edragain2nd/biblatex,无变化,0,0,10315,3,10315,3
 edragain2nd/compose,无变化,0,0,1233,1,1233,1
 edragain2nd/unscanny,无变化,0,0,916,1,916,1
-elzup/peeler,无变化,0,0,1096,1,1096,1
 emadurandal/examine,无变化,0,0,119,2,119,2
 emadurandal/rhodonite,无变化,0,0,2919,3,2919,3
 emadurandal/rhodonite_app_sdl3,无变化,0,0,2080,1,2080,1
@@ -561,7 +564,6 @@ kokic/moonbit-chalk,无变化,0,0,248,1,248,1
 kokic/prime,无变化,0,0,546,2,546,2
 kokic/sexp-html,无变化,0,0,1354,1,1354,1
 kokic/tim,无变化,0,0,225,1,225,1
-kokic/tinymark,无变化,0,0,4015,2,4015,2
 kokic/YHWH,无变化,0,0,195,1,195,1
 kujirahand/base64,无变化,0,0,239,2,239,2
 kujirahand/crc32,无变化,0,0,229,2,229,2
@@ -909,11 +911,9 @@ moonbitlang/protobuf,无变化,0,0,4680,2,4680,2
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
 moonbitlang/std,无变化,0,0,99,1,99,1
-moonbitlang/ulex,无变化,0,0,10550,31,10550,31
 moonbitlang/ulex-runtime,无变化,0,0,131,1,131,1
 moonbitlang/wasm4,无变化,0,0,813,1,813,1
 moonbitlang/x,无变化,0,0,22861,21,22861,21
-moonbitlang/yacc,无变化,0,0,52771,29,52771,29
 moonrockz/cucumber-expressions,无变化,0,0,3208,1,3208,1
 moonrockz/cucumber-messages,无变化,0,0,3958,1,3958,1
 moonrockz/directories,无变化,0,0,743,1,743,1
