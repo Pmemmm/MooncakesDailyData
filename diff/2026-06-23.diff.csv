@@ -4,8 +4,10 @@ shiguri-01/todotxt,新增,411,1,0,0,411,1
 YumeXi/error,新增,306,3,0,0,306,3
 amor2025/fraction,有变化,5247,2,629,2,5876,4
 dowdiness/alga,有变化,-2302,-1,9326,2,7024,1
+dowdiness/order-tree,有变化,25,0,2081,1,2106,1
 elzup/peeler,有变化,66,1,1096,1,1162,2
 kokic/tinymark,有变化,207,0,4015,2,4222,2
+mizchi/pkl,有变化,227,0,87470,2,87697,2
 moonbitlang/ulex,有变化,-1774,-15,10550,31,8776,16
 moonbitlang/yacc,有变化,-32790,-8,52771,29,19981,21
 YumeXi/format,有变化,79,0,1856,4,1935,4
@@ -246,7 +248,6 @@ dowdiness/incr,无变化,0,0,27411,10,27411,10
 dowdiness/js_engine,无变化,0,0,118289,27,118289,27
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/moondsp,无变化,0,0,42430,12,42430,12
-dowdiness/order-tree,无变化,0,0,2081,1,2081,1
 dowdiness/rle,无变化,0,0,6000,5,6000,5
 dowdiness/svg-dsl,无变化,0,0,1900,1,1900,1
 DzmingLi/decimal,无变化,0,0,6083,1,6083,1
@@ -793,7 +794,6 @@ mizchi/parquet,无变化,0,0,10202,4,10202,4
 mizchi/pathfind,无变化,0,0,311,1,311,1
 mizchi/physics,无变化,0,0,8058,3,8058,3
 mizchi/pixelmatch,无变化,0,0,4306,5,4306,5
-mizchi/pkl,无变化,0,0,87470,2,87470,2
 mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
 mizchi/protocol,无变化,0,0,803,2,803,2
