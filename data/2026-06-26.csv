@@ -399,7 +399,7 @@ crater-wasm,mizchi/crater-wasm,0.18.0,1916,11,2026-05-22T11:34:59.312476
 crater-webdriver-bidi,mizchi/crater-webdriver-bidi,0.18.0,72057,12,2026-05-22T11:35:07.241512
 crater-webvitals,mizchi/crater-webvitals,0.18.0,793,1,2026-05-22T11:35:09.077145
 crdt_db,mizchi/crdt_db,0.1.1,5786,11,2026-02-07T05:59:16.761884
-css,mizchi/css,0.5.9,44307,12,2026-06-25T16:19:16.194179
+css,mizchi/css,0.7.0,47330,12,2026-06-25T18:25:28.193053
 cst,mizchi/cst,0.1.7,2492,4,2026-05-15T16:58:15.600539
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3,2026-03-08T16:11:11.216765
 differentiable_ecs,mizchi/differentiable_ecs,0.2.1,682,3,2026-06-03T11:23:08.673618
@@ -958,8 +958,8 @@ wgsl,Milky2018/wgsl,0.15.0,71081,8,2026-06-13T04:24:20.203308
 window,Milky2018/window,0.5.1,21708,13,2026-05-19T05:24:05.187287
 xml,Milky2018/xml,0.2.0,12989,1,2026-01-20T03:06:38.745263
 zstd,Milky2018/zstd,0.1.1,41283,1,2026-06-10T06:13:35.537358
-relay,Metalymph/relay,0.4.1,2614,2,2026-06-01T12:59:39.699936
-valkey,Metalymph/valkey,0.4.1,2831,1,2026-06-01T12:50:34.284214
+relay,Metalymph/relay,0.5.1,2256,4,2026-06-25T16:49:56.341860
+valkey,Metalymph/valkey,0.5.0,1675,2,2026-06-25T16:40:23.881183
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3,2026-05-08T17:17:11.145835
 doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69,2026-05-11T07:26:24.642605
 markitdown,ZSeanYves/markitdown,0.3.6,191137,116,2026-05-24T11:53:05.969755
