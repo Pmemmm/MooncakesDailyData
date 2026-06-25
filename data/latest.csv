@@ -672,7 +672,7 @@ moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.6,546,2,2026-04-28T08:00:22.574975
 sexp-html,kokic/sexp-html,0.4.0,1363,1,2026-06-25T04:03:24.920457
 tim,kokic/tim,0.3.0,225,1,2026-06-14T14:42:10.289404
-tinymark,kokic/tinymark,0.3.6,4525,2,2026-06-25T04:32:53.409401
+tinymark,kokic/tinymark,0.3.7,4494,2,2026-06-25T05:34:02.417478
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
 json,jinser/json,0.0.1,551,2,2025-02-06T08:05:55.931796
 baby,jumpping/baby,0.2.0,4270,6,2024-11-27T08:53:04.763310
@@ -1345,7 +1345,7 @@ rapidhash,DzmingLi/rapidhash,0.1.0,306,1,2026-06-08T12:40:17.814497
 depsight,Tino-hue/depsight,0.5.1,10029,9,2026-06-05T14:05:12.024010
 base64,kujirahand/base64,0.1.1,239,2,2026-06-03T07:33:26.035245
 crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
-moon_zod,Betterlol/moon_zod,0.6.0,8805,12,2026-06-21T17:49:02.926572
+moon_zod,Betterlol/moon_zod,0.7.0,12152,14,2026-06-25T07:21:14.307181
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5,2026-06-07T10:39:13.281259
 ssh_client,PaiGack/ssh_client,0.3.3,10392,9,2026-06-22T13:07:25.539762
 zipx,wangmingfa/zipx,0.1.0,1057,2,2026-06-21T15:47:45.412989
