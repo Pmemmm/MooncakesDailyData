@@ -1,9 +1,16 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 co63oc/moonbit_promptkit,新增,11297,70,0,0,11297,70
+Freesia666/moonjsonpath,新增,7747,2,0,0,7747,2
+ihb2032/MoonFrame,新增,34786,16,0,0,34786,16
+RunnerQuan/moonlimit,新增,5285,2,0,0,5285,2
+shunge/image,新增,55176,1,0,0,55176,1
 Betterlol/moon_zod,有变化,3347,2,8805,12,12152,14
 cybershang/agent-telemetry,有变化,1071,0,948,1,2019,1
 kokic/sexp-html,有变化,9,0,1354,1,1363,1
 kokic/tinymark,有变化,272,0,4222,2,4494,2
+mizchi/pkl,有变化,796,0,87697,2,88493,2
+mizchi/simd,有变化,79,0,19036,9,19115,9
+Yoorkin/cowsay,有变化,1,0,194,1,195,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
@@ -789,7 +796,6 @@ mizchi/parquet,无变化,0,0,10202,4,10202,4
 mizchi/pathfind,无变化,0,0,311,1,311,1
 mizchi/physics,无变化,0,0,8058,3,8058,3
 mizchi/pixelmatch,无变化,0,0,4306,5,4306,5
-mizchi/pkl,无变化,0,0,87697,2,87697,2
 mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
 mizchi/protocol,无变化,0,0,803,2,803,2
@@ -801,7 +807,6 @@ mizchi/s3,无变化,0,0,646,2,646,2
 mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4954,2,4954,2
-mizchi/simd,无变化,0,0,19036,9,19036,9
 mizchi/similarity,无变化,0,0,2664,5,2664,5
 mizchi/sol,无变化,0,0,45916,40,45916,40
 mizchi/sol_adapter_cloudflare,无变化,0,0,805,1,805,1
@@ -1302,7 +1307,6 @@ yj-qin/moonlox,无变化,0,0,2551,2,2551,2
 yj-qin/regexp,无变化,0,0,4348,1,4348,1
 Yoorkin/any,无变化,0,0,1155,1,1155,1
 Yoorkin/ArgParser,无变化,0,0,213,1,213,1
-Yoorkin/cowsay,无变化,0,0,194,1,194,1
 Yoorkin/format,无变化,0,0,62,1,62,1
 Yoorkin/fuzzy_search,无变化,0,0,249,1,249,1
 Yoorkin/hashtbl,无变化,0,0,59,2,59,2
