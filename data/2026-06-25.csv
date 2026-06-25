@@ -670,9 +670,9 @@ i18n-ipsum,kokic/i18n-ipsum,0.1.1,506,1,2026-06-15T17:05:31.402551
 momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.6,546,2,2026-04-28T08:00:22.574975
-sexp-html,kokic/sexp-html,0.3.0,1354,1,2026-06-22T11:02:42.805115
+sexp-html,kokic/sexp-html,0.4.0,1363,1,2026-06-25T04:03:24.920457
 tim,kokic/tim,0.3.0,225,1,2026-06-14T14:42:10.289404
-tinymark,kokic/tinymark,0.3.4,4222,2,2026-06-23T09:56:57.716698
+tinymark,kokic/tinymark,0.3.6,4525,2,2026-06-25T04:32:53.409401
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
 json,jinser/json,0.0.1,551,2,2025-02-06T08:05:55.931796
 baby,jumpping/baby,0.2.0,4270,6,2024-11-27T08:53:04.763310
@@ -1362,3 +1362,4 @@ agent-telemetry,cybershang/agent-telemetry,0.1.4,2019,1,2026-06-24T14:11:37.1827
 hex_editor,R00TK17/hex_editor,0.1.1,7916,3,2026-06-22T07:49:42.428119
 moonbio,caassien/moonbio,0.1.0,525,6,2026-06-21T15:30:20.817966
 abyssal_chord,sssssurf/abyssal_chord,0.1.0,5503,2,2026-06-22T07:55:06.537295
+moonbit_promptkit,co63oc/moonbit_promptkit,0.1.1,11297,70,2026-06-25T02:36:14.300350
