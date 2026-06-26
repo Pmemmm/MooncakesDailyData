@@ -6,6 +6,8 @@ Metalymph/valkey,有变化,-1156,1,2831,1,1675,2
 Milky2018/pptz,有变化,3776,1,11714,11,15490,12
 mizchi/css,有变化,4397,0,42933,12,47330,12
 mizchi/pkl,有变化,535,0,88493,2,89028,2
+moonbitlang/lexer,有变化,276,0,3706,3,3982,3
+moonbitlang/parser,有变化,-33,0,117437,20,117404,20
 oboard/mocket,有变化,4,0,7242,15,7246,15
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -902,11 +904,9 @@ moonbitlang/json_deriving,无变化,0,0,1882,4,1882,4
 moonbitlang/json_deriving_codegen,无变化,0,0,1188,1,1188,1
 moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
-moonbitlang/lexer,无变化,0,0,3706,3,3706,3
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/moon_config,无变化,0,0,2946,1,2946,1
-moonbitlang/parser,无变化,0,0,117437,20,117437,20
 moonbitlang/protobuf,无变化,0,0,4680,2,4680,2
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
