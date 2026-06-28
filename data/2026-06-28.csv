@@ -682,7 +682,7 @@ computational-geometry,CMoonBack/computational-geometry,0.2.3,3272,3,2025-01-07T
 string-Algorithm,CMoonBack/string-Algorithm,0.1.0,104,3,2024-11-27T14:48:40.907576
 moon-axe-tools,kinoamyfx/moon-axe-tools,0.0.1-SNAPSHOT,25,2,2024-12-02T13:00:38.907603
 chungshan,SyoujyoujiNaiki/chungshan,0.2.0,459,2,2024-12-05T02:40:39.140668
-oops,SyoujyoujiNaiki/oops,0.2.0,2835,2,2026-02-14T05:54:24.902548
+oops,SyoujyoujiNaiki/oops,0.3.0,3229,2,2026-06-28T06:14:12.084894
 either,Kaida-Amethyst/either,0.1.0,1168,1,2025-09-06T08:20:16.650044
 godot,Kaida-Amethyst/godot,0.1.0,6040,1,2025-08-01T08:49:11.849396
 llvm,Kaida-Amethyst/llvm,0.2.3,37464,4,2026-01-28T09:17:09.250906
@@ -1268,6 +1268,7 @@ sfo,jtenner/sfo,0.1.1,13087,1,2026-02-17T20:48:33.625955
 telnet,jtenner/telnet,0.1.3,29427,6,2026-05-26T00:54:14.550448
 sql,ash1day/sql,0.1.0,6085,4,2026-02-20T06:19:32.577685
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:02:10.299211
+lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
 moonlib,vectie/moonlib,0.1.0,2412,9,2026-06-17T07:28:49.258952
@@ -1336,12 +1337,12 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.5.3,59837,16,2026-06-20T01:08:45.923033
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.1,34786,16,2026-06-26T07:19:38.571791
+MoonFrame,ihb2032/MoonFrame,0.5.2,34917,16,2026-06-28T08:15:13.004380
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2,2026-06-01T14:03:12.860444
-moonpost,MaoDingA/moonpost,0.1.1,11805,11,2026-06-01T08:59:06.895448
+moonpost,MaoDingA/moonpost,0.2.0,16080,11,2026-06-28T07:31:19.701126
 aitne,Arcelyth/aitne,0.3.3,9214,13,2026-06-24T09:05:35.387933
 html_escape,Arcelyth/html_escape,0.3.3,3021,2,2026-06-19T14:56:11.575520
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
