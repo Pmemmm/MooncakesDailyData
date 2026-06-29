@@ -410,7 +410,7 @@ experimental_crypto,mizchi/experimental_crypto,0.0.2,95946,81,2026-06-02T11:20:5
 flaker,mizchi/flaker,0.3.1,7121,21,2026-04-25T13:40:47.761858
 flatbuffers,mizchi/flatbuffers,0.1.3,10671,3,2026-01-16T04:48:40.366693
 font,mizchi/font,0.7.3,11144,4,2026-05-09T10:56:43.851124
-fswatch,mizchi/fswatch,0.1.1,956,1,2026-05-30T10:13:28.234619
+fswatch,mizchi/fswatch,0.2.1,982,1,2026-06-29T17:31:45.963066
 geom,mizchi/geom,0.2.0,3389,4,2026-06-03T13:10:24.930388
 gfx,mizchi/gfx,0.1.0,6125,1,2026-05-23T08:19:31.110298
 git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
@@ -442,7 +442,7 @@ lsp,mizchi/lsp,0.1.2,28260,7,2026-02-11T04:41:46.231320
 luna,mizchi/luna,0.23.0,45324,44,2026-05-17T09:03:09.620024
 luna_components,mizchi/luna_components,0.23.0,17482,18,2026-05-17T09:03:15.690563
 markdown,mizchi/markdown,0.6.2,26330,25,2026-05-22T11:06:03.841892
-mars,mizchi/mars,0.3.10,14703,12,2026-03-19T09:11:13.671438
+mars,mizchi/mars,0.3.11,15562,12,2026-06-29T17:59:52.458832
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1,2026-03-26T12:37:24.590225
 mbts,mizchi/mbts,0.0.3,12071,9,2026-02-11T06:09:59.043736
 mesh3d,mizchi/mesh3d,0.2.0,1212,1,2026-06-03T13:10:20.878722
@@ -511,7 +511,7 @@ widget2d,mizchi/widget2d,0.2.0,636,1,2026-06-03T13:11:10.411546
 wit,mizchi/wit,0.3.0,4397,2,2026-02-15T02:30:24.009386
 wite,mizchi/wite,0.11.0,49049,16,2026-03-22T13:15:31.546043
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47,2026-02-02T05:07:30.901216
-x,mizchi/x,0.4.0,22964,20,2026-05-30T09:18:48.102965
+x,mizchi/x,0.5.1,23623,20,2026-06-29T17:31:38.829974
 zlib,mizchi/zlib,0.4.8,4188,6,2026-06-29T04:48:27.505782
 postgres,mattn/postgres,0.10.4,562,1,2026-01-11T10:56:13.122219
 eczn-utils,eczn/eczn-utils,0.2.0,50,1,2024-05-01T18:51:02.119094
@@ -965,7 +965,7 @@ relay,Metalymph/relay,0.5.1,2256,4,2026-06-25T16:49:56.341860
 valkey,Metalymph/valkey,0.5.0,1675,2,2026-06-25T16:40:23.881183
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3,2026-05-08T17:17:11.145835
 doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69,2026-05-11T07:26:24.642605
-markitdown,ZSeanYves/markitdown,0.4.0,116026,65,2026-06-29T15:20:31.548206
+markitdown,ZSeanYves/markitdown,0.4.1,115306,64,2026-06-29T16:28:43.538766
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1,2025-07-29T17:48:02.465967
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1,2025-12-26T13:16:31.442658
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1,2026-01-03T11:08:55.614509
