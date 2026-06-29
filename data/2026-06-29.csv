@@ -400,7 +400,7 @@ crater-wasm,mizchi/crater-wasm,0.18.0,1916,11,2026-05-22T11:34:59.312476
 crater-webdriver-bidi,mizchi/crater-webdriver-bidi,0.18.0,72057,12,2026-05-22T11:35:07.241512
 crater-webvitals,mizchi/crater-webvitals,0.18.0,793,1,2026-05-22T11:35:09.077145
 crdt_db,mizchi/crdt_db,0.1.1,5786,11,2026-02-07T05:59:16.761884
-css,mizchi/css,0.7.0,47330,12,2026-06-25T18:25:28.193053
+css,mizchi/css,0.7.2,47339,12,2026-06-29T04:28:58.685097
 cst,mizchi/cst,0.1.7,2492,4,2026-05-15T16:58:15.600539
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3,2026-03-08T16:11:11.216765
 differentiable_ecs,mizchi/differentiable_ecs,0.2.1,682,3,2026-06-03T11:23:08.673618
@@ -511,7 +511,7 @@ wit,mizchi/wit,0.3.0,4397,2,2026-02-15T02:30:24.009386
 wite,mizchi/wite,0.11.0,49049,16,2026-03-22T13:15:31.546043
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47,2026-02-02T05:07:30.901216
 x,mizchi/x,0.4.0,22964,20,2026-05-30T09:18:48.102965
-zlib,mizchi/zlib,0.4.7,3688,6,2026-05-26T14:11:17.898225
+zlib,mizchi/zlib,0.4.8,4188,6,2026-06-29T04:48:27.505782
 postgres,mattn/postgres,0.10.4,562,1,2026-01-11T10:56:13.122219
 eczn-utils,eczn/eczn-utils,0.2.0,50,1,2024-05-01T18:51:02.119094
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2,2026-04-03T01:54:46.113080
@@ -609,7 +609,7 @@ qtgui,WilliamZ1008/qtgui,0.1.7,1601,1,2025-09-18T08:44:51.657248
 moontest,wstreet/moontest,0.1.0,26,2,2024-10-21T03:15:18.852797
 Learn_Test1,jankin_li/Learn_Test1,0.1.0,25,2,2024-10-21T08:10:16.056674
 new_lib,jankin_li/new_lib,0.1.0,25,2,2024-10-22T02:39:11.341304
-auto_launch,justjavac/auto_launch,0.1.5,2098,5,2026-06-10T05:27:26.363438
+auto_launch,justjavac/auto_launch,0.1.7,2132,5,2026-06-29T02:04:14.582966
 btoi,justjavac/btoi,0.1.9,1058,1,2026-06-10T05:27:01.276674
 bytesize,justjavac/bytesize,0.2.3,868,1,2026-06-10T05:28:45.294228
 cache_padded,justjavac/cache_padded,0.1.0,1440,1,2025-07-08T04:01:34.834869
@@ -627,14 +627,14 @@ glob,justjavac/glob,0.1.8,469,1,2026-06-10T05:39:24.268040
 global_hotkey,justjavac/global_hotkey,0.1.4,1391,1,2026-06-10T05:38:21.867719
 itoa,justjavac/itoa,0.2.4,760,1,2026-06-10T05:41:53.565170
 keepawake,justjavac/keepawake,0.1.3,776,2,2026-06-10T15:50:23.770692
-microphone,justjavac/microphone,0.1.2,551,3,2026-06-10T05:44:06.275328
-notification,justjavac/notification,0.1.3,437,1,2026-06-10T05:43:19.946609
+microphone,justjavac/microphone,0.1.3,618,3,2026-06-29T01:43:29.233251
+notification,justjavac/notification,0.1.4,501,1,2026-06-29T01:43:04.850541
 num_cpus,justjavac/num_cpus,0.1.9,273,2,2026-06-10T05:46:03.480191
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
-proton,justjavac/proton,0.1.5,16555,12,2026-06-24T11:05:08.468783
-proton_cli,justjavac/proton_cli,0.1.3,4563,3,2026-06-24T10:33:55.897974
-proton_config,justjavac/proton_config,0.1.3,591,1,2026-06-24T10:29:21.137253
-proton_ext,justjavac/proton_ext,0.1.6,6219,13,2026-06-24T11:05:55.883896
+proton,justjavac/proton,0.1.6,10305,9,2026-06-28T23:47:14.286007
+proton_cli,justjavac/proton_cli,0.1.5,5415,3,2026-06-29T02:22:09.600306
+proton_config,justjavac/proton_config,0.1.4,591,1,2026-06-28T23:43:18.037576
+proton_ext,justjavac/proton_ext,0.1.7,5890,13,2026-06-28T23:47:47.808827
 quickjs,justjavac/quickjs,0.1.4,1896,5,2026-06-10T05:51:24.654692
 replace_self,justjavac/replace_self,0.1.3,1162,2,2026-06-10T05:49:39.012978
 screenshots,justjavac/screenshots,0.1.2,490,3,2026-06-10T05:51:35.345220
@@ -643,7 +643,7 @@ template,justjavac/template,0.1.1,317,1,2026-06-07T12:55:52.871566
 template_codegen,justjavac/template_codegen,0.1.2,1470,3,2026-06-10T15:50:25.835042
 template_examples,justjavac/template_examples,0.1.1,427,4,2026-06-07T12:56:36.210518
 terminal_size,justjavac/terminal_size,0.1.5,346,2,2026-06-10T05:54:56.136855
-tray,justjavac/tray,0.1.5,834,5,2026-06-10T05:54:05.291737
+tray,justjavac/tray,0.1.6,873,5,2026-06-29T01:43:58.390907
 ttl,justjavac/ttl,0.1.1,511,2,2026-06-10T05:59:56.605041
 walkdir,justjavac/walkdir,0.1.6,467,4,2026-06-10T15:50:26.709979
 wallpaper,justjavac/wallpaper,0.1.3,528,3,2026-06-10T05:58:36.295367
