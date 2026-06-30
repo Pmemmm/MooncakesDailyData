@@ -625,14 +625,14 @@ dialog,justjavac/dialog,0.1.4,2517,6,2026-06-10T05:34:39.710638
 dirs,justjavac/dirs,0.1.2,1358,1,2026-06-10T05:35:11.639033
 ffi,justjavac/ffi,0.2.4,229,1,2026-06-29T07:57:34.533829
 glob,justjavac/glob,0.1.8,469,1,2026-06-10T05:39:24.268040
-global_hotkey,justjavac/global_hotkey,0.1.4,1391,1,2026-06-10T05:38:21.867719
+global_hotkey,justjavac/global_hotkey,0.1.5,1394,1,2026-06-30T08:18:53.307434
 itoa,justjavac/itoa,0.2.4,760,1,2026-06-10T05:41:53.565170
 keepawake,justjavac/keepawake,0.1.4,793,2,2026-06-29T08:09:04.474475
 microphone,justjavac/microphone,0.1.3,618,3,2026-06-29T01:43:29.233251
 notification,justjavac/notification,0.1.4,501,1,2026-06-29T01:43:04.850541
 num_cpus,justjavac/num_cpus,0.1.9,273,2,2026-06-10T05:46:03.480191
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
-proton,justjavac/proton,0.1.6,10305,9,2026-06-28T23:47:14.286007
+proton,justjavac/proton,0.1.9,10473,9,2026-06-30T10:00:48.675829
 proton_cli,justjavac/proton_cli,0.1.5,5415,3,2026-06-29T02:22:09.600306
 proton_config,justjavac/proton_config,0.1.4,591,1,2026-06-28T23:43:18.037576
 proton_ext,justjavac/proton_ext,0.1.7,5890,13,2026-06-28T23:47:47.808827
@@ -830,7 +830,7 @@ skia_mbt,wzzc-dev/skia_mbt,0.1.2,14341,8,2026-05-30T08:07:25.670355
 teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3,2025-03-07T05:58:58.518561
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2,2025-03-05T02:39:18.680768
-window,wzzc-dev/window,0.5.1-0.1.5,34919,23,2026-06-13T08:33:28.106566
+window,wzzc-dev/window,0.5.1-0.1.6,35149,23,2026-06-30T05:09:02.437559
 arithmetic,Luna-Flow/arithmetic,0.2.1,1232,1,2026-06-07T09:59:50.485771
 autodiff,Luna-Flow/autodiff,0.2.0,1085,10,2026-06-15T16:19:27.487311
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5,2025-10-29T01:30:10.903300
@@ -956,7 +956,7 @@ sqlparser,Milky2018/sqlparser,0.5.0,14669,2,2025-11-27T10:09:29.250366
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1,2026-04-10T01:34:25.959659
 toolkit,Milky2018/toolkit,0.1.4,28,1,2025-06-22T10:41:47.432821
 wasmoon,Milky2018/wasmoon,0.6.4,236903,46,2026-05-06T05:11:13.386352
-wgpu_mbt,Milky2018/wgpu_mbt,0.14.5,44237,10,2026-06-30T04:02:39.441864
+wgpu_mbt,Milky2018/wgpu_mbt,0.14.7,45078,10,2026-06-30T06:09:45.389622
 wgsl,Milky2018/wgsl,0.15.0,71081,8,2026-06-13T04:24:20.203308
 window,Milky2018/window,0.5.1,21708,13,2026-05-19T05:24:05.187287
 xml,Milky2018/xml,0.2.0,12989,1,2026-01-20T03:06:38.745263
@@ -985,7 +985,7 @@ svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1,2026-04-21T10:59:39.607352
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2,2026-04-10T13:17:50.317286
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
-posoco,colmugx/posoco,0.4.0,3479,1,2026-06-26T15:51:11.699431
+posoco,colmugx/posoco,0.4.1,3495,1,2026-06-30T06:23:27.962374
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1362,7 +1362,7 @@ yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.0,9720,13,2026-06-29T13:17:14.898545
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
-valence,helios-house/valence,0.1.2,626,1,2026-06-09T18:49:36.975155
+valence,helios-house/valence,0.2.0,2357,1,2026-06-30T09:21:35.603856
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20,2026-06-10T14:53:07.409716
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 mooncharts,Xpeng/mooncharts,0.3.0,1845,3,2026-06-19T01:49:36.772373
