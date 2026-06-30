@@ -1,9 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+caassien/jsonpath,新增,436,3,0,0,436,3
 conglinyizhi/better-edit-tools-mcp,新增,9720,13,0,0,9720,13
 tonyfettes/epoxy,新增,95201,2,0,0,95201,2
-Arcelyth/aitne,有变化,-434,-8,9214,13,8780,5
+tonyfettes/xxh64,新增,248,1,0,0,248,1
+Arcelyth/aitne,有变化,141,-7,9214,13,9355,6
 colmugx/posoco,有变化,16,0,3479,1,3495,1
-DzmingLi/rapidhash,有变化,23,0,306,1,329,1
+DzmingLi/rapidhash,有变化,121,0,306,1,427,1
 helios-house/valence,有变化,1731,0,626,1,2357,1
 justjavac/global_hotkey,有变化,3,0,1391,1,1394,1
 justjavac/proton,有变化,168,0,10305,9,10473,9
