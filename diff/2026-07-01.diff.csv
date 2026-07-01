@@ -5,9 +5,11 @@ FrozenLemonTee/formulas-calculator,新增,437,2,0,0,437,2
 FrozenLemonTee/formulas-calculator-web,新增,148,1,0,0,148,1
 rinnein/moonata,新增,10055,9,0,0,10055,9
 Arcelyth/aitne,有变化,11,0,9355,6,9366,6
+dowdiness/incr,有变化,-215,0,28241,9,28026,9
 FrozenLemonTee/LunarFormulas,有变化,915,3,1636,4,2551,7
 kokic/tinymark,有变化,74,0,4494,2,4568,2
 moonbit-community/moongrep,有变化,376,-1,18698,15,19074,14
+Tino-hue/depsight,有变化,1433,0,10029,9,11462,9
 ZSeanYves/markitdown,有变化,6585,0,115306,64,121891,64
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -247,7 +249,6 @@ dowdiness/btree,无变化,0,0,4422,1,4422,1
 dowdiness/event-graph-walker,无变化,0,0,23663,12,23663,12
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
 dowdiness/graphviz,无变化,0,0,4695,5,4695,5
-dowdiness/incr,无变化,0,0,28241,9,28241,9
 dowdiness/js_engine,无变化,0,0,118289,27,118289,27
 dowdiness/margs,无变化,0,0,4638,2,4638,2
 dowdiness/moondsp,无变化,0,0,42430,12,42430,12
@@ -1133,7 +1134,6 @@ Tigls/mb-hash,无变化,0,0,898,1,898,1
 Tigls/mb-hmac,无变化,0,0,318,1,318,1
 Tigls/mb-jwt,无变化,0,0,464,1,464,1
 Tigls/mb-p256,无变化,0,0,1488,1,1488,1
-Tino-hue/depsight,无变化,0,0,10029,9,10029,9
 tiye/caterfoil,无变化,0,0,2580,2,2580,2
 tiye/cirru-edn,无变化,0,0,1131,2,1131,2
 tiye/cirru-parser,无变化,0,0,1388,2,1388,2

@@ -976,7 +976,7 @@ btree,dowdiness/btree,0.1.0,4422,1,2026-04-24T12:18:36.372333
 event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12,2026-05-06T13:58:44.771522
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
-incr,dowdiness/incr,0.11.0,28241,9,2026-06-26T07:06:14.146515
+incr,dowdiness/incr,0.12.0,28026,9,2026-07-01T11:11:45.455255
 js_engine,dowdiness/js_engine,0.3.0,118289,27,2026-06-10T11:37:14.619369
 margs,dowdiness/margs,0.1.2,4638,2,2026-02-16T06:41:24.474228
 moondsp,dowdiness/moondsp,0.5.1,42430,12,2026-05-20T12:01:23.723306
@@ -1355,7 +1355,7 @@ cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
 decimal,DzmingLi/decimal,0.2.2,6083,1,2026-06-04T10:14:18.253216
 rapidhash,DzmingLi/rapidhash,0.1.4,427,1,2026-06-30T14:18:59.287949
-depsight,Tino-hue/depsight,0.5.1,10029,9,2026-06-05T14:05:12.024010
+depsight,Tino-hue/depsight,0.5.2,11462,9,2026-07-01T11:06:45.642401
 base64,kujirahand/base64,0.1.1,239,2,2026-06-03T07:33:26.035245
 crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
 moon_zod,Betterlol/moon_zod,0.7.0,12152,14,2026-06-25T07:21:14.307181
