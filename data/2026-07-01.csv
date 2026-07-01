@@ -1078,6 +1078,7 @@ strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2,2025-09-29T
 moonxi-net,chnlkw/moonxi-net,0.1.1,5996,13,2026-05-17T10:47:43.203408
 moonxi-net-gpu,chnlkw/moonxi-net-gpu,0.1.1,5545,9,2026-05-17T10:48:06.840527
 moon_rsa,Rutubet/moon_rsa,0.2.0,708,2,2025-12-01T16:39:49.827266
+moonata,rinnein/moonata,0.2.0,10055,9,2026-07-01T09:31:20.184089
 mb-chacha,Tigls/mb-chacha,0.1.0,528,1,2026-04-10T12:31:31.677840
 mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1,2026-04-07T18:35:29.350340
 mb-hash,Tigls/mb-hash,0.1.0,898,1,2026-04-08T06:21:17.350795
@@ -1086,8 +1087,10 @@ mb-jwt,Tigls/mb-jwt,0.1.0,464,1,2026-04-10T12:32:28.458432
 mb-p256,Tigls/mb-p256,0.1.0,1488,1,2026-04-20T18:44:36.981704
 firefly,applejag/firefly,0.2.0,2372,4,2025-09-07T00:52:10.260466
 micromath,applejag/micromath,0.3.0,660,1,2026-04-13T20:01:16.308653
+formulas-calculator,FrozenLemonTee/formulas-calculator,0.1.0,437,2,2026-07-01T08:21:11.105147
+formulas-calculator-web,FrozenLemonTee/formulas-calculator-web,0.1.0,148,1,2026-07-01T09:19:14.445859
 LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
-LunarFormulas,FrozenLemonTee/LunarFormulas,0.2.0,1636,4,2026-06-24T06:52:51.976447
+LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.0,2551,7,2026-07-01T08:04:15.125525
 LunarTUI,FrozenLemonTee/LunarTUI,0.1.0,3717,6,2026-06-03T04:01:50.551935
 LunarUnits,FrozenLemonTee/LunarUnits,0.1.6,9166,43,2026-06-11T15:04:29.117144
 TerminalEvent,FrozenLemonTee/TerminalEvent,0.1.0,340,2,2026-06-03T02:58:34.182585
@@ -1132,7 +1135,7 @@ meta-skill,moonbit-community/meta-skill,0.1.0,1366,1,2026-06-11T07:34:31.433430
 miniio,moonbit-community/miniio,0.2.1,3557,10,2026-06-12T08:04:05.077301
 moon_cpal,moonbit-community/moon_cpal,0.11.6,19042,19,2026-06-08T07:29:12.449808
 moon_dagre,moonbit-community/moon_dagre,0.2.5,11600,2,2026-06-08T07:29:58.332252
-moongrep,moonbit-community/moongrep,0.1.9,18698,15,2026-06-29T07:20:11.424589
+moongrep,moonbit-community/moongrep,0.1.10,19074,14,2026-07-01T06:00:37.922926
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
 opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
@@ -1349,6 +1352,7 @@ moonpost,MaoDingA/moonpost,0.2.0,16080,11,2026-06-28T07:31:19.701126
 aitne,Arcelyth/aitne,0.4.3,9366,6,2026-06-30T17:03:01.172985
 html_escape,Arcelyth/html_escape,0.3.3,3021,2,2026-06-19T14:56:11.575520
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
+clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
 decimal,DzmingLi/decimal,0.2.2,6083,1,2026-06-04T10:14:18.253216
 rapidhash,DzmingLi/rapidhash,0.1.4,427,1,2026-06-30T14:18:59.287949
 depsight,Tino-hue/depsight,0.5.1,10029,9,2026-06-05T14:05:12.024010

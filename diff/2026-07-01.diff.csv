@@ -1,7 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 clhhhhh/moon-csv-lite,新增,9897,8,0,0,9897,8
+DzmingLi/clap,新增,2729,1,0,0,2729,1
+FrozenLemonTee/formulas-calculator,新增,437,2,0,0,437,2
+FrozenLemonTee/formulas-calculator-web,新增,148,1,0,0,148,1
+rinnein/moonata,新增,10055,9,0,0,10055,9
 Arcelyth/aitne,有变化,11,0,9355,6,9366,6
+FrozenLemonTee/LunarFormulas,有变化,915,3,1636,4,2551,7
 kokic/tinymark,有变化,74,0,4494,2,4568,2
+moonbit-community/moongrep,有变化,376,-1,18698,15,19074,14
 ZSeanYves/markitdown,有变化,6585,0,115306,64,121891,64
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -312,7 +318,6 @@ Freesia666/moonjsonpath,无变化,0,0,7747,2,7747,2
 FrenchPicnic/threejs,无变化,0,0,3211,3,3211,3
 FrenchPicnic/which,无变化,0,0,297,1,297,1
 FrozenLemonTee/LunarEvent,无变化,0,0,539,2,539,2
-FrozenLemonTee/LunarFormulas,无变化,0,0,1636,4,1636,4
 FrozenLemonTee/LunarTUI,无变化,0,0,3717,6,3717,6
 FrozenLemonTee/LunarUnits,无变化,0,0,9166,43,9166,43
 FrozenLemonTee/TerminalEvent,无变化,0,0,340,2,340,2
@@ -876,7 +881,6 @@ moonbit-community/meta-skill,无变化,0,0,1366,1,1366,1
 moonbit-community/miniio,无变化,0,0,3557,10,3557,10
 moonbit-community/moon_cpal,无变化,0,0,19042,19,19042,19
 moonbit-community/moon_dagre,无变化,0,0,11600,2,11600,2
-moonbit-community/moongrep,无变化,0,0,18698,15,18698,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/NyaCSV,无变化,0,0,1196,1,1196,1
 moonbit-community/opentelemetry,无变化,0,0,35454,37,35454,37
