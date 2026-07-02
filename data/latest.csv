@@ -269,7 +269,7 @@ ulex,moonbitlang/ulex,0.3.29,8776,16,2026-06-23T05:44:02.986380
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1,2026-01-19T06:52:59.858911
 wasm4,moonbitlang/wasm4,0.2.9,813,1,2025-11-18T02:28:47.869535
 x,moonbitlang/x,0.4.46,22886,21,2026-06-24T06:01:49.291953
-yacc,moonbitlang/yacc,0.7.14,19981,21,2026-06-23T08:05:06.173592
+yacc,moonbitlang/yacc,0.7.16,18839,21,2026-07-02T02:17:34.408789
 test,Young-Flash/test,0.2.0,25,2,2024-08-23T10:32:04.970519
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2,2024-08-23T10:31:48.481588
 test_publish,Young-Flash/test_publish,0.2.0,25,2,2024-08-23T10:31:08.636269
@@ -1087,10 +1087,10 @@ mb-jwt,Tigls/mb-jwt,0.1.0,464,1,2026-04-10T12:32:28.458432
 mb-p256,Tigls/mb-p256,0.1.0,1488,1,2026-04-20T18:44:36.981704
 firefly,applejag/firefly,0.2.0,2372,4,2025-09-07T00:52:10.260466
 micromath,applejag/micromath,0.3.0,660,1,2026-04-13T20:01:16.308653
-formulas-calculator,FrozenLemonTee/formulas-calculator,0.1.0,437,2,2026-07-01T08:21:11.105147
-formulas-calculator-web,FrozenLemonTee/formulas-calculator-web,0.1.0,148,1,2026-07-01T09:19:14.445859
+formulas-calculator,FrozenLemonTee/formulas-calculator,0.1.2,457,2,2026-07-02T00:37:23.698639
+formulas-calculator-web,FrozenLemonTee/formulas-calculator-web,0.1.2,148,1,2026-07-02T00:39:22.782502
 LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
-LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.0,2551,7,2026-07-01T08:04:15.125525
+LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.1,2562,7,2026-07-02T00:35:28.837298
 LunarTUI,FrozenLemonTee/LunarTUI,0.1.0,3717,6,2026-06-03T04:01:50.551935
 LunarUnits,FrozenLemonTee/LunarUnits,0.1.6,9166,43,2026-06-11T15:04:29.117144
 TerminalEvent,FrozenLemonTee/TerminalEvent,0.1.0,340,2,2026-06-03T02:58:34.182585
@@ -1135,7 +1135,7 @@ meta-skill,moonbit-community/meta-skill,0.1.0,1366,1,2026-06-11T07:34:31.433430
 miniio,moonbit-community/miniio,0.2.1,3557,10,2026-06-12T08:04:05.077301
 moon_cpal,moonbit-community/moon_cpal,0.11.6,19042,19,2026-06-08T07:29:12.449808
 moon_dagre,moonbit-community/moon_dagre,0.2.5,11600,2,2026-06-08T07:29:58.332252
-moongrep,moonbit-community/moongrep,0.1.10,19074,14,2026-07-01T06:00:37.922926
+moongrep,moonbit-community/moongrep,0.1.11,22701,15,2026-07-02T02:25:47.578547
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
 opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
