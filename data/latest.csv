@@ -1277,7 +1277,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.6,2962,10,2026-07-02T11:31:33.715773
+moonlib,vectie/moonlib,0.1.7,4122,10,2026-07-02T13:02:48.090752
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
@@ -1326,7 +1326,7 @@ vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
 BitLogger,Nanaloveyuki/BitLogger,0.6.0,17974,13,2026-06-27T02:50:13.778521
-feed_gen,tkancf/feed_gen,0.2.0,4497,2,2026-06-28T15:10:45.231231
+feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
 moonwasm_probe,0xA672/moonwasm_probe,0.10.0,313,2,2026-05-26T05:33:49.546461
@@ -1373,7 +1373,7 @@ examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 mooncharts,Xpeng/mooncharts,0.3.0,1845,3,2026-06-19T01:49:36.772373
 MoonECAT,mokomoking2501/MoonECAT,0.1.0,78464,15,2026-06-23T03:31:11.827684
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9,2026-06-18T11:47:41.503586
-agent-telemetry,cybershang/agent-telemetry,0.1.4,2019,1,2026-06-24T14:11:37.182798
+agent-telemetry,cybershang/agent-telemetry,0.1.6,2371,1,2026-07-02T12:55:23.679059
 hex_editor,R00TK17/hex_editor,0.1.1,7916,3,2026-06-22T07:49:42.428119
 jsonpath,caassien/jsonpath,0.1.0,436,3,2026-06-30T14:44:42.575148
 moonbio,caassien/moonbio,0.1.0,525,6,2026-06-21T15:30:20.817966
