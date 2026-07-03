@@ -16,6 +16,7 @@ assertion,peter-jerry-ye/assertion,0.2.1,283,1,2024-01-01T00:00:01
 async,peter-jerry-ye/async,0.2.1,938,4,2025-11-05T06:22:21.603770
 canvas,peter-jerry-ye/canvas,0.7.0,1217,5,2025-02-27T10:12:11.219756
 codex,peter-jerry-ye/codex,0.129.0,32279,29,2026-06-11T07:49:52.261112
+hn-brief,peter-jerry-ye/hn-brief,0.1.1,505,1,2026-07-03T09:28:26.779051
 io,peter-jerry-ye/io,0.3.4,601,2,2025-10-14T06:10:31.485688
 json,peter-jerry-ye/json,0.4.0,374,1,2024-09-04T02:39:51.114591
 mcp-server,peter-jerry-ye/mcp-server,0.3.5,1014,3,2025-06-18T05:10:04.184981
@@ -247,7 +248,7 @@ hashbrown,bob/hashbrown,0.1.0,1549,3,2025-08-19T09:29:51.479774
 lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
-async,moonbitlang/async,0.20.0,40874,48,2026-06-24T10:19:40.739967
+async,moonbitlang/async,0.20.1,44853,48,2026-07-03T09:06:02.753907
 core,moonbitlang/core,0.1.20260622+a46be2066,175408,75,2026-06-22T11:59:15.079360
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 esp32,moonbitlang/esp32,0.1.19,797,8,2025-05-08T05:38:24.834817
@@ -277,6 +278,7 @@ try_publish,Young-Flash/try_publish,0.1.6,25,2,2025-03-05T08:40:07.339267
 alg-pattern,CAIMEOX/alg-pattern,0.1.0,465,1,2025-05-25T08:43:02.759509
 box,CAIMEOX/box,0.1.3,983,1,2026-05-06T08:06:17.668302
 color,CAIMEOX/color,0.1.0,1086,1,2025-09-30T06:53:42.018166
+csmith_wrapper,CAIMEOX/csmith_wrapper,0.1.0,1569,2,2026-07-03T08:57:29.082764
 diet,CAIMEOX/diet,0.1.3,1117,1,2025-10-31T09:39:08.082625
 evmasm,CAIMEOX/evmasm,0.1.0,5713,1,2026-02-09T03:03:47.210042
 feat-moon,CAIMEOX/feat-moon,0.2.0,484,1,2024-07-29T01:36:00.892562
@@ -940,7 +942,7 @@ mproc_examples,Milky2018/mproc_examples,0.1.0,69,1,2026-05-28T05:19:29.489497
 mproc_gen,Milky2018/mproc_gen,0.1.0,571,1,2026-05-28T05:19:03.254910
 options,Milky2018/options,0.1.2,328,1,2025-05-07T08:12:36.242383
 pacman,Milky2018/pacman,0.1.0,1121,1,2026-02-28T10:43:58.776905
-pptz,Milky2018/pptz,0.6.0,15490,12,2026-06-25T14:59:02.282917
+pptz,Milky2018/pptz,0.7.0,18141,15,2026-07-03T07:52:10.475278
 pthread,Milky2018/pthread,0.1.0,1854,1,2026-01-04T05:16:35.814809
 pug,Milky2018/pug,0.1.1,10601,2,2026-01-28T04:54:01.285566
 selene,Milky2018/selene,0.35.0,63347,59,2026-06-11T08:08:31.422719
@@ -1245,6 +1247,7 @@ mongodb,allain/mongodb,0.1.1,9540,3,2026-01-29T18:30:06.080944
 lunaboy,sacckey/lunaboy,0.1.2,4639,3,2026-02-23T11:49:40.159722
 moon8bit,sacckey/moon8bit,0.1.0,3115,7,2026-04-03T18:39:56.309983
 sha256,shu-kitamura/sha256,0.1.1,263,1,2026-01-29T14:58:19.304011
+mbtgraph,morning-start/mbtgraph,0.1.1,36173,25,2026-07-03T08:17:16.859797
 isobmff,trkbt10/isobmff,0.1.0,1655,5,2026-03-26T03:38:56.820664
 jpeg2000,trkbt10/jpeg2000,0.2.0,36963,25,2026-03-17T12:06:45.363123
 llm_interop,trkbt10/llm_interop,0.3.0,26468,17,2026-03-22T05:15:29.197470
