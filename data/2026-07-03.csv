@@ -647,7 +647,7 @@ template,justjavac/template,0.1.1,317,1,2026-06-07T12:55:52.871566
 template_codegen,justjavac/template_codegen,0.1.3,1470,3,2026-06-29T08:09:32.200470
 template_examples,justjavac/template_examples,0.1.1,427,4,2026-06-07T12:56:36.210518
 terminal_size,justjavac/terminal_size,0.1.5,346,2,2026-06-10T05:54:56.136855
-tray,justjavac/tray,0.1.6,873,5,2026-06-29T01:43:58.390907
+tray,justjavac/tray,0.1.7,1854,7,2026-07-03T13:24:57.693515
 tray-examples,justjavac/tray-examples,0.1.1,201,4,2026-06-29T08:09:48.827359
 ttl,justjavac/ttl,0.1.1,511,2,2026-06-10T05:59:56.605041
 walkdir,justjavac/walkdir,0.1.7,467,4,2026-06-29T08:09:59.431817
@@ -979,7 +979,7 @@ event-graph-walker,dowdiness/event-graph-walker,0.2.0,23663,12,2026-05-06T13:58:
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
 incr,dowdiness/incr,0.12.0,28026,9,2026-07-01T11:11:45.455255
-js_engine,dowdiness/js_engine,0.3.0,118289,27,2026-06-10T11:37:14.619369
+js_engine,dowdiness/js_engine,0.4.0,131271,31,2026-07-03T12:48:42.040378
 margs,dowdiness/margs,0.1.2,4638,2,2026-02-16T06:41:24.474228
 moondsp,dowdiness/moondsp,0.5.1,42430,12,2026-05-20T12:01:23.723306
 order-tree,dowdiness/order-tree,0.1.1,2106,1,2026-06-23T12:33:34.039284
@@ -1346,7 +1346,7 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.5.3,59837,16,2026-06-20T01:08:45.923033
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.2,34917,16,2026-06-28T08:15:13.004380
+MoonFrame,ihb2032/MoonFrame,0.5.3,36630,16,2026-07-03T13:31:17.648013
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
