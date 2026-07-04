@@ -66,7 +66,7 @@ loop_invariants_persistent,bobzhang/loop_invariants_persistent,0.8.0,17908,44,20
 loop_invariants_string,bobzhang/loop_invariants_string,0.14.0,21697,29,2026-06-04T01:17:11.066356
 loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.17.0,20283,35,2026-06-04T01:17:17.867885
 loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7,2026-05-14T00:44:14.114561
-mbtexcel,bobzhang/mbtexcel,0.1.5,130533,9,2026-04-19T15:00:05.255571
+mbtexcel,bobzhang/mbtexcel,0.1.6,137925,11,2026-07-04T13:36:03.406646
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
 moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
@@ -1377,6 +1377,7 @@ aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
 valence,helios-house/valence,0.2.0,2357,1,2026-06-30T09:21:35.603856
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20,2026-06-10T14:53:07.409716
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
+indexmap,aurasuisui/indexmap,0.2.0,5200,1,2026-07-04T13:31:41.902763
 mooncharts,Xpeng/mooncharts,0.6.0,3047,3,2026-07-04T05:36:28.534115
 MoonECAT,mokomoking2501/MoonECAT,0.1.0,78464,15,2026-06-23T03:31:11.827684
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9,2026-06-18T11:47:41.503586
@@ -1395,6 +1396,6 @@ moonflowgraph,AlexenderSokolov/moonflowgraph,0.1.0,1198,2,2026-06-28T04:02:08.13
 moonchart,JunJunTnT/moonchart,0.1.0,3183,8,2026-06-29T06:36:55.121711
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
-millow,megemini/millow,0.2.0,7326,5,2026-07-04T06:09:45.688297
+millow,megemini/millow,0.2.1,7916,5,2026-07-04T14:00:15.419224
 frontierlab,shop1111/frontierlab,0.3.0,4383,9,2026-07-04T09:02:54.106854
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.1,2285,5,2026-07-04T11:37:50.708938
