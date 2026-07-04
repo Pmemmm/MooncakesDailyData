@@ -1098,7 +1098,7 @@ formulas-calculator-web,FrozenLemonTee/formulas-calculator-web,0.1.2,148,1,2026-
 LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
 LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.1,2562,7,2026-07-02T00:35:28.837298
 LunarTUI,FrozenLemonTee/LunarTUI,0.1.0,3717,6,2026-06-03T04:01:50.551935
-LunarUnits,FrozenLemonTee/LunarUnits,0.1.6,9166,43,2026-06-11T15:04:29.117144
+LunarUnits,FrozenLemonTee/LunarUnits,0.1.7,9166,43,2026-07-04T06:10:37.128627
 TerminalEvent,FrozenLemonTee/TerminalEvent,0.1.0,340,2,2026-06-03T02:58:34.182585
 TextEditor,FrozenLemonTee/TextEditor,0.1.1,666,2,2026-06-03T04:08:29.040161
 units-converter,FrozenLemonTee/units-converter,0.1.0,422,2,2026-06-26T09:07:30.359224
@@ -1377,7 +1377,7 @@ aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
 valence,helios-house/valence,0.2.0,2357,1,2026-06-30T09:21:35.603856
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20,2026-06-10T14:53:07.409716
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
-mooncharts,Xpeng/mooncharts,0.5.0,2802,3,2026-07-03T16:05:13.332947
+mooncharts,Xpeng/mooncharts,0.6.0,3047,3,2026-07-04T05:36:28.534115
 MoonECAT,mokomoking2501/MoonECAT,0.1.0,78464,15,2026-06-23T03:31:11.827684
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9,2026-06-18T11:47:41.503586
 agent-telemetry,cybershang/agent-telemetry,0.1.6,2371,1,2026-07-02T12:55:23.679059
@@ -1395,3 +1395,4 @@ moonflowgraph,AlexenderSokolov/moonflowgraph,0.1.0,1198,2,2026-06-28T04:02:08.13
 moonchart,JunJunTnT/moonchart,0.1.0,3183,8,2026-06-29T06:36:55.121711
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
+millow,megemini/millow,0.2.0,7326,5,2026-07-04T06:09:45.688297
