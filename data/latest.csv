@@ -976,7 +976,7 @@ relay,Metalymph/relay,0.5.1,2256,4,2026-06-25T16:49:56.341860
 valkey,Metalymph/valkey,0.5.0,1675,2,2026-06-25T16:40:23.881183
 bufferutils,ZSeanYves/bufferutils,0.24.0,6279,3,2026-05-08T17:17:11.145835
 doc_parser,ZSeanYves/doc_parser,0.1.1,92139,69,2026-05-11T07:26:24.642605
-markitdown,ZSeanYves/markitdown,0.4.2,121891,64,2026-06-30T17:47:12.592840
+markitdown,ZSeanYves/markitdown,0.5.1,155374,95,2026-07-05T23:27:52.749206
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1,2025-07-29T17:48:02.465967
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1,2025-12-26T13:16:31.442658
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1,2026-01-03T11:08:55.614509
