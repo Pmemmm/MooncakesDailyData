@@ -1350,7 +1350,7 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.5.3,59837,16,2026-06-20T01:08:45.923033
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.4,37200,16,2026-07-04T11:42:25.538180
+MoonFrame,ihb2032/MoonFrame,0.5.5,37421,16,2026-07-05T03:54:28.969587
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
@@ -1396,6 +1396,8 @@ moonflowgraph,AlexenderSokolov/moonflowgraph,0.1.0,1198,2,2026-06-28T04:02:08.13
 moonchart,JunJunTnT/moonchart,0.1.0,3183,8,2026-06-29T06:36:55.121711
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
-millow,megemini/millow,0.2.1,7916,5,2026-07-04T14:00:15.419224
+millow,megemini/millow,0.3.0,8131,6,2026-07-05T02:01:59.924533
 frontierlab,shop1111/frontierlab,0.3.0,4383,9,2026-07-04T09:02:54.106854
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.1,2285,5,2026-07-04T11:37:50.708938
+moondepsolve,python123/moondepsolve,0.3.0,2506,3,2026-07-05T02:55:49.629380
+moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
