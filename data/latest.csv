@@ -137,7 +137,7 @@ os,tonyfettes/os,0.1.1,417,2,2026-05-20T07:15:26.643657
 pango,tonyfettes/pango,0.1.1,1945,1,2026-04-02T18:30:16.255967
 path,tonyfettes/path,0.2.2,1354,1,2025-11-12T09:50:18.435563
 pcre2,tonyfettes/pcre2,0.4.5,840,1,2026-03-04T05:27:33.721407
-platform,tonyfettes/platform,0.1.0,56,1,2026-02-03T10:14:48.260308
+platform,tonyfettes/platform,0.1.1,60,1,2026-07-05T10:03:48.248782
 pty,tonyfettes/pty,0.1.0,357,1,2026-04-24T03:21:22.746617
 rabbita_xterm,tonyfettes/rabbita_xterm,0.1.2,2437,4,2026-04-30T10:42:11.008184
 raylib,tonyfettes/raylib,0.4.0,30434,4,2026-04-24T09:02:47.360736
@@ -1101,6 +1101,7 @@ formulas-calculator-web,FrozenLemonTee/formulas-calculator-web,0.1.2,148,1,2026-
 LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
 LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.1,2562,7,2026-07-02T00:35:28.837298
 LunarTUI,FrozenLemonTee/LunarTUI,0.1.0,3717,6,2026-06-03T04:01:50.551935
+LunarUncertainty,FrozenLemonTee/LunarUncertainty,0.1.1,1127,3,2026-07-05T11:29:33.174539
 LunarUnits,FrozenLemonTee/LunarUnits,0.1.7,9166,43,2026-07-04T06:10:37.128627
 TerminalEvent,FrozenLemonTee/TerminalEvent,0.1.0,340,2,2026-06-03T02:58:34.182585
 TextEditor,FrozenLemonTee/TextEditor,0.1.1,666,2,2026-06-03T04:08:29.040161
