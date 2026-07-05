@@ -38,7 +38,7 @@ contacts,bobzhang/contacts,0.3.2,1655,4,2026-04-04T13:28:53.834225
 crescent,bobzhang/crescent,0.10.0,23411,23,2026-04-25T10:49:07.422266
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4,2026-04-09T15:48:34.164048
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7,2026-04-09T15:48:27.673572
-docx2html,bobzhang/docx2html,0.1.41,22484,10,2026-06-03T01:01:54.903538
+docx2html,bobzhang/docx2html,0.1.42,22906,10,2026-07-05T12:44:11.840041
 finapp,bobzhang/finapp,0.1.0,2463,4,2026-04-04T13:27:46.326636
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1,2026-04-18T15:09:55.235835
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2,2026-04-18T15:10:12.479821
@@ -66,13 +66,13 @@ loop_invariants_persistent,bobzhang/loop_invariants_persistent,0.8.0,17908,44,20
 loop_invariants_string,bobzhang/loop_invariants_string,0.14.0,21697,29,2026-06-04T01:17:11.066356
 loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.17.0,20283,35,2026-06-04T01:17:17.867885
 loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7,2026-05-14T00:44:14.114561
-mbtexcel,bobzhang/mbtexcel,0.1.6,137925,11,2026-07-04T13:36:03.406646
+mbtexcel,bobzhang/mbtexcel,0.1.7,517826,70,2026-07-05T12:42:05.829140
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
 moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
 openseek,bobzhang/openseek,0.2.1,45189,63,2026-06-21T05:15:14.676541
-pdflite,bobzhang/pdflite,0.1.39,584762,50,2026-06-20T07:08:36.533894
+pdflite,bobzhang/pdflite,0.1.40,355980,50,2026-07-05T12:43:37.590159
 pollapp,bobzhang/pollapp,0.3.2,1586,4,2026-04-04T13:29:01.010690
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
 prove,bobzhang/prove,0.0.2,3164,84,2026-03-17T06:33:22.282546
@@ -215,6 +215,7 @@ tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
+duplix,Yoorkin/duplix,0.1.0,1913,3,2026-07-05T14:02:30.900986
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
@@ -831,7 +832,7 @@ hello,wjy030522/hello,0.1.0,25,2,2025-02-09T00:26:24.793249
 line_sort,wangjuwudi/line_sort,0.1.0,155,1,2025-02-15T04:15:52.805772
 base32,yyjeqhc/base32,0.1.0,317,2,2025-02-17T13:08:53.533333
 imgui,wzzc-dev/imgui,0.1.0,499,2,2026-01-03T09:15:30.639667
-moui,wzzc-dev/moui,0.1.5,111350,42,2026-07-05T05:26:11.480275
+moui,wzzc-dev/moui,0.1.5-1,111424,42,2026-07-05T14:07:57.299621
 moui_richtext,wzzc-dev/moui_richtext,0.1.1,21908,1,2026-07-05T05:29:42.074630
 moui_skia,wzzc-dev/moui_skia,0.1.5,33244,8,2026-07-05T05:21:06.299404
 moui_sun,wzzc-dev/moui_sun,0.1.1,81341,4,2026-07-05T05:25:03.124882
@@ -1336,7 +1337,7 @@ pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9,2026-04-18T18:22:49.645570
 vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
-BitLogger,Nanaloveyuki/BitLogger,0.6.0,17974,13,2026-06-27T02:50:13.778521
+BitLogger,Nanaloveyuki/BitLogger,0.6.1,18315,13,2026-07-05T13:35:16.867760
 feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
@@ -1346,7 +1347,7 @@ strip,0xA672/strip,0.1.2,2191,2,2026-05-18T14:50:39.667056
 moonbit_claude_proxy,1123Javayanglei/moonbit_claude_proxy,0.1.0,2889,2,2026-05-17T10:07:15.491002
 email,nexacodes/email,0.1.0,6040,6,2026-05-18T14:59:27.785199
 moontask,nexacodes/moontask,0.1.2,6493,10,2026-05-17T14:28:59.555331
-moonbit_sqlc_plugin,Mairzzcllo/moonbit_sqlc_plugin,0.1.6,15602,3,2026-06-25T14:07:07.985627
+moonbit_sqlc_plugin,Mairzzcllo/moonbit_sqlc_plugin,0.1.8,15872,3,2026-07-05T13:33:25.013902
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2,2026-05-25T08:22:28.729283
 starlark,connect0459/starlark,0.4.0,68348,33,2026-06-27T14:20:22.949436
 urllib,connect0459/urllib,0.4.2,24429,6,2026-06-10T02:02:40.998709
@@ -1411,3 +1412,11 @@ moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.1,3683,9,2026-07-05T06:25:15.567589
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.0,4377,2,2026-07-05T06:33:59.317728
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.0,2347,2,2026-07-05T06:43:29.630439
 mooncollections,Zongzuixi114514/mooncollections,0.1.0,4073,13,2026-07-05T07:21:37.059055
+stencil,LL124-Arch/stencil,0.1.0,939,2,2026-07-05T13:23:35.299317
+moongraph,wedarp/moongraph,0.1.0,978,1,2026-07-05T13:30:32.108925
+moonmodguard,Noverberrain/moonmodguard,0.1.0,817,2,2026-07-05T13:39:24.813992
+moonproto,Duan-lang-dev/moonproto,0.1.0,2301,2,2026-07-05T13:46:12.799977
+moonorbit,didiLjf/moonorbit,0.1.0,353,2,2026-07-05T13:48:35.345551
+moontemplate,jshsj124/moontemplate,0.1.0,655,6,2026-07-05T13:52:57.643796
+moonpathfinding,hzc-666-ai/moonpathfinding,0.1.0,2340,7,2026-07-05T14:04:09.494560
+moonmark,zmjknn/moonmark,0.1.0,746,4,2026-07-05T14:11:40.420726
