@@ -1,8 +1,12 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 chgttyyr/MoonSpectrum,新增,849,2,0,0,849,2
+cn-cheems/moonnavkit,新增,2477,3,0,0,2477,3
 dxh8888/moonleasekit,新增,2126,3,0,0,2126,3
 q0w1ertyuiop/moonflagkit,新增,652,2,0,0,652,2
 Sxy11112/moonjournalkit,新增,1800,3,0,0,1800,3
+Wyh123456559/moonlexkit,新增,1126,3,0,0,1126,3
+xz-xuezhe/moonblox,新增,4996,17,0,0,4996,17
+xz-xuezhe/moonblox-cli,新增,5039,1,0,0,5039,1
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
 0Ayachi0/math,无变化,0,0,821,3,821,3
