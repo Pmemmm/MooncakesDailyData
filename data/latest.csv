@@ -71,7 +71,7 @@ mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
 moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
-openseek,bobzhang/openseek,0.2.1,45189,63,2026-06-21T05:15:14.676541
+openseek,bobzhang/openseek,0.2.2,73072,80,2026-07-05T14:14:50.537822
 pdflite,bobzhang/pdflite,0.1.40,355980,50,2026-07-05T12:43:37.590159
 pollapp,bobzhang/pollapp,0.3.2,1586,4,2026-04-04T13:29:01.010690
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
@@ -1373,8 +1373,8 @@ crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
 moon_zod,Betterlol/moon_zod,0.7.5,15458,18,2026-07-02T18:34:59.157571
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5,2026-06-07T10:39:13.281259
 ssh_client,PaiGack/ssh_client,0.3.3,10392,9,2026-06-22T13:07:25.539762
-promptx,wangmingfa/promptx,0.1.1,1883,3,2026-06-27T15:40:44.259164
-zipx,wangmingfa/zipx,0.1.2,1373,2,2026-06-27T15:32:52.039318
+promptx,wangmingfa/promptx,0.1.2,1965,3,2026-07-05T14:31:18.451672
+zipx,wangmingfa/zipx,0.1.3,1840,3,2026-07-05T14:29:03.734526
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.0,9720,13,2026-06-29T13:17:14.898545
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
@@ -1407,10 +1407,10 @@ moon_toolkit,OldPigxjk/moon_toolkit,0.1.1,2285,5,2026-07-04T11:37:50.708938
 moondepsolve,python123/moondepsolve,0.3.0,2506,3,2026-07-05T02:55:49.629380
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.1.0,1303,4,2026-07-05T04:58:51.644307
-MoonParse,Ljh684/MoonParse,0.1.1,2881,2,2026-07-05T06:05:43.238314
+MoonParse,Ljh684/MoonParse,0.1.2,2881,2,2026-07-05T15:19:50.464821
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.1,3683,9,2026-07-05T06:25:15.567589
-MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.0,4377,2,2026-07-05T06:33:59.317728
-MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.0,2347,2,2026-07-05T06:43:29.630439
+MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.1,4377,2,2026-07-05T15:12:30.373895
+MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.1,2347,2,2026-07-05T15:14:50.364228
 mooncollections,Zongzuixi114514/mooncollections,0.1.0,4073,13,2026-07-05T07:21:37.059055
 stencil,LL124-Arch/stencil,0.1.0,939,2,2026-07-05T13:23:35.299317
 moongraph,wedarp/moongraph,0.1.0,978,1,2026-07-05T13:30:32.108925
@@ -1418,5 +1418,11 @@ moonmodguard,Noverberrain/moonmodguard,0.1.0,817,2,2026-07-05T13:39:24.813992
 moonproto,Duan-lang-dev/moonproto,0.1.0,2301,2,2026-07-05T13:46:12.799977
 moonorbit,didiLjf/moonorbit,0.1.0,353,2,2026-07-05T13:48:35.345551
 moontemplate,jshsj124/moontemplate,0.1.0,655,6,2026-07-05T13:52:57.643796
-moonpathfinding,hzc-666-ai/moonpathfinding,0.1.0,2340,7,2026-07-05T14:04:09.494560
+moonpathfinding,hzc-666-ai/moonpathfinding,0.1.1,2340,7,2026-07-05T15:07:26.400633
 moonmark,zmjknn/moonmark,0.1.0,746,4,2026-07-05T14:11:40.420726
+moon-fsm,Rz-coder8848/moon-fsm,0.1.0,5914,5,2026-07-05T14:20:54.263204
+cbor,2515050242/cbor,0.1.0,517,2,2026-07-05T14:31:01.655323
+moon_bencode,2515050243qyf/moon_bencode,0.1.0,393,3,2026-07-05T14:50:22.386956
+moontemplate,Project2026-creator/moontemplate,0.2.0,3117,4,2026-07-05T14:53:58.927349
+cron_mbt,cxh04/cron_mbt,0.1.0,581,3,2026-07-05T15:27:48.209295
+moonfeaturegate,wccerty/moonfeaturegate,0.1.0,569,2,2026-07-05T15:38:32.496385

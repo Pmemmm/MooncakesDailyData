@@ -1,5 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+2515050242/cbor,新增,517,2,0,0,517,2
+2515050243qyf/moon_bencode,新增,393,3,0,0,393,3
 CCllff-jpg/MoonLogTrace,新增,2347,2,0,0,2347,2
+cxh04/cron_mbt,新增,581,3,0,0,581,3
 didiLjf/moonorbit,新增,353,2,0,0,353,2
 Duan-lang-dev/moonproto,新增,2301,2,0,0,2301,2
 FrozenLemonTee/LunarUncertainty,新增,1127,3,0,0,1127,3
@@ -12,7 +15,10 @@ llgllg/moontrustflow,新增,807,2,0,0,807,2
 Mitsuha11zz/MoonChartSVG,新增,4377,2,0,0,4377,2
 Noverberrain/moonmodguard,新增,817,2,0,0,817,2
 oilleelssq-wq/moonmarkdown,新增,3683,9,0,0,3683,9
+Project2026-creator/moontemplate,新增,3117,4,0,0,3117,4
 python123/moondepsolve,新增,2506,3,0,0,2506,3
+Rz-coder8848/moon-fsm,新增,5914,5,0,0,5914,5
+wccerty/moonfeaturegate,新增,569,2,0,0,569,2
 wedarp/moongraph,新增,978,1,0,0,978,1
 wzzc-dev/moui_richtext,新增,21908,1,0,0,21908,1
 wzzc-dev/moui_sun,新增,81341,4,0,0,81341,4
@@ -22,6 +28,7 @@ zmjknn/moonmark,新增,746,4,0,0,746,4
 Zongzuixi114514/mooncollections,新增,4073,13,0,0,4073,13
 bobzhang/docx2html,有变化,422,0,22484,10,22906,10
 bobzhang/mbtexcel,有变化,379901,59,137925,11,517826,70
+bobzhang/openseek,有变化,27883,17,45189,63,73072,80
 bobzhang/pdflite,有变化,-228782,0,584762,50,355980,50
 dowdiness/event-graph-walker,有变化,3278,1,23663,12,26941,13
 dowdiness/incr,有变化,146,0,27717,9,27863,9
@@ -30,6 +37,8 @@ Mairzzcllo/moonbit_sqlc_plugin,有变化,270,0,15602,3,15872,3
 megemini/millow,有变化,215,1,7916,5,8131,6
 Nanaloveyuki/BitLogger,有变化,341,0,17974,13,18315,13
 tonyfettes/platform,有变化,4,0,56,1,60,1
+wangmingfa/promptx,有变化,82,0,1883,3,1965,3
+wangmingfa/zipx,有变化,467,1,1373,2,1840,3
 wzzc-dev/moui,有变化,-10614,10,122038,32,111424,42
 wzzc-dev/moui_skia,有变化,186,0,33058,8,33244,8
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
@@ -152,7 +161,6 @@ bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
 bobzhang/moonjq,无变化,0,0,10898,3,10898,3
 bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
 bobzhang/noteapp,无变化,0,0,1582,4,1582,4
-bobzhang/openseek,无变化,0,0,45189,63,45189,63
 bobzhang/pollapp,无变化,0,0,1586,4,1586,4
 bobzhang/portable_cli,无变化,0,0,10365,15,10365,15
 bobzhang/prove,无变化,0,0,3164,84,3164,84
@@ -1311,8 +1319,6 @@ vectie/moonbook,无变化,0,0,15689,12,15689,12
 vectie/moonclaw,无变化,0,0,254457,113,254457,113
 vectie/moonlib,无变化,0,0,3175,11,3175,11
 wangjuwudi/line_sort,无变化,0,0,155,1,155,1
-wangmingfa/promptx,无变化,0,0,1883,3,1883,3
-wangmingfa/zipx,无变化,0,0,1373,2,1373,2
 wangweigang/hello,无变化,0,0,276,3,276,3
 wangziling/hello,无变化,0,0,19,2,19,2
 WenqiChen3019/sqrt,无变化,0,0,44,2,44,2
