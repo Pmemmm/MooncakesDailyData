@@ -1,12 +1,20 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 chgttyyr/MoonSpectrum,新增,849,2,0,0,849,2
 cn-cheems/moonnavkit,新增,2477,3,0,0,2477,3
+cn-wn/moonsignalkit,新增,881,3,0,0,881,3
+cn-xjr/moongeokit,新增,1298,3,0,0,1298,3
+cn-ybm/MoonHashKit,新增,1015,3,0,0,1015,3
+cosettese/moonchartkit,新增,1041,3,0,0,1041,3
 dxh8888/moonleasekit,新增,2126,3,0,0,2126,3
+jaredzhou/moonpg,新增,1127,2,0,0,1127,2
+LL728/moonseal,新增,1059,9,0,0,1059,9
 q0w1ertyuiop/moonflagkit,新增,652,2,0,0,652,2
 Sxy11112/moonjournalkit,新增,1800,3,0,0,1800,3
 Wyh123456559/moonlexkit,新增,1126,3,0,0,1126,3
 xz-xuezhe/moonblox,新增,4996,17,0,0,4996,17
 xz-xuezhe/moonblox-cli,新增,5039,1,0,0,5039,1
+helios-house/valence,有变化,62,0,2357,1,2419,1
+Yoorkin/duplix,有变化,481,0,1913,3,2394,3
 ZSeanYves/markitdown,有变化,33483,31,121891,64,155374,95
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -427,7 +435,6 @@ hbh112233abc/examine,无变化,0,0,76,2,76,2
 HCHogan/btree,无变化,0,0,1129,1,1129,1
 HeChTo/rope,无变化,0,0,127,1,127,1
 helios-house/aho-corasick,无变化,0,0,780,1,780,1
-helios-house/valence,无变化,0,0,2357,1,2357,1
 hevienz/moonbit_libbpf,无变化,0,0,568,2,568,2
 Hhsqoo/moon-collections,无变化,0,0,1303,4,1303,4
 himeno/reactive,无变化,0,0,569,1,569,1
@@ -1371,7 +1378,6 @@ yj-qin/regexp,无变化,0,0,4348,1,4348,1
 Yoorkin/any,无变化,0,0,1155,1,1155,1
 Yoorkin/ArgParser,无变化,0,0,213,1,213,1
 Yoorkin/cowsay,无变化,0,0,195,1,195,1
-Yoorkin/duplix,无变化,0,0,1913,3,1913,3
 Yoorkin/format,无变化,0,0,62,1,62,1
 Yoorkin/fuzzy_search,无变化,0,0,249,1,249,1
 Yoorkin/hashtbl,无变化,0,0,59,2,59,2

@@ -215,7 +215,7 @@ tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
-duplix,Yoorkin/duplix,0.1.0,1913,3,2026-07-05T14:02:30.900986
+duplix,Yoorkin/duplix,0.2.2,2394,3,2026-07-06T03:31:15.687469
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
@@ -1186,6 +1186,7 @@ oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
+moonpg,jaredzhou/moonpg,0.1.0,1127,2,2026-07-06T03:18:07.513002
 pony,jaredzhou/pony,0.1.1,2761,3,2026-06-21T03:05:54.897810
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
@@ -1379,7 +1380,7 @@ yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.0,9720,13,2026-06-29T13:17:14.898545
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
-valence,helios-house/valence,0.2.0,2357,1,2026-06-30T09:21:35.603856
+valence,helios-house/valence,0.2.1,2419,1,2026-07-06T00:46:12.719692
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.3,11574,20,2026-06-10T14:53:07.409716
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 indexmap,aurasuisui/indexmap,0.2.1,5200,1,2026-07-05T06:38:21.352044
@@ -1429,8 +1430,13 @@ moonfeaturegate,wccerty/moonfeaturegate,0.1.0,569,2,2026-07-05T15:38:32.496385
 MoonSpectrum,chgttyyr/MoonSpectrum,0.1.0,849,2,2026-07-05T15:49:59.086880
 moonflagkit,q0w1ertyuiop/moonflagkit,0.1.0,652,2,2026-07-05T16:23:03.563898
 moonleasekit,dxh8888/moonleasekit,0.1.0,2126,3,2026-07-05T16:12:22.386004
+moonseal,LL728/moonseal,0.1.0,1059,9,2026-07-06T01:41:32.445806
 moonjournalkit,Sxy11112/moonjournalkit,0.1.0,1800,3,2026-07-05T17:26:55.513927
 moonblox,xz-xuezhe/moonblox,0.1.0,4996,17,2026-07-05T17:50:50.560756
 moonblox-cli,xz-xuezhe/moonblox-cli,0.1.0,5039,1,2026-07-05T17:55:45.986272
 moonlexkit,Wyh123456559/moonlexkit,0.1.1,1126,3,2026-07-05T18:48:32.164935
 moonnavkit,cn-cheems/moonnavkit,0.3.0,2477,3,2026-07-05T19:09:35.252704
+moonsignalkit,cn-wn/moonsignalkit,0.2.0,881,3,2026-07-06T00:50:44.056816
+moongeokit,cn-xjr/moongeokit,0.2.0,1298,3,2026-07-06T01:15:10.604678
+MoonHashKit,cn-ybm/MoonHashKit,0.2.0,1015,3,2026-07-06T01:41:42.499426
+moonchartkit,cosettese/moonchartkit,0.2.0,1041,3,2026-07-06T02:10:13.400361
