@@ -215,7 +215,7 @@ tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
-duplix,Yoorkin/duplix,0.2.2,2394,3,2026-07-06T03:31:15.687469
+duplix,Yoorkin/duplix,0.2.3,2563,3,2026-07-06T08:54:28.041302
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
@@ -228,6 +228,7 @@ prettyprinter,Yoorkin/prettyprinter,0.4.10,1655,2,2026-01-29T06:18:15.611476
 proxy,Yoorkin/proxy,0.1.0,149,1,2026-05-25T10:56:45.561590
 rabbit-tea,Yoorkin/rabbit-tea,0.10.11,21568,18,2025-11-21T10:10:22.970376
 shiki,Yoorkin/shiki,0.1.1,174,1,2026-03-05T08:00:24.547849
+slotmap,Yoorkin/slotmap,0.2.2,146,1,2026-07-06T07:42:31.883295
 splice,Yoorkin/splice,0.1.2,246,1,2025-10-11T05:48:49.509794
 stack,Yoorkin/stack,0.1.4,75,1,2024-09-04T03:19:26.586011
 trace,Yoorkin/trace,0.1.0,26,1,2025-10-09T04:08:22.371774
@@ -278,6 +279,7 @@ test_publish,Young-Flash/test_publish,0.2.0,25,2,2024-08-23T10:31:08.636269
 try_publish,Young-Flash/try_publish,0.1.6,25,2,2025-03-05T08:40:07.339267
 alg-pattern,CAIMEOX/alg-pattern,0.1.0,465,1,2025-05-25T08:43:02.759509
 box,CAIMEOX/box,0.1.3,983,1,2026-05-06T08:06:17.668302
+cairoon,CAIMEOX/cairoon,0.1.0,26643,27,2026-07-06T08:18:58.844443
 color,CAIMEOX/color,0.1.0,1086,1,2025-09-30T06:53:42.018166
 csmith_wrapper,CAIMEOX/csmith_wrapper,0.1.0,1569,2,2026-07-03T08:57:29.082764
 diet,CAIMEOX/diet,0.1.3,1117,1,2025-10-31T09:39:08.082625
@@ -1044,6 +1046,7 @@ signal,CGaaaaaa/signal,0.1.2,1249,1,2025-08-06T15:57:02.583329
 biginteger,amor2025/biginteger,0.2.0,4486,2,2026-06-26T16:11:52.940183
 convert,amor2025/convert,0.3.2,1342,2,2025-07-17T04:30:04.991617
 fraction,amor2025/fraction,0.2.1,5876,4,2026-06-23T00:19:04.444123
+moonNum,amor2025/moonNum,0.1.0,133948,18,2026-07-06T08:26:22.484536
 pad,amor2025/pad,0.1.3,191,1,2025-07-07T06:56:54.304287
 sudoku,trash33/sudoku,0.1.0,427,2,2025-07-07T02:47:41.090295
 net,fangyinc/net,0.1.1-rc1,1900,7,2025-07-16T00:53:39.645541
@@ -1356,7 +1359,7 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.5.3,59837,16,2026-06-20T01:08:45.923033
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.5,37421,16,2026-07-05T03:54:28.969587
+MoonFrame,ihb2032/MoonFrame,0.5.6,37704,16,2026-07-06T09:10:18.766805
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
@@ -1408,7 +1411,7 @@ moon_toolkit,OldPigxjk/moon_toolkit,0.1.1,2285,5,2026-07-04T11:37:50.708938
 moondepsolve,python123/moondepsolve,0.3.0,2506,3,2026-07-05T02:55:49.629380
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.1.0,1303,4,2026-07-05T04:58:51.644307
-MoonParse,Ljh684/MoonParse,0.1.2,2881,2,2026-07-05T15:19:50.464821
+MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.1,3683,9,2026-07-05T06:25:15.567589
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.1,4377,2,2026-07-05T15:12:30.373895
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.1,2347,2,2026-07-05T15:14:50.364228
@@ -1440,3 +1443,7 @@ moonsignalkit,cn-wn/moonsignalkit,0.2.0,881,3,2026-07-06T00:50:44.056816
 moongeokit,cn-xjr/moongeokit,0.2.0,1298,3,2026-07-06T01:15:10.604678
 MoonHashKit,cn-ybm/MoonHashKit,0.2.0,1015,3,2026-07-06T01:41:42.499426
 moonchartkit,cosettese/moonchartkit,0.2.0,1041,3,2026-07-06T02:10:13.400361
+moonquotakit,vivid-oi/moonquotakit,0.2.0,1410,3,2026-07-06T06:34:46.522991
+moonshardkit,Dz-6666/moonshardkit,0.2.0,2215,3,2026-07-06T09:00:03.952793
+moonreplaykit,LAOBIAO656/moonreplaykit,0.2.0,2253,3,2026-07-06T10:22:15.269155
+moontxnkit,black-duck666/moontxnkit,0.3.0,1812,3,2026-07-06T10:35:15.724615
