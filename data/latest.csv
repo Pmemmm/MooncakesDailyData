@@ -215,7 +215,7 @@ tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
-duplix,Yoorkin/duplix,0.2.5,2766,3,2026-07-07T02:30:26.865714
+duplix,Yoorkin/duplix,0.2.6,2904,3,2026-07-07T05:42:08.485504
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
@@ -1107,7 +1107,7 @@ LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
 LunarFormulas,FrozenLemonTee/LunarFormulas,0.3.1,2562,7,2026-07-02T00:35:28.837298
 LunarTUI,FrozenLemonTee/LunarTUI,0.1.0,3717,6,2026-06-03T04:01:50.551935
 LunarUncertainty,FrozenLemonTee/LunarUncertainty,0.1.1,1127,3,2026-07-05T11:29:33.174539
-LunarUnits,FrozenLemonTee/LunarUnits,0.1.7,9166,43,2026-07-04T06:10:37.128627
+LunarUnits,FrozenLemonTee/LunarUnits,0.1.8,9166,43,2026-07-07T05:27:13.208055
 TerminalEvent,FrozenLemonTee/TerminalEvent,0.1.0,340,2,2026-06-03T02:58:34.182585
 TextEditor,FrozenLemonTee/TextEditor,0.1.1,666,2,2026-06-03T04:08:29.040161
 units-converter,FrozenLemonTee/units-converter,0.1.0,422,2,2026-06-26T09:07:30.359224
@@ -1151,7 +1151,7 @@ meta-skill,moonbit-community/meta-skill,0.1.0,1366,1,2026-06-11T07:34:31.433430
 miniio,moonbit-community/miniio,0.2.1,3557,10,2026-06-12T08:04:05.077301
 moon_cpal,moonbit-community/moon_cpal,0.11.6,19042,19,2026-06-08T07:29:12.449808
 moon_dagre,moonbit-community/moon_dagre,0.2.5,11600,2,2026-06-08T07:29:58.332252
-moongrep,moonbit-community/moongrep,0.1.11,22701,15,2026-07-02T02:25:47.578547
+moongrep,moonbit-community/moongrep,0.1.12,23084,15,2026-07-07T05:33:23.605068
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
 opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
@@ -1366,8 +1366,8 @@ mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
 tqdmoon,GeneWang1226/tqdmoon,0.1.1,541,2,2026-06-01T14:03:12.860444
-moonpost,MaoDingA/moonpost,0.2.0,16080,11,2026-06-28T07:31:19.701126
-aitne,Arcelyth/aitne,0.4.5,9719,6,2026-07-02T07:58:54.547093
+moonpost,MaoDingA/moonpost,0.2.1,16868,12,2026-07-07T07:00:16.222092
+aitne,Arcelyth/aitne,0.4.8,11572,6,2026-07-07T05:01:26.533082
 html_escape,Arcelyth/html_escape,0.3.3,3021,2,2026-06-19T14:56:11.575520
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
@@ -1389,7 +1389,7 @@ valence,helios-house/valence,0.2.1,2419,1,2026-07-06T00:46:12.719692
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.4,148996,66,2026-07-06T16:36:25.275626
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 indexmap,aurasuisui/indexmap,0.2.1,5200,1,2026-07-05T06:38:21.352044
-mooncharts,Xpeng/mooncharts,0.6.0,3047,3,2026-07-04T05:36:28.534115
+mooncharts,Xpeng/mooncharts,0.7.0,3757,3,2026-07-07T05:17:19.190170
 MoonECAT,mokomoking2501/MoonECAT,0.1.0,78464,15,2026-06-23T03:31:11.827684
 MoonEvidence,starlittle/MoonEvidence,0.3.0,5955,9,2026-06-18T11:47:41.503586
 agent-telemetry,cybershang/agent-telemetry,0.1.6,2371,1,2026-07-02T12:55:23.679059
@@ -1404,7 +1404,7 @@ image,shunge/image,0.1.1,55176,1,2026-07-02T10:57:01.001268
 mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
 moonflowgraph,AlexenderSokolov/moonflowgraph,0.1.0,1198,2,2026-06-28T04:02:08.130947
-moonchart,JunJunTnT/moonchart,0.1.0,3183,8,2026-06-29T06:36:55.121711
+moonchart,JunJunTnT/moonchart,0.1.1,3711,8,2026-07-07T05:11:03.159913
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
 millow,megemini/millow,0.3.0,8131,6,2026-07-05T02:01:59.924533
@@ -1461,3 +1461,7 @@ moon-jsonpath,ppyj663/moon-jsonpath,0.1.0,489,2,2026-07-06T16:09:28.153200
 moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonforge,Lyhdsba/moonforge,0.1.0,1352,2,2026-07-07T02:08:52.376378
 dotenv,spectacleCase/dotenv,0.1.0,2004,2,2026-07-07T03:12:36.699614
+aegisrun,tuya-me/aegisrun,0.6.0,3988,4,2026-07-07T06:24:52.936522
+flowgate,tuya-me/flowgate,0.1.0,307,2,2026-07-07T07:34:07.794564
+fuse,tuya-me/fuse,0.1.0,324,2,2026-07-07T07:34:10.204699
+moonllm,DC-Z-lab/moonllm,0.1.0,6489,7,2026-07-07T07:05:30.067705
