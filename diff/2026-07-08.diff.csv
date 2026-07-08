@@ -7,13 +7,14 @@ Han-Wentao/moonbench,新增,5493,3,0,0,5493,3
 howtomakeaname/tokenizers-moonbit,新增,32472,11,0,0,32472,11
 hua1104/moonpress,新增,1506,2,0,0,1506,2
 I3eg1nner/petgraph,新增,6583,7,0,0,6583,7
-Kai-Junhan/moon-ray,新增,3563,2,0,0,3563,2
+Kai-Junhan/moon-ray,新增,4025,2,0,0,4025,2
 liushiman1222/AgriDroneSwarm,新增,8216,1,0,0,8216,1
 ttxiangshang/moonbit-pixelkit,新增,835,6,0,0,835,6
 XiaoChenxu/msdoc-viewer,新增,14830,2,0,0,14830,2
 liuhuo23/clickhouse-driver,有变化,1083,0,1346,2,2429,2
 morning-start/mbtgraph,有变化,478,0,36173,25,36651,25
 python123/moondepsolve,有变化,-2,0,2506,3,2504,3
+RunnerQuan/moonlimit,有变化,347,0,5285,2,5632,2
 starlittle/MoonEvidence,有变化,8103,4,5955,9,14058,13
 Suquster/moonbit-pathfinding,有变化,6341,7,148996,66,155337,73
 Xpeng/mooncharts,有变化,1261,0,3757,3,5018,3
@@ -1113,7 +1114,6 @@ Ronlands/ttf_parser_moonbit,无变化,0,0,1918,8,1918,8
 ruifeng/diff,无变化,0,0,2203,2,2203,2
 ruifeng/moondsa,无变化,0,0,5202,1,5202,1
 ruifeng/XMLParser,无变化,0,0,4093,2,4093,2
-RunnerQuan/moonlimit,无变化,0,0,5285,2,5285,2
 Rutubet/moon_rsa,无变化,0,0,708,2,708,2
 ryota0624/circuit_breaker,无变化,0,0,995,2,995,2
 ryota0624/googleapis,无变化,0,0,20260,19,20260,19

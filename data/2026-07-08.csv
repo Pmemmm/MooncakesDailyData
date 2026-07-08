@@ -1413,7 +1413,7 @@ jsonpath,caassien/jsonpath,0.1.0,436,3,2026-06-30T14:44:42.575148
 moonbio,caassien/moonbio,0.1.0,525,6,2026-06-21T15:30:20.817966
 abyssal_chord,sssssurf/abyssal_chord,0.1.0,5503,2,2026-06-22T07:55:06.537295
 moonbit_promptkit,co63oc/moonbit_promptkit,0.1.2,11297,70,2026-06-25T22:16:46.436736
-moonlimit,RunnerQuan/moonlimit,0.1.0,5285,2,2026-06-25T10:26:42.239340
+moonlimit,RunnerQuan/moonlimit,0.1.1,5632,2,2026-07-08T04:49:44.774601
 moonjsonpath,Freesia666/moonjsonpath,0.1.0,7747,2,2026-06-25T10:32:57.897700
 image,shunge/image,0.1.1,55176,1,2026-07-02T10:57:01.001268
 mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
@@ -1484,7 +1484,7 @@ msdoc-viewer,XiaoChenxu/msdoc-viewer,0.1.1,14830,2,2026-07-08T02:29:33.512314
 petgraph,I3eg1nner/petgraph,0.1.0,6583,7,2026-07-07T16:12:37.498202
 moonbench,Han-Wentao/moonbench,0.2.0,5493,3,2026-07-07T17:29:54.175700
 moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.1.0,835,6,2026-07-07T16:44:45.203387
-moon-ray,Kai-Junhan/moon-ray,0.2.2,3563,2,2026-07-08T03:35:44.123781
+moon-ray,Kai-Junhan/moon-ray,0.2.3,4025,2,2026-07-08T03:54:15.060262
 moon-sketch-kit,cauchyQ/moon-sketch-kit,0.1.0,4447,5,2026-07-08T01:45:31.622371
 moon-mustache,bellesz0611/moon-mustache,0.1.0,7206,10,2026-07-08T02:19:17.806170
 moon_proto,123123213weqw/moon_proto,0.1.0,8565,2,2026-07-08T02:31:08.370613
