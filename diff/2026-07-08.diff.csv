@@ -1,8 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 123123213weqw/moon_proto,新增,8565,2,0,0,8565,2
 bellesz0611/moon-mustache,新增,7206,10,0,0,7206,10
+CAIMEOX/Motiva,新增,4865,5,0,0,4865,5
 cauchyQ/moon-sketch-kit,新增,4447,5,0,0,4447,5
+colmugx/ofd,新增,2614,5,0,0,2614,5
 cybershang/agent-o11y-demo,新增,2527,2,0,0,2527,2
+eisem/moon_graphql,新增,4626,8,0,0,4626,8
 Han-Wentao/moonbench,新增,5493,3,0,0,5493,3
 howtomakeaname/tokenizers-moonbit,新增,32472,11,0,0,32472,11
 hua1104/moonpress,新增,1506,2,0,0,1506,2
@@ -10,6 +13,7 @@ I3eg1nner/petgraph,新增,6583,7,0,0,6583,7
 Kai-Junhan/moon-ray,新增,4025,2,0,0,4025,2
 liushiman1222/AgriDroneSwarm,新增,8216,1,0,0,8216,1
 ttxiangshang/moonbit-pixelkit,新增,835,6,0,0,835,6
+wzx2007/moonpath,新增,4025,3,0,0,4025,3
 XiaoChenxu/msdoc-viewer,新增,14830,2,0,0,14830,2
 GeneWang1226/tqdmoon,有变化,537,0,541,2,1078,2
 Kaida-Amethyst/math,有变化,11,0,15064,1,15075,1
@@ -19,7 +23,7 @@ Milky2018/machv_emit,有变化,-434,0,24803,2,24369,2
 Milky2018/machv_regalloc,有变化,11,0,12705,2,12716,2
 Milky2018/milkir_machv,有变化,37,0,9938,3,9975,3
 Milky2018/wasm_isa_lower,有变化,206,0,3172,1,3378,1
-morning-start/mbtgraph,有变化,478,0,36173,25,36651,25
+morning-start/mbtgraph,有变化,474,0,36173,25,36647,25
 python123/moondepsolve,有变化,-2,0,2506,3,2504,3
 rinnein/moonata,有变化,1860,0,13209,9,15069,9
 RunnerQuan/moonlimit,有变化,347,0,5285,2,5632,2
