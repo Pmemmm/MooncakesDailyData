@@ -849,8 +849,8 @@ arithmetic,Luna-Flow/arithmetic,0.2.2,1371,1,2026-07-07T10:44:16.000808
 autodiff,Luna-Flow/autodiff,0.2.0,1085,10,2026-06-15T16:19:27.487311
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5,2025-10-29T01:30:10.903300
 floating,Luna-Flow/floating,0.3.0,4454,10,2026-06-12T14:42:29.171867
-geometry3d,Luna-Flow/geometry3d,0.5.0,5660,9,2026-06-14T14:42:06.086025
-linear-algebra,Luna-Flow/linear-algebra,0.4.1,27320,11,2026-07-07T13:53:40.217557
+geometry3d,Luna-Flow/geometry3d,0.5.1,5660,9,2026-07-09T02:45:40.206001
+linear-algebra,Luna-Flow/linear-algebra,0.4.2,32731,15,2026-07-09T02:31:00.370168
 luna-complex,Luna-Flow/luna-complex,0.2.0,1272,2,2026-06-06T14:47:25.010183
 luna-generic,Luna-Flow/luna-generic,0.3.3,767,1,2026-06-12T08:09:26.566883
 luna-poly,Luna-Flow/luna-poly,0.2.0,4978,13,2026-06-15T14:18:26.911191
@@ -1013,7 +1013,8 @@ svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1,2026-04-21T10:59:39.607352
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2,2026-04-10T13:17:50.317286
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
-ofd,colmugx/ofd,0.1.0,2614,5,2026-07-08T13:47:58.536271
+ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
+ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
 posoco,colmugx/posoco,0.4.1,3495,1,2026-06-30T06:23:27.962374
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
@@ -1132,8 +1133,9 @@ license_checker,xingwangzhe/license_checker,0.2.4,840,1,2026-02-10T11:56:58.1865
 style_print,xingwangzhe/style_print,0.1.7,651,1,2025-10-08T07:24:11.249098
 dom_api,fgeygfe/dom_api,0.1.0,354,1,2025-09-18T08:06:42.307287
 ssmp,nodex/ssmp,0.1.1,109,1,2025-09-20T03:54:41.345643
-mopress,himeno/mopress,0.1.0,6864,9,2026-07-06T16:19:27.077722
+mopress,himeno/mopress,0.2.0,6858,9,2026-07-09T03:10:16.464579
 reactive,himeno/reactive,0.1.2,569,1,2026-01-02T07:00:03.858809
+test,himeno/test,0.1.0,36,1,2026-07-09T03:03:50.322799
 moonbit_zstd,Ronlands/moonbit_zstd,0.1.2,13701,10,2026-03-04T11:57:03.118872
 ttf_parser_moonbit,Ronlands/ttf_parser_moonbit,0.1.1,1918,8,2025-10-27T13:52:01.643099
 qt,KeqingMoe/qt,0.5.2,16574,3,2026-04-18T21:35:58.353101
@@ -1478,7 +1480,7 @@ moon-jsonpath,ppyj663/moon-jsonpath,0.1.0,489,2,2026-07-06T16:09:28.153200
 moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonforge,Lyhdsba/moonforge,0.1.0,1352,2,2026-07-07T02:08:52.376378
 dotenv,spectacleCase/dotenv,0.1.0,2004,2,2026-07-07T03:12:36.699614
-aegisrun,tuya-me/aegisrun,0.9.0,4428,6,2026-07-08T17:07:32.608357
+aegisrun,tuya-me/aegisrun,0.9.1,4428,6,2026-07-09T01:15:44.955088
 flowgate,tuya-me/flowgate,0.1.0,307,2,2026-07-07T07:34:07.794564
 fuse,tuya-me/fuse,0.1.0,324,2,2026-07-07T07:34:10.204699
 moonllm,DC-Z-lab/moonllm,0.1.0,6489,7,2026-07-07T07:05:30.067705
@@ -1496,3 +1498,5 @@ moonpath,wzx2007/moonpath,0.31.0,4025,3,2026-07-08T10:33:14.931108
 moon_graphql,eisem/moon_graphql,0.1.0,4626,8,2026-07-08T13:38:51.343513
 moon_mutest,Magic486/moon_mutest,0.1.3,5050,7,2026-07-08T16:24:42.903420
 moonpack,001-Elsa/moonpack,0.1.1,5102,6,2026-07-08T17:31:05.549942
+moon-diff,yuzhiblue/moon-diff,0.1.1,3464,3,2026-07-08T23:49:30.392794
+moon_collections,wqbcs/moon_collections,0.2.2,9066,15,2026-07-09T02:56:31.706998
