@@ -10,7 +10,7 @@ yuzhiblue/moon-diff,新增,4904,3,0,0,4904,3
 co63oc/moonbit_promptkit,有变化,1981,1,11297,70,13278,71
 colmugx/ofd,有变化,-94,-1,2614,5,2520,4
 himeno/mopress,有变化,-6,0,6864,9,6858,9
-Luna-Flow/linear-algebra,有变化,5197,4,27320,11,32517,15
+Luna-Flow/linear-algebra,有变化,8452,4,27320,11,35772,15
 Milky2018/aarch64_target,有变化,-1900,0,2561,1,661,1
 Milky2018/machv,有变化,-801,0,5006,9,4205,9
 Milky2018/machv_emit,有变化,-30,0,24369,2,24339,2
@@ -26,6 +26,7 @@ Milky2018/wasmoon_jit,有变化,-12,0,16787,4,16775,4
 Milky2018/x64_target,有变化,-2322,0,2903,1,581,1
 moonbit-community/moongrep,有变化,4308,0,23084,15,27392,15
 oboard/mocket,有变化,82,0,7246,15,7328,15
+shiguri-01/todotxt,有变化,10,0,411,1,421,1
 starlittle/MoonEvidence,有变化,13,0,14058,13,14071,13
 tuya-me/aegisrun,有变化,199,2,4229,4,4428,6
 xz-xuezhe/moonblox,有变化,-560,-11,4996,17,4436,6
@@ -1172,7 +1173,6 @@ ShellWen/sw_socket,无变化,0,0,983,6,983,6
 shiguri-01/jsonrpc,无变化,0,0,1803,3,1803,3
 shiguri-01/markdown,无变化,0,0,16622,3,16622,3
 shiguri-01/mcp,无变化,0,0,6172,8,6172,8
-shiguri-01/todotxt,无变化,0,0,411,1,411,1
 shiguri-01/webview,无变化,0,0,557,1,557,1
 shiheat/find_max,无变化,0,0,25,1,25,1
 shina1024/jqx,无变化,0,0,21263,11,21263,11
