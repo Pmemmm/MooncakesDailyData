@@ -258,12 +258,12 @@ formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
 json_deriving_codegen,moonbitlang/json_deriving_codegen,0.0.2,1188,1,2025-11-06T05:47:35.118641
 lex,moonbitlang/lex,0.3.9,8652,20,2026-01-07T04:18:00.616560
-lexer,moonbitlang/lexer,0.3.8,4275,3,2026-07-07T09:23:08.968348
+lexer,moonbitlang/lexer,0.3.9,4472,3,2026-07-10T05:40:11.183931
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2,2025-03-07T13:16:36.623930
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1,2025-03-31T03:07:33.428508
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2,2025-04-25T02:20:11.677497
-moon_config,moonbitlang/moon_config,0.3.7,3020,1,2026-07-07T09:24:18.867561
-parser,moonbitlang/parser,0.3.8,107761,20,2026-07-07T09:25:29.621892
+moon_config,moonbitlang/moon_config,0.3.8,3020,1,2026-07-10T05:41:14.276687
+parser,moonbitlang/parser,0.3.9,107949,20,2026-07-10T05:42:19.971861
 protobuf,moonbitlang/protobuf,0.1.2,4680,2,2026-06-03T03:39:41.944681
 quickcheck,moonbitlang/quickcheck,0.14.0,13278,16,2026-05-23T08:03:48.705739
 regexp,moonbitlang/regexp,0.3.5,12052,5,2026-01-30T06:57:50.050285
@@ -372,7 +372,7 @@ actrun,mizchi/actrun,0.30.1,66353,10,2026-05-26T12:26:26.303224
 admiral,mizchi/admiral,0.1.0,1477,2,2026-04-06T12:50:05.411384
 anim3d,mizchi/anim3d,0.2.0,1958,3,2026-06-03T13:10:44.962730
 ast_printer,mizchi/ast_printer,0.2.4,2462,1,2026-04-27T12:19:52.628411
-astra,mizchi/astra,0.23.1,31644,45,2026-07-07T13:03:17.316140
+astra,mizchi/astra,0.23.2,31644,45,2026-07-10T07:11:10.741738
 atlas,mizchi/atlas,0.2.0,3945,1,2026-06-03T13:10:37.396912
 audio,mizchi/audio,0.1.1,5420,1,2026-04-25T13:27:43.280884
 bit,mizchi/bit,0.42.1,256608,51,2026-04-10T14:48:34.507940
@@ -446,8 +446,8 @@ libgit2,mizchi/libgit2,0.1.0,2525,4,2025-12-06T18:54:00.434408
 libjit,mizchi/libjit,0.1.1,9787,3,2026-02-10T16:17:49.233653
 llm,mizchi/llm,0.3.1,7671,8,2026-04-22T16:00:44.178721
 lsp,mizchi/lsp,0.1.2,28260,7,2026-02-11T04:41:46.231320
-luna,mizchi/luna,0.23.1,45323,44,2026-07-07T13:03:05.443855
-luna_components,mizchi/luna_components,0.23.1,17485,18,2026-07-07T13:03:11.636017
+luna,mizchi/luna,0.23.2,45530,44,2026-07-10T07:10:57.647298
+luna_components,mizchi/luna_components,0.23.2,17700,18,2026-07-10T07:11:03.768930
 markdown,mizchi/markdown,0.6.2,26330,25,2026-05-22T11:06:03.841892
 mars,mizchi/mars,0.3.11,15562,12,2026-06-29T17:59:52.458832
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1,2026-03-26T12:37:24.590225
@@ -483,9 +483,9 @@ semver,mizchi/semver,0.1.1,1661,4,2026-02-11T04:51:27.627910
 signals,mizchi/signals,0.6.4,4954,2,2026-03-21T13:54:50.630158
 simd,mizchi/simd,0.5.0,19115,9,2026-06-25T12:34:58.123032
 similarity,mizchi/similarity,0.2.1,2664,5,2026-02-19T05:26:57.983884
-sol,mizchi/sol,0.23.1,46173,40,2026-07-07T13:03:25.098032
-sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.23.1,808,1,2026-07-07T13:03:31.439123
-sol_adapter_node,mizchi/sol_adapter_node,0.23.1,224,1,2026-07-07T13:03:35.543772
+sol,mizchi/sol,0.23.2,46328,40,2026-07-10T07:11:18.575212
+sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.23.2,808,1,2026-07-10T07:11:24.775007
+sol_adapter_node,mizchi/sol_adapter_node,0.23.2,224,1,2026-07-10T07:11:29.569118
 sqlc_gen_moonbit,mizchi/sqlc_gen_moonbit,0.1.2,24482,30,2026-04-25T13:38:23.546331
 sqlite,mizchi/sqlite,0.3.1,2255,1,2026-04-24T09:19:11.385977
 starlint,mizchi/starlint,0.10.1,18204,7,2026-04-04T14:08:23.389996
@@ -1153,10 +1153,11 @@ debug,moonbit-community/debug,0.1.3,5992,5,2026-01-08T08:37:04.348482
 debug_deriving,moonbit-community/debug_deriving,0.1.1,637,1,2025-12-24T06:42:44.387662
 displaytext,moonbit-community/displaytext,0.1.5,935,1,2026-06-07T10:09:41.301723
 dom_sanitizer,moonbit-community/dom_sanitizer,0.1.0,2546,1,2026-03-30T10:43:02.574103
+editor,moonbit-community/editor,0.1.0,83501,67,2026-07-10T05:34:30.622389
 elf,moonbit-community/elf,0.0.1,9902,1,2026-05-15T09:45:51.950306
 embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
-flate,moonbit-community/flate,0.2.0,5350,4,2026-06-11T13:39:39.780886
+flate,moonbit-community/flate,0.3.0,8852,4,2026-07-10T06:19:03.594448
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1,2026-02-04T02:36:34.906484
 graphviz,moonbit-community/graphviz,0.1.0,129412,85,2026-04-15T10:10:43.845684
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21,2026-03-24T10:22:02.340733
@@ -1173,7 +1174,7 @@ moongrep,moonbit-community/moongrep,0.1.13,27392,15,2026-07-09T07:00:58.423216
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
 opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
-piediff,moonbit-community/piediff,0.0.10,2689,1,2026-06-05T03:08:25.089298
+piediff,moonbit-community/piediff,0.1.1,2718,1,2026-07-10T07:16:01.615080
 postgres,moonbit-community/postgres,0.0.6,25234,16,2026-04-28T13:08:31.644171
 prettyprinter,moonbit-community/prettyprinter,0.4.10,1732,1,2026-05-12T10:27:04.999906
 pty,moonbit-community/pty,0.2.2,735,1,2026-06-22T13:09:04.042613
@@ -1380,7 +1381,7 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.6.0,60885,16,2026-07-06T13:33:14.960470
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.7,37709,16,2026-07-07T14:03:47.353146
+MoonFrame,ihb2032/MoonFrame,0.5.8,37836,16,2026-07-10T07:31:41.023882
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
@@ -1393,7 +1394,7 @@ cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
 decimal,DzmingLi/decimal,0.2.2,6083,1,2026-06-04T10:14:18.253216
 rapidhash,DzmingLi/rapidhash,0.1.4,427,1,2026-06-30T14:18:59.287949
-depsight,Tino-hue/depsight,0.5.2,11462,9,2026-07-01T11:06:45.642401
+depsight,Tino-hue/depsight,0.5.3,11643,9,2026-07-10T05:00:07.740318
 base64,kujirahand/base64,0.1.1,239,2,2026-06-03T07:33:26.035245
 crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
 moon_zod,Betterlol/moon_zod,0.7.5,15458,18,2026-07-02T18:34:59.157571
@@ -1407,6 +1408,7 @@ moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
 valence,helios-house/valence,0.2.1,2419,1,2026-07-06T00:46:12.719692
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.5,155337,73,2026-07-07T15:59:29.506924
+mb-secure-stream,ChenJiasen-123/mb-secure-stream,0.1.0,7651,10,2026-07-10T07:58:23.906174
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 indexmap,aurasuisui/indexmap,0.2.1,5200,1,2026-07-05T06:38:21.352044
 mooncharts,Xpeng/mooncharts,0.8.0,5018,3,2026-07-07T15:27:23.230092
@@ -1436,7 +1438,7 @@ moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.1.0,1303,4,2026-07-05T04:58:51.644307
 MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.2,4312,9,2026-07-07T14:34:45.728347
-MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.1,4377,2,2026-07-05T15:12:30.373895
+MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.2,5332,2,2026-07-10T07:02:06.195628
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.1,2347,2,2026-07-05T15:14:50.364228
 mooncollections,Zongzuixi114514/mooncollections,0.1.0,4073,13,2026-07-05T07:21:37.059055
 stencil,LL124-Arch/stencil,0.1.0,939,2,2026-07-05T13:23:35.299317
@@ -1503,4 +1505,6 @@ moon_mutest,Magic486/moon_mutest,0.1.3,5050,7,2026-07-08T16:24:42.903420
 moonpack,001-Elsa/moonpack,0.1.1,5102,6,2026-07-08T17:31:05.549942
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
-raft-moonbit,Lfan-ke/raft-moonbit,0.1.0,10279,2,2026-07-10T04:23:38.948613
+raft-moonbit,Lfan-ke/raft-moonbit,0.3.0,17596,2,2026-07-10T06:59:48.770123
+template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
+moonbit-csv,sikadi123/moonbit-csv,0.1.0,756,5,2026-07-10T05:29:05.807304
