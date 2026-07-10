@@ -1151,7 +1151,7 @@ strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2,2025-09-29T
 moonxi-net,chnlkw/moonxi-net,0.1.1,5996,13,2026-05-17T10:47:43.203408
 moonxi-net-gpu,chnlkw/moonxi-net-gpu,0.1.1,5545,9,2026-05-17T10:48:06.840527
 moon_rsa,Rutubet/moon_rsa,0.2.0,708,2,2025-12-01T16:39:49.827266
-moonata,rinnein/moonata,0.7.0,16462,9,2026-07-10T14:35:07.749319
+moonata,rinnein/moonata,0.9.0,16751,9,2026-07-10T18:47:07.235914
 mb-chacha,Tigls/mb-chacha,0.1.0,528,1,2026-04-10T12:31:31.677840
 mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1,2026-04-07T18:35:29.350340
 mb-hash,Tigls/mb-hash,0.1.0,898,1,2026-04-08T06:21:17.350795
@@ -1551,3 +1551,4 @@ raft-moonbit,Lfan-ke/raft-moonbit,0.3.0,17596,2,2026-07-10T06:59:48.770123
 template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
 moonbit-csv,sikadi123/moonbit-csv,0.1.1,1954,8,2026-07-10T08:10:34.079533
 moonphaserkit,Ridge-Lab/moonphaserkit,0.3.0,5596,3,2026-07-10T13:51:25.000617
+moon-pathplanning,NoEmotionYY/moon-pathplanning,0.1.0,8131,16,2026-07-10T18:07:13.634765
