@@ -294,7 +294,7 @@ list,CAIMEOX/list,0.1.0,740,2,2024-01-23T12:41:53.819691
 midi,CAIMEOX/midi,0.1.0,4090,2,2025-09-30T07:01:04.551615
 moon_egg,CAIMEOX/moon_egg,0.1.0,4168,1,2026-01-27T10:10:30.804968
 moon_floating,CAIMEOX/moon_floating,0.3.0,24829,8,2026-02-26T08:36:11.539785
-Motiva,CAIMEOX/Motiva,0.1.0,4865,5,2026-07-08T11:50:25.266930
+Motiva,CAIMEOX/Motiva,0.2.0,9976,13,2026-07-10T08:56:33.442701
 qc_pyext,CAIMEOX/qc_pyext,0.1.1,598,1,2026-01-26T08:08:48.174191
 quickcheck,CAIMEOX/quickcheck,0.6.9,3421,7,2024-11-18T02:37:53.419876
 reed_solomon,CAIMEOX/reed_solomon,0.1.0,864,1,2025-10-31T08:23:42.515075
@@ -1157,7 +1157,7 @@ editor,moonbit-community/editor,0.1.0,83501,67,2026-07-10T05:34:30.622389
 elf,moonbit-community/elf,0.0.1,9902,1,2026-05-15T09:45:51.950306
 embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
-flate,moonbit-community/flate,0.3.0,8852,4,2026-07-10T06:19:03.594448
+flate,moonbit-community/flate,0.4.0,10193,4,2026-07-10T09:26:39.869585
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1,2026-02-04T02:36:34.906484
 graphviz,moonbit-community/graphviz,0.1.0,129412,85,2026-04-15T10:10:43.845684
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21,2026-03-24T10:22:02.340733
@@ -1408,7 +1408,7 @@ moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
 valence,helios-house/valence,0.2.1,2419,1,2026-07-06T00:46:12.719692
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.0.5,155337,73,2026-07-07T15:59:29.506924
-mb-secure-stream,ChenJiasen-123/mb-secure-stream,0.1.0,7651,10,2026-07-10T07:58:23.906174
+mb-secure-stream,ChenJiasen-123/mb-secure-stream,0.1.1,7651,10,2026-07-10T08:26:17.266013
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 indexmap,aurasuisui/indexmap,0.2.1,5200,1,2026-07-05T06:38:21.352044
 mooncharts,Xpeng/mooncharts,0.8.0,5018,3,2026-07-07T15:27:23.230092
@@ -1423,7 +1423,7 @@ abyssal_chord,sssssurf/abyssal_chord,0.1.0,5503,2,2026-06-22T07:55:06.537295
 moonbit_promptkit,co63oc/moonbit_promptkit,0.1.3,13278,71,2026-07-09T06:02:34.805804
 moonlimit,RunnerQuan/moonlimit,0.1.1,5632,2,2026-07-08T04:49:44.774601
 moonjsonpath,Freesia666/moonjsonpath,0.1.1,7747,2,2026-07-09T14:46:29.047633
-image,shunge/image,0.1.1,55176,1,2026-07-02T10:57:01.001268
+image,shunge/image,0.1.3,71347,1,2026-07-10T08:28:05.855825
 mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
 moonflowgraph,AlexenderSokolov/moonflowgraph,0.1.0,1198,2,2026-06-28T04:02:08.130947
@@ -1438,7 +1438,7 @@ moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.1.0,1303,4,2026-07-05T04:58:51.644307
 MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.2,4312,9,2026-07-07T14:34:45.728347
-MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.2,5332,2,2026-07-10T07:02:06.195628
+MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.4,5332,2,2026-07-10T09:56:17.545507
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.1,2347,2,2026-07-05T15:14:50.364228
 mooncollections,Zongzuixi114514/mooncollections,0.1.0,4073,13,2026-07-05T07:21:37.059055
 stencil,LL124-Arch/stencil,0.1.0,939,2,2026-07-05T13:23:35.299317
@@ -1507,4 +1507,4 @@ moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
 raft-moonbit,Lfan-ke/raft-moonbit,0.3.0,17596,2,2026-07-10T06:59:48.770123
 template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
-moonbit-csv,sikadi123/moonbit-csv,0.1.0,756,5,2026-07-10T05:29:05.807304
+moonbit-csv,sikadi123/moonbit-csv,0.1.1,1954,8,2026-07-10T08:10:34.079533
