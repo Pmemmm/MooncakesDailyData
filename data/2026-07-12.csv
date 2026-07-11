@@ -1456,7 +1456,7 @@ examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 indexmap,aurasuisui/indexmap,0.3.0,5244,4,2026-07-11T12:16:12.144560
 mooncharts,Xpeng/mooncharts,0.8.0,5018,3,2026-07-07T15:27:23.230092
 MoonECAT,mokomoking2501/MoonECAT,0.1.0,78464,15,2026-06-23T03:31:11.827684
-MoonEvidence,starlittle/MoonEvidence,0.5.0,14702,13,2026-07-11T09:39:24.960609
+MoonEvidence,starlittle/MoonEvidence,0.5.1,15148,14,2026-07-11T20:47:42.840485
 agent-o11y-demo,cybershang/agent-o11y-demo,0.1.1,2527,2,2026-07-08T03:24:31.826897
 agent-telemetry,cybershang/agent-telemetry,0.1.6,2371,1,2026-07-02T12:55:23.679059
 hex_editor,R00TK17/hex_editor,0.1.2,11406,3,2026-07-07T15:18:51.007401
@@ -1569,3 +1569,5 @@ moon_l10n,Zhouz-z/moon_l10n,0.1.0,793,2,2026-07-11T15:10:16.310704
 moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
 moonbitdb,JIA2JIA2/moonbitdb,0.1.0,11518,6,2026-07-11T18:55:15.820249
 moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
+bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
+BioSeqs,IvanAXu/BioSeqs,0.1.0,10001,6,2026-07-11T19:43:46.467921
