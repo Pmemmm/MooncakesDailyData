@@ -887,7 +887,7 @@ teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3,2025-03-07T05:58:58.518561
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2,2025-03-05T02:39:18.680768
 window,wzzc-dev/window,0.5.1-0.1.6-2,35171,23,2026-07-11T15:20:49.009997
-arithmetic,Luna-Flow/arithmetic,0.2.2,1371,1,2026-07-07T10:44:16.000808
+arithmetic,Luna-Flow/arithmetic,0.3.0,1677,1,2026-07-11T19:25:17.933324
 autodiff,Luna-Flow/autodiff,0.2.0,1085,10,2026-06-15T16:19:27.487311
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5,2025-10-29T01:30:10.903300
 floating,Luna-Flow/floating,0.4.1,27096,13,2026-07-10T16:55:11.150339
@@ -1466,6 +1466,7 @@ abyssal_chord,sssssurf/abyssal_chord,0.1.0,5503,2,2026-06-22T07:55:06.537295
 moonbit_promptkit,co63oc/moonbit_promptkit,0.1.3,13278,71,2026-07-09T06:02:34.805804
 moonlimit,RunnerQuan/moonlimit,0.1.1,5632,2,2026-07-08T04:49:44.774601
 moonjsonpath,Freesia666/moonjsonpath,0.1.1,7747,2,2026-07-09T14:46:29.047633
+moonbit-CryptoAssert,Kali-Leo/moonbit-CryptoAssert,0.1.0,3763,3,2026-07-11T18:51:23.049744
 image,shunge/image,0.1.4,71347,1,2026-07-10T14:11:24.143901
 mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
@@ -1565,3 +1566,6 @@ der,lindividual/der,0.2.1,510,2,2026-07-11T14:01:20.238266
 mooncry,cc06b/mooncry,0.1.0,2634,3,2026-07-11T13:36:04.991910
 MoonDocCheck,gywcs101/MoonDocCheck,0.1.0,3661,5,2026-07-11T14:04:51.665097
 moon_l10n,Zhouz-z/moon_l10n,0.1.0,793,2,2026-07-11T15:10:16.310704
+moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
+moonbitdb,JIA2JIA2/moonbitdb,0.1.0,11518,6,2026-07-11T18:55:15.820249
+moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
