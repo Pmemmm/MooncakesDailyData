@@ -1356,7 +1356,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.10,4235,12,2026-07-11T08:22:56.495696
+moonlib,vectie/moonlib,0.1.11,4742,12,2026-07-12T00:58:59.394496
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
@@ -1420,7 +1420,7 @@ miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2,2026-05-25T08:22:28.729283
 starlark,connect0459/starlark,0.4.0,68348,33,2026-06-27T14:20:22.949436
 urllib,connect0459/urllib,0.4.2,24429,6,2026-06-10T02:02:40.998709
 clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
-moon-pptx,t-ujiie-g/moon-pptx,0.6.0,60885,16,2026-07-06T13:33:14.960470
+moon-pptx,t-ujiie-g/moon-pptx,0.7.0,64898,16,2026-07-12T00:12:28.358644
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
 MoonFrame,ihb2032/MoonFrame,0.5.8,37836,16,2026-07-10T07:31:41.023882
@@ -1442,7 +1442,7 @@ crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
 moon_zod,Betterlol/moon_zod,0.8.1,14498,18,2026-07-11T07:41:49.411539
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5,2026-06-07T10:39:13.281259
 ssh_client,PaiGack/ssh_client,0.4.0,37164,18,2026-07-07T15:15:26.391649
-promptx,wangmingfa/promptx,0.1.2,1965,3,2026-07-05T14:31:18.451672
+promptx,wangmingfa/promptx,0.1.3,588,4,2026-07-12T02:42:12.241276
 zipx,wangmingfa/zipx,0.1.3,1840,3,2026-07-05T14:29:03.734526
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.0,9720,13,2026-06-29T13:17:14.898545
@@ -1570,4 +1570,4 @@ moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
 moonbitdb,JIA2JIA2/moonbitdb,0.1.0,11518,6,2026-07-11T18:55:15.820249
 moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
 bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
-BioSeqs,IvanAXu/BioSeqs,0.1.0,10001,6,2026-07-11T19:43:46.467921
+BioSeqs,IvanAXu/BioSeqs,0.1.3,11665,14,2026-07-12T03:51:17.214828
