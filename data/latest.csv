@@ -38,7 +38,7 @@ contacts,bobzhang/contacts,0.3.2,1655,4,2026-04-04T13:28:53.834225
 crescent,bobzhang/crescent,0.10.0,23411,23,2026-04-25T10:49:07.422266
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4,2026-04-09T15:48:34.164048
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7,2026-04-09T15:48:27.673572
-docx2html,bobzhang/docx2html,0.1.42,22906,10,2026-07-05T12:44:11.840041
+docx2html,bobzhang/docx2html,0.1.43,44919,18,2026-07-12T06:52:41.162639
 finapp,bobzhang/finapp,0.1.0,2463,4,2026-04-04T13:27:46.326636
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1,2026-04-18T15:09:55.235835
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2,2026-04-18T15:10:12.479821
@@ -66,13 +66,13 @@ loop_invariants_persistent,bobzhang/loop_invariants_persistent,0.8.0,17908,44,20
 loop_invariants_string,bobzhang/loop_invariants_string,0.14.0,21697,29,2026-06-04T01:17:11.066356
 loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.17.0,20283,35,2026-06-04T01:17:17.867885
 loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7,2026-05-14T00:44:14.114561
-mbtexcel,bobzhang/mbtexcel,0.1.7,517826,70,2026-07-05T12:42:05.829140
+mbtexcel,bobzhang/mbtexcel,0.1.8,547519,81,2026-07-12T06:51:54.155719
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
 moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
 openseek,bobzhang/openseek,0.2.2,73072,80,2026-07-05T14:14:50.537822
-pdflite,bobzhang/pdflite,0.1.40,355980,50,2026-07-05T12:43:37.590159
+pdflite,bobzhang/pdflite,0.1.41,357336,50,2026-07-12T06:53:13.461741
 pollapp,bobzhang/pollapp,0.3.2,1586,4,2026-04-04T13:29:01.010690
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
 prove,bobzhang/prove,0.0.2,3164,84,2026-03-17T06:33:22.282546
@@ -1356,7 +1356,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.11,4742,12,2026-07-12T00:58:59.394496
+moonlib,vectie/moonlib,0.1.13,5692,12,2026-07-12T04:45:25.222075
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
@@ -1475,7 +1475,7 @@ moonchart,JunJunTnT/moonchart,0.1.1,3711,8,2026-07-07T05:11:03.159913
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
 millow,megemini/millow,0.3.1,8133,6,2026-07-11T03:45:38.863062
-frontierlab,shop1111/frontierlab,0.5.0,5971,9,2026-07-11T08:00:04.896042
+frontierlab,shop1111/frontierlab,0.6.0,7643,9,2026-07-12T05:25:48.444949
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.2,6343,8,2026-07-06T15:00:40.589397
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
@@ -1524,7 +1524,7 @@ moonplot,dgmxjj/moonplot,0.1.0,9112,7,2026-07-06T15:27:05.651232
 glob,Lxxbv/glob,0.1.1,905,2,2026-07-06T15:42:04.827041
 moon-actor,Zcxssxx/moon-actor,0.1.0,153,1,2026-07-06T15:53:03.157830
 moon-ninja,Zcxssxx/moon-ninja,0.1.1,828,2,2026-07-11T17:05:17.312721
-moon-jsonpath,ppyj663/moon-jsonpath,0.1.0,489,2,2026-07-06T16:09:28.153200
+moon-jsonpath,ppyj663/moon-jsonpath,0.2.0,1622,2,2026-07-12T05:49:37.017755
 moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonforge,Lyhdsba/moonforge,0.1.0,1352,2,2026-07-07T02:08:52.376378
 dotenv,spectacleCase/dotenv,0.1.0,2004,2,2026-07-07T03:12:36.699614
@@ -1545,7 +1545,7 @@ tokenizers-moonbit,howtomakeaname/tokenizers-moonbit,0.2.0,48002,11,2026-07-11T1
 moonttl,thy1016/moonttl,0.1.4,23312,5,2026-07-11T06:08:31.181182
 moonpath,wzx2007/moonpath,0.31.0,4025,3,2026-07-08T10:33:14.931108
 moon_graphql,eisem/moon_graphql,0.1.1,7127,11,2026-07-11T06:07:28.238571
-moon_mutest,Magic486/moon_mutest,0.1.3,5050,7,2026-07-08T16:24:42.903420
+moon_mutest,Magic486/moon_mutest,0.1.4,5231,7,2026-07-12T04:48:23.180945
 moonpack,001-Elsa/moonpack,0.1.1,5102,6,2026-07-08T17:31:05.549942
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
@@ -1570,4 +1570,5 @@ moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
 moonbitdb,JIA2JIA2/moonbitdb,0.1.0,11518,6,2026-07-11T18:55:15.820249
 moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
 bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
-BioSeqs,IvanAXu/BioSeqs,0.1.3,11665,14,2026-07-12T03:51:17.214828
+BioSeqs,IvanAXu/BioSeqs,0.1.4,11665,14,2026-07-12T04:15:07.372146
+moon_sfv,serene-WJ/moon_sfv,0.1.0,1063,2,2026-07-12T04:51:56.471201
