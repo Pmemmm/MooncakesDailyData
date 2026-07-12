@@ -1,8 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 918154429/moonguard,新增,9047,2,0,0,9047,2
 Across2005/MoonBit-memory,新增,1657,2,0,0,1657,2
-faaaaaa3/moonmacro,新增,1754,4,0,0,1754,4
+Ankaluoer/moon-tensor,新增,659,2,0,0,659,2
+faaaaaa3/moonmacro,新增,2442,4,0,0,2442,4
 hourizon/moonbin,新增,1096,2,0,0,1096,2
+hyl-star/moonsic,新增,25224,27,0,0,25224,27
 IvanAXu/bio_seq,新增,10001,6,0,0,10001,6
 IvanAXu/BioSeqs,新增,11665,14,0,0,11665,14
 JIA2JIA2/moonbitdb,新增,11518,6,0,0,11518,6
@@ -10,11 +12,12 @@ Kali-Leo/moonbit-CryptoAssert,新增,3763,3,0,0,3763,3
 leppard/moonbit-log,新增,5248,2,0,0,5248,2
 lyjttio/moongrad,新增,1407,2,0,0,1407,2
 PixelPoet/pixelate,新增,5867,1,0,0,5867,1
+sa2360/moonbench,新增,702,2,0,0,702,2
 serene-WJ/moon_sfv,新增,1063,2,0,0,1063,2
 sheldonshi115/moon_doctor,新增,5319,7,0,0,5319,7
 wallll-wal6/moonkv,新增,2315,2,0,0,2315,2
 zkazure/moonfocus,新增,4684,7,0,0,4684,7
-aspnmy/moonitest,有变化,115,0,187,1,302,1
+aspnmy/moonitest,有变化,616,0,187,1,803,1
 bobzhang/docx2html,有变化,22013,8,22906,10,44919,18
 bobzhang/mbtexcel,有变化,29693,11,517826,70,547519,81
 bobzhang/pdflite,有变化,1356,0,355980,50,357336,50
@@ -25,10 +28,12 @@ himeno/mopress,有变化,111,0,7310,9,7421,9
 howtomakeaname/tokenizers-moonbit,有变化,15530,0,32472,11,48002,11
 LL728/moonseal,有变化,478,0,1059,9,1537,9
 Luna-Flow/arithmetic,有变化,306,0,1371,1,1677,1
+Luna-Flow/floating,有变化,19014,11,27096,13,46110,24
 Lxxbv/glob,有变化,127,0,905,2,1032,2
 Magic486/moon_mutest,有变化,816,0,5050,7,5866,7
 oboard/mocket,有变化,38,0,7328,15,7366,15
 ppyj663/moon-jsonpath,有变化,1133,0,489,2,1622,2
+q0w1ertyuiop/moonflagkit,有变化,891,0,652,2,1543,2
 shop1111/frontierlab,有变化,1672,0,5971,9,7643,9
 starlittle/MoonEvidence,有变化,446,1,14702,13,15148,14
 t-ujiie-g/moon-pptx,有变化,4013,0,60885,16,64898,16
@@ -38,6 +43,7 @@ wccerty/moonfeaturegate,有变化,596,0,569,2,1165,2
 wzzc-dev/moui,有变化,2924,0,124590,49,127514,49
 wzzc-dev/moui_richtext,有变化,3185,0,21908,1,25093,1
 Zcxssxx/moon-ninja,有变化,414,0,414,2,828,2
+zlhahaha/moonsim,有变化,1999,1,9793,18,11792,19
 001-Elsa/moonpack,无变化,0,0,5102,6,5102,6
 0Ayachi0/elk,无变化,0,0,3137,1,3137,1
 0Ayachi0/GB18030,无变化,0,0,2543,1,2543,1
@@ -712,7 +718,6 @@ loneoutpost/core-extra,无变化,0,0,926,3,926,3
 lucifer1004/mooncake,无变化,0,0,19,2,19,2
 Luna-Flow/autodiff,无变化,0,0,1085,10,1085,10
 Luna-Flow/calculus-numerical,无变化,0,0,2379,5,2379,5
-Luna-Flow/floating,无变化,0,0,27096,13,27096,13
 Luna-Flow/geometry3d,无变化,0,0,5660,9,5660,9
 Luna-Flow/linear-algebra,无变化,0,0,38413,17,38413,17
 Luna-Flow/luna-complex,无变化,0,0,1272,2,1272,2
@@ -1179,7 +1184,6 @@ pocket7878/cog_complex,无变化,0,0,1552,2,1552,2
 Project2026-creator/moontemplate,无变化,0,0,3117,4,3117,4
 python123/moondepsolve,无变化,0,0,2504,3,2504,3
 pzl-love/Introsort,无变化,0,0,320,2,320,2
-q0w1ertyuiop/moonflagkit,无变化,0,0,652,2,652,2
 QZL-max/QZL-max,无变化,0,0,12,1,12,1
 R00TK17/hex_editor,无变化,0,0,11406,3,11406,3
 rabbyte/suffix-array,无变化,0,0,665,1,665,1
@@ -1567,7 +1571,6 @@ ZijianFeng33/gs,无变化,0,0,242,2,242,2
 ZijianFeng33/range,无变化,0,0,159,2,159,2
 ZijianFeng33/regexp,无变化,0,0,117,2,117,2
 ZijianFeng33/strongPasswordChecker,无变化,0,0,381,2,381,2
-zlhahaha/moonsim,无变化,0,0,9793,18,9793,18
 zmjknn/moonmark,无变化,0,0,746,4,746,4
 Zongzuixi114514/mooncollections,无变化,0,0,4660,13,4660,13
 zploc/loci,无变化,0,0,31491,20,31491,20
