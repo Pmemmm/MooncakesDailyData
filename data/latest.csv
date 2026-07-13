@@ -1477,7 +1477,7 @@ moonbit-CryptoAssert,Kali-Leo/moonbit-CryptoAssert,0.1.0,3763,3,2026-07-11T18:51
 image,shunge/image,0.1.4,71347,1,2026-07-10T14:11:24.143901
 mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
-moonflowgraph,AlexenderSokolov/moonflowgraph,0.2.0,3239,4,2026-07-10T12:06:24.790502
+moonflowgraph,AlexenderSokolov/moonflowgraph,0.3.0,4233,5,2026-07-13T12:04:42.850567
 moonchart,JunJunTnT/moonchart,0.1.1,3711,8,2026-07-07T05:11:03.159913
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
@@ -1602,3 +1602,4 @@ moon-schedule,100kkk/moon-schedule,0.1.0,785,2,2026-07-12T16:19:44.526736
 moonlabelkit,Zy789kl/moonlabelkit,0.1.0,1779,6,2026-07-13T09:20:09.842845
 moontls-parser,yhsrtty/moontls-parser,0.1.0,1285,2,2026-07-13T09:56:04.057873
 moonyara,Hjyyutr/moonyara,0.1.1,4295,3,2026-07-13T11:16:32.501231
+moonnlp,ppyq882/moonnlp,0.1.1,3812,4,2026-07-13T13:56:50.070252
