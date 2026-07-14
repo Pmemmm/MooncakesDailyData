@@ -25,6 +25,7 @@ Milky2018/window,有变化,910,0,21708,13,22618,13
 Milky2018/x64_target,有变化,2,0,581,1,583,1
 minie135/moon-audit,有变化,2121,0,4558,2,6679,2
 mizchi/pkl,有变化,587,0,89114,2,89701,2
+mizchi/simd,有变化,1648,1,19115,9,20763,10
 moonbit-community/rabbita,有变化,2870,3,21031,18,23901,21
 moonbitlang/async,有变化,1328,0,44853,48,46181,48
 moonbitlang/core,有变化,11563,1,175408,75,186971,76
@@ -967,7 +968,6 @@ mizchi/s3,无变化,0,0,646,2,646,2
 mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4954,2,4954,2
-mizchi/simd,无变化,0,0,19115,9,19115,9
 mizchi/similarity,无变化,0,0,2664,5,2664,5
 mizchi/sol,无变化,0,0,46328,40,46328,40
 mizchi/sol_adapter_cloudflare,无变化,0,0,808,1,808,1
