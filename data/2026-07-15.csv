@@ -511,6 +511,7 @@ parquet,mizchi/parquet,0.2.1,10202,4,2026-04-25T11:15:48.797751
 pathfind,mizchi/pathfind,0.2.0,311,1,2026-06-03T13:11:13.037456
 physics,mizchi/physics,0.2.0,8058,3,2026-06-03T13:11:03.107719
 pixelmatch,mizchi/pixelmatch,0.6.1,4306,5,2026-05-26T10:19:20.788719
+pkf,mizchi/pkf,0.12.4,9224,3,2026-07-14T18:26:45.254480
 pkl,mizchi/pkl,0.3.3,90530,2,2026-07-14T17:20:57.576457
 playwright,mizchi/playwright,0.3.7,8363,4,2026-03-20T14:14:34.365323
 process_pool,mizchi/process_pool,0.1.3,1162,2,2026-02-11T09:07:52.586863
@@ -523,7 +524,7 @@ s3,mizchi/s3,0.1.0,646,2,2026-04-05T09:06:03.338493
 sandbox,mizchi/sandbox,0.1.1,66259,81,2026-02-11T11:32:45.105341
 semver,mizchi/semver,0.1.1,1661,4,2026-02-11T04:51:27.627910
 signals,mizchi/signals,0.6.4,4954,2,2026-03-21T13:54:50.630158
-simd,mizchi/simd,0.6.0,20763,10,2026-07-14T15:28:37.558211
+simd,mizchi/simd,0.6.1,20763,10,2026-07-14T17:56:52.678261
 similarity,mizchi/similarity,0.2.1,2664,5,2026-02-19T05:26:57.983884
 sol,mizchi/sol,0.23.2,46328,40,2026-07-10T07:11:18.575212
 sol_adapter_cloudflare,mizchi/sol_adapter_cloudflare,0.23.2,808,1,2026-07-10T07:11:24.775007
@@ -553,6 +554,7 @@ wasmtime,mizchi/wasmtime,0.1.6,2680,4,2026-04-25T13:26:23.454891
 wasmx,mizchi/wasmx,0.1.1,52280,12,2026-02-11T11:26:56.022149
 webdriver,mizchi/webdriver,0.2.6,5240,1,2026-05-11T16:13:27.498917
 webdriver.mbt,mizchi/webdriver.mbt,0.1.0,1848,1,2026-02-04T05:04:30.900400
+webnn,mizchi/webnn,0.1.0,10436,10,2026-07-14T18:23:40.061938
 whenwords,mizchi/whenwords,0.1.3,1058,2,2026-02-11T09:16:58.085973
 whisper,mizchi/whisper,0.3.1,1523,3,2026-02-19T14:16:04.313038
 whisper-mbt,mizchi/whisper-mbt,0.1.1,1318,3,2026-02-19T13:53:42.845204
@@ -1153,7 +1155,7 @@ strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2,2025-09-29T
 moonxi-net,chnlkw/moonxi-net,0.1.1,5996,13,2026-05-17T10:47:43.203408
 moonxi-net-gpu,chnlkw/moonxi-net-gpu,0.1.1,5545,9,2026-05-17T10:48:06.840527
 moon_rsa,Rutubet/moon_rsa,0.2.0,708,2,2025-12-01T16:39:49.827266
-moonata,rinnein/moonata,0.9.0,16751,9,2026-07-10T18:47:07.235914
+moonata,rinnein/moonata,0.10.0,22078,9,2026-07-14T19:33:25.555098
 mb-chacha,Tigls/mb-chacha,0.1.0,528,1,2026-04-10T12:31:31.677840
 mb-getrandom,Tigls/mb-getrandom,0.1.0,210,1,2026-04-07T18:35:29.350340
 mb-hash,Tigls/mb-hash,0.1.0,898,1,2026-04-08T06:21:17.350795
