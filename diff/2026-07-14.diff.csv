@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Luna-Flow/mare_mark,新增,6029,13,0,0,6029,13
+Milky2018/svgdiff,新增,7487,2,0,0,7487,2
 CAIMEOX/moon_floating,有变化,1484,0,24829,8,26313,8
 hustcer/ed25519,有变化,25,0,2164,2,2189,2
 hustcer/html2md,有变化,271,0,9364,6,9635,6
@@ -21,6 +22,7 @@ Milky2018/wasmoon_jit,有变化,261,0,16775,4,17036,4
 Milky2018/window,有变化,910,0,21708,13,22618,13
 Milky2018/x64_target,有变化,2,0,581,1,583,1
 minie135/moon-audit,有变化,2121,0,4558,2,6679,2
+mizchi/pkl,有变化,587,0,89114,2,89701,2
 moonbitlang/async,有变化,1328,0,44853,48,46181,48
 moonbitlang/core,有变化,11563,1,175408,75,186971,76
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -951,7 +953,6 @@ mizchi/parquet,无变化,0,0,10202,4,10202,4
 mizchi/pathfind,无变化,0,0,311,1,311,1
 mizchi/physics,无变化,0,0,8058,3,8058,3
 mizchi/pixelmatch,无变化,0,0,4306,5,4306,5
-mizchi/pkl,无变化,0,0,89114,2,89114,2
 mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
 mizchi/protocol,无变化,0,0,803,2,803,2
