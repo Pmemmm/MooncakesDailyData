@@ -1224,7 +1224,7 @@ postgres,moonbit-community/postgres,0.0.6,25234,16,2026-04-28T13:08:31.644171
 prettyprinter,moonbit-community/prettyprinter,0.4.10,1732,1,2026-05-12T10:27:04.999906
 pty,moonbit-community/pty,0.2.2,735,1,2026-06-22T13:09:04.042613
 quickcheck_statemachine,moonbit-community/quickcheck_statemachine,0.0.1,11985,2,2026-06-02T07:09:28.626205
-rabbita,moonbit-community/rabbita,0.12.4,21031,18,2026-06-05T03:35:14.603313
+rabbita,moonbit-community/rabbita,0.13.0,23901,21,2026-07-14T13:51:56.698962
 rabbita_tui,moonbit-community/rabbita_tui,0.1.0,10070,6,2026-05-14T09:43:20.346889
 raylib,moonbit-community/raylib,0.3.1,21670,4,2026-03-18T09:21:40.263635
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2,2026-03-31T02:32:16.682519
@@ -1255,7 +1255,7 @@ oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
-moonpg,jaredzhou/moonpg,0.2.0,1321,2,2026-07-07T02:59:48.738242
+moonpg,jaredzhou/moonpg,0.3.0,8880,2,2026-07-14T14:07:03.878655
 pony,jaredzhou/pony,0.1.1,2761,3,2026-06-21T03:05:54.897810
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
@@ -1359,7 +1359,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.13,5692,12,2026-07-12T04:45:25.222075
+moonlib,vectie/moonlib,0.1.14,7045,13,2026-07-14T13:29:11.078983
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
@@ -1512,6 +1512,7 @@ MoonSpectrum,chgttyyr/MoonSpectrum,0.1.0,849,2,2026-07-05T15:49:59.086880
 moonflagkit,q0w1ertyuiop/moonflagkit,0.2.0,1543,2,2026-07-12T13:38:54.030107
 moonleasekit,dxh8888/moonleasekit,0.1.0,2126,3,2026-07-05T16:12:22.386004
 moonseal,LL728/moonseal,0.1.1,1537,9,2026-07-11T15:48:03.140253
+rag-mbt,houjie/rag-mbt,0.1.0,3929,4,2026-07-14T13:34:05.750068
 moonjournalkit,Sxy11112/moonjournalkit,0.1.0,1800,3,2026-07-05T17:26:55.513927
 moonblox,xz-xuezhe/moonblox,0.2.0,4436,6,2026-07-08T15:44:15.050101
 moonblox-cli,xz-xuezhe/moonblox-cli,0.2.0,6037,13,2026-07-08T15:44:44.377942
