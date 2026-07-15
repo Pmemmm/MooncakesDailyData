@@ -8,6 +8,7 @@ Luna-Flow/arithmetic,有变化,160,0,1677,1,1837,1
 Luna-Flow/mare_mark,有变化,2202,0,6029,13,8231,13
 Milky2018/window,有变化,293,0,22618,13,22911,13
 mizchi/pkl,有变化,829,0,89701,2,90530,2
+mizchi/signals,有变化,-5,0,4954,2,4949,2
 moonbit-community/moongrep,有变化,522,0,29030,15,29552,15
 rinnein/moonata,有变化,6904,0,16751,9,23655,9
 tonyfettes/unicode,有变化,-19313684,-3,25536799,1739,6223115,1736
@@ -970,7 +971,6 @@ mizchi/rlm_moonbit,无变化,0,0,5747,1,5747,1
 mizchi/s3,无变化,0,0,646,2,646,2
 mizchi/sandbox,无变化,0,0,66259,81,66259,81
 mizchi/semver,无变化,0,0,1661,4,1661,4
-mizchi/signals,无变化,0,0,4954,2,4954,2
 mizchi/simd,无变化,0,0,20763,10,20763,10
 mizchi/similarity,无变化,0,0,2664,5,2664,5
 mizchi/sol,无变化,0,0,46328,40,46328,40
