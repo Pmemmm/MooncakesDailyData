@@ -1252,6 +1252,7 @@ toml_parser,maria/toml_parser,0.1.0,1018,2,2025-11-18T12:36:30.481339
 miao,kalculos/miao,0.1.0-M2,11498,12,2025-11-24T13:21:20.778285
 moon_expr,sombozone/moon_expr,0.1.0,4004,7,2025-12-02T13:29:54.305420
 brainfuck,nuskey8/brainfuck,0.1.2,180,2,2025-12-05T06:02:35.808609
+c,nuskey8/c,0.1.0,1608,1,2026-07-15T13:12:00.536888
 lisp,nuskey8/lisp,0.1.4,389,2,2025-12-21T16:20:24.135992
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
@@ -1361,7 +1362,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.0,76521,37,2026-06-28T07:47:59.064504
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.16,7411,13,2026-07-15T00:20:53.668316
+moonlib,vectie/moonlib,0.1.17,8836,17,2026-07-15T12:49:51.134134
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
