@@ -893,7 +893,7 @@ window,wzzc-dev/window,0.5.1-0.1.7,35171,23,2026-07-12T08:02:43.303406
 arithmetic,Luna-Flow/arithmetic,0.4.0,1837,1,2026-07-15T05:36:19.659907
 autodiff,Luna-Flow/autodiff,0.2.0,1085,10,2026-06-15T16:19:27.487311
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5,2025-10-29T01:30:10.903300
-floating,Luna-Flow/floating,0.6.1,51278,26,2026-07-14T04:16:48.383451
+floating,Luna-Flow/floating,0.7.0,79675,30,2026-07-15T22:56:39.331837
 geometry3d,Luna-Flow/geometry3d,0.5.1,5660,9,2026-07-09T02:45:40.206001
 linear-algebra,Luna-Flow/linear-algebra,0.4.7,38413,17,2026-07-10T17:13:46.930020
 luna-complex,Luna-Flow/luna-complex,0.2.0,1272,2,2026-06-06T14:47:25.010183
@@ -1052,7 +1052,7 @@ event-graph-walker,dowdiness/event-graph-walker,0.3.0,26941,13,2026-07-05T06:19:
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
 incr,dowdiness/incr,0.14.2,30069,9,2026-07-10T14:16:41.015986
-js_engine,dowdiness/js_engine,0.5.0,134648,31,2026-07-11T07:50:12.787779
+js_engine,dowdiness/js_engine,0.6.0,136398,32,2026-07-15T21:51:07.489991
 margs,dowdiness/margs,0.1.2,4638,2,2026-02-16T06:41:24.474228
 moondsp,dowdiness/moondsp,0.5.1,42430,12,2026-05-20T12:01:23.723306
 order-tree,dowdiness/order-tree,0.1.1,2106,1,2026-06-23T12:33:34.039284
