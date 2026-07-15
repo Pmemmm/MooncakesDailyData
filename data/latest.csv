@@ -188,7 +188,7 @@ tree_sitter_zig,tonyfettes/tree_sitter_zig,0.1.26,35,1,2026-03-26T02:23:07.93953
 tun-poc-proto,tonyfettes/tun-poc-proto,0.2.0,5161,1,2026-05-09T07:48:58.185317
 tun-poc-server,tonyfettes/tun-poc-server,0.2.0,4789,13,2026-05-09T07:50:00.028310
 tun-poc-server-cn,tonyfettes/tun-poc-server-cn,0.2.0,26,1,2026-05-09T07:50:21.878449
-unicode,tonyfettes/unicode,0.3.4,6223115,1736,2026-07-15T02:34:53.123298
+unicode,tonyfettes/unicode,0.3.6,6223115,1736,2026-07-15T03:50:46.393839
 uri,tonyfettes/uri,0.1.0,848,1,2025-08-11T09:25:04.366419
 url,tonyfettes/url,0.3.3,13408,1,2026-06-10T06:10:53.987796
 utf8,tonyfettes/utf8,0.2.4,333,1,2025-11-14T08:07:27.239738
@@ -215,7 +215,7 @@ tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
-duplix,Yoorkin/duplix,0.2.8,3012,3,2026-07-08T10:14:53.641803
+duplix,Yoorkin/duplix,0.2.9,3148,4,2026-07-15T04:03:30.651190
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
@@ -345,7 +345,7 @@ wordcount,hackwaly/wordcount,0.2.1,388,1,2026-06-22T06:32:58.406647
 readline,npmstudy/readline,0.1.6,4836,4,2026-03-15T13:02:33.481445
 ed25519,hustcer/ed25519,0.5.1,2189,2,2026-07-14T01:56:00.575297
 fbr,hustcer/fbr,0.8.0,18723,5,2026-06-14T00:13:43.133990
-fzip,hustcer/fzip,0.8.5,12175,2,2026-06-20T12:58:33.329919
+fzip,hustcer/fzip,0.8.6,12808,2,2026-07-15T05:43:27.012522
 html2md,hustcer/html2md,0.1.1,9635,6,2026-07-14T03:24:49.786645
 nanoid,hustcer/nanoid,0.6.0,1745,2,2026-05-07T15:57:11.820945
 tabular,hustcer/tabular,0.5.2,15088,3,2026-04-05T09:34:40.749909
@@ -889,7 +889,7 @@ teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3,2025-03-07T05:58:58.518561
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2,2025-03-05T02:39:18.680768
 window,wzzc-dev/window,0.5.1-0.1.7,35171,23,2026-07-12T08:02:43.303406
-arithmetic,Luna-Flow/arithmetic,0.3.0,1677,1,2026-07-11T19:25:17.933324
+arithmetic,Luna-Flow/arithmetic,0.4.0,1837,1,2026-07-15T05:36:19.659907
 autodiff,Luna-Flow/autodiff,0.2.0,1085,10,2026-06-15T16:19:27.487311
 calculus-numerical,Luna-Flow/calculus-numerical,0.3.1,2379,5,2025-10-29T01:30:10.903300
 floating,Luna-Flow/floating,0.6.1,51278,26,2026-07-14T04:16:48.383451
@@ -1546,7 +1546,7 @@ fuse,tuya-me/fuse,0.1.0,324,2,2026-07-07T07:34:10.204699
 moonllm,DC-Z-lab/moonllm,0.1.0,6489,7,2026-07-07T07:05:30.067705
 msdoc-viewer,XiaoChenxu/msdoc-viewer,0.1.1,14830,2,2026-07-08T02:29:33.512314
 petgraph,I3eg1nner/petgraph,0.1.0,6583,7,2026-07-07T16:12:37.498202
-moonbench,Han-Wentao/moonbench,0.2.0,5493,3,2026-07-07T17:29:54.175700
+moonbench,Han-Wentao/moonbench,0.3.0,7124,3,2026-07-15T05:31:49.686920
 moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.1.0,835,6,2026-07-07T16:44:45.203387
 moon-ray,Kai-Junhan/moon-ray,0.2.3,4025,2,2026-07-08T03:54:15.060262
 moon-sketch-kit,cauchyQ/moon-sketch-kit,0.1.0,4447,5,2026-07-08T01:45:31.622371
