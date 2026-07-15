@@ -5,8 +5,10 @@ Han-Wentao/moonbench,有变化,1631,0,5493,3,7124,3
 hustcer/fzip,有变化,633,0,12175,2,12808,2
 Luna-Flow/arithmetic,有变化,160,0,1677,1,1837,1
 Luna-Flow/mare_mark,有变化,2202,0,6029,13,8231,13
+Milky2018/window,有变化,293,0,22618,13,22911,13
 mizchi/pkl,有变化,829,0,89701,2,90530,2
-rinnein/moonata,有变化,5327,0,16751,9,22078,9
+moonbit-community/moongrep,有变化,522,0,29030,15,29552,15
+rinnein/moonata,有变化,6904,0,16751,9,23655,9
 tonyfettes/unicode,有变化,-19313684,-3,25536799,1739,6223115,1736
 vectie/moonlib,有变化,366,0,7045,13,7411,13
 Yoorkin/duplix,有变化,136,1,3012,3,3148,4
@@ -805,7 +807,6 @@ Milky2018/wasmoon,无变化,0,0,131323,26,131323,26
 Milky2018/wasmoon_jit,无变化,0,0,17036,4,17036,4
 Milky2018/wgpu_mbt,无变化,0,0,45202,10,45202,10
 Milky2018/wgsl,无变化,0,0,72369,8,72369,8
-Milky2018/window,无变化,0,0,22618,13,22618,13
 Milky2018/x64_target,无变化,0,0,583,1,583,1
 Milky2018/xml,无变化,0,0,18623,1,18623,1
 Milky2018/zstd,无变化,0,0,41283,1,41283,1
@@ -1040,7 +1041,6 @@ moonbit-community/meta-skill,无变化,0,0,1366,1,1366,1
 moonbit-community/miniio,无变化,0,0,3557,10,3557,10
 moonbit-community/moon_cpal,无变化,0,0,19042,19,19042,19
 moonbit-community/moon_dagre,无变化,0,0,11600,2,11600,2
-moonbit-community/moongrep,无变化,0,0,29030,15,29030,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/NyaCSV,无变化,0,0,1196,1,1196,1
 moonbit-community/opentelemetry,无变化,0,0,35454,37,35454,37
