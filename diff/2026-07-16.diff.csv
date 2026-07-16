@@ -8,8 +8,13 @@ mizchi/mayo,新增,3097,3,0,0,3097,3
 dowdiness/js_engine,有变化,1750,1,134648,31,136398,32
 Hhsqoo/moon-collections,有变化,1034,4,1303,4,2337,8
 jaredzhou/moonpg,有变化,922,0,8880,2,9802,2
-Luna-Flow/floating,有变化,28397,4,51278,26,79675,30
+Luna-Flow/floating,有变化,29749,4,51278,26,81027,30
+Milky2018/selene,有变化,1270,0,63347,59,64617,59
+Milky2018/selene_raylib,有变化,30,0,8515,6,8545,6
+Milky2018/selene_webgpu,有变化,120,0,10717,6,10837,6
 Milky2018/svgdiff,有变化,29682,1,7487,2,37169,3
+moonbit-community/moon_dagre,有变化,49,2,11600,2,11649,4
+nuskey8/c,有变化,163,0,1608,1,1771,1
 oboard/morm,有变化,-13,0,24012,19,23999,19
 RabitLogic/mjwt,有变化,228,-1,2821,2,3049,1
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -786,14 +791,11 @@ Milky2018/pptz,无变化,0,0,19476,15,19476,15
 Milky2018/pthread,无变化,0,0,1854,1,1854,1
 Milky2018/pug,无变化,0,0,10601,2,10601,2
 Milky2018/regalloc,无变化,0,0,7280,4,7280,4
-Milky2018/selene,无变化,0,0,63347,59,63347,59
 Milky2018/selene_editor,无变化,0,0,18896,9,18896,9
 Milky2018/selene_editor_frontend,无变化,0,0,14601,4,14601,4
 Milky2018/selene_editor_service,无变化,0,0,3047,2,3047,2
 Milky2018/selene_editor_shared,无变化,0,0,1295,2,1295,2
-Milky2018/selene_raylib,无变化,0,0,8515,6,8515,6
 Milky2018/selene_tools,无变化,0,0,470,2,470,2
-Milky2018/selene_webgpu,无变化,0,0,10717,6,10717,6
 Milky2018/selene-canvas,无变化,0,0,591,1,591,1
 Milky2018/slotmap,无变化,0,0,3217,1,3217,1
 Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
@@ -1043,7 +1045,6 @@ moonbit-community/jsondiff,无变化,0,0,1476,1,1476,1
 moonbit-community/meta-skill,无变化,0,0,1366,1,1366,1
 moonbit-community/miniio,无变化,0,0,3557,10,3557,10
 moonbit-community/moon_cpal,无变化,0,0,19042,19,19042,19
-moonbit-community/moon_dagre,无变化,0,0,11600,2,11600,2
 moonbit-community/moongrep,无变化,0,0,29552,15,29552,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/NyaCSV,无变化,0,0,1196,1,1196,1
@@ -1130,7 +1131,6 @@ NoEmotionYY/moon-pathplanning,无变化,0,0,8131,16,8131,16
 Noverberrain/moonmodguard,无变化,0,0,1537,2,1537,2
 npmstudy/readline,无变化,0,0,4836,4,4836,4
 nuskey8/brainfuck,无变化,0,0,180,2,180,2
-nuskey8/c,无变化,0,0,1608,1,1608,1
 nuskey8/lisp,无变化,0,0,389,2,389,2
 nuskey8/oneshot,无变化,0,0,136,2,136,2
 nysopua/mknip,无变化,0,0,1466,2,1466,2
