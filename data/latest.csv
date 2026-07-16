@@ -578,7 +578,7 @@ mocket,oboard/mocket,0.7.7,7366,15,2026-07-12T08:55:09.589060
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7,2026-04-11T13:52:48.300037
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2,2024-07-30T12:09:43.313495
 moonetx,oboard/moonetx,0.1.8,1323,1,2026-02-06T17:05:37.814555
-morm,oboard/morm,0.4.0,24012,19,2026-06-12T15:46:26.682162
+morm,oboard/morm,0.4.1,23999,19,2026-07-16T02:46:40.728214
 numoon,oboard/numoon,0.4.1,1332,2,2026-02-06T17:02:33.896464
 readline,oboard/readline,0.1.6,342,2,2025-12-12T06:15:20.088795
 redis,oboard/redis,0.1.5,5304,1,2026-05-25T13:38:14.187099
@@ -636,6 +636,9 @@ step,gmlewis/step,0.1.14,26082,52,2026-06-09T20:52:31.019047
 zlib,gmlewis/zlib,0.21.9,720,1,2026-06-09T20:29:11.431606
 onebit-tui,Frank-III/onebit-tui,0.1.3,8004,7,2025-10-17T19:59:51.906075
 onebit-yoga,Frank-III/onebit-yoga,0.2.6,2491,4,2025-10-17T19:51:14.148025
+selene,KKKIIO/selene,0.35.1,65001,60,2026-07-16T03:34:49.017489
+selene_raylib,KKKIIO/selene_raylib,0.35.1,8552,6,2026-07-16T03:35:09.541181
+selene_webgpu,KKKIIO/selene_webgpu,0.35.1,10957,6,2026-07-16T03:35:01.720336
 js,moonbit-js-ffi/js,0.2.0,1160,2,2024-06-13T15:41:51.834985
 easy,enjoecn/easy,0.1.0,93,3,2024-06-25T04:39:31.476831
 gb,enjoecn/gb,0.1.1,390,2,2024-07-19T07:34:06.699464
@@ -1023,7 +1026,8 @@ selene_tools,Milky2018/selene_tools,0.32.2,470,2,2026-04-14T07:40:10.083218
 selene_webgpu,Milky2018/selene_webgpu,0.35.0,10717,6,2026-06-11T08:08:51.321953
 slotmap,Milky2018/slotmap,0.1.2,3217,1,2026-05-08T09:18:03.970553
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2,2025-11-27T10:09:29.250366
-svgdiff,Milky2018/svgdiff,0.3.3,7487,2,2026-07-14T11:17:16.749595
+svgdiff,Milky2018/svgdiff,0.5.13,37169,3,2026-07-16T02:23:57.444498
+svgdiff-raster-codec,Milky2018/svgdiff-raster-codec,0.1.0,1199,1,2026-07-16T02:23:36.734815
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1,2026-04-10T01:34:25.959659
 toolkit,Milky2018/toolkit,0.1.4,28,1,2025-06-22T10:41:47.432821
 wasm_core,Milky2018/wasm_core,0.1.2,3491,2,2026-07-14T05:42:15.399702
@@ -1259,7 +1263,7 @@ oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
-moonpg,jaredzhou/moonpg,0.3.0,8880,2,2026-07-14T14:07:03.878655
+moonpg,jaredzhou/moonpg,0.4.0,9802,2,2026-07-16T03:13:45.413452
 pony,jaredzhou/pony,0.1.1,2761,3,2026-06-21T03:05:54.897810
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
@@ -1481,7 +1485,7 @@ moonlimit,RunnerQuan/moonlimit,0.1.1,5632,2,2026-07-08T04:49:44.774601
 moonjsonpath,Freesia666/moonjsonpath,0.1.1,7747,2,2026-07-09T14:46:29.047633
 moonbit-CryptoAssert,Kali-Leo/moonbit-CryptoAssert,0.1.0,3763,3,2026-07-11T18:51:23.049744
 image,shunge/image,0.1.4,71347,1,2026-07-10T14:11:24.143901
-mjwt,RabitLogic/mjwt,0.1.0,2821,2,2026-06-26T14:25:08.392899
+mjwt,RabitLogic/mjwt,0.2.0,3049,1,2026-07-16T00:02:16.546328
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
 moonflowgraph,AlexenderSokolov/moonflowgraph,0.3.0,4233,5,2026-07-13T12:04:42.850567
 moonchart,JunJunTnT/moonchart,0.1.1,3711,8,2026-07-07T05:11:03.159913
@@ -1492,7 +1496,7 @@ frontierlab,shop1111/frontierlab,0.6.0,7643,9,2026-07-12T05:25:48.444949
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.2,6343,8,2026-07-06T15:00:40.589397
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
-moon-collections,Hhsqoo/moon-collections,0.1.0,1303,4,2026-07-05T04:58:51.644307
+moon-collections,Hhsqoo/moon-collections,0.2.0,2337,8,2026-07-16T03:12:18.557835
 MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.2,4312,9,2026-07-07T14:34:45.728347
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
@@ -1610,3 +1614,4 @@ moonlabelkit,Zy789kl/moonlabelkit,0.1.0,1779,6,2026-07-13T09:20:09.842845
 moontls-parser,yhsrtty/moontls-parser,0.1.0,1285,2,2026-07-13T09:56:04.057873
 moonyara,Hjyyutr/moonyara,0.1.1,4295,3,2026-07-13T11:16:32.501231
 moonnlp,ppyq882/moonnlp,0.1.1,3812,4,2026-07-13T13:56:50.070252
+minitpl,joanna/minitpl,0.1.2,512,5,2026-07-16T03:19:54.478118
