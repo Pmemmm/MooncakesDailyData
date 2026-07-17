@@ -729,6 +729,7 @@ NyaSearch,xunyoyo/NyaSearch,0.1.0,500,1,2025-03-01T08:53:06.179032
 permutation,xunyoyo/permutation,0.1.3,209,4,2024-11-17T16:19:56.797966
 Permutation,xunyoyo/Permutation,0.1.1,216,4,2024-11-15T10:48:43.405249
 i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
+katex-parser,kokic/katex-parser,0.1.0,11513,1,2026-07-17T05:12:03.825384
 momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
@@ -1035,9 +1036,10 @@ wasm_isa_lower,Milky2018/wasm_isa_lower,0.2.2,3300,1,2026-07-14T05:43:28.942499
 wasm_milkir,Milky2018/wasm_milkir,0.2.0,1828,1,2026-07-14T05:42:50.279207
 wasmoon,Milky2018/wasmoon,0.7.0,131323,26,2026-07-14T05:44:17.001334
 wasmoon_jit,Milky2018/wasmoon_jit,0.2.0,17036,4,2026-07-14T05:43:52.858553
-wgpu_mbt,Milky2018/wgpu_mbt,0.14.8,45202,10,2026-07-02T08:30:42.534203
+wgpu_mbt,Milky2018/wgpu_mbt,0.15.0,45723,10,2026-07-17T05:57:18.035804
 wgsl,Milky2018/wgsl,0.15.3,72369,8,2026-07-03T07:07:31.972757
-window,Milky2018/window,0.5.4,22911,13,2026-07-15T07:19:49.229786
+window,Milky2018/window,0.6.0,23007,13,2026-07-17T05:37:36.485732
+windowing,Milky2018/windowing,0.1.0,420,1,2026-07-17T05:37:12.320833
 x64_target,Milky2018/x64_target,0.1.2,583,1,2026-07-14T05:43:16.815194
 xml,Milky2018/xml,0.4.0,18623,1,2026-07-13T09:09:40.222228
 zstd,Milky2018/zstd,0.1.1,41283,1,2026-06-10T06:13:35.537358
@@ -1263,7 +1265,7 @@ oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
-moonpg,jaredzhou/moonpg,0.4.0,9802,2,2026-07-16T03:13:45.413452
+moonpg,jaredzhou/moonpg,0.5.1,10930,2,2026-07-17T04:33:55.165610
 pony,jaredzhou/pony,0.1.1,2761,3,2026-06-21T03:05:54.897810
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
@@ -1488,7 +1490,7 @@ image,shunge/image,0.1.4,71347,1,2026-07-10T14:11:24.143901
 mjwt,RabitLogic/mjwt,0.2.0,3049,1,2026-07-16T00:02:16.546328
 rope,Teddy-Yangjiale/rope,0.1.0,1189,2,2026-06-26T16:56:04.134649
 moonflowgraph,AlexenderSokolov/moonflowgraph,0.3.0,4233,5,2026-07-13T12:04:42.850567
-moonchart,JunJunTnT/moonchart,0.1.1,3711,8,2026-07-07T05:11:03.159913
+moonchart,JunJunTnT/moonchart,0.1.2,3850,8,2026-07-17T05:04:43.831021
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
 millow,megemini/millow,0.3.1,8133,6,2026-07-11T03:45:38.863062
@@ -1617,3 +1619,5 @@ moonnlp,ppyq882/moonnlp,0.1.1,3812,4,2026-07-13T13:56:50.070252
 minitpl,joanna/minitpl,0.1.2,512,5,2026-07-16T03:19:54.478118
 moonbit-texteditor,lexchb/moonbit-texteditor,0.1.0,3502,1,2026-07-16T12:27:11.289357
 yamlscript,ingydotnet/yamlscript,0.2.28,92,1,2026-07-16T19:14:59.727315
+crescent,hnlyxiaobing/crescent,0.10.1,23434,23,2026-07-17T04:46:58.066722
+MBOpenClacky,hnlyxiaobing/MBOpenClacky,0.1.0,98780,33,2026-07-17T05:36:07.810550
