@@ -1257,7 +1257,7 @@ toml_parser,maria/toml_parser,0.1.0,1018,2,2025-11-18T12:36:30.481339
 miao,kalculos/miao,0.1.0-M2,11498,12,2025-11-24T13:21:20.778285
 moon_expr,sombozone/moon_expr,0.1.0,4004,7,2025-12-02T13:29:54.305420
 brainfuck,nuskey8/brainfuck,0.1.2,180,2,2025-12-05T06:02:35.808609
-c,nuskey8/c,0.3.1,2117,1,2026-07-16T17:16:21.522241
+c,nuskey8/c,0.3.3,2462,1,2026-07-17T03:08:05.515887
 lisp,nuskey8/lisp,0.1.4,389,2,2025-12-21T16:20:24.135992
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
@@ -1527,14 +1527,14 @@ moonblox-cli,xz-xuezhe/moonblox-cli,0.2.0,6037,13,2026-07-08T15:44:44.377942
 moonlexkit,Wyh123456559/moonlexkit,0.2.0,1126,3,2026-07-06T12:49:24.601598
 moonnavkit,cn-cheems/moonnavkit,0.3.0,2477,3,2026-07-05T19:09:35.252704
 moonsignalkit,cn-wn/moonsignalkit,0.2.1,912,3,2026-07-06T12:02:26.082816
-moongeokit,cn-xjr/moongeokit,0.2.1,1283,3,2026-07-06T12:38:30.340001
+moongeokit,cn-xjr/moongeokit,0.3.0,1697,3,2026-07-17T00:21:35.517334
 MoonHashKit,cn-ybm/MoonHashKit,0.3.0,1519,3,2026-07-16T23:21:24.549500
 moonchartkit,cosettese/moonchartkit,0.2.0,1041,3,2026-07-06T02:10:13.400361
-moonquotakit,vivid-oi/moonquotakit,0.2.0,1410,3,2026-07-06T06:34:46.522991
-moonshardkit,Dz-6666/moonshardkit,0.2.0,2215,3,2026-07-06T09:00:03.952793
+moonquotakit,vivid-oi/moonquotakit,0.3.0,1516,3,2026-07-17T01:45:42.688401
+moonshardkit,Dz-6666/moonshardkit,0.4.0,2755,4,2026-07-17T00:03:34.814556
 clickhouse-driver,liuhuo23/clickhouse-driver,0.1.1,2429,2,2026-07-07T16:55:03.967071
 moonreplaykit,LAOBIAO656/moonreplaykit,0.2.0,2253,3,2026-07-06T10:22:15.269155
-moontxnkit,black-duck666/moontxnkit,0.3.0,1812,3,2026-07-06T10:35:15.724615
+moontxnkit,black-duck666/moontxnkit,0.4.0,1889,3,2026-07-17T02:11:53.462063
 moonwheelkit,brother-666/moonwheelkit,0.2.1,1652,3,2026-07-06T13:05:19.963994
 moonsatkit,yf666888/moonsatkit,0.2.0,1216,3,2026-07-06T12:25:26.995609
 moon-ssg,Myytsjj/moon-ssg,0.3.0,2158,3,2026-07-12T15:35:45.043204
