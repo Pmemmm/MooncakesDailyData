@@ -959,7 +959,7 @@ Autumn_frame,PingGuoMiaoMiao/Autumn_frame,0.1.0,14303,24,2025-11-09T02:29:39.683
 hello,PingGuoMiaoMiao/hello,0.1.0,25,2,2025-03-11T13:22:26.718149
 LunarKeccak256,PingGuoMiaoMiao/LunarKeccak256,0.1.3,1023,2,2025-12-29T07:14:57.507263
 mooncove,PingGuoMiaoMiao/mooncove,0.1.0,1413,2,2025-09-06T05:45:32.321820
-MoonVision,PingGuoMiaoMiao/MoonVision,0.2.3,8860,16,2026-07-17T07:02:48.462068
+MoonVision,PingGuoMiaoMiao/MoonVision,0.2.4,8852,16,2026-07-17T11:52:45.646002
 xing0818,xing0818/xing0818,0.1.0,15,1,2025-03-11T13:31:44.729211
 yhsz,YHSZ-ONEC/yhsz,0.1.0,12,1,2025-03-11T13:41:59.854488
 djisnj,djisnj/djisnj,0.1.0,16,1,2025-03-11T13:46:47.441234
@@ -1463,7 +1463,7 @@ ssh_client,PaiGack/ssh_client,0.4.0,37164,18,2026-07-07T15:15:26.391649
 promptx,wangmingfa/promptx,0.1.4,583,4,2026-07-12T14:55:27.213340
 zipx,wangmingfa/zipx,0.1.3,1840,3,2026-07-05T14:29:03.734526
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
-better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.0,9720,13,2026-06-29T13:17:14.898545
+better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.1,10075,13,2026-07-17T13:10:46.186145
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
 valence,helios-house/valence,0.3.0,3179,1,2026-07-13T10:47:11.355059
@@ -1533,7 +1533,7 @@ moonblox,xz-xuezhe/moonblox,0.2.0,4436,6,2026-07-08T15:44:15.050101
 moonblox-cli,xz-xuezhe/moonblox-cli,0.2.0,6037,13,2026-07-08T15:44:44.377942
 moonlexkit,Wyh123456559/moonlexkit,0.2.0,1126,3,2026-07-06T12:49:24.601598
 moonnavkit,cn-cheems/moonnavkit,0.3.0,2477,3,2026-07-05T19:09:35.252704
-moonsignalkit,cn-wn/moonsignalkit,0.2.1,912,3,2026-07-06T12:02:26.082816
+moonsignalkit,cn-wn/moonsignalkit,0.3.0,1254,3,2026-07-17T13:13:06.924739
 moongeokit,cn-xjr/moongeokit,0.3.0,1697,3,2026-07-17T00:21:35.517334
 MoonHashKit,cn-ybm/MoonHashKit,0.3.0,1519,3,2026-07-16T23:21:24.549500
 moonchartkit,cosettese/moonchartkit,0.2.0,1041,3,2026-07-06T02:10:13.400361
@@ -1560,7 +1560,7 @@ moonllm,DC-Z-lab/moonllm,0.1.0,6489,7,2026-07-07T07:05:30.067705
 msdoc-viewer,XiaoChenxu/msdoc-viewer,0.1.1,14830,2,2026-07-08T02:29:33.512314
 petgraph,I3eg1nner/petgraph,0.1.0,6583,7,2026-07-07T16:12:37.498202
 moonbench,Han-Wentao/moonbench,0.3.0,7124,3,2026-07-15T05:31:49.686920
-moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.1.0,835,6,2026-07-07T16:44:45.203387
+moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.1.1,1517,8,2026-07-17T12:50:30.703639
 moon-ray,Kai-Junhan/moon-ray,0.3.1,4345,2,2026-07-17T09:18:07.605728
 moon-sketch-kit,cauchyQ/moon-sketch-kit,0.1.0,4447,5,2026-07-08T01:45:31.622371
 moon-mustache,bellesz0611/moon-mustache,0.2.0,11292,16,2026-07-11T04:01:49.469012
