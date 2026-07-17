@@ -217,7 +217,7 @@ iterator,Yu-zh/iterator,0.1.0,524,2,2025-03-09T07:39:50.184770
 sslist,Yu-zh/sslist,0.1.0,177,1,2025-03-07T15:53:44.358431
 termbit,Yu-zh/termbit,0.1.1,236,1,2025-04-09T03:33:08.950856
 tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
-any,Yoorkin/any,0.2.0,1155,1,2026-05-26T02:56:21.960048
+any,Yoorkin/any,0.2.1,1160,1,2026-07-17T10:34:09.898811
 ArgParser,Yoorkin/ArgParser,0.2.1,213,1,2026-02-11T03:30:59.716596
 cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
 duplix,Yoorkin/duplix,0.2.9,3148,4,2026-07-15T04:03:30.651190
@@ -1271,7 +1271,7 @@ test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
 moonpg,jaredzhou/moonpg,0.5.1,10930,2,2026-07-17T04:33:55.165610
-pony,jaredzhou/pony,0.2.3,4692,3,2026-07-17T09:55:54.849127
+pony,jaredzhou/pony,0.2.4,4901,3,2026-07-17T10:51:19.168703
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
 strsim,hiroyannnn/strsim,0.2.0,861,3,2026-03-20T16:35:24.097041
@@ -1423,7 +1423,7 @@ pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9,2026-04-18T18:22:49.645570
 vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
-BitLogger,Nanaloveyuki/BitLogger,0.7.0,19774,22,2026-07-07T12:09:33.228351
+BitLogger,Nanaloveyuki/BitLogger,0.7.1,19785,22,2026-07-17T11:20:08.242254
 feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
