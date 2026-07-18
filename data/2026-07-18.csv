@@ -1267,9 +1267,10 @@ brainfuck,nuskey8/brainfuck,0.1.2,180,2,2025-12-05T06:02:35.808609
 c,nuskey8/c,0.3.4,2481,1,2026-07-17T16:30:09.080813
 lisp,nuskey8/lisp,0.1.4,389,2,2025-12-21T16:20:24.135992
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
+raylib,nuskey8/raylib,0.1.0,10854,2,2026-07-18T11:04:00.229991
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
-mooncedar,jaredzhou/mooncedar,0.1.1,10342,4,2026-06-21T03:05:41.424516
+mooncedar,jaredzhou/mooncedar,0.1.3,11332,4,2026-07-18T10:14:12.180129
 moonpg,jaredzhou/moonpg,0.5.1,10930,2,2026-07-17T04:33:55.165610
 pony,jaredzhou/pony,0.3.0,5102,3,2026-07-18T01:46:54.095753
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
@@ -1466,7 +1467,7 @@ yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 better-edit-tools-mcp,conglinyizhi/better-edit-tools-mcp,0.1.1,10075,13,2026-07-17T13:10:46.186145
 moon-embed,conglinyizhi/moon-embed,0.1.2,356,2,2026-06-09T14:57:37.441372
 aho-corasick,helios-house/aho-corasick,0.4.0,780,1,2026-06-14T00:26:44.913016
-valence,helios-house/valence,0.3.0,3179,1,2026-07-13T10:47:11.355059
+valence,helios-house/valence,0.3.1,3358,1,2026-07-18T10:32:19.500793
 moonbit-pathfinding,Suquster/moonbit-pathfinding,0.2.0,181493,71,2026-07-12T22:38:23.743768
 mb-secure-stream,ChenJiasen-123/mb-secure-stream,0.1.3,8512,10,2026-07-11T13:11:54.230114
 nestedtext,OrisGo/nestedtext,0.1.1,6924,2,2026-07-11T15:24:08.597158
