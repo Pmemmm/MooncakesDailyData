@@ -1,4 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Gym-789/moonquantilekit,新增,620,2,0,0,620,2
 hxiuzheng/moon_diffusion_lab,新增,1922,7,0,0,1922,7
 nuskey8/raylib,新增,10854,2,0,0,10854,2
 Oyc996/moonwatermarkkit,新增,722,2,0,0,722,2
