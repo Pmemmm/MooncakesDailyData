@@ -9,6 +9,9 @@ colmugx/posoco,有变化,7852,0,7581,1,15433,1
 cxh04/cron_mbt,有变化,92,0,1052,2,1144,2
 jaredzhou/mooncedar,有变化,-14,0,11332,4,11318,4
 JIA2JIA2/moonbitdb,有变化,-6930,0,11518,6,4588,6
+justjavac/proton,有变化,1039,0,10473,9,11512,9
+justjavac/proton_cli,有变化,11591,5,5415,3,17006,8
+justjavac/proton_config,有变化,1036,0,591,1,1627,1
 kokic/katex-parser,有变化,870,1,11513,1,12383,2
 moonbit-community/rabbita,有变化,2096,0,23901,21,25997,21
 Nanaloveyuki/BitLogger,有变化,354,1,19785,22,20139,23
@@ -585,9 +588,6 @@ justjavac/microphone,无变化,0,0,618,3,618,3
 justjavac/notification,无变化,0,0,501,1,501,1
 justjavac/num_cpus,无变化,0,0,273,2,273,2
 justjavac/platform,无变化,0,0,559,2,559,2
-justjavac/proton,无变化,0,0,10473,9,10473,9
-justjavac/proton_cli,无变化,0,0,5415,3,5415,3
-justjavac/proton_config,无变化,0,0,591,1,591,1
 justjavac/proton_ext,无变化,0,0,5890,13,5890,13
 justjavac/quickjs,无变化,0,0,1896,5,1896,5
 justjavac/replace_self,无变化,0,0,1168,2,1168,2
