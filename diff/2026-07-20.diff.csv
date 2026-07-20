@@ -1,7 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 ddd-1234d/MoonCRDTKit,新增,1146,2,0,0,1146,2
+Milky2018/chicle,新增,19532,8,0,0,19532,8
 brother-666/moonwheelkit,有变化,4,0,1652,3,1656,3
 justjavac/proton_cli,有变化,58,0,17006,8,17064,8
+Milky2018/diago,有变化,31934,4,137028,32,168962,36
 shina1024/jqx,有变化,398,0,21263,11,21661,11
 wzzc-dev/window,有变化,23,0,35195,23,35218,23
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -751,7 +753,6 @@ Mepy/Laurus,无变化,0,0,15557,7,15557,7
 Metalymph/relay,无变化,0,0,2256,4,2256,4
 Metalymph/valkey,无变化,0,0,1675,2,1675,2
 Milky2018/aarch64_target,无变化,0,0,663,1,663,1
-Milky2018/diago,无变化,0,0,137028,32,137028,32
 Milky2018/gamepad,无变化,0,0,13600,1,13600,1
 Milky2018/guardch,无变化,0,0,72,1,72,1
 Milky2018/html,无变化,0,0,89678,3,89678,3
