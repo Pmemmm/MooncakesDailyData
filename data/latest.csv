@@ -697,8 +697,8 @@ microphone,justjavac/microphone,0.1.3,618,3,2026-06-29T01:43:29.233251
 notification,justjavac/notification,0.1.4,501,1,2026-06-29T01:43:04.850541
 num_cpus,justjavac/num_cpus,0.1.9,273,2,2026-06-10T05:46:03.480191
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
-proton,justjavac/proton,0.1.10,11512,9,2026-07-19T15:18:28.161025
-proton_cli,justjavac/proton_cli,0.1.7,17006,8,2026-07-19T15:31:07.278330
+proton,justjavac/proton,0.1.11,11512,9,2026-07-20T00:03:23.938252
+proton_cli,justjavac/proton_cli,0.1.8,17064,8,2026-07-20T00:03:55.182099
 proton_config,justjavac/proton_config,0.1.5,1627,1,2026-07-19T15:15:53.471191
 proton_ext,justjavac/proton_ext,0.1.7,5890,13,2026-06-28T23:47:47.808827
 quickjs,justjavac/quickjs,0.1.4,1896,5,2026-06-10T05:51:24.654692
@@ -1635,3 +1635,4 @@ moonwatermarkkit,Oyc996/moonwatermarkkit,0.2.0,722,2,2026-07-18T03:21:56.052217
 moonquantilekit,Gym-789/moonquantilekit,0.2.0,620,2,2026-07-18T15:02:28.049336
 moondriftkit,liangjx987/moondriftkit,0.2.0,591,2,2026-07-18T15:29:26.579527
 moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
+MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905

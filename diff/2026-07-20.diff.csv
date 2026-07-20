@@ -1,5 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+ddd-1234d/MoonCRDTKit,新增,1146,2,0,0,1146,2
 brother-666/moonwheelkit,有变化,4,0,1652,3,1656,3
+justjavac/proton_cli,有变化,58,0,17006,8,17064,8
 shina1024/jqx,有变化,398,0,21263,11,21661,11
 wzzc-dev/window,有变化,23,0,35195,23,35218,23
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -580,7 +582,6 @@ justjavac/notification,无变化,0,0,501,1,501,1
 justjavac/num_cpus,无变化,0,0,273,2,273,2
 justjavac/platform,无变化,0,0,559,2,559,2
 justjavac/proton,无变化,0,0,11512,9,11512,9
-justjavac/proton_cli,无变化,0,0,17006,8,17006,8
 justjavac/proton_config,无变化,0,0,1627,1,1627,1
 justjavac/proton_ext,无变化,0,0,5890,13,5890,13
 justjavac/quickjs,无变化,0,0,1896,5,1896,5
