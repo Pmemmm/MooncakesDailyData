@@ -471,7 +471,7 @@ gfx,mizchi/gfx,0.1.0,6125,1,2026-05-23T08:19:31.110298
 git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
 github,mizchi/github,0.1.2,1337,11,2026-04-04T17:03:34.057712
 glfw,mizchi/glfw,0.2.2,481,2,2026-03-25T08:05:47.287058
-image,mizchi/image,0.4.2,6101,1,2026-05-26T13:54:14.011850
+image,mizchi/image,0.4.3,6138,1,2026-07-20T12:22:02.986307
 jq,mizchi/jq,0.2.2,10923,2,2026-04-25T13:41:16.471499
 js,mizchi/js,0.12.1,78443,113,2026-05-26T08:26:34.095059
 js_browser,mizchi/js_browser,0.12.1,29408,12,2026-05-26T08:32:34.970197
@@ -1062,7 +1062,7 @@ moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1,2026-01-03T11:08:55.614509
 SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1,2025-07-26T16:25:12.426472
 alga,dowdiness/alga,0.4.0,7024,1,2026-06-22T17:15:56.442288
 btree,dowdiness/btree,0.1.0,4422,1,2026-04-24T12:18:36.372333
-event-graph-walker,dowdiness/event-graph-walker,0.3.0,26941,13,2026-07-05T06:19:00.489662
+event-graph-walker,dowdiness/event-graph-walker,0.4.0,31349,15,2026-07-20T13:40:17.347889
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
 incr,dowdiness/incr,0.14.2,30069,9,2026-07-10T14:16:41.015986
@@ -1352,7 +1352,7 @@ llm_interop,trkbt10/llm_interop,0.3.0,26468,17,2026-03-22T05:15:29.197470
 micado_mbt,trkbt10/micado_mbt,0.6.1,8453,21,2026-02-22T14:38:38.842084
 osenv,trkbt10/osenv,0.1.0,1792,6,2026-03-21T05:54:11.754450
 subprocess,trkbt10/subprocess,0.2.0,1882,6,2026-03-16T09:17:59.320523
-vcdb,trkbt10/vcdb,0.3.0,34280,25,2026-04-09T08:31:59.519617
+vcdb,trkbt10/vcdb,0.3.2,36938,25,2026-07-20T12:09:43.869630
 hello,tekihei2317/hello,0.0.3,55,2,2026-02-06T05:21:42.980904
 mknip,nysopua/mknip,0.1.0,1466,2,2026-02-06T15:39:10.069915
 moonbitap,fuwasegu/moonbitap,0.1.0,333,1,2026-02-06T16:55:34.128453
