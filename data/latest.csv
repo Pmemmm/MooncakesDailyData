@@ -1044,7 +1044,7 @@ wasm_isa_lower,Milky2018/wasm_isa_lower,0.2.2,3300,1,2026-07-14T05:43:28.942499
 wasm_milkir,Milky2018/wasm_milkir,0.2.0,1828,1,2026-07-14T05:42:50.279207
 wasmoon,Milky2018/wasmoon,0.7.0,131323,26,2026-07-14T05:44:17.001334
 wasmoon_jit,Milky2018/wasmoon_jit,0.2.0,17036,4,2026-07-14T05:43:52.858553
-wgpu_mbt,Milky2018/wgpu_mbt,0.15.0,45723,10,2026-07-17T05:57:18.035804
+wgpu_mbt,Milky2018/wgpu_mbt,0.16.0,45845,10,2026-07-21T13:53:00.455694
 wgsl,Milky2018/wgsl,0.17.0,69279,5,2026-07-21T03:20:42.420766
 window,Milky2018/window,0.6.0,23007,13,2026-07-17T05:37:36.485732
 windowing,Milky2018/windowing,0.1.0,420,1,2026-07-17T05:37:12.320833
@@ -1059,7 +1059,7 @@ markitdown,ZSeanYves/markitdown,0.5.3,182209,106,2026-07-12T15:41:25.028084
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.1.0,708,1,2025-07-29T17:48:02.465967
 MoonIDNA,ZSeanYves/MoonIDNA,0.1.0,12162,1,2025-12-26T13:16:31.442658
 moonjinja,ZSeanYves/moonjinja,0.1.1,2137,1,2026-01-03T11:08:55.614509
-SimplexNoise,ZSeanYves/SimplexNoise,0.1.0,3085,1,2025-07-26T16:25:12.426472
+SimplexNoise,ZSeanYves/SimplexNoise,0.2.0,4655,4,2026-07-21T10:46:33.827229
 alga,dowdiness/alga,0.4.0,7024,1,2026-06-22T17:15:56.442288
 btree,dowdiness/btree,0.1.0,4422,1,2026-04-24T12:18:36.372333
 event-graph-walker,dowdiness/event-graph-walker,0.4.0,31349,15,2026-07-20T13:40:17.347889
@@ -1372,6 +1372,7 @@ drawille,cg-zhou/drawille,0.1.2,583,2,2026-05-08T02:10:39.562438
 moon_lottie,cg-zhou/moon_lottie,0.3.0,19265,7,2026-05-08T02:08:08.912573
 admiral,totto2727/admiral,0.2.1,1544,2,2026-07-20T09:06:34.011804
 geo-mbt,totto2727/geo-mbt,0.1.0,24431,4,2026-05-11T13:23:09.751683
+target-file-discovery,totto2727/target-file-discovery,0.1.0,564,1,2026-07-21T13:49:05.341678
 sfo,jtenner/sfo,0.1.1,13087,1,2026-02-17T20:48:33.625955
 telnet,jtenner/telnet,0.1.3,29427,6,2026-05-26T00:54:14.550448
 sql,ash1day/sql,0.1.0,6085,4,2026-02-20T06:19:32.577685
@@ -1512,7 +1513,7 @@ moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.2.0,2337,8,2026-07-16T03:12:18.557835
 MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
-moonmarkdown,oilleelssq-wq/moonmarkdown,0.1.2,4312,9,2026-07-07T14:34:45.728347
+moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.2,3499,2,2026-07-16T17:17:01.681348
 mooncollections,Zongzuixi114514/mooncollections,0.1.4,4660,13,2026-07-10T12:07:51.928225
@@ -1604,7 +1605,7 @@ moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
 moonbitdb,JIA2JIA2/moonbitdb,0.1.1,4588,6,2026-07-19T06:33:58.665651
 moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
 bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
-BioSeqs,IvanAXu/BioSeqs,0.1.4,11665,14,2026-07-12T04:15:07.372146
+BioSeqs,IvanAXu/BioSeqs,0.1.5,92577,103,2026-07-21T11:31:13.017389
 moon_diffusion_lab,hxiuzheng/moon_diffusion_lab,0.1.0,1922,7,2026-07-18T03:22:12.724452
 moon_sfv,serene-WJ/moon_sfv,0.1.0,1063,2,2026-07-12T04:51:56.471201
 moongrad,lyjttio/moongrad,0.1.1,1700,2,2026-07-20T10:34:16.404459
