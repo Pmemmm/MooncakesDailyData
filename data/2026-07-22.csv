@@ -694,7 +694,7 @@ global_hotkey,justjavac/global_hotkey,0.1.5,1394,1,2026-06-30T08:18:53.307434
 itoa,justjavac/itoa,0.2.4,760,1,2026-06-10T05:41:53.565170
 keepawake,justjavac/keepawake,0.1.4,793,2,2026-06-29T08:09:04.474475
 microphone,justjavac/microphone,0.1.3,618,3,2026-06-29T01:43:29.233251
-notification,justjavac/notification,0.1.4,501,1,2026-06-29T01:43:04.850541
+notification,justjavac/notification,0.1.5,711,1,2026-07-22T06:26:32.389167
 num_cpus,justjavac/num_cpus,0.1.9,273,2,2026-06-10T05:46:03.480191
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
 proton,justjavac/proton,0.1.11,11512,9,2026-07-20T00:03:23.938252
@@ -740,6 +740,7 @@ momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
 sexp-html,kokic/sexp-html,0.4.0,1363,1,2026-06-25T04:03:24.920457
+talcparsec,kokic/talcparsec,0.1.0,2397,3,2026-07-22T05:51:57.833848
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 tinymark,kokic/tinymark,0.3.9,4766,5,2026-07-14T09:42:42.405113
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
@@ -1216,6 +1217,7 @@ debug_deriving,moonbit-community/debug_deriving,0.1.1,637,1,2025-12-24T06:42:44.
 displaytext,moonbit-community/displaytext,0.1.5,935,1,2026-06-07T10:09:41.301723
 dom_sanitizer,moonbit-community/dom_sanitizer,0.1.0,2546,1,2026-03-30T10:43:02.574103
 editor,moonbit-community/editor,0.2.0,121273,41,2026-07-21T07:39:51.712334
+elasticsearch,moonbit-community/elasticsearch,0.1.0,111180,3,2026-07-22T05:06:43.148380
 elf,moonbit-community/elf,0.0.1,9902,1,2026-05-15T09:45:51.950306
 embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
@@ -1516,10 +1518,10 @@ MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.2,3499,2,2026-07-16T17:17:01.681348
-mooncollections,Zongzuixi114514/mooncollections,0.1.4,4660,13,2026-07-10T12:07:51.928225
+mooncollections,Zongzuixi114514/mooncollections,0.1.5,4664,13,2026-07-22T06:14:10.627852
 stencil,LL124-Arch/stencil,0.1.1,1057,2,2026-07-11T07:46:14.865194
 moongraph,wedarp/moongraph,0.1.0,978,1,2026-07-05T13:30:32.108925
-moonmodguard,Noverberrain/moonmodguard,0.1.1,1537,2,2026-07-11T04:50:49.419346
+moonmodguard,Noverberrain/moonmodguard,0.2.0,2435,2,2026-07-22T04:19:56.155683
 moonproto,Duan-lang-dev/moonproto,0.1.0,2301,2,2026-07-05T13:46:12.799977
 moonorbit,didiLjf/moonorbit,0.1.0,353,2,2026-07-05T13:48:35.345551
 moontemplate,jshsj124/moontemplate,0.1.0,655,6,2026-07-05T13:52:57.643796

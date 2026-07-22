@@ -1,13 +1,18 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 ingydotnet/yamlstar,新增,92,1,0,0,92,1
+kokic/talcparsec,新增,2397,3,0,0,2397,3
 marianoguerra/tutuca,新增,44890,23,0,0,44890,23
+moonbit-community/elasticsearch,新增,111180,3,0,0,111180,3
+justjavac/notification,有变化,210,0,501,1,711,1
 Milky2018/selene,有变化,76,0,64617,59,64693,59
 Milky2018/selene_editor_frontend,有变化,-48,0,14601,4,14553,4
 Milky2018/selene_editor_service,有变化,13,0,3047,2,3060,2
 Milky2018/selene_raylib,有变化,-60,0,8545,6,8485,6
 Milky2018/selene_webgpu,有变化,-31,0,10837,6,10806,6
+Noverberrain/moonmodguard,有变化,898,0,1537,2,2435,2
 RabitLogic/mbit,有变化,3424,0,9562,2,12986,2
 totto2727/admiral,有变化,1414,0,1544,2,2958,2
+Zongzuixi114514/mooncollections,有变化,4,0,4660,13,4664,13
 ZSeanYves/MoonbitBSON,有变化,13502,3,708,1,14210,4
 ZSeanYves/MoonIDNA,有变化,1936,0,12162,1,14098,1
 ZSeanYves/moonjinja,有变化,3182,1,2137,1,5319,2
@@ -588,7 +593,6 @@ justjavac/global_hotkey,无变化,0,0,1394,1,1394,1
 justjavac/itoa,无变化,0,0,760,1,760,1
 justjavac/keepawake,无变化,0,0,793,2,793,2
 justjavac/microphone,无变化,0,0,618,3,618,3
-justjavac/notification,无变化,0,0,501,1,501,1
 justjavac/num_cpus,无变化,0,0,273,2,273,2
 justjavac/platform,无变化,0,0,559,2,559,2
 justjavac/proton,无变化,0,0,11512,9,11512,9
@@ -1146,7 +1150,6 @@ nexacodes/moontask,无变化,0,0,6493,10,6493,10
 NiHao124538/examine,无变化,0,0,110,2,110,2
 nodex/ssmp,无变化,0,0,109,1,109,1
 NoEmotionYY/moon-pathplanning,无变化,0,0,8131,16,8131,16
-Noverberrain/moonmodguard,无变化,0,0,1537,2,1537,2
 npmstudy/readline,无变化,0,0,4836,4,4836,4
 nuskey8/brainfuck,无变化,0,0,180,2,180,2
 nuskey8/c,无变化,0,0,2481,1,2481,1
@@ -1635,7 +1638,6 @@ ZijianFeng33/strongPasswordChecker,无变化,0,0,381,2,381,2
 zkazure/moonfocus,无变化,0,0,4684,7,4684,7
 zlhahaha/moonsim,无变化,0,0,11792,19,11792,19
 zmjknn/moonmark,无变化,0,0,746,4,746,4
-Zongzuixi114514/mooncollections,无变化,0,0,4660,13,4660,13
 zploc/loci,无变化,0,0,31491,20,31491,20
 ZSeanYves/bufferutils,无变化,0,0,6279,3,6279,3
 ZSeanYves/doc_parser,无变化,0,0,92139,69,92139,69
