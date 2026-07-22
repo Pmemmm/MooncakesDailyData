@@ -1081,7 +1081,7 @@ jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
-posoco,colmugx/posoco,0.5.0,24427,6,2026-07-22T09:19:48.515099
+posoco,colmugx/posoco,0.5.2,24464,6,2026-07-22T11:06:49.361145
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1277,10 +1277,12 @@ lisp,nuskey8/lisp,0.1.4,389,2,2025-12-21T16:20:24.135992
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 raylib,nuskey8/raylib,0.1.0,10854,2,2026-07-18T11:04:00.229991
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
+foxql,jaredzhou/foxql,0.1.3,3301,4,2026-07-22T13:04:25.896564
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.5,11318,4,2026-07-19T13:30:25.492184
 moonpg,jaredzhou/moonpg,0.5.1,10930,2,2026-07-17T04:33:55.165610
 pony,jaredzhou/pony,0.3.0,5102,3,2026-07-18T01:46:54.095753
+queryx,jaredzhou/queryx,0.2.1,2597,1,2026-07-22T13:05:30.906610
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
 sketch,hiroyannnn/sketch,0.1.0,975,2,2026-03-22T15:38:01.802020
 strsim,hiroyannnn/strsim,0.2.0,861,3,2026-03-20T16:35:24.097041
@@ -1649,3 +1651,4 @@ moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
 tutuca,marianoguerra/tutuca,0.1.1,44890,23,2026-07-21T20:21:10.360494
+moon_api_guard,FidollarinLA/moon_api_guard,0.1.1,1922,2,2026-07-22T12:45:51.772558

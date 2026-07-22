@@ -1,12 +1,15 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+FidollarinLA/moon_api_guard,新增,1922,2,0,0,1922,2
 ingydotnet/yamlstar,新增,92,1,0,0,92,1
+jaredzhou/foxql,新增,3301,4,0,0,3301,4
+jaredzhou/queryx,新增,2597,1,0,0,2597,1
 kokic/talcparsec,新增,2383,3,0,0,2383,3
 marianoguerra/tutuca,新增,44890,23,0,0,44890,23
 Milky2018/css,新增,40513,9,0,0,40513,9
 Milky2018/wasm_machv,新增,2344,1,0,0,2344,1
 moonbit-community/elasticsearch,新增,111180,3,0,0,111180,3
 Yoorkin/command,新增,240,1,0,0,240,1
-colmugx/posoco,有变化,8994,5,15433,1,24427,6
+colmugx/posoco,有变化,9031,5,15433,1,24464,6
 justjavac/notification,有变化,210,0,501,1,711,1
 Milky2018/aarch64_target,有变化,23021,0,663,1,23684,1
 Milky2018/machv,有变化,7474,-6,4388,9,11862,3
