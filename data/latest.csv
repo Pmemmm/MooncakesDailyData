@@ -984,7 +984,7 @@ examine,Penguinsltp/examine,0.1.0,66,2,2025-04-02T09:19:17.841277
 gif_decoder,Penguinsltp/gif_decoder,0.1.1,1508,3,2025-10-02T09:46:48.942799
 aarch64_target,Milky2018/aarch64_target,0.3.1,24049,1,2026-07-23T08:33:19.094010
 chicle,Milky2018/chicle,0.6.0,19532,8,2026-07-20T05:36:28.157376
-css,Milky2018/css,0.5.1,40704,9,2026-07-23T10:23:57.114254
+css,Milky2018/css,0.5.2,40704,9,2026-07-23T11:47:45.154133
 diago,Milky2018/diago,0.3.0,168962,36,2026-07-20T06:23:56.726341
 gamepad,Milky2018/gamepad,0.4.6,13600,1,2026-06-10T07:20:51.401666
 guardch,Milky2018/guardch,0.1.0,72,1,2025-05-19T08:34:41.063995
@@ -1038,7 +1038,7 @@ selene_tools,Milky2018/selene_tools,0.32.2,470,2,2026-04-14T07:40:10.083218
 selene_webgpu,Milky2018/selene_webgpu,0.37.0,10806,6,2026-07-22T03:16:55.646135
 slotmap,Milky2018/slotmap,0.1.2,3217,1,2026-05-08T09:18:03.970553
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2,2025-11-27T10:09:29.250366
-svg,Milky2018/svg,0.5.1,23617,2,2026-07-23T10:24:09.427974
+svg,Milky2018/svg,0.5.2,23596,2,2026-07-23T11:48:51.461336
 svgdiff,Milky2018/svgdiff,0.5.13,37169,3,2026-07-16T02:23:57.444498
 svgdiff-raster-codec,Milky2018/svgdiff-raster-codec,0.1.0,1199,1,2026-07-16T02:23:36.734815
 sysinfo,Milky2018/sysinfo,0.1.2,6510,1,2026-04-10T01:34:25.959659
@@ -1064,7 +1064,7 @@ markitdown,ZSeanYves/markitdown,0.5.3,182209,106,2026-07-12T15:41:25.028084
 MoonbitBSON,ZSeanYves/MoonbitBSON,0.3.0,14210,4,2026-07-22T02:46:22.519910
 MoonbitHTTP,ZSeanYves/MoonbitHTTP,0.6.0,8456,11,2026-07-23T06:57:21.757193
 MoonIDNA,ZSeanYves/MoonIDNA,0.2.1,14098,1,2026-07-22T02:17:56.097989
-moonjinja,ZSeanYves/moonjinja,0.2.0,5319,2,2026-07-22T02:10:06.533325
+moonjinja,ZSeanYves/moonjinja,0.2.1,5319,2,2026-07-23T12:09:01.593356
 SimplexNoise,ZSeanYves/SimplexNoise,0.2.0,4655,4,2026-07-21T10:46:33.827229
 alga,dowdiness/alga,0.4.0,7024,1,2026-06-22T17:15:56.442288
 btree,dowdiness/btree,0.1.0,4422,1,2026-04-24T12:18:36.372333
@@ -1657,7 +1657,7 @@ moondriftkit,liangjx987/moondriftkit,0.2.0,591,2,2026-07-18T15:29:26.579527
 moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
-tutuca,marianoguerra/tutuca,0.5.0,52066,24,2026-07-22T23:16:28.689083
+tutuca,marianoguerra/tutuca,0.5.1,65356,24,2026-07-23T11:42:25.822658
 moon_api_guard,FidollarinLA/moon_api_guard,0.3.0,3030,3,2026-07-23T08:48:59.934306
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.0,5467,3,2026-07-23T07:37:13.015281
 moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
@@ -1666,3 +1666,4 @@ moonrewardforge,weidekais/moonrewardforge,0.1.0,719,2,2026-07-23T04:51:18.124303
 MoonEmbed,wskwsk68/MoonEmbed,0.1.0,908,2,2026-07-23T05:25:25.391632
 moon_tera,btlqql/moon_tera,0.2.0,2883,2,2026-07-23T08:14:31.469270
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
+moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
