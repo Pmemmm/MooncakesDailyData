@@ -269,6 +269,7 @@ arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.20.3,46246,49,2026-07-23T03:29:30.436941
 core,moonbitlang/core,0.1.20260714+ade96c819,186971,76,2026-07-14T06:04:48.646408
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
+editor,moonbitlang/editor,0.2.1,122224,41,2026-07-24T06:38:27.762495
 esp32,moonbitlang/esp32,0.1.19,797,8,2025-05-08T05:38:24.834817
 formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
@@ -1237,7 +1238,7 @@ embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
 flate,moonbit-community/flate,0.4.0,10193,4,2026-07-10T09:26:39.869585
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1,2026-02-04T02:36:34.906484
-graphviz,moonbit-community/graphviz,0.1.0,129412,85,2026-04-15T10:10:43.845684
+graphviz,moonbit-community/graphviz,0.1.1,258858,170,2026-07-24T06:13:53.932189
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21,2026-03-24T10:22:02.340733
 html,moonbit-community/html,0.1.2,102802,3,2026-06-08T07:57:23.256205
 ini,moonbit-community/ini,0.2.2,1794,1,2026-02-05T07:06:38.566835

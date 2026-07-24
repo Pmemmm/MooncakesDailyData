@@ -4,6 +4,7 @@ bobzhang/crescent_wasm_demo,新增,148,2,0,0,148,2
 KKKIIO/selene_xaml,新增,11158,7,0,0,11158,7
 Lyl66655/moonbit-workflow-engine,新增,1544,7,0,0,1544,7
 Lyllyl789/mustache,新增,5728,18,0,0,5728,18
+moonbitlang/editor,新增,122224,41,0,0,122224,41
 tonyfettes/adw,新增,1704,1,0,0,1704,1
 tonyfettes/cairo,新增,614,1,0,0,614,1
 tonyfettes/g-examples,新增,3794,9,0,0,3794,9
@@ -16,6 +17,7 @@ FidollarinLA/moon_api_guard,有变化,256,0,3030,3,3286,3
 IvanAXu/BioSeqs,有变化,43093,47,92577,103,135670,150
 KKKIIO/selene,有变化,4793,2,65938,60,70731,62
 marianoguerra/tutuca,有变化,-2333,0,65356,24,63023,24
+moonbit-community/graphviz,有变化,129446,85,129412,85,258858,170
 moonbit-community/moongrep,有变化,232,0,29552,15,29784,15
 tonyfettes/gdk,有变化,11427,0,1888,1,13315,1
 tonyfettes/gio,有变化,-2525,0,40294,1,37769,1
@@ -1081,7 +1083,6 @@ moonbit-community/embed,无变化,0,0,790,1,790,1
 moonbit-community/find_cluster_break,无变化,0,0,647,2,647,2
 moonbit-community/flate,无变化,0,0,10193,4,10193,4
 moonbit-community/fuzzy_match,无变化,0,0,571,1,571,1
-moonbit-community/graphviz,无变化,0,0,129412,85,129412,85
 moonbit-community/harfbuzz,无变化,0,0,214779,21,214779,21
 moonbit-community/html,无变化,0,0,102802,3,102802,3
 moonbit-community/ini,无变化,0,0,1794,1,1794,1
