@@ -5,6 +5,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 aurasuisui/bimap,新增,3941,3,0,0,3941,3
 bobzhang/crescent_wasm_demo,新增,148,2,0,0,148,2
 Han-Wentao/mooncontract,新增,4838,10,0,0,4838,10
+JIA2JIA2/moonbitgeodb,新增,9718,8,0,0,9718,8
 KKKIIO/selene_xaml,新增,11158,7,0,0,11158,7
 Lyl66655/moonbit-workflow-engine,新增,1544,7,0,0,1544,7
 Lyllyl789/mustache,新增,5728,18,0,0,5728,18
@@ -22,6 +23,11 @@ colmugx/posoco,有变化,833,0,24464,6,25297,6
 FidollarinLA/moon_api_guard,有变化,1043,0,3030,3,4073,3
 IvanAXu/BioSeqs,有变化,43093,47,92577,103,135670,150
 jaredzhou/moonpg,有变化,2193,2,11712,2,13905,4
+justjavac/cdp,有变化,124,0,152607,4,152731,4
+justjavac/global_hotkey,有变化,6,0,1394,1,1400,1
+justjavac/quickjs,有变化,-3,0,1896,5,1893,5
+justjavac/sys_locale,有变化,-6,0,1092,3,1086,3
+justjavac/ttl,有变化,2,0,511,2,513,2
 KKKIIO/selene,有变化,4793,2,65938,60,70731,62
 marianoguerra/tutuca,有变化,-2333,0,65356,24,63023,24
 Milky2018/aarch64_target,有变化,1169,0,24049,1,25218,1
@@ -611,7 +617,6 @@ justjavac/bytesize,无变化,0,0,868,1,868,1
 justjavac/cache_padded,无变化,0,0,1440,1,1440,1
 justjavac/camera,无变化,0,0,572,3,572,3
 justjavac/case,无变化,0,0,1330,1,1330,1
-justjavac/cdp,无变化,0,0,152607,4,152607,4
 justjavac/cdp_examples,无变化,0,0,143,1,143,1
 justjavac/ci,无变化,0,0,1201,2,1201,2
 justjavac/clipboard,无变化,0,0,591,4,591,4
@@ -620,7 +625,6 @@ justjavac/dialog,无变化,0,0,2517,6,2517,6
 justjavac/dirs,无变化,0,0,1358,1,1358,1
 justjavac/ffi,无变化,0,0,229,1,229,1
 justjavac/glob,无变化,0,0,469,1,469,1
-justjavac/global_hotkey,无变化,0,0,1394,1,1394,1
 justjavac/itoa,无变化,0,0,760,1,760,1
 justjavac/keepawake,无变化,0,0,793,2,793,2
 justjavac/microphone,无变化,0,0,618,3,618,3
@@ -631,17 +635,14 @@ justjavac/proton,无变化,0,0,11743,9,11743,9
 justjavac/proton_cli,无变化,0,0,17094,8,17094,8
 justjavac/proton_config,无变化,0,0,1723,1,1723,1
 justjavac/proton_ext,无变化,0,0,5890,13,5890,13
-justjavac/quickjs,无变化,0,0,1896,5,1896,5
 justjavac/replace_self,无变化,0,0,1168,2,1168,2
 justjavac/screenshots,无变化,0,0,490,3,490,3
-justjavac/sys_locale,无变化,0,0,1092,3,1092,3
 justjavac/template,无变化,0,0,317,1,317,1
 justjavac/template_codegen,无变化,0,0,1470,3,1470,3
 justjavac/template_examples,无变化,0,0,427,4,427,4
 justjavac/terminal_size,无变化,0,0,346,2,346,2
 justjavac/tray,无变化,0,0,1854,7,1854,7
 justjavac/tray-examples,无变化,0,0,201,4,201,4
-justjavac/ttl,无变化,0,0,511,2,511,2
 justjavac/walkdir,无变化,0,0,467,4,467,4
 justjavac/wallpaper,无变化,0,0,528,3,528,3
 justjavac/webview,无变化,0,0,1261,17,1261,17
