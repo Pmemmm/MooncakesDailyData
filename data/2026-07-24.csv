@@ -269,7 +269,7 @@ arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.20.3,46246,49,2026-07-23T03:29:30.436941
 core,moonbitlang/core,0.1.20260714+ade96c819,186971,76,2026-07-14T06:04:48.646408
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
-editor,moonbitlang/editor,0.2.1,122224,41,2026-07-24T06:38:27.762495
+editor,moonbitlang/editor,0.2.2,122257,41,2026-07-24T10:38:21.955201
 esp32,moonbitlang/esp32,0.1.19,797,8,2025-05-08T05:38:24.834817
 formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
@@ -1093,7 +1093,7 @@ jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
-posoco,colmugx/posoco,0.5.3,25296,6,2026-07-24T10:09:23.456879
+posoco,colmugx/posoco,0.5.5,25297,6,2026-07-24T10:32:38.452374
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1673,6 +1673,7 @@ moondriftkit,liangjx987/moondriftkit,0.2.0,591,2,2026-07-18T15:29:26.579527
 moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
+tailwindcss,marianoguerra/tailwindcss,0.1.3,15392,4,2026-07-24T11:35:22.210066
 tutuca,marianoguerra/tutuca,0.5.2,63023,24,2026-07-23T18:35:14.515510
 moon_api_guard,FidollarinLA/moon_api_guard,0.5.1,4073,3,2026-07-24T09:41:31.004219
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.0,5467,3,2026-07-23T07:37:13.015281
@@ -1683,3 +1684,4 @@ MoonEmbed,wskwsk68/MoonEmbed,0.1.0,908,2,2026-07-23T05:25:25.391632
 moon_tera,btlqql/moon_tera,0.2.0,2883,2,2026-07-23T08:14:31.469270
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
+pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
