@@ -1,10 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+001-Elsa/mooncron,新增,5293,2,0,0,5293,2
 Lfan-ke/basex,新增,409,3,0,0,409,3
 Magic486/moon-uri-template,新增,1256,3,0,0,1256,3
-poteto0/endor,新增,1842,4,0,0,1842,4
+mizchi/rkyv,新增,1032,2,0,0,1032,2
+poteto0/endor,新增,3202,5,0,0,3202,5
 FidollarinLA/moon_api_guard,有变化,573,1,4073,3,4646,4
-jaredzhou/moonpg,有变化,1111,0,13905,4,15016,4
+jaredzhou/moonpg,有变化,1129,0,13905,4,15034,4
 justjavac/cdp_examples,有变化,-4,0,143,1,139,1
+marianoguerra/tailwindcss,有变化,484,0,15392,4,15876,4
 mizchi/bit,有变化,270,0,160893,5,161163,5
 mizchi/bit_hash,有变化,40,0,995,2,1035,2
 mizchi/bit_io_native,有变化,159,0,2567,1,2726,1
@@ -775,7 +778,6 @@ maria/ini_parser,无变化,0,0,923,2,923,2
 maria/json_parser,无变化,0,0,1254,2,1254,2
 maria/sensor_driver,无变化,0,0,1376,2,1376,2
 maria/toml_parser,无变化,0,0,1018,2,1018,2
-marianoguerra/tailwindcss,无变化,0,0,15392,4,15392,4
 marianoguerra/tutuca,无变化,0,0,63023,24,63023,24
 mattn/postgres,无变化,0,0,562,1,562,1
 megemini/millow,无变化,0,0,8133,6,8133,6
