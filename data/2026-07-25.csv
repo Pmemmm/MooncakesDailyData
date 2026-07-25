@@ -1292,7 +1292,7 @@ test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 foxql,jaredzhou/foxql,0.1.3,3301,4,2026-07-22T13:04:25.896564
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.5,11318,4,2026-07-19T13:30:25.492184
-moonpg,jaredzhou/moonpg,0.7.0,13905,4,2026-07-24T10:04:47.998167
+moonpg,jaredzhou/moonpg,0.8.1,15020,4,2026-07-25T09:46:08.986139
 pony,jaredzhou/pony,0.3.0,5102,3,2026-07-18T01:46:54.095753
 queryx,jaredzhou/queryx,0.2.1,2597,1,2026-07-22T13:05:30.906610
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
@@ -1604,9 +1604,11 @@ moonttl,thy1016/moonttl,0.1.4,23312,5,2026-07-11T06:08:31.181182
 moonpath,wzx2007/moonpath,0.31.0,4025,3,2026-07-08T10:33:14.931108
 moon_graphql,eisem/moon_graphql,0.1.1,7127,11,2026-07-11T06:07:28.238571
 moon_mutest,Magic486/moon_mutest,0.1.7,5866,7,2026-07-12T09:07:43.389559
+moon-uri-template,Magic486/moon-uri-template,0.1.2,1256,3,2026-07-25T09:06:21.194748
 moonpack,001-Elsa/moonpack,0.1.2,5126,6,2026-07-12T15:21:24.825743
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
+basex,Lfan-ke/basex,0.1.0,409,3,2026-07-25T08:36:55.041542
 raft-moonbit,Lfan-ke/raft-moonbit,0.5.0,26989,10,2026-07-11T10:11:00.664030
 template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
 moonbit-csv,sikadi123/moonbit-csv,0.1.1,1954,8,2026-07-10T08:10:34.079533
@@ -1686,3 +1688,4 @@ moon_tera,btlqql/moon_tera,0.2.0,2883,2,2026-07-23T08:14:31.469270
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
 pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
+endor,poteto0/endor,0.1.0,1842,4,2026-07-25T08:06:28.475779
