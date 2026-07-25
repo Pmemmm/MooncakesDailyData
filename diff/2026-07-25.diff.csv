@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 001-Elsa/mooncron,新增,5293,2,0,0,5293,2
+Areo-Joe/webidl,新增,8862,5,0,0,8862,5
 Lfan-ke/basex,新增,409,3,0,0,409,3
 Magic486/moon-uri-template,新增,1256,3,0,0,1256,3
 mizchi/rkyv,新增,1032,2,0,0,1032,2
