@@ -1651,6 +1651,8 @@ moonmacro,faaaaaa3/moonmacro,0.2.2,3702,7,2026-07-17T14:51:32.564898
 moonfocus,zkazure/moonfocus,0.1.1,4684,7,2026-07-12T08:44:39.227211
 moonkv,wallll-wal6/moonkv,0.1.0,2315,2,2026-07-12T10:24:30.104091
 moonbin,hourizon/moonbin,0.1.0,1096,2,2026-07-12T10:08:15.999965
+vector,ywz1314/vector,0.1.1,1455,2,2026-07-26T11:01:30.275183
+moon_tracekit,zhzh12345678/moon_tracekit,0.1.0,3581,11,2026-07-26T11:17:31.496305
 moon-tensor,Ankaluoer/moon-tensor,0.1.0,659,2,2026-07-12T12:48:50.360177
 moonbench,sa2360/moonbench,0.3.0,1124,2,2026-07-17T07:08:34.328218
 moonsic,hyl-star/moonsic,0.1.0,25224,27,2026-07-12T13:38:03.633581
@@ -1693,5 +1695,6 @@ moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
 pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
 endor,poteto0/endor,0.2.0,3202,5,2026-07-25T13:51:48.936588
-agent,weopqrst/agent,0.1.0,891,11,2026-07-25T16:25:36.094958
-behavior_tree,mhh12345678/behavior_tree,0.1.0,1906,2,2026-07-26T08:50:05.626301
+agent,weopqrst/agent,0.2.0,2048,11,2026-07-26T10:28:47.913358
+behavior_tree,mhh12345678/behavior_tree,0.1.1,2004,2,2026-07-26T10:56:02.654216
+moon_metric_lab,myc1234567/moon_metric_lab,0.1.0,32890,21,2026-07-26T11:33:26.575395
