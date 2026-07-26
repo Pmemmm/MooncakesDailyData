@@ -1116,7 +1116,7 @@ binaryPrimitives,AXiX-official/binaryPrimitives,0.1.2,317,1,2025-09-28T13:01:49.
 xxhash,AXiX-official/xxhash,0.1.0,322,1,2025-08-01T12:36:56.836606
 threejs,FrenchPicnic/threejs,0.0.7,3211,3,2026-01-01T07:49:07.975253
 which,FrenchPicnic/which,0.1.3,297,1,2025-06-09T13:36:37.217121
-webidl,Areo-Joe/webidl,0.1.0,8862,5,2026-07-25T15:01:03.804918
+webidl,Areo-Joe/webidl,0.2.0,9259,5,2026-07-26T08:21:40.790318
 qrcode,caozhanhao/qrcode,0.1.1,3833,2,2025-06-19T10:20:06.916355
 raylib,KingBes/raylib,0.0.3,144,1,2025-06-24T07:28:49.610292
 webui,KingBes/webui,0.0.4,110,1,2025-06-25T09:16:27.318350
@@ -1640,6 +1640,7 @@ bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
 BioSeqs,IvanAXu/BioSeqs,0.1.6,135670,150,2026-07-23T17:23:48.447780
 moon_diffusion_lab,hxiuzheng/moon_diffusion_lab,0.1.0,1922,7,2026-07-18T03:22:12.724452
 moon_sfv,serene-WJ/moon_sfv,0.1.0,1063,2,2026-07-12T04:51:56.471201
+uri,Qlcdsba/uri,0.1.0,1511,2,2026-07-26T08:34:48.772015
 moonsim,wcx789ll/moonsim,0.1.0,4395,14,2026-07-22T16:54:15.720065
 moongrad,lyjttio/moongrad,0.1.1,1700,2,2026-07-20T10:34:16.404459
 moonbit-workflow-engine,Lyl66655/moonbit-workflow-engine,0.1.0,1544,7,2026-07-23T16:15:00.691848
@@ -1680,7 +1681,7 @@ moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
-tutuca,marianoguerra/tutuca,0.5.3,63081,24,2026-07-25T16:09:14.312078
+tutuca,marianoguerra/tutuca,0.5.4,56580,23,2026-07-26T08:56:17.137595
 moon_api_guard,FidollarinLA/moon_api_guard,0.5.3,4646,4,2026-07-24T16:52:24.376916
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.0,5467,3,2026-07-23T07:37:13.015281
 moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
@@ -1693,3 +1694,4 @@ moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
 pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
 endor,poteto0/endor,0.2.0,3202,5,2026-07-25T13:51:48.936588
 agent,weopqrst/agent,0.1.0,891,11,2026-07-25T16:25:36.094958
+behavior_tree,mhh12345678/behavior_tree,0.1.0,1906,2,2026-07-26T08:50:05.626301
