@@ -275,12 +275,12 @@ formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
 json_deriving_codegen,moonbitlang/json_deriving_codegen,0.0.2,1188,1,2025-11-06T05:47:35.118641
 lex,moonbitlang/lex,0.3.9,8652,20,2026-01-07T04:18:00.616560
-lexer,moonbitlang/lexer,0.3.10,4580,3,2026-07-21T06:19:14.029684
+lexer,moonbitlang/lexer,0.3.11,4580,3,2026-07-26T13:03:14.011311
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2,2025-03-07T13:16:36.623930
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1,2025-03-31T03:07:33.428508
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2,2025-04-25T02:20:11.677497
-moon_config,moonbitlang/moon_config,0.3.9,3020,1,2026-07-21T06:22:44.519428
-parser,moonbitlang/parser,0.3.10,106727,20,2026-07-21T06:26:12.017790
+moon_config,moonbitlang/moon_config,0.3.10,3020,1,2026-07-26T13:06:54.404569
+parser,moonbitlang/parser,0.3.11,126424,21,2026-07-26T13:10:13.051574
 protobuf,moonbitlang/protobuf,0.1.2,4680,2,2026-06-03T03:39:41.944681
 quickcheck,moonbitlang/quickcheck,0.14.0,13278,16,2026-05-23T08:03:48.705739
 regexp,moonbitlang/regexp,0.3.5,12052,5,2026-01-30T06:57:50.050285
@@ -1294,7 +1294,7 @@ test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 foxql,jaredzhou/foxql,0.1.3,3301,4,2026-07-22T13:04:25.896564
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.5,11318,4,2026-07-19T13:30:25.492184
-moonpg,jaredzhou/moonpg,0.8.3,15034,4,2026-07-25T12:02:32.845967
+moonpg,jaredzhou/moonpg,0.8.6,16251,4,2026-07-26T12:55:33.178067
 pony,jaredzhou/pony,0.3.0,5102,3,2026-07-18T01:46:54.095753
 queryx,jaredzhou/queryx,0.2.1,2597,1,2026-07-22T13:05:30.906610
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
@@ -1607,7 +1607,7 @@ moonpath,wzx2007/moonpath,0.31.0,4025,3,2026-07-08T10:33:14.931108
 moon_graphql,eisem/moon_graphql,0.1.1,7127,11,2026-07-11T06:07:28.238571
 moon_mutest,Magic486/moon_mutest,0.1.7,5866,7,2026-07-12T09:07:43.389559
 moon-uri-template,Magic486/moon-uri-template,0.1.2,1256,3,2026-07-25T09:06:21.194748
-mooncron,001-Elsa/mooncron,0.1.0,5293,2,2026-07-25T13:07:06.632569
+mooncron,001-Elsa/mooncron,0.1.1,5560,2,2026-07-26T12:17:11.888395
 moonpack,001-Elsa/moonpack,0.1.2,5126,6,2026-07-12T15:21:24.825743
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
@@ -1697,4 +1697,4 @@ pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
 endor,poteto0/endor,0.2.0,3202,5,2026-07-25T13:51:48.936588
 agent,weopqrst/agent,0.2.0,2048,11,2026-07-26T10:28:47.913358
 behavior_tree,mhh12345678/behavior_tree,0.1.1,2004,2,2026-07-26T10:56:02.654216
-moon_metric_lab,myc1234567/moon_metric_lab,0.1.0,32890,21,2026-07-26T11:33:26.575395
+moon_metric_lab,myc1234567/moon_metric_lab,0.1.1,6708,22,2026-07-26T11:46:17.808919
