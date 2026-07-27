@@ -1450,9 +1450,10 @@ pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9,2026-04-18T18:22:49.645570
 vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
-ajni,Nanaloveyuki/ajni,0.1.1,487,3,2026-07-27T08:42:38.815330
+ajni,Nanaloveyuki/ajni,0.2.0,977,3,2026-07-27T14:42:14.540524
 BitLogger,Nanaloveyuki/BitLogger,0.7.3,20139,23,2026-07-19T09:12:19.746518
 moonview,Nanaloveyuki/moonview,0.1.0-beta.1,3300,11,2026-07-27T09:35:49.769572
+sync,Nanaloveyuki/sync,0.2.1,2671,10,2026-07-27T14:16:48.310968
 feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
@@ -1487,6 +1488,7 @@ depsight,Tino-hue/depsight,0.5.3,11643,9,2026-07-10T05:00:07.740318
 base64,kujirahand/base64,0.1.1,239,2,2026-06-03T07:33:26.035245
 crc32,kujirahand/crc32,0.1.1,229,2,2026-06-03T07:39:28.846489
 moon_zod,Betterlol/moon_zod,0.8.2,14725,18,2026-07-12T15:05:34.629236
+gmsm,PaiGack/gmsm,0.1.0,4722,8,2026-07-27T14:01:51.646541
 moonbitqrcode,PaiGack/moonbitqrcode,0.1.0,2026,5,2026-06-07T10:39:13.281259
 ssh_client,PaiGack/ssh_client,0.4.0,37164,18,2026-07-07T15:15:26.391649
 promptx,wangmingfa/promptx,0.1.4,583,4,2026-07-12T14:55:27.213340
@@ -1583,6 +1585,7 @@ moonplot,dgmxjj/moonplot,0.2.0,1270,8,2026-07-12T08:43:18.084572
 glob,Lxxbv/glob,0.1.2,1032,2,2026-07-12T11:07:10.960302
 moon-actor,Zcxssxx/moon-actor,0.1.0,153,1,2026-07-06T15:53:03.157830
 moon-ninja,Zcxssxx/moon-ninja,0.1.1,828,2,2026-07-11T17:05:17.312721
+moonbit-robot-vision-formats,ppyj663/moonbit-robot-vision-formats,0.1.0,1418,2,2026-07-27T14:25:57.196020
 moon-jsonpath,ppyj663/moon-jsonpath,0.2.0,1622,2,2026-07-12T05:49:37.017755
 moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonforge,Lyhdsba/moonforge,0.1.1,1775,2,2026-07-12T15:36:57.438642

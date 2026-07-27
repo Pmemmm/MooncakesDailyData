@@ -1,6 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-Nanaloveyuki/ajni,新增,487,3,0,0,487,3
+Nanaloveyuki/ajni,新增,977,3,0,0,977,3
 Nanaloveyuki/moonview,新增,3300,11,0,0,3300,11
+Nanaloveyuki/sync,新增,2671,10,0,0,2671,10
+PaiGack/gmsm,新增,4722,8,0,0,4722,8
+ppyj663/moonbit-robot-vision-formats,新增,1418,2,0,0,1418,2
 RabitLogic/s7,新增,2923,4,0,0,2923,4
 z2823253773-p/moonrules,新增,2912,2,0,0,2912,2
 zbhzs1/moonbit-phonetic,新增,492,2,0,0,492,2
