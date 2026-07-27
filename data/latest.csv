@@ -115,7 +115,7 @@ gdk,tonyfettes/gdk,0.2.0,13315,1,2026-07-24T02:03:01.401710
 g-examples,tonyfettes/g-examples,0.2.0,3794,9,2026-07-24T02:06:58.964803
 ghostty,tonyfettes/ghostty,0.4.0,59020,57,2026-07-23T09:24:52.669082
 gio,tonyfettes/gio,0.2.0,37769,1,2026-07-24T02:02:39.045997
-gir,tonyfettes/gir,0.2.0,38435,13,2026-07-24T02:01:35.387708
+gir,tonyfettes/gir,0.3.0,39258,13,2026-07-27T03:56:37.630053
 giraffe,tonyfettes/giraffe,0.2.0,4058,12,2026-07-24T02:06:08.794014
 glib,tonyfettes/glib,0.2.0,2540,1,2026-07-24T02:00:58.585676
 gobject,tonyfettes/gobject,0.2.0,235,1,2026-07-24T02:01:13.624742
@@ -1451,6 +1451,7 @@ vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
 BitLogger,Nanaloveyuki/BitLogger,0.7.3,20139,23,2026-07-19T09:12:19.746518
+moonview,Nanaloveyuki/moonview,0.1.0-alpha.1,2406,8,2026-07-27T04:00:51.000411
 feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
@@ -1475,7 +1476,7 @@ uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
 tqdmoon,GeneWang1226/tqdmoon,0.2.0,1190,3,2026-07-12T19:23:17.699530
 moonpost,MaoDingA/moonpost,0.2.1,16868,12,2026-07-07T07:00:16.222092
 AgriDroneSwarm,liushiman1222/AgriDroneSwarm,0.2.0,8322,1,2026-07-10T14:56:10.754504
-aitne,Arcelyth/aitne,0.4.10,13082,7,2026-07-10T15:04:58.501386
+aitne,Arcelyth/aitne,0.4.12,13548,7,2026-07-27T02:21:38.393330
 html_escape,Arcelyth/html_escape,0.3.4,3072,2,2026-07-16T16:04:12.143772
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
@@ -1691,11 +1692,12 @@ moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
 moontrajectory,hmyhmyhmyss/moontrajectory,0.1.0,1151,2,2026-07-23T04:31:47.172244
 moonrewardforge,weidekais/moonrewardforge,0.1.0,719,2,2026-07-23T04:51:18.124303
 MoonEmbed,wskwsk68/MoonEmbed,0.1.0,908,2,2026-07-23T05:25:25.391632
+moonrules,z2823253773-p/moonrules,0.1.0,2912,2,2026-07-27T01:48:33.551775
 moon_tera,btlqql/moon_tera,0.2.0,2883,2,2026-07-23T08:14:31.469270
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
 pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
-endor,poteto0/endor,0.2.0,3202,5,2026-07-25T13:51:48.936588
+endor,poteto0/endor,0.3.0,4598,6,2026-07-27T03:32:51.212750
 agent,weopqrst/agent,0.2.0,2048,11,2026-07-26T10:28:47.913358
 behavior_tree,mhh12345678/behavior_tree,0.1.1,2004,2,2026-07-26T10:56:02.654216
 moon_metric_lab,myc1234567/moon_metric_lab,0.1.1,6708,22,2026-07-26T11:46:17.808919
