@@ -115,7 +115,7 @@ gdk,tonyfettes/gdk,0.2.0,13315,1,2026-07-24T02:03:01.401710
 g-examples,tonyfettes/g-examples,0.2.0,3794,9,2026-07-24T02:06:58.964803
 ghostty,tonyfettes/ghostty,0.4.0,59020,57,2026-07-23T09:24:52.669082
 gio,tonyfettes/gio,0.2.0,37769,1,2026-07-24T02:02:39.045997
-gir,tonyfettes/gir,0.3.0,39258,13,2026-07-27T03:56:37.630053
+gir,tonyfettes/gir,0.3.1,39251,13,2026-07-27T05:51:18.780230
 giraffe,tonyfettes/giraffe,0.2.0,4058,12,2026-07-24T02:06:08.794014
 glib,tonyfettes/glib,0.2.0,2540,1,2026-07-24T02:00:58.585676
 gobject,tonyfettes/gobject,0.2.0,235,1,2026-07-24T02:01:13.624742
@@ -536,7 +536,7 @@ process_pool,mizchi/process_pool,0.1.3,1162,2,2026-02-11T09:07:52.586863
 protocol,mizchi/protocol,0.0.5,803,2,2024-05-07T20:33:53.012583
 renderer2d,mizchi/renderer2d,0.2.0,4074,1,2026-06-03T13:10:42.243757
 ripple,mizchi/ripple,0.1.4,4707,2,2026-06-01T12:29:57.754188
-rkyv,mizchi/rkyv,0.1.0,1032,2,2026-07-25T13:38:09.472188
+rkyv,mizchi/rkyv,0.3.0,1999,4,2026-07-27T05:45:56.488846
 rlm,mizchi/rlm,0.1.0,5747,1,2026-02-16T14:36:59.075576
 rlm_moonbit,mizchi/rlm_moonbit,0.1.0,5747,1,2026-02-16T14:22:37.372483
 s3,mizchi/s3,0.1.0,646,2,2026-04-05T09:06:03.338493
@@ -1038,15 +1038,15 @@ pptz,Milky2018/pptz,0.7.1,19476,15,2026-07-10T02:19:08.362648
 pthread,Milky2018/pthread,0.1.0,1854,1,2026-01-04T05:16:35.814809
 pug,Milky2018/pug,0.1.1,10601,2,2026-01-28T04:54:01.285566
 regalloc,Milky2018/regalloc,0.4.1,10463,3,2026-07-24T09:43:47.685953
-selene,Milky2018/selene,0.37.0,64693,59,2026-07-22T03:16:35.842378
+selene,Milky2018/selene,0.37.1,65783,59,2026-07-27T06:31:17.953389
 selene-canvas,Milky2018/selene-canvas,0.20.1,591,1,2026-02-28T10:39:34.371961
 selene_editor,Milky2018/selene_editor,0.30.5,18896,9,2026-04-07T10:19:53.266415
-selene_editor_frontend,Milky2018/selene_editor_frontend,0.37.0,14553,4,2026-07-22T03:17:31.029356
-selene_editor_service,Milky2018/selene_editor_service,0.37.0,3060,2,2026-07-22T03:17:36.368564
-selene_editor_shared,Milky2018/selene_editor_shared,0.37.0,1295,2,2026-07-22T03:17:19.307763
-selene_raylib,Milky2018/selene_raylib,0.37.0,8485,6,2026-07-22T03:17:09.195334
+selene_editor_frontend,Milky2018/selene_editor_frontend,0.37.1,14555,4,2026-07-27T06:32:12.473816
+selene_editor_service,Milky2018/selene_editor_service,0.37.1,3060,2,2026-07-27T06:32:17.962464
+selene_editor_shared,Milky2018/selene_editor_shared,0.37.1,1295,2,2026-07-27T06:31:59.868475
+selene_raylib,Milky2018/selene_raylib,0.37.1,8493,6,2026-07-27T06:31:49.762620
 selene_tools,Milky2018/selene_tools,0.32.2,470,2,2026-04-14T07:40:10.083218
-selene_webgpu,Milky2018/selene_webgpu,0.37.0,10806,6,2026-07-22T03:16:55.646135
+selene_webgpu,Milky2018/selene_webgpu,0.37.1,10994,6,2026-07-27T06:31:36.450596
 slotmap,Milky2018/slotmap,0.1.2,3217,1,2026-05-08T09:18:03.970553
 sqlparser,Milky2018/sqlparser,0.5.0,14669,2,2025-11-27T10:09:29.250366
 svg,Milky2018/svg,0.5.2,23596,2,2026-07-23T11:48:51.461336
@@ -1094,7 +1094,7 @@ jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
-posoco,colmugx/posoco,0.5.5,25297,6,2026-07-24T10:32:38.452374
+posoco,colmugx/posoco,0.6.1,25688,6,2026-07-27T07:42:24.785454
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1294,7 +1294,7 @@ test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 foxql,jaredzhou/foxql,0.1.3,3301,4,2026-07-22T13:04:25.896564
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
 mooncedar,jaredzhou/mooncedar,0.1.5,11318,4,2026-07-19T13:30:25.492184
-moonpg,jaredzhou/moonpg,0.8.6,16251,4,2026-07-26T12:55:33.178067
+moonpg,jaredzhou/moonpg,0.8.8,16260,4,2026-07-27T04:37:38.470276
 pony,jaredzhou/pony,0.3.0,5102,3,2026-07-18T01:46:54.095753
 queryx,jaredzhou/queryx,0.2.1,2597,1,2026-07-22T13:05:30.906610
 x,jaredzhou/x,0.1.0,2700,2,2025-12-28T05:59:31.965460
@@ -1594,7 +1594,7 @@ petgraph,I3eg1nner/petgraph,0.1.0,6583,7,2026-07-07T16:12:37.498202
 moonbench,Han-Wentao/moonbench,0.3.0,7124,3,2026-07-15T05:31:49.686920
 mooncontract,Han-Wentao/mooncontract,0.1.0,4838,10,2026-07-24T08:20:33.636429
 moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.2.0,2451,11,2026-07-18T06:39:47.168293
-moon-cv-geometry,python123-ops/moon-cv-geometry,0.1.0,1816,9,2026-07-22T16:47:28.149542
+moon-cv-geometry,python123-ops/moon-cv-geometry,0.1.1,1826,9,2026-07-27T07:51:56.860447
 moon-ray,Kai-Junhan/moon-ray,0.3.1,4345,2,2026-07-17T09:18:07.605728
 moon-sketch-kit,cauchyQ/moon-sketch-kit,0.1.0,4447,5,2026-07-08T01:45:31.622371
 moon-mustache,bellesz0611/moon-mustache,0.2.0,11292,16,2026-07-11T04:01:49.469012
@@ -1695,7 +1695,7 @@ MoonEmbed,wskwsk68/MoonEmbed,0.1.0,908,2,2026-07-23T05:25:25.391632
 moonrules,z2823253773-p/moonrules,0.1.0,2912,2,2026-07-27T01:48:33.551775
 moon_tera,btlqql/moon_tera,0.2.0,2883,2,2026-07-23T08:14:31.469270
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
-moonrule,YeeHh2004/moonrule,0.2.0,4528,2,2026-07-23T13:27:53.439824
+moonrule,YeeHh2004/moonrule,0.3.0,5855,2,2026-07-27T07:45:09.096706
 pixelforge,0717lee/pixelforge,0.1.0,978,4,2026-07-24T11:20:44.723727
 endor,poteto0/endor,0.3.0,4598,6,2026-07-27T03:32:51.212750
 agent,weopqrst/agent,0.2.0,2048,11,2026-07-26T10:28:47.913358
