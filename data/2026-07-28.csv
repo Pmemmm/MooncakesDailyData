@@ -54,6 +54,7 @@ issues,bobzhang/issues,0.1.5,43389,11,2026-05-22T02:26:37.948232
 jsonl,bobzhang/jsonl,0.2.0,287,1,2026-06-02T09:08:42.613926
 kanban,bobzhang/kanban,0.3.2,3820,4,2026-04-04T13:28:57.586356
 kimicc,bobzhang/kimicc,0.1.243,129685,12,2026-06-04T03:58:03.955236
+ldiff,bobzhang/ldiff,0.1.1,1090,1,2026-07-28T08:30:36.571095
 lexer,bobzhang/lexer,0.2.0,622,1,2026-06-07T00:15:49.746111
 liquid,bobzhang/liquid,0.1.0,3145,2,2025-08-21T08:26:53.835962
 lisp_interpreter,bobzhang/lisp_interpreter,0.1.1,1753,1,2026-04-19T14:59:35.388067
@@ -267,9 +268,9 @@ lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.20.3,46246,49,2026-07-23T03:29:30.436941
-core,moonbitlang/core,0.1.20260714+ade96c819,186971,76,2026-07-14T06:04:48.646408
+core,moonbitlang/core,0.1.20260728+5e7afb0c0,194428,77,2026-07-28T07:09:28.069320
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
-editor,moonbitlang/editor,0.2.2,122257,41,2026-07-24T10:38:21.955201
+editor,moonbitlang/editor,0.2.3,127638,41,2026-07-28T09:12:56.000195
 esp32,moonbitlang/esp32,0.1.19,797,8,2025-05-08T05:38:24.834817
 formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
@@ -514,7 +515,7 @@ mbt_rs,mizchi/mbt_rs,0.3.0,4546,1,2026-03-26T12:37:24.590225
 mbts,mizchi/mbts,0.0.3,12071,9,2026-02-11T06:09:59.043736
 mesh3d,mizchi/mesh3d,0.2.0,1212,1,2026-06-03T13:10:20.878722
 mnemo,mizchi/mnemo,0.2.2,6899,1,2026-04-24T10:46:46.545473
-moomaid,mizchi/moomaid,0.3.1,5383,5,2026-07-28T05:58:19.905089
+moomaid,mizchi/moomaid,0.4.0,7400,5,2026-07-28T10:16:36.037416
 moon_component,mizchi/moon_component,0.5.2,16221,38,2026-04-25T13:30:33.363856
 moon-install,mizchi/moon-install,0.1.1,1006,2,2026-02-04T12:32:58.459914
 moonix,mizchi/moonix,0.2.0,16216,20,2026-02-06T06:26:01.913335
@@ -748,7 +749,7 @@ NyaSearch,xunyoyo/NyaSearch,0.1.0,500,1,2025-03-01T08:53:06.179032
 permutation,xunyoyo/permutation,0.1.3,209,4,2024-11-17T16:19:56.797966
 Permutation,xunyoyo/Permutation,0.1.1,216,4,2024-11-15T10:48:43.405249
 i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
-katex-parser,kokic/katex-parser,0.1.3,14417,5,2026-07-28T05:34:29.309933
+katex-parser,kokic/katex-parser,0.1.4,14827,5,2026-07-28T10:35:16.617917
 momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
@@ -1083,7 +1084,7 @@ event-graph-walker,dowdiness/event-graph-walker,0.5.0,35310,19,2026-07-23T10:20:
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
 incr,dowdiness/incr,0.14.2,30069,9,2026-07-10T14:16:41.015986
-js_engine,dowdiness/js_engine,0.6.0,136398,32,2026-07-15T21:51:07.489991
+js_engine,dowdiness/js_engine,0.7.0,152442,34,2026-07-28T10:36:58.298238
 margs,dowdiness/margs,0.1.2,4638,2,2026-02-16T06:41:24.474228
 moondsp,dowdiness/moondsp,0.5.1,42430,12,2026-05-20T12:01:23.723306
 order-tree,dowdiness/order-tree,0.1.1,2106,1,2026-06-23T12:33:34.039284
@@ -1251,7 +1252,7 @@ meta-skill,moonbit-community/meta-skill,0.1.0,1366,1,2026-06-11T07:34:31.433430
 miniio,moonbit-community/miniio,0.2.1,3557,10,2026-06-12T08:04:05.077301
 moon_cpal,moonbit-community/moon_cpal,0.11.6,19042,19,2026-06-08T07:29:12.449808
 moon_dagre,moonbit-community/moon_dagre,0.3.1,11649,4,2026-07-16T09:36:43.143033
-moongrep,moonbit-community/moongrep,0.1.16,29784,15,2026-07-24T02:15:02.595309
+moongrep,moonbit-community/moongrep,0.1.17,31612,15,2026-07-28T07:50:00.531261
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
 opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
@@ -1260,7 +1261,7 @@ postgres,moonbit-community/postgres,0.0.6,25234,16,2026-04-28T13:08:31.644171
 prettyprinter,moonbit-community/prettyprinter,0.4.10,1732,1,2026-05-12T10:27:04.999906
 pty,moonbit-community/pty,0.2.2,735,1,2026-06-22T13:09:04.042613
 quickcheck_statemachine,moonbit-community/quickcheck_statemachine,0.0.1,11985,2,2026-06-02T07:09:28.626205
-rabbita,moonbit-community/rabbita,0.13.2,27553,21,2026-07-21T02:46:43.649752
+rabbita,moonbit-community/rabbita,0.14.0,26106,21,2026-07-28T09:01:42.189833
 rabbita_tui,moonbit-community/rabbita_tui,0.1.0,10070,6,2026-05-14T09:43:20.346889
 raylib,moonbit-community/raylib,0.3.1,21670,4,2026-03-18T09:21:40.263635
 sqlite3,moonbit-community/sqlite3,0.1.5,747,2,2026-03-31T02:32:16.682519
@@ -1479,7 +1480,7 @@ uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
 tqdmoon,GeneWang1226/tqdmoon,0.2.0,1190,3,2026-07-12T19:23:17.699530
 moonpost,MaoDingA/moonpost,0.2.1,16868,12,2026-07-07T07:00:16.222092
 AgriDroneSwarm,liushiman1222/AgriDroneSwarm,0.2.0,8322,1,2026-07-10T14:56:10.754504
-aitne,Arcelyth/aitne,0.4.12,13548,7,2026-07-27T02:21:38.393330
+aitne,Arcelyth/aitne,0.4.13,14039,7,2026-07-28T08:01:23.787032
 html_escape,Arcelyth/html_escape,0.3.4,3072,2,2026-07-16T16:04:12.143772
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
@@ -1620,12 +1621,12 @@ moonpack,001-Elsa/moonpack,0.1.2,5126,6,2026-07-12T15:21:24.825743
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
 basex,Lfan-ke/basex,0.2.0,1035,7,2026-07-26T19:18:45.028365
-moonapi,Lfan-ke/moonapi,0.3.0,1872,1,2026-07-28T06:43:21.184217
+moonapi,Lfan-ke/moonapi,0.4.0,2334,1,2026-07-28T10:55:20.214924
 moonasgi,Lfan-ke/moonasgi,0.3.0,1422,1,2026-07-28T06:43:56.453387
 mooncat,Lfan-ke/mooncat,0.3.0,802,1,2026-07-28T06:41:17.290079
 moonctl,Lfan-ke/moonctl,0.3.0,2370,2,2026-07-28T06:54:01.235461
 moongql,Lfan-ke/moongql,0.3.0,2258,1,2026-07-28T06:44:08.258206
-moonorm,Lfan-ke/moonorm,0.3.0,1107,2,2026-07-28T06:51:07.001808
+moonorm,Lfan-ke/moonorm,0.4.0,1682,2,2026-07-28T10:55:27.671097
 moonrpc,Lfan-ke/moonrpc,0.3.0,2737,1,2026-07-28T06:54:07.915495
 moonzero,Lfan-ke/moonzero,0.3.0,1612,1,2026-07-28T06:44:25.388856
 raft-moonbit,Lfan-ke/raft-moonbit,0.5.2,27377,15,2026-07-26T19:38:49.498952
@@ -1713,9 +1714,11 @@ moonrules,z2823253773-p/moonrules,0.1.0,2912,2,2026-07-27T01:48:33.551775
 moon_tera,btlqql/moon_tera,0.3.0,3082,2,2026-07-27T09:23:21.301301
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.4.0,6411,2,2026-07-27T08:26:25.086374
-pixelforge,0717lee/pixelforge,0.4.0,3764,5,2026-07-27T09:22:26.526074
-endor,poteto0/endor,0.3.0,4598,6,2026-07-27T03:32:51.212750
+pixelforge,0717lee/pixelforge,0.5.0,4280,5,2026-07-28T07:20:51.647221
+endor,poteto0/endor,0.4.0,10664,9,2026-07-28T08:32:05.983945
 agent,weopqrst/agent,0.2.0,2048,11,2026-07-26T10:28:47.913358
 behavior_tree,mhh12345678/behavior_tree,0.1.1,2004,2,2026-07-26T10:56:02.654216
 moon_metric_lab,myc1234567/moon_metric_lab,0.1.1,6708,22,2026-07-26T11:46:17.808919
 moontera,Zjyyer/moontera,0.1.0,2360,9,2026-07-28T03:47:06.308745
+moonqr,naoto24kawa/moonqr,0.1.0,19345,3,2026-07-28T08:31:27.478221
+moonbtkit,liu666789987/moonbtkit,0.1.0,4569,3,2026-07-28T08:48:35.476885
