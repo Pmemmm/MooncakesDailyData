@@ -1452,7 +1452,7 @@ moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
 ajni,Nanaloveyuki/ajni,0.2.0,977,3,2026-07-27T14:42:14.540524
 BitLogger,Nanaloveyuki/BitLogger,0.7.3,20139,23,2026-07-19T09:12:19.746518
-moonview,Nanaloveyuki/moonview,0.1.0-beta.1,3300,11,2026-07-27T09:35:49.769572
+moonview,Nanaloveyuki/moonview,0.1.0-beta.3,3889,11,2026-07-28T03:11:29.237081
 sync,Nanaloveyuki/sync,0.2.1,2671,10,2026-07-27T14:16:48.310968
 feed_gen,tkancf/feed_gen,0.3.0,4890,2,2026-07-02T13:19:02.781960
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
@@ -1535,6 +1535,7 @@ moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
 millow,megemini/millow,0.3.1,8133,6,2026-07-11T03:45:38.863062
 frontierlab,shop1111/frontierlab,0.6.0,7643,9,2026-07-12T05:25:48.444949
+moon_sourcemap,shop1111/moon_sourcemap,0.1.0,6545,2,2026-07-28T01:58:03.243537
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.2,6343,8,2026-07-06T15:00:40.589397
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
