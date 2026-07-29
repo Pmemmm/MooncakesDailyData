@@ -1632,7 +1632,7 @@ moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
 basex,Lfan-ke/basex,0.2.0,1035,7,2026-07-26T19:18:45.028365
 moonapi,Lfan-ke/moonapi,0.6.2,6713,1,2026-07-29T06:55:32.748833
-moonasgi,Lfan-ke/moonasgi,0.6.1,3881,1,2026-07-29T05:22:34.556170
+moonasgi,Lfan-ke/moonasgi,0.7.0,4183,1,2026-07-29T19:19:18.844226
 mooncat,Lfan-ke/mooncat,0.6.2,2827,1,2026-07-29T06:58:19.906270
 moonctl,Lfan-ke/moonctl,0.6.1,6140,4,2026-07-29T05:37:27.953454
 moondb,Lfan-ke/moondb,0.1.4,1685,1,2026-07-29T05:39:45.247263
@@ -1747,3 +1747,4 @@ cidr-audit,BeiLaDuo/cidr-audit,0.1.0,4408,4,2026-07-29T12:49:27.438894
 robots-gate,2111950632/robots-gate,0.2.0,6269,6,2026-07-29T14:18:34.408182
 moongettext,YanFangNie/moongettext,0.1.0,4378,3,2026-07-29T17:24:44.176714
 moonopenmetrics,JYPeng487/moonopenmetrics,0.1.0,6014,2,2026-07-29T17:29:41.732583
+moon-multipart,Songyz002/moon-multipart,0.1.0,1728,2,2026-07-29T19:28:01.568269
