@@ -7,11 +7,12 @@ KKKIIO/agconf,新增,961,2,0,0,961,2
 Songyz002/moon-multipart,新增,3250,2,0,0,3250,2
 Xpeng/mooncov,新增,4889,2,0,0,4889,2
 YanFangNie/moongettext,新增,4378,3,0,0,4378,3
-0717lee/pixelforge,有变化,989,0,4280,5,5269,5
-cc06b/mooncry,有变化,788,0,9436,3,10224,3
+0717lee/pixelforge,有变化,1976,-2,4280,5,6256,3
+Armyhealthyhappy/moonbit-roman,有变化,2552,3,403,2,2955,5
+cc06b/mooncry,有变化,2031,0,9436,3,11467,3
 colmugx/posoco,有变化,1484,0,25624,6,27108,6
 justjavac/proton,有变化,3019,0,11743,9,14762,9
-justjavac/proton_cli,有变化,1792,1,17094,8,18886,9
+justjavac/proton_cli,有变化,1794,1,17094,8,18888,9
 justjavac/proton_config,有变化,676,0,1723,1,2399,1
 Lfan-ke/moon-mysql,有变化,1069,0,2034,2,3103,2
 Lfan-ke/moon-postgres,有变化,619,0,2079,1,2698,1
@@ -21,6 +22,7 @@ Lfan-ke/moondb,有变化,126,0,1685,1,1811,1
 Lfan-ke/moonorm,有变化,3207,0,10115,7,13322,7
 Lfan-ke/moonrpc,有变化,2283,1,7733,2,10016,3
 marianoguerra/tutuca,有变化,245,0,71942,23,72187,23
+moonbit-community/pty,有变化,86,0,735,1,821,1
 moonbitlang/editor,有变化,18201,1,127638,41,145839,42
 Nanaloveyuki/image,有变化,142,0,766,1,908,1
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -72,7 +74,6 @@ applejag/micromath,无变化,0,0,660,1,660,1
 Arcelyth/aitne,无变化,0,0,14039,7,14039,7
 Arcelyth/html_escape,无变化,0,0,3072,2,3072,2
 Areo-Joe/webidl,无变化,0,0,9259,5,9259,5
-Armyhealthyhappy/moonbit-roman,无变化,0,0,403,2,403,2
 ash1day/sql,无变化,0,0,6085,4,6085,4
 aspnmy/moodtcpcli,无变化,0,0,92,2,92,2
 aspnmy/moonitest,无变化,0,0,803,1,803,1
@@ -1128,7 +1129,6 @@ moonbit-community/opentelemetry,无变化,0,0,35454,37,35454,37
 moonbit-community/piediff,无变化,0,0,2718,1,2718,1
 moonbit-community/postgres,无变化,0,0,23333,11,23333,11
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
-moonbit-community/pty,无变化,0,0,735,1,735,1
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
 moonbit-community/rabbita,无变化,0,0,26106,21,26106,21
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
