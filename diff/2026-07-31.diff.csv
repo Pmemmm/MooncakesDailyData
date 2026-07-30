@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 Lucius646/MoonSearch,新增,10403,11,0,0,10403,11
 Armyhealthyhappy/moonbit-roman,有变化,5642,2,2955,5,8597,7
 colmugx/posoco,有变化,1,0,27108,6,27109,6
+Lfan-ke/moonrpc,有变化,1540,0,10016,3,11556,3
 PaiGack/gmsm,有变化,2487,0,5629,9,8116,9
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -727,7 +728,6 @@ Lfan-ke/moonctl,无变化,0,0,6140,4,6140,4
 Lfan-ke/moondb,无变化,0,0,1811,1,1811,1
 Lfan-ke/moongql,无变化,0,0,7432,1,7432,1
 Lfan-ke/moonorm,无变化,0,0,13322,7,13322,7
-Lfan-ke/moonrpc,无变化,0,0,10016,3,10016,3
 Lfan-ke/moonzero,无变化,0,0,5926,2,5926,2
 Lfan-ke/raft-moonbit,无变化,0,0,27377,15,27377,15
 li/hello,无变化,0,0,23,2,23,2
