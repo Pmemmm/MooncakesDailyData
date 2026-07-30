@@ -8,12 +8,16 @@ Songyz002/moon-multipart,新增,3250,2,0,0,3250,2
 Xpeng/mooncov,新增,4889,2,0,0,4889,2
 YanFangNie/moongettext,新增,4378,3,0,0,4378,3
 0717lee/pixelforge,有变化,1976,-2,4280,5,6256,3
+2111950632/robots-gate,有变化,108,0,6269,6,6377,6
 Armyhealthyhappy/moonbit-roman,有变化,2552,3,403,2,2955,5
+BeiLaDuo/cidr-audit,有变化,21,0,4408,4,4429,4
 cc06b/mooncry,有变化,2031,0,9436,3,11467,3
 colmugx/posoco,有变化,1484,0,25624,6,27108,6
+dowdiness/btree,有变化,2644,0,4422,1,7066,1
 justjavac/proton,有变化,3019,0,11743,9,14762,9
 justjavac/proton_cli,有变化,1794,1,17094,8,18888,9
 justjavac/proton_config,有变化,676,0,1723,1,2399,1
+Kali-Leo/moonbit-CryptoAssert,有变化,3236,2,3763,3,6999,5
 Lfan-ke/moon-mysql,有变化,1069,0,2034,2,3103,2
 Lfan-ke/moon-postgres,有变化,619,0,2079,1,2698,1
 Lfan-ke/moon-sqlite,有变化,102,0,742,1,844,1
@@ -22,6 +26,7 @@ Lfan-ke/moondb,有变化,126,0,1685,1,1811,1
 Lfan-ke/moonorm,有变化,3207,0,10115,7,13322,7
 Lfan-ke/moonrpc,有变化,2283,1,7733,2,10016,3
 marianoguerra/tutuca,有变化,245,0,71942,23,72187,23
+mizchi/pkf,有变化,1657,0,9224,3,10881,3
 moonbit-community/pty,有变化,86,0,735,1,821,1
 moonbitlang/editor,有变化,18201,1,127638,41,145839,42
 Nanaloveyuki/image,有变化,142,0,766,1,908,1
@@ -42,7 +47,6 @@ Nanaloveyuki/image,有变化,142,0,766,1,908,1
 123123213weqw/moonbit_jwt,无变化,0,0,1453,2,1453,2
 123123213weqw/moonbit_mcp,无变化,0,0,1496,2,1496,2
 202306123/lib_mbt,无变化,0,0,15,1,15,1
-2111950632/robots-gate,无变化,0,0,6269,6,6269,6
 2459822546/fwshz,无变化,0,0,11,1,11,1
 2515050242/cbor,无变化,0,0,777,2,777,2
 2515050243qyf/moon_bencode,无变化,0,0,1411,3,1411,3
@@ -86,7 +90,6 @@ AXiX-official/binaryPrimitives,无变化,0,0,317,1,317,1
 AXiX-official/xxhash,无变化,0,0,322,1,322,1
 baka-gourd/quickxorhash,无变化,0,0,575,2,575,2
 baobolong/hello,无变化,0,0,25,2,25,2
-BeiLaDuo/cidr-audit,无变化,0,0,4408,4,4408,4
 bellesz0611/moon-mustache,无变化,0,0,11292,16,11292,16
 Bemly/cstdio-ffi,无变化,0,0,1725,2,1725,2
 beso1225/tour,无变化,0,0,91,2,91,2
@@ -317,7 +320,6 @@ dijdzv/websys,无变化,0,0,230037,1,230037,1
 djisnj/djisnj,无变化,0,0,16,1,16,1
 dongyvxuan/dongyx,无变化,0,0,33,2,33,2
 dowdiness/alga,无变化,0,0,7024,1,7024,1
-dowdiness/btree,无变化,0,0,4422,1,4422,1
 dowdiness/event-graph-walker,无变化,0,0,45257,19,45257,19
 dowdiness/ffi_c,无变化,0,0,1632,2,1632,2
 dowdiness/graphviz,无变化,0,0,4695,5,4695,5
@@ -665,7 +667,6 @@ Kaida-Amethyst/python,无变化,0,0,6464,7,6464,7
 Kaida-Amethyst/screeps,无变化,0,0,6542,3,6542,3
 Kaida-Amethyst/sdl3,无变化,0,0,22939,4,22939,4
 kalculos/miao,无变化,0,0,11498,12,11498,12
-Kali-Leo/moonbit-CryptoAssert,无变化,0,0,3763,3,3763,3
 kawaz/grapheme,无变化,0,0,657,1,657,1
 kawaz/timespec,无变化,0,0,5988,1,5988,1
 kawaz/unicodegrapheme,无变化,0,0,33,1,33,1
@@ -1033,7 +1034,6 @@ mizchi/parquet,无变化,0,0,10202,4,10202,4
 mizchi/pathfind,无变化,0,0,311,1,311,1
 mizchi/physics,无变化,0,0,8058,3,8058,3
 mizchi/pixelmatch,无变化,0,0,4306,5,4306,5
-mizchi/pkf,无变化,0,0,9224,3,9224,3
 mizchi/pkl,无变化,0,0,90530,2,90530,2
 mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
