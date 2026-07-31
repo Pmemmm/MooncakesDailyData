@@ -1408,7 +1408,7 @@ flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:0
 lepusa,vectie/lepusa,0.1.4,77675,38,2026-07-21T09:01:01.591961
 moonbook,vectie/moonbook,0.1.0,15689,12,2026-04-13T13:56:27.683104
 moonclaw,vectie/moonclaw,0.1.2,254457,113,2026-04-13T13:56:18.768418
-moonlib,vectie/moonlib,0.1.17,8836,17,2026-07-15T12:49:51.134134
+moonlib,vectie/moonlib,0.1.18,10427,18,2026-07-31T00:21:33.329204
 moonzip,ivgtr/moonzip,0.2.4,12712,13,2026-02-27T09:48:41.298945
 jse,MarchLiu/jse,0.2.4,2227,2,2026-04-30T03:20:45.613687
 grapheme,kawaz/grapheme,0.10.4,657,1,2026-06-26T14:16:31.434934
@@ -1483,7 +1483,7 @@ clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.7.0,64898,16,2026-07-12T00:12:28.358644
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
-MoonFrame,ihb2032/MoonFrame,0.5.8,37836,16,2026-07-10T07:31:41.023882
+MoonFrame,ihb2032/MoonFrame,0.6.0,47291,23,2026-07-31T02:14:29.277537
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
 postgresx,kaashyapan/postgresx,0.1.0,1096,1,2026-06-13T09:30:50.016438
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
