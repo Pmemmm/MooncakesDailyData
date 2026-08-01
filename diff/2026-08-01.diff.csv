@@ -1,6 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Lxxbv/moonbit-thermochem,新增,4468,6,0,0,4468,6
+usagi-star/mooncap,新增,5334,13,0,0,5334,13
 aurasuisui/indexmap,有变化,-358,0,6447,4,6089,4
+hzc-666-ai/moonpathfinding,有变化,732,0,2340,7,3072,7
+moonbit-community/rabbita,有变化,217,0,26106,21,26323,21
+Nanaloveyuki/sync,有变化,1047,3,2671,10,3718,13
+poteto0/endor,有变化,3725,3,10664,9,14389,12
 RabitLogic/s7,有变化,640,2,2923,4,3563,6
+shina1024/jqx,有变化,152,0,21661,11,21813,11
 vectie/moonlib,有变化,2399,0,10427,18,12826,18
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -511,7 +518,6 @@ hustcer/nanoid,无变化,0,0,1745,2,1745,2
 hustcer/tabular,无变化,0,0,15088,3,15088,3
 hxiuzheng/moon_diffusion_lab,无变化,0,0,1922,7,1922,7
 hyl-star/moonsic,无变化,0,0,25224,27,25224,27
-hzc-666-ai/moonpathfinding,无变化,0,0,2340,7,2340,7
 hzqdf/aoko,无变化,0,0,20,0,20,0
 hzqdf/sum-calc,无变化,0,0,19,1,19,1
 I3eg1nner/petgraph,无变化,0,0,6583,7,6583,7
@@ -1128,7 +1134,6 @@ moonbit-community/postgres,无变化,0,0,23333,11,23333,11
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
 moonbit-community/pty,无变化,0,0,821,1,821,1
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
-moonbit-community/rabbita,无变化,0,0,26106,21,26106,21
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,747,2,747,2
@@ -1201,7 +1206,6 @@ Nanaloveyuki/moonview,无变化,0,0,3889,11,3889,11
 Nanaloveyuki/orbit-plugin-abi,无变化,0,0,405,1,405,1
 Nanaloveyuki/orby,无变化,0,0,3219,9,3219,9
 Nanaloveyuki/parsec,无变化,0,0,2928,5,2928,5
-Nanaloveyuki/sync,无变化,0,0,2671,10,2671,10
 nanlingyin/mbt_LIB,无变化,0,0,18,1,18,1
 naokikawamoto16/grpc,无变化,0,0,3792,5,3792,5
 naokikawamoto16/turn,无变化,0,0,799,1,799,1
@@ -1281,7 +1285,6 @@ PingGuoMiaoMiao/mooncove,无变化,0,0,1413,2,1413,2
 PingGuoMiaoMiao/MoonVision,无变化,0,0,8852,16,8852,16
 PixelPoet/pixelate,无变化,0,0,5867,1,5867,1
 pocket7878/cog_complex,无变化,0,0,1552,2,1552,2
-poteto0/endor,无变化,0,0,10664,9,10664,9
 ppyj663/moon-jsonpath,无变化,0,0,1622,2,1622,2
 ppyj663/moonbit-robot-vision-formats,无变化,0,0,1418,2,1418,2
 ppyq882/moonnlp,无变化,0,0,4025,4,4025,4
@@ -1369,7 +1372,6 @@ shiguri-01/mcp,无变化,0,0,6172,8,6172,8
 shiguri-01/todotxt,无变化,0,0,421,1,421,1
 shiguri-01/webview,无变化,0,0,557,1,557,1
 shiheat/find_max,无变化,0,0,25,1,25,1
-shina1024/jqx,无变化,0,0,21661,11,21661,11
 shop1111/frontierlab,无变化,0,0,7643,9,7643,9
 shop1111/moon_sourcemap,无变化,0,0,6545,2,6545,2
 Showichiro/jira_cli_mbt,无变化,0,0,8392,7,8392,7
