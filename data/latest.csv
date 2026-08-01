@@ -1551,7 +1551,7 @@ moonlimit,RunnerQuan/moonlimit,0.1.1,5632,2,2026-07-08T04:49:44.774601
 moonjsonpath,Freesia666/moonjsonpath,0.1.1,7747,2,2026-07-09T14:46:29.047633
 moonbit-CryptoAssert,Kali-Leo/moonbit-CryptoAssert,0.2.0,6999,5,2026-07-30T12:34:08.086298
 image,shunge/image,0.1.4,71347,1,2026-07-10T14:11:24.143901
-mbit,RabitLogic/mbit,0.2.2,12986,2,2026-07-22T01:55:40.269899
+mbit,RabitLogic/mbit,0.3.0,12263,7,2026-08-01T18:39:29.597926
 mjwt,RabitLogic/mjwt,0.2.0,3049,1,2026-07-16T00:02:16.546328
 s7,RabitLogic/s7,0.2.0,3563,6,2026-07-31T16:53:34.043206
 snowflake,RabitLogic/snowflake,0.1.2,1151,2,2026-07-21T05:29:33.472774
@@ -1615,6 +1615,8 @@ moon-ssg,Myytsjj/moon-ssg,0.3.0,2158,3,2026-07-12T15:35:45.043204
 moonplot,dgmxjj/moonplot,0.2.0,1270,8,2026-07-12T08:43:18.084572
 glob,Lxxbv/glob,0.1.2,1032,2,2026-07-12T11:07:10.960302
 moonbit-thermochem,Lxxbv/moonbit-thermochem,0.1.0,4468,6,2026-08-01T05:15:56.414257
+sdl,klaseca/sdl,0.1.0,1917,1,2026-08-01T18:23:49.677362
+sdl-sys,klaseca/sdl-sys,0.1.0,2416,1,2026-08-01T18:20:42.674163
 moon-actor,Zcxssxx/moon-actor,0.1.0,153,1,2026-07-06T15:53:03.157830
 moon-ninja,Zcxssxx/moon-ninja,0.1.1,828,2,2026-07-11T17:05:17.312721
 moonbit-robot-vision-formats,ppyj663/moonbit-robot-vision-formats,0.1.0,1418,2,2026-07-27T14:25:57.196020
