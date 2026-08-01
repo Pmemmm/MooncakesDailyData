@@ -1,8 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+chensuiyi/packet,新增,1033,1,0,0,1033,1
+chensuiyi/pcap,新增,221,1,0,0,221,1
 Lxxbv/moonbit-thermochem,新增,4468,6,0,0,4468,6
 usagi-star/mooncap,新增,5334,13,0,0,5334,13
 aurasuisui/indexmap,有变化,-358,0,6447,4,6089,4
-CCllff-jpg/MoonLogTrace,有变化,1076,0,3499,2,4575,2
+CCllff-jpg/MoonLogTrace,有变化,1197,0,3499,2,4696,2
 hzc-666-ai/moonpathfinding,有变化,732,0,2340,7,3072,7
 kokic/katex-parser,有变化,27,0,14941,5,14968,5
 moonbit-community/rabbita,有变化,217,0,26106,21,26323,21

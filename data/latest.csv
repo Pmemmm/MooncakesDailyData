@@ -532,8 +532,8 @@ parquet,mizchi/parquet,0.2.1,10202,4,2026-04-25T11:15:48.797751
 pathfind,mizchi/pathfind,0.2.0,311,1,2026-06-03T13:11:13.037456
 physics,mizchi/physics,0.2.0,8058,3,2026-06-03T13:11:03.107719
 pixelmatch,mizchi/pixelmatch,0.6.1,4306,5,2026-05-26T10:19:20.788719
-pkf,mizchi/pkf,0.14.0,10881,3,2026-07-30T12:04:01.651032
-pkl,mizchi/pkl,0.3.4,90530,2,2026-07-30T11:32:42.267489
+pkf,mizchi/pkf,0.14.1,10881,3,2026-08-01T12:41:53.717735
+pkl,mizchi/pkl,0.3.5,90530,2,2026-08-01T13:16:48.685946
 playwright,mizchi/playwright,0.3.7,8363,4,2026-03-20T14:14:34.365323
 process_pool,mizchi/process_pool,0.1.3,1162,2,2026-02-11T09:07:52.586863
 protocol,mizchi/protocol,0.0.5,803,2,2024-05-07T20:33:53.012583
@@ -842,6 +842,8 @@ nanoid,ledao/nanoid,0.2.1,159,1,2026-06-25T15:48:42.363967
 parsem,yoshitsugu/parsem,0.0.4,642,1,2025-12-25T02:45:45.690508
 lru_cache,liuly0322/lru_cache,0.1.0,121,1,2025-01-23T15:11:02.614728
 tch_mbt,liuly0322/tch_mbt,0.2.0,868,2,2025-04-19T08:16:24.591991
+packet,chensuiyi/packet,0.1.1,1033,1,2026-08-01T11:49:34.077714
+pcap,chensuiyi/pcap,0.1.1,221,1,2026-08-01T11:49:29.167830
 t1,chensuiyi/t1,0.0.2,9,0,2026-01-21T12:19:56.899038
 t22,chensuiyi/t22,0.1.0,37,2,2026-03-04T18:38:15.283272
 🐫,illusory0x0/🐫,0.1.0,25,2,2025-05-14T14:00:16.460866
@@ -1556,7 +1558,7 @@ moon-collections,Hhsqoo/moon-collections,0.2.0,2337,8,2026-07-16T03:12:18.557835
 MoonParse,Ljh684/MoonParse,0.1.3,2881,2,2026-07-06T10:18:42.824051
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
-MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.3,4575,2,2026-08-01T10:50:57.861790
+MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.4,4696,2,2026-08-01T13:46:10.118259
 mooncollections,Zongzuixi114514/mooncollections,0.1.5,4664,13,2026-07-22T06:14:10.627852
 stencil,LL124-Arch/stencil,0.1.1,1057,2,2026-07-11T07:46:14.865194
 moongraph,wedarp/moongraph,0.1.0,978,1,2026-07-05T13:30:32.108925
