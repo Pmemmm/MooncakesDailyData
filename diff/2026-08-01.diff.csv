@@ -3,11 +3,13 @@ Lxxbv/moonbit-thermochem,新增,4468,6,0,0,4468,6
 usagi-star/mooncap,新增,5334,13,0,0,5334,13
 aurasuisui/indexmap,有变化,-358,0,6447,4,6089,4
 hzc-666-ai/moonpathfinding,有变化,732,0,2340,7,3072,7
+kokic/katex-parser,有变化,27,0,14941,5,14968,5
 moonbit-community/rabbita,有变化,217,0,26106,21,26323,21
 Nanaloveyuki/sync,有变化,1047,3,2671,10,3718,13
 poteto0/endor,有变化,3725,3,10664,9,14389,12
 RabitLogic/s7,有变化,640,2,2923,4,3563,6
 shina1024/jqx,有变化,152,0,21661,11,21813,11
+tkancf/feed_gen,有变化,-2,0,4890,2,4888,2
 vectie/moonlib,有变化,2399,0,10427,18,12826,18
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -691,7 +693,6 @@ KKKIIO/selene_raylib,无变化,0,0,8940,6,8940,6
 KKKIIO/selene_webgpu,无变化,0,0,11837,6,11837,6
 KKKIIO/selene_xaml,无变化,0,0,16206,15,16206,15
 kokic/i18n-ipsum,无变化,0,0,600,1,600,1
-kokic/katex-parser,无变化,0,0,14941,5,14941,5
 kokic/momoka,无变化,0,0,1008,1,1008,1
 kokic/moonbit-chalk,无变化,0,0,248,1,248,1
 kokic/prime,无变化,0,0,549,2,549,2
@@ -1448,7 +1449,6 @@ tiye/respo_css,无变化,0,0,4894,2,4894,2
 tiye/respo-markdown,无变化,0,0,1479,3,1479,3
 tiye/respo-router,无变化,0,0,456,2,456,2
 tiye/thin_ws,无变化,0,0,259,1,259,1
-tkancf/feed_gen,无变化,0,0,4890,2,4890,2
 tmkx/hello,无变化,0,0,24,2,24,2
 tonyfettes/adw,无变化,0,0,1704,1,1704,1
 tonyfettes/amjson,无变化,0,0,927,2,927,2
