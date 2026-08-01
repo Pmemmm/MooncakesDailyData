@@ -533,7 +533,7 @@ pathfind,mizchi/pathfind,0.2.0,311,1,2026-06-03T13:11:13.037456
 physics,mizchi/physics,0.2.0,8058,3,2026-06-03T13:11:03.107719
 pixelmatch,mizchi/pixelmatch,0.6.1,4306,5,2026-05-26T10:19:20.788719
 pkf,mizchi/pkf,0.14.1,10881,3,2026-08-01T12:41:53.717735
-pkl,mizchi/pkl,0.3.5,90530,2,2026-08-01T13:16:48.685946
+pkl,mizchi/pkl,0.4.0,91186,2,2026-08-01T14:08:10.652726
 playwright,mizchi/playwright,0.3.7,8363,4,2026-03-20T14:14:34.365323
 process_pool,mizchi/process_pool,0.1.3,1162,2,2026-02-11T09:07:52.586863
 protocol,mizchi/protocol,0.0.5,803,2,2024-05-07T20:33:53.012583
@@ -1088,7 +1088,7 @@ moonjinja,ZSeanYves/moonjinja,0.2.1,5319,2,2026-07-23T12:09:01.593356
 SimplexNoise,ZSeanYves/SimplexNoise,0.2.0,4655,4,2026-07-21T10:46:33.827229
 alga,dowdiness/alga,0.4.0,7024,1,2026-06-22T17:15:56.442288
 btree,dowdiness/btree,0.2.0,7066,1,2026-07-30T11:32:42.384340
-event-graph-walker,dowdiness/event-graph-walker,0.6.0,45257,19,2026-07-28T13:11:50.156032
+event-graph-walker,dowdiness/event-graph-walker,0.7.0,45428,19,2026-08-01T15:15:41.858956
 ffi_c,dowdiness/ffi_c,0.1.1,1632,2,2025-10-24T13:55:18.091686
 graphviz,dowdiness/graphviz,0.1.0,4695,5,2026-04-21T13:41:19.354333
 incr,dowdiness/incr,0.14.2,30069,9,2026-07-10T14:16:41.015986
@@ -1757,4 +1757,5 @@ moonopenmetrics,JYPeng487/moonopenmetrics,0.1.0,6014,2,2026-07-29T17:29:41.73258
 moon-multipart,Songyz002/moon-multipart,0.2.1,3250,2,2026-07-30T06:14:27.029674
 MoonSearch,Lucius646/MoonSearch,0.1.0,10403,11,2026-07-30T16:54:33.701936
 moonpixelanimkit,WangYF0829/moonpixelanimkit,0.1.1,4944,3,2026-07-31T10:52:26.872193
+moon-wasi,Ag108/moon-wasi,0.1.0,2683,9,2026-08-01T15:24:47.541102
 mooncap,usagi-star/mooncap,0.1.0,5334,13,2026-08-01T05:53:50.563309
