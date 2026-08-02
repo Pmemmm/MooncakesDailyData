@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 klaseca/sdl,新增,1917,1,0,0,1917,1
 klaseca/sdl-sys,新增,2416,1,0,0,2416,1
+sacckey/mahjong,新增,2755,3,0,0,2755,3
 totto2727/agent-cli-sdk,新增,414,1,0,0,414,1
 totto2727/any-collection,新增,429,2,0,0,429,2
 totto2727/bw,新增,2369,1,0,0,2369,1
@@ -13,7 +14,10 @@ totto2727/moon-agent-graph,新增,7426,11,0,0,7426,11
 totto2727/opencode-sdk,新增,1266,2,0,0,1266,2
 totto2727/opencode-server-sdk,新增,609,2,0,0,609,2
 totto2727/wt,新增,688,1,0,0,688,1
+brickfrog/moontrace,有变化,366,0,13714,10,14080,10
+colmugx/posoco,有变化,-39,0,27109,6,27070,6
 dowdiness/order-tree,有变化,211,0,2106,1,2317,1
+Lxxbv/moonbit-thermochem,有变化,23,0,4468,6,4491,6
 RabitLogic/mbit,有变化,-723,5,12986,2,12263,7
 totto2727/admiral,有变化,888,1,3952,2,4840,3
 totto2727/geo-mbt,有变化,3,0,24431,4,24434,4
@@ -191,7 +195,6 @@ bobzhang/uuidm,无变化,0,0,2294,1,2294,1
 bobzhang/vg,无变化,0,0,8049,7,8049,7
 bobzhang/zip,无变化,0,0,17585,16,17585,16
 bobzhang/zipc,无变化,0,0,6456,6,6456,6
-brickfrog/moontrace,无变化,0,0,13714,10,13714,10
 brickfrog/pippa,无变化,0,0,39179,35,39179,35
 brickfrog/tempo,无变化,0,0,7200,3,7200,3
 brother-666/moonwheelkit,无变化,0,0,1656,3,1656,3
@@ -285,7 +288,6 @@ colmugx/jieba,无变化,0,0,386261,3,386261,3
 colmugx/mcp,无变化,0,0,7989,10,7989,10
 colmugx/ofd,无变化,0,0,2520,4,2520,4
 colmugx/ofdx,无变化,0,0,166,1,166,1
-colmugx/posoco,无变化,0,0,27109,6,27109,6
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
@@ -800,7 +802,6 @@ Luna-Flow/stella,无变化,0,0,916,1,916,1
 Luna-Flow/type_theory,无变化,0,0,3584,10,3584,10
 luolingkan/find_min_num,无变化,0,0,25,1,25,1
 Lxxbv/glob,无变化,0,0,1032,2,1032,2
-Lxxbv/moonbit-thermochem,无变化,0,0,4468,6,4468,6
 lyf597/hello,无变化,0,0,25,2,25,2
 Lyhdsba/moonforge,无变化,0,0,1775,2,1775,2
 lyjttio/moongrad,无变化,0,0,1700,2,1700,2

@@ -1103,7 +1103,7 @@ jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
-posoco,colmugx/posoco,0.7.1,27109,6,2026-07-30T15:27:07.574632
+posoco,colmugx/posoco,0.7.2,27070,6,2026-08-02T03:21:53.073947
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1373,6 +1373,7 @@ ulid,paveg/ulid,0.1.0,962,1,2026-01-19T08:16:22.381613
 channel,bnyu2/channel,0.1.1,967,2,2026-01-24T15:39:12.471080
 mongodb,allain/mongodb,0.1.1,9540,3,2026-01-29T18:30:06.080944
 lunaboy,sacckey/lunaboy,0.1.2,4639,3,2026-02-23T11:49:40.159722
+mahjong,sacckey/mahjong,0.1.0,2755,3,2026-08-02T00:12:21.988873
 moon8bit,sacckey/moon8bit,0.1.0,3115,7,2026-04-03T18:39:56.309983
 sha256,shu-kitamura/sha256,0.1.1,263,1,2026-01-29T14:58:19.304011
 mbtgraph,morning-start/mbtgraph,0.1.3,36647,25,2026-07-08T14:09:43.444694
@@ -1439,7 +1440,7 @@ gulp,i5ting/gulp,0.1.0,42168,19,2026-05-20T03:21:30.743987
 readdirp,i5ting/readdirp,0.1.3,1515,2,2026-05-17T14:30:25.690645
 cube_render,yuntian/cube_render,0.0.3,3570,11,2026-03-19T01:39:06.900110
 jqx,shina1024/jqx,0.4.1,21813,11,2026-08-01T07:18:30.191190
-moontrace,brickfrog/moontrace,0.13.0,13714,10,2026-06-01T16:42:28.319731
+moontrace,brickfrog/moontrace,0.13.1,14080,10,2026-08-02T02:40:05.384046
 pippa,brickfrog/pippa,0.1.0,39179,35,2026-06-04T18:41:41.623980
 tempo,brickfrog/tempo,0.8.0,7200,3,2026-06-02T17:04:50.764165
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4,2026-03-25T09:57:33.650176
@@ -1614,7 +1615,7 @@ moonsatkit,yf666888/moonsatkit,0.2.0,1216,3,2026-07-06T12:25:26.995609
 moon-ssg,Myytsjj/moon-ssg,0.3.0,2158,3,2026-07-12T15:35:45.043204
 moonplot,dgmxjj/moonplot,0.2.0,1270,8,2026-07-12T08:43:18.084572
 glob,Lxxbv/glob,0.1.2,1032,2,2026-07-12T11:07:10.960302
-moonbit-thermochem,Lxxbv/moonbit-thermochem,0.1.0,4468,6,2026-08-01T05:15:56.414257
+moonbit-thermochem,Lxxbv/moonbit-thermochem,0.1.1,4491,6,2026-08-02T02:40:39.207185
 sdl,klaseca/sdl,0.1.0,1917,1,2026-08-01T18:23:49.677362
 sdl-sys,klaseca/sdl-sys,0.1.0,2416,1,2026-08-01T18:20:42.674163
 moon-actor,Zcxssxx/moon-actor,0.1.0,153,1,2026-07-06T15:53:03.157830
