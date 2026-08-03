@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 chensuiyi/bm2,新增,4608,5,0,0,4608,5
+vicTop-cw/RX-MBT,新增,14689,15,0,0,14689,15
 liuhuo23/clickhouse-driver,有变化,2457,1,2429,2,4886,3
 mizchi/pkl,有变化,8780,0,91186,2,99966,2
 sacckey/mahjong,有变化,691,1,2755,3,3446,4
