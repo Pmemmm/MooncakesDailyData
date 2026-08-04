@@ -292,7 +292,7 @@ std,moonbitlang/std,0.1.0,99,1,2024-01-01T00:00:00
 ulex,moonbitlang/ulex,0.3.29,8776,16,2026-06-23T05:44:02.986380
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1,2026-01-19T06:52:59.858911
 wasm4,moonbitlang/wasm4,0.2.9,813,1,2025-11-18T02:28:47.869535
-x,moonbitlang/x,0.4.47,23283,21,2026-07-22T10:01:19.835796
+x,moonbitlang/x,0.4.48,23001,21,2026-08-04T03:41:12.197291
 yacc,moonbitlang/yacc,0.7.18,18835,21,2026-07-29T09:49:57.876043
 test,Young-Flash/test,0.2.0,25,2,2024-08-23T10:32:04.970519
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2,2024-08-23T10:31:48.481588
@@ -715,13 +715,13 @@ microphone,justjavac/microphone,0.1.3,618,3,2026-06-29T01:43:29.233251
 notification,justjavac/notification,0.1.5,711,1,2026-07-22T06:26:32.389167
 num_cpus,justjavac/num_cpus,0.1.9,273,2,2026-06-10T05:46:03.480191
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
-proton,justjavac/proton,0.1.13,14762,9,2026-07-30T06:35:27.217773
-proton_cli,justjavac/proton_cli,0.1.11,18888,9,2026-07-30T08:00:26.598787
-proton_client,justjavac/proton_client,0.1.0,672,1,2026-07-30T06:34:09.038455
-proton_config,justjavac/proton_config,0.1.7,2399,1,2026-07-30T06:23:27.537660
-proton_contract,justjavac/proton_contract,0.1.0,411,1,2026-07-30T06:25:13.771973
+proton,justjavac/proton,0.1.14,18198,9,2026-08-04T03:17:50.306396
+proton_cli,justjavac/proton_cli,0.1.12,19059,11,2026-08-04T03:18:43.823538
+proton_client,justjavac/proton_client,0.1.1,674,1,2026-08-04T03:16:40.364095
+proton_config,justjavac/proton_config,0.1.8,2898,1,2026-08-04T03:15:17.420423
+proton_contract,justjavac/proton_contract,0.1.1,415,1,2026-08-04T03:15:54.817359
 proton_ext,justjavac/proton_ext,0.1.7,5890,13,2026-06-28T23:47:47.808827
-proton_rabbita,justjavac/proton_rabbita,0.1.0,524,1,2026-07-30T06:34:51.234088
+proton_rabbita,justjavac/proton_rabbita,0.1.1,528,1,2026-08-04T03:17:17.452812
 quickjs,justjavac/quickjs,0.1.5,1893,5,2026-07-24T15:50:38.663972
 replace_self,justjavac/replace_self,0.1.4,1168,2,2026-06-29T08:09:16.263983
 screenshots,justjavac/screenshots,0.1.2,490,3,2026-06-10T05:51:35.345220
@@ -756,7 +756,7 @@ NyaSearch,xunyoyo/NyaSearch,0.1.0,500,1,2025-03-01T08:53:06.179032
 permutation,xunyoyo/permutation,0.1.3,209,4,2024-11-17T16:19:56.797966
 Permutation,xunyoyo/Permutation,0.1.1,216,4,2024-11-15T10:48:43.405249
 i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
-katex-parser,kokic/katex-parser,0.2.3,17838,5,2026-08-03T08:38:27.034884
+katex-parser,kokic/katex-parser,0.2.5,18667,5,2026-08-04T02:31:44.195230
 momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
@@ -1031,7 +1031,7 @@ moon_elk,Milky2018/moon_elk,0.2.1,272725,48,2026-07-18T06:33:42.211590
 moonlight,Milky2018/moonlight,0.1.0,131,5,2025-05-13T07:11:58.243950
 moonplant,Milky2018/moonplant,0.3.1,858,2,2025-05-22T02:15:49.833416
 moon_rapier,Milky2018/moon_rapier,0.5.1,114601,14,2026-06-10T06:26:42.641522
-moon_rodio,Milky2018/moon_rodio,0.3.3,22711,55,2026-06-10T09:13:36.590773
+moon_rodio,Milky2018/moon_rodio,0.3.4,22729,55,2026-08-04T02:36:31.401384
 moon_skrifa,Milky2018/moon_skrifa,0.1.8,47218,3,2026-06-10T06:13:07.468574
 moon_swash,Milky2018/moon_swash,0.1.10,66459,7,2026-06-10T07:26:15.260702
 moon_taffy,Milky2018/moon_taffy,0.5.3,62542,8,2026-07-12T14:50:47.427350
