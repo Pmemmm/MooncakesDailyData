@@ -270,7 +270,7 @@ lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.20.3,46246,49,2026-07-23T03:29:30.436941
-core,moonbitlang/core,0.1.20260803+62c2592d1,200548,79,2026-08-03T08:50:45.049383
+core,moonbitlang/core,0.1.20260804+80dc50f24,200548,79,2026-08-04T07:46:51.370870
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 editor,moonbitlang/editor,0.4.4,168064,50,2026-08-03T10:35:21.219352
 editor-server,moonbitlang/editor-server,0.1.0,5041,3,2026-08-03T08:09:14.938419
@@ -293,7 +293,7 @@ ulex,moonbitlang/ulex,0.3.29,8776,16,2026-06-23T05:44:02.986380
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1,2026-01-19T06:52:59.858911
 wasm4,moonbitlang/wasm4,0.2.9,813,1,2025-11-18T02:28:47.869535
 x,moonbitlang/x,0.4.48,23001,21,2026-08-04T03:41:12.197291
-yacc,moonbitlang/yacc,0.7.18,18835,21,2026-07-29T09:49:57.876043
+yacc,moonbitlang/yacc,0.7.19,18860,21,2026-08-04T07:54:26.799929
 test,Young-Flash/test,0.2.0,25,2,2024-08-23T10:32:04.970519
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2,2024-08-23T10:31:48.481588
 test_publish,Young-Flash/test_publish,0.2.0,25,2,2024-08-23T10:31:08.636269
@@ -1251,7 +1251,7 @@ embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
 flate,moonbit-community/flate,0.4.0,10193,4,2026-07-10T09:26:39.869585
 fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1,2026-02-04T02:36:34.906484
-graphviz,moonbit-community/graphviz,0.1.1,258858,170,2026-07-24T06:13:53.932189
+graphviz,moonbit-community/graphviz,0.1.2,129433,85,2026-08-04T09:39:52.214747
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21,2026-03-24T10:22:02.340733
 html,moonbit-community/html,0.1.2,102802,3,2026-06-08T07:57:23.256205
 ini,moonbit-community/ini,0.2.2,1794,1,2026-02-05T07:06:38.566835
@@ -1411,7 +1411,7 @@ codex-sdk,totto2727/codex-sdk,0.1.0,3356,2,2026-08-01T16:34:32.709805
 copy,totto2727/copy,0.2.0,254,1,2026-08-01T16:08:00.563423
 c-plugin,totto2727/c-plugin,0.2.0,2581,2,2026-08-01T16:34:39.360310
 geo-mbt,totto2727/geo-mbt,0.1.1,24434,4,2026-08-01T16:08:05.151322
-lens,totto2727/lens,0.3.0,1737,1,2026-08-01T16:54:15.676806
+lens,totto2727/lens,0.4.0,2593,1,2026-08-04T09:37:42.644600
 mdt,totto2727/mdt,0.1.4,468,1,2026-08-01T16:34:51.464898
 moon-agent-graph,totto2727/moon-agent-graph,0.1.0,7426,11,2026-08-01T16:34:56.143649
 opencode-sdk,totto2727/opencode-sdk,0.2.0,1266,2,2026-08-01T16:34:40.063174
@@ -1798,3 +1798,4 @@ moon-wasi,Ag108/moon-wasi,0.1.0,2683,9,2026-08-01T15:24:47.541102
 moon-multipart,GCodinggo/moon-multipart,0.3.1,3537,2,2026-08-03T14:59:53.723313
 mooncap,usagi-star/mooncap,0.1.0,5334,13,2026-08-01T05:53:50.563309
 RX-MBT,vicTop-cw/RX-MBT,0.1.0,14689,15,2026-08-03T04:03:40.688374
+decision-tree,chenzexin02-hash/decision-tree,0.1.0,3962,5,2026-08-04T10:39:58.350452
