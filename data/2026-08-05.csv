@@ -91,7 +91,7 @@ testa,bobzhang/testa,0.1.0,16,2,2024-01-01T00:00:00
 testb,bobzhang/testb,0.1.0,24,2,2024-01-01T00:00:00
 todo-list,bobzhang/todo-list,0.3.2,1017,4,2026-04-04T13:29:06.498749
 toml,bobzhang/toml,0.4.2,15532,7,2026-07-19T11:47:32.816499
-toml_cli,bobzhang/toml_cli,0.1.0,129,1,2026-07-23T01:48:43.396814
+toml_cli,bobzhang/toml_cli,0.2.0,204,1,2026-08-05T08:43:59.352877
 unmarshal,bobzhang/unmarshal,0.3.0,10813,6,2026-06-26T04:55:54.941279
 uri,bobzhang/uri,0.1.0,606,1,2025-08-17T09:07:17.032959
 uuidm,bobzhang/uuidm,0.1.2,2294,1,2026-06-03T10:27:38.878292
@@ -764,7 +764,7 @@ sexp-html,kokic/sexp-html,0.4.0,1363,1,2026-06-25T04:03:24.920457
 talcparsec,kokic/talcparsec,0.1.1,2383,3,2026-07-22T08:24:56.569259
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 tinymark,kokic/tinymark,0.3.9,4766,5,2026-07-14T09:42:42.405113
-uml,kokic/uml,0.1.0,27686,14,2026-08-05T05:40:42.381982
+uml,kokic/uml,0.1.1,27898,14,2026-08-05T08:45:53.694772
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
 json,jinser/json,0.0.1,551,2,2025-02-06T08:05:55.931796
 baby,jumpping/baby,0.2.0,4270,6,2024-11-27T08:53:04.763310
@@ -811,9 +811,9 @@ wit-wasi-random,BigOrangeQWQ/wit-wasi-random,0.2.6,111,3,2025-06-21T16:41:01.996
 autodiff,FlyCloudC/autodiff,0.1.2,367,2,2026-02-11T16:39:38.854024
 GJK,FlyCloudC/GJK,0.1.1,281,1,2025-10-31T16:15:21.807381
 mgraph,FlyCloudC/mgraph,0.1.4,283,1,2025-10-31T10:37:29.530660
-miniKanren,FlyCloudC/miniKanren,0.1.8,546,1,2026-05-25T00:29:18.415124
-scheme,FlyCloudC/scheme,0.6.0,1855,2,2026-05-25T01:07:09.966055
-symbol,FlyCloudC/symbol,0.3.0,189,1,2026-05-25T00:21:02.352520
+miniKanren,FlyCloudC/miniKanren,0.1.9,543,1,2026-08-05T10:39:38.345424
+scheme,FlyCloudC/scheme,0.7.0,1921,2,2026-08-05T10:50:44.623027
+symbol,FlyCloudC/symbol,0.4.0,189,1,2026-08-05T10:26:24.972651
 NetworkX,smallbearrr/NetworkX,0.1.4,1907,1,2025-05-06T16:12:53.675459
 pandas,smallbearrr/pandas,0.7.1,6324,2,2025-04-02T08:51:51.472189
 assembler,AdUhTkJm/assembler,0.1.1,431,1,2025-07-06T14:52:46.405405
@@ -1804,3 +1804,5 @@ mooncap,usagi-star/mooncap,0.1.0,5334,13,2026-08-01T05:53:50.563309
 RX-MBT,vicTop-cw/RX-MBT,0.1.0,14689,15,2026-08-03T04:03:40.688374
 decision-tree,chenzexin02-hash/decision-tree,0.2.0,5800,6,2026-08-04T12:25:39.897591
 time-series-forecasting,wjhsb1/time-series-forecasting,0.1.0,5854,1,2026-08-05T06:04:08.462322
+kernel-svm,Yuxiao-Bot/kernel-svm,0.1.0,6775,7,2026-08-05T09:38:13.871602
+thermo_trail,sujy123456/thermo_trail,0.1.0,5849,3,2026-08-05T09:52:25.084940
