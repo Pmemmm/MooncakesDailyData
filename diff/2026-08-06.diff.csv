@@ -18,11 +18,13 @@ moonbit-community/proton_rabbita,新增,539,1,0,0,539,1
 moonbit-community/proton_rsa,新增,711,1,0,0,711,1
 moonbit-community/proton_updater,新增,909,1,0,0,909,1
 moonbit-community/tray,新增,1584,2,0,0,1584,2
+wjhfather/pinyin-toolkit,新增,14641,6,0,0,14641,6
 bobzhang/docx2html,有变化,1310,0,69461,18,70771,18
 bobzhang/office-lib,有变化,3684,0,60392,14,64076,14
 caassien/moonbio,有变化,80,0,1246,6,1326,6
 co63oc/moonbit_promptkit,有变化,384,13,14559,71,14943,84
 colmugx/posoco,有变化,1177,1,26885,8,28062,9
+houjie/rag-mbt,有变化,49,0,3929,4,3978,4
 Kaida-Amethyst/llvm,有变化,2174,0,37464,4,39638,4
 LL124-Arch/stencil,有变化,44,0,1057,2,1101,2
 Lxxbv/glob,有变化,6855,0,1032,2,7887,2
@@ -543,7 +545,6 @@ hnlyxiaobing/MBOpenClacky,无变化,0,0,98780,33,98780,33
 hnlyxiaobing/toml,无变化,0,0,12832,3,12832,3
 horideicom/encoding_sjis,无变化,0,0,7475,2,7475,2
 horideicom/jww_parser,无变化,0,0,2497,3,2497,3
-houjie/rag-mbt,无变化,0,0,3929,4,3929,4
 hourizon/moonbin,无变化,0,0,1096,2,1096,2
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 howtomakeaname/tokenizers-moonbit,无变化,0,0,48096,11,48096,11
