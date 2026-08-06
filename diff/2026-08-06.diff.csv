@@ -23,8 +23,10 @@ bobzhang/office-lib,有变化,3684,0,60392,14,64076,14
 caassien/moonbio,有变化,80,0,1246,6,1326,6
 co63oc/moonbit_promptkit,有变化,384,13,14559,71,14943,84
 colmugx/posoco,有变化,1177,1,26885,8,28062,9
+Kaida-Amethyst/llvm,有变化,2174,0,37464,4,39638,4
 LL124-Arch/stencil,有变化,44,0,1057,2,1101,2
-Milky2018/aarch64_target,有变化,24,0,25474,1,25498,1
+Lxxbv/glob,有变化,6855,0,1032,2,7887,2
+Milky2018/aarch64_target,有变化,272,0,25474,1,25746,1
 Milky2018/machv,有变化,10,0,12155,3,12165,3
 Milky2018/machv_regalloc,有变化,18,0,841,1,859,1
 Milky2018/milkir,有变化,645,0,29753,3,30398,3
@@ -32,12 +34,13 @@ Milky2018/regalloc,有变化,515,0,10647,3,11162,3
 Milky2018/wasm_core,有变化,97,0,5207,3,5304,3
 Milky2018/wasm_machv,有变化,227,0,2341,1,2568,1
 Milky2018/wasm_milkir,有变化,20,0,3737,1,3757,1
-Milky2018/wasmoon,有变化,557,1,163182,30,163739,31
+Milky2018/wasmoon,有变化,1037,1,163182,30,164219,31
 Milky2018/wasmoon_jit,有变化,195,0,18640,4,18835,4
 Milky2018/x64_target,有变化,24,0,20432,1,20456,1
 moonbit-community/rabbita,有变化,82,0,26323,21,26405,21
 moonbit-community/warren,有变化,139,0,3019,8,3158,8
 Project2026-creator/moontemplate,有变化,-2268,-2,3117,4,849,2
+Zcxssxx/moon-ninja,有变化,520,1,828,2,1348,3
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
 0717lee/pixelforge,无变化,0,0,7158,3,7158,3
@@ -681,7 +684,6 @@ kaashyapan/uri,无变化,0,0,3473,1,3473,1
 Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
 Kaida-Amethyst/either,无变化,0,0,1168,1,1168,1
 Kaida-Amethyst/godot,无变化,0,0,6040,1,6040,1
-Kaida-Amethyst/llvm,无变化,0,0,37464,4,37464,4
 Kaida-Amethyst/math,无变化,0,0,15075,1,15075,1
 Kaida-Amethyst/matplotlib,无变化,0,0,1237,1,1237,1
 Kaida-Amethyst/mbtcc,无变化,0,0,26861,8,26861,8
@@ -826,7 +828,6 @@ Luna-Flow/quaternion,无变化,0,0,702,1,702,1
 Luna-Flow/stella,无变化,0,0,916,1,916,1
 Luna-Flow/type_theory,无变化,0,0,3584,10,3584,10
 luolingkan/find_min_num,无变化,0,0,25,1,25,1
-Lxxbv/glob,无变化,0,0,1032,2,1032,2
 Lxxbv/moonbit-thermochem,无变化,0,0,4491,6,4491,6
 lyf597/hello,无变化,0,0,25,2,25,2
 Lyhdsba/moonforge,无变化,0,0,1775,2,1775,2
@@ -1794,7 +1795,6 @@ z2823253773-p/moonrules,无变化,0,0,3648,3,3648,3
 zbhzs1/moonbit-mqtt,无变化,0,0,2092,2,2092,2
 zbhzs1/moonbit-phonetic,无变化,0,0,6997,5,6997,5
 Zcxssxx/moon-actor,无变化,0,0,153,1,153,1
-Zcxssxx/moon-ninja,无变化,0,0,828,2,828,2
 zdu881/DataProc,无变化,0,0,143,1,143,1
 zdu881/webmocket,无变化,0,0,291,2,291,2
 zen314/shadow,无变化,0,0,529,2,529,2
