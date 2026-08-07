@@ -1481,7 +1481,7 @@ cube_render,yuntian/cube_render,0.0.3,3570,11,2026-03-19T01:39:06.900110
 jqx,shina1024/jqx,0.4.1,21813,11,2026-08-01T07:18:30.191190
 moontrace,brickfrog/moontrace,0.13.1,14080,10,2026-08-02T02:40:05.384046
 pippa,brickfrog/pippa,0.1.0,39179,35,2026-06-04T18:41:41.623980
-tempo,brickfrog/tempo,0.8.0,7200,3,2026-06-02T17:04:50.764165
+tempo,brickfrog/tempo,0.8.1,7155,1,2026-08-07T02:45:01.512004
 astrobit,SouichiroTsujimoto/astrobit,0.1.6,1016,4,2026-03-25T09:57:33.650176
 tour,beso1225/tour,0.1.0,91,2,2026-03-26T13:40:48.020818
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1,2026-03-27T06:41:52.668118
@@ -1736,7 +1736,7 @@ moonbitdb,JIA2JIA2/moonbitdb,0.1.1,4588,6,2026-07-19T06:33:58.665651
 moonbitgeodb,JIA2JIA2/moonbitgeodb,0.1.1,9718,8,2026-07-24T18:02:25.513052
 moonbit-log,leppard/moonbit-log,0.1.0,5248,2,2026-07-11T19:01:23.709809
 bio_seq,IvanAXu/bio_seq,0.1.0,10001,6,2026-07-11T19:39:03.471290
-BioSeqs,IvanAXu/BioSeqs,0.1.7,539829,389,2026-08-06T17:15:32.760939
+BioSeqs,IvanAXu/BioSeqs,0.1.8,539829,389,2026-08-07T02:20:00.441732
 moon_diffusion_lab,hxiuzheng/moon_diffusion_lab,0.1.0,1922,7,2026-07-18T03:22:12.724452
 moon_sfv,serene-WJ/moon_sfv,0.1.0,1063,2,2026-07-12T04:51:56.471201
 uri,Qlcdsba/uri,0.1.0,1511,2,2026-07-26T08:34:48.772015
