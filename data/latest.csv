@@ -760,7 +760,7 @@ i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
 katex-parser,kokic/katex-parser,0.2.5,18667,5,2026-08-04T02:31:44.195230
 momoka,kokic/momoka,0.4.0,1008,1,2026-05-31T16:16:03.314909
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
-notiz,kokic/notiz,0.1.0,1938,4,2026-08-06T05:06:18.525373
+notiz,kokic/notiz,0.1.1,2096,4,2026-08-07T07:59:22.538433
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
 sexp-html,kokic/sexp-html,0.4.0,1363,1,2026-06-25T04:03:24.920457
 talcparsec,kokic/talcparsec,0.1.1,2383,3,2026-07-22T08:24:56.569259
@@ -1108,7 +1108,7 @@ jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
-posoco,colmugx/posoco,0.9.0,28062,9,2026-08-05T15:05:11.480560
+posoco,colmugx/posoco,0.10.0,27813,8,2026-08-07T08:17:52.788804
 reader,colmugx/reader,0.3.0,228,1,2026-01-12T02:42:21.632489
 sqlite3,colmugx/sqlite3,0.2.0,832,2,2026-05-11T13:19:48.846579
 sqlite-vec,colmugx/sqlite-vec,0.2.4,983,3,2026-05-19T07:21:49.691935
@@ -1238,7 +1238,7 @@ qt,KeqingMoe/qt,0.5.2,16574,3,2026-04-18T21:35:58.353101
 unicode_xid,KeqingMoe/unicode_xid,0.0.1,2391,2,2025-10-06T06:58:44.237499
 hello,wangweigang/hello,0.1.0,276,3,2025-10-11T03:49:47.413263
 quickxorhash,baka-gourd/quickxorhash,0.1.0,575,2,2025-10-25T06:57:21.824056
-firefly,firefly/firefly,0.9.0,5472,13,2026-06-28T17:38:34.030425
+firefly,firefly/firefly,0.10.0,5533,13,2026-08-07T08:25:04.842337
 ds,meguruli/ds,0.1.0,6475,1,2025-11-05T07:27:18.075147
 auto_launch,moonbit-community/auto_launch,0.1.14,2001,1,2026-08-06T03:53:34.528657
 casefold,moonbit-community/casefold,0.1.5,2269,1,2026-05-22T03:10:59.669848
@@ -1782,10 +1782,10 @@ moondriftkit,liangjx987/moondriftkit,0.2.0,591,2,2026-07-18T15:29:26.579527
 moontracekit,SCL-NN/moontracekit,0.2.0,722,2,2026-07-18T21:49:39.107069
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
-mcp,marianoguerra/mcp,0.2.2,1611,4,2026-08-06T15:46:01.817200
-mcp-client,marianoguerra/mcp-client,0.2.2,1772,4,2026-08-06T15:46:06.474502
-mcp-inspector,marianoguerra/mcp-inspector,0.2.2,1142,2,2026-08-06T15:46:11.096598
-mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.2.2,1580,1,2026-08-06T15:46:15.929556
+mcp,marianoguerra/mcp,0.3.0,3007,5,2026-08-07T08:51:09.170595
+mcp-client,marianoguerra/mcp-client,0.3.0,1772,4,2026-08-07T08:51:14.024414
+mcp-inspector,marianoguerra/mcp-inspector,0.3.0,1664,2,2026-08-07T08:51:18.794539
+mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.3.0,1739,1,2026-08-07T08:51:23.865964
 pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2,2026-08-03T16:39:48.481646
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
 tutuca,marianoguerra/tutuca,0.9.13,94357,36,2026-08-03T21:59:05.687954

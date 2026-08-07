@@ -1,13 +1,16 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-marianoguerra/mcp,新增,1611,4,0,0,1611,4
+marianoguerra/mcp,新增,3007,5,0,0,3007,5
 marianoguerra/mcp-client,新增,1772,4,0,0,1772,4
-marianoguerra/mcp-inspector,新增,1142,2,0,0,1142,2
-marianoguerra/mcp-inspector-cli,新增,1580,1,0,0,1580,1
+marianoguerra/mcp-inspector,新增,1664,2,0,0,1664,2
+marianoguerra/mcp-inspector-cli,新增,1739,1,0,0,1739,1
 brickfrog/tempo,有变化,-45,-2,7200,3,7155,1
 chgttyyr/MoonSpectrum,有变化,540,0,849,2,1389,2
+colmugx/posoco,有变化,-249,-1,28062,9,27813,8
 dgmxjj/moonplot,有变化,216,0,1270,8,1486,8
+firefly/firefly,有变化,61,0,5472,13,5533,13
 IvanAXu/BioSeqs,有变化,404159,239,135670,150,539829,389
 justinwongcn/tyme4mb,有变化,2096,3,16830,2,18926,5
+kokic/notiz,有变化,158,0,1938,4,2096,4
 lenitain/hcl,有变化,5527,-2,27479,3,33006,1
 lenitain/kdl,有变化,5826,1,11139,6,16965,7
 Milky2018/aarch64_target,有变化,306,0,25746,1,26052,1
@@ -289,7 +292,6 @@ colmugx/jieba,无变化,0,0,386261,3,386261,3
 colmugx/mcp,无变化,0,0,7989,10,7989,10
 colmugx/ofd,无变化,0,0,2520,4,2520,4
 colmugx/ofdx,无变化,0,0,166,1,166,1
-colmugx/posoco,无变化,0,0,28062,9,28062,9
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
@@ -389,7 +391,6 @@ Feather119/moon_path,无变化,0,0,396,2,396,2
 felix-schultz/flow-like-wasm-sdk,无变化,0,0,1659,1,1659,1
 fgeygfe/dom_api,无变化,0,0,354,1,354,1
 FidollarinLA/moon_api_guard,无变化,0,0,4646,4,4646,4
-firefly/firefly,无变化,0,0,5472,13,5472,13
 five-nuts/coreutils,无变化,0,0,274,4,274,4
 FlyCloudC/autodiff,无变化,0,0,367,2,367,2
 FlyCloudC/GJK,无变化,0,0,281,1,281,1
@@ -713,7 +714,6 @@ kokic/i18n-ipsum,无变化,0,0,600,1,600,1
 kokic/katex-parser,无变化,0,0,18667,5,18667,5
 kokic/momoka,无变化,0,0,1008,1,1008,1
 kokic/moonbit-chalk,无变化,0,0,248,1,248,1
-kokic/notiz,无变化,0,0,1938,4,1938,4
 kokic/prime,无变化,0,0,549,2,549,2
 kokic/sexp-html,无变化,0,0,1363,1,1363,1
 kokic/talcparsec,无变化,0,0,2383,3,2383,3
