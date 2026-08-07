@@ -269,7 +269,7 @@ hashbrown,bob/hashbrown,0.1.0,1549,3,2025-08-19T09:29:51.479774
 lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
-async,moonbitlang/async,0.20.3,46246,49,2026-07-23T03:29:30.436941
+async,moonbitlang/async,0.20.4,47345,51,2026-08-07T07:34:58.338993
 core,moonbitlang/core,0.1.20260804+80dc50f24,200548,79,2026-08-04T07:46:51.370870
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 editor,moonbitlang/editor,0.4.4,168064,50,2026-08-03T10:35:21.219352
