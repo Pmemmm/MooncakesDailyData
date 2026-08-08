@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 001-Elsa/medseal,新增,4205,12,0,0,4205,12
+AlexenderSokolov/moontrack,新增,6289,5,0,0,6289,5
 jiujitong/nmea-toolkit,新增,6832,6,0,0,6832,6
 colmugx/posoco,有变化,1188,1,27813,8,29001,9
 gmlewis/fonts-d,有变化,7,0,46287,12,46294,12
@@ -8,6 +9,7 @@ gmlewis/fonts-f,有变化,262,0,792618,52,792880,52
 gmlewis/fonts-n,有变化,126,0,554767,21,554893,21
 gmlewis/fonts-p,有变化,140,0,426177,42,426317,42
 Hhsqoo/moon-collections,有变化,420,2,2337,8,2757,10
+moonbit-community/pty,有变化,56,0,998,1,1054,1
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
 0717lee/pixelforge,无变化,0,0,7158,3,7158,3
@@ -1165,7 +1167,6 @@ moonbit-community/proton_ext,无变化,0,0,5924,26,5924,26
 moonbit-community/proton_rabbita,无变化,0,0,539,1,539,1
 moonbit-community/proton_rsa,无变化,0,0,711,1,711,1
 moonbit-community/proton_updater,无变化,0,0,909,1,909,1
-moonbit-community/pty,无变化,0,0,998,1,998,1
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
 moonbit-community/rabbita,无变化,0,0,26405,21,26405,21
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
