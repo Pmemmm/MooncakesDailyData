@@ -1,4 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+001-Elsa/medseal,新增,4205,12,0,0,4205,12
+jiujitong/nmea-toolkit,新增,6832,6,0,0,6832,6
 colmugx/posoco,有变化,1188,1,27813,8,29001,9
 gmlewis/fonts-d,有变化,7,0,46287,12,46294,12
 gmlewis/fonts-e,有变化,70,0,242237,19,242307,19
