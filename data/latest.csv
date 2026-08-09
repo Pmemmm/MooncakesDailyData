@@ -1543,12 +1543,13 @@ skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
 skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.635738
 MoonFrame,ihb2032/MoonFrame,0.6.0,47291,23,2026-07-31T02:14:29.277537
 mold,robinfang/mold,0.3.0,3781,11,2026-06-12T05:49:04.397170
+html_dsl,kaashyapan/html_dsl,0.1.0,2633,1,2026-08-09T04:42:14.011579
 postgresx,kaashyapan/postgresx,0.2.0,1102,1,2026-08-08T14:28:03.643354
 uri,kaashyapan/uri,0.1.2,3473,1,2026-06-14T09:28:58.166499
 tqdmoon,GeneWang1226/tqdmoon,0.2.0,1190,3,2026-07-12T19:23:17.699530
 moonpost,MaoDingA/moonpost,0.2.1,16868,12,2026-07-07T07:00:16.222092
 AgriDroneSwarm,liushiman1222/AgriDroneSwarm,0.2.0,8322,1,2026-07-10T14:56:10.754504
-aitne,Arcelyth/aitne,0.4.13,14039,7,2026-07-28T08:01:23.787032
+aitne,Arcelyth/aitne,0.4.17,15818,7,2026-08-09T02:49:02.912402
 html_escape,Arcelyth/html_escape,0.3.4,3072,2,2026-07-16T16:04:12.143772
 cog_complex,pocket7878/cog_complex,0.1.0,1552,2,2026-06-19T04:31:22.603819
 clap,DzmingLi/clap,0.2.8,2729,1,2026-07-01T08:44:12.054819
@@ -1821,7 +1822,7 @@ moonbit-gffkit,wju-yuki111/moonbit-gffkit,0.1.0,5294,2,2026-07-29T08:58:01.87829
 moonlogfmt-lens,sqhyyy/moonlogfmt-lens,0.2.1,5609,6,2026-07-30T10:02:47.190022
 cidr-audit,BeiLaDuo/cidr-audit,0.1.1,4429,4,2026-07-30T13:38:04.463807
 robots-gate,2111950632/robots-gate,0.2.1,6377,6,2026-07-30T13:22:39.946819
-moongettext,YanFangNie/moongettext,0.1.0,4378,3,2026-07-29T17:24:44.176714
+moongettext,YanFangNie/moongettext,0.1.1,4378,3,2026-08-09T04:00:12.377100
 moonopenmetrics,JYPeng487/moonopenmetrics,0.1.0,6014,2,2026-07-29T17:29:41.732583
 moon-multipart,Songyz002/moon-multipart,0.2.1,3250,2,2026-07-30T06:14:27.029674
 MoonSearch,Lucius646/MoonSearch,0.1.0,10403,11,2026-07-30T16:54:33.701936
