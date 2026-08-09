@@ -6,14 +6,17 @@ wzzc-dev/moui_skia_renderer,新增,16823,1,0,0,16823,1
 wzzc-dev/moui_web_renderer,新增,4456,2,0,0,4456,2
 wzzc-dev/moui_wgpu_renderer,新增,13753,6,0,0,13753,6
 Arcelyth/aitne,有变化,1779,0,14039,7,15818,7
+Hjyyutr/moonyara,有变化,-72,0,4543,4,4471,4
 hustcer/fbr,有变化,150,0,18723,5,18873,5
 JYPeng487/moonopenmetrics,有变化,-23,0,6014,2,5991,2
 kokic/sexp-html,有变化,261,0,1363,1,1624,1
 Ljh684/MoonParse,有变化,946,0,2881,2,3827,2
 moonbit-community/fuzzy_match,有变化,13,0,571,1,584,1
 Nanaloveyuki/ajni,有变化,222,1,977,3,1199,4
+Nanaloveyuki/orbit-plugin-abi,有变化,732,0,405,1,1137,1
 Nanaloveyuki/orby,有变化,192,0,3219,9,3411,9
 poteto0/endor,有变化,3642,5,21939,18,25581,23
+python123-ops/moon-cv-geometry,有变化,386,0,1826,9,2212,9
 shiguri-01/mcp,有变化,29,0,6172,8,6201,8
 shop1111/frontierlab,有变化,-1,0,9174,9,9173,9
 wzzc-dev/moui,有变化,-32121,7,127514,49,95393,56
@@ -521,7 +524,6 @@ himeno/reactive,无变化,0,0,569,1,569,1
 himeno/test,无变化,0,0,36,1,36,1
 hiroyannnn/sketch,无变化,0,0,975,2,975,2
 hiroyannnn/strsim,无变化,0,0,861,3,861,3
-Hjyyutr/moonyara,无变化,0,0,4543,4,4543,4
 hmyhmyhmyss/moontrajectory,无变化,0,0,1151,2,1151,2
 hnlyxiaobing/crescent,无变化,0,0,23434,23,23434,23
 hnlyxiaobing/MBOpenClacky,无变化,0,0,98780,33,98780,33
@@ -1253,7 +1255,6 @@ Nanaloveyuki/BitLogger,无变化,0,0,20139,23,20139,23
 Nanaloveyuki/dynlib,无变化,0,0,234,1,234,1
 Nanaloveyuki/image,无变化,0,0,908,1,908,1
 Nanaloveyuki/moonview,无变化,0,0,3889,11,3889,11
-Nanaloveyuki/orbit-plugin-abi,无变化,0,0,405,1,405,1
 Nanaloveyuki/parsec,无变化,0,0,2928,5,2928,5
 Nanaloveyuki/sync,无变化,0,0,3881,12,3881,12
 nanlingyin/mbt_LIB,无变化,0,0,18,1,18,1
@@ -1340,7 +1341,6 @@ ppyj663/moon-jsonpath,无变化,0,0,1622,2,1622,2
 ppyj663/moonbit-robot-vision-formats,无变化,0,0,1418,2,1418,2
 ppyq882/moonnlp,无变化,0,0,4025,4,4025,4
 Project2026-creator/moontemplate,无变化,0,0,849,2,849,2
-python123-ops/moon-cv-geometry,无变化,0,0,1826,9,1826,9
 python123/moondepsolve,无变化,0,0,2504,3,2504,3
 pzl-love/Introsort,无变化,0,0,320,2,320,2
 q0w1ertyuiop/moonflagkit,无变化,0,0,1543,2,1543,2
