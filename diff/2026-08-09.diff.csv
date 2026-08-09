@@ -7,6 +7,7 @@ wzzc-dev/moui_web_renderer,新增,4456,2,0,0,4456,2
 wzzc-dev/moui_wgpu_renderer,新增,13753,6,0,0,13753,6
 XiaoMao-MYY/acceptkit,新增,5026,2,0,0,5026,2
 Arcelyth/aitne,有变化,2140,0,14039,7,16179,7
+ciqingweiyang/mooncal,有变化,-11,0,2838,3,2827,3
 Hjyyutr/moonyara,有变化,-72,0,4543,4,4471,4
 hustcer/fbr,有变化,150,0,18723,5,18873,5
 JYPeng487/moonopenmetrics,有变化,-23,0,6014,2,5991,2
@@ -276,7 +277,6 @@ chhnb/algorithm,无变化,0,0,255,4,255,4
 chnlkw/moonxi-net,无变化,0,0,5996,13,5996,13
 chnlkw/moonxi-net-gpu,无变化,0,0,5545,9,5545,9
 chronostesis/check_prime,无变化,0,0,42,2,42,2
-ciqingweiyang/mooncal,无变化,0,0,2838,3,2838,3
 clhhhhh/moon-csv-lite,无变化,0,0,9897,8,9897,8
 clhhhhhh/moonbit-seqkit,无变化,0,0,4717,3,4717,3
 CMoonBack/Binary-Exponentiation,无变化,0,0,102,2,102,2
