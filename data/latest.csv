@@ -1261,7 +1261,7 @@ embed,moonbit-community/embed,0.1.1,790,1,2026-07-02T05:14:27.559624
 ffi,moonbit-community/ffi,0.1.14,222,1,2026-08-06T03:53:33.806828
 find_cluster_break,moonbit-community/find_cluster_break,0.1.2,647,2,2026-01-06T05:43:18.825406
 flate,moonbit-community/flate,0.4.0,10193,4,2026-07-10T09:26:39.869585
-fuzzy_match,moonbit-community/fuzzy_match,0.2.5,571,1,2026-02-04T02:36:34.906484
+fuzzy_match,moonbit-community/fuzzy_match,0.2.6,584,1,2026-08-09T08:00:32.019265
 global_hotkey,moonbit-community/global_hotkey,0.1.14,1387,1,2026-08-06T03:53:35.999699
 graphviz,moonbit-community/graphviz,0.1.2,129433,85,2026-08-04T09:39:52.214747
 harfbuzz,moonbit-community/harfbuzz,0.1.0,214779,21,2026-03-24T10:22:02.340733
@@ -1515,15 +1515,15 @@ pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9,2026-04-18T18:22:49.645570
 vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
 moonbash,Haoxincode/moonbash,0.1.0,45029,10,2026-04-18T09:44:17.228016
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
-ajni,Nanaloveyuki/ajni,0.2.1,977,3,2026-07-28T03:48:07.106699
+ajni,Nanaloveyuki/ajni,0.2.2,1199,4,2026-08-09T08:25:27.191783
 BitLogger,Nanaloveyuki/BitLogger,0.7.3,20139,23,2026-07-19T09:12:19.746518
 dynlib,Nanaloveyuki/dynlib,0.1.0,234,1,2026-07-29T07:31:55.769548
 image,Nanaloveyuki/image,0.1.1,908,1,2026-07-30T00:58:18.064235
-moonview,Nanaloveyuki/moonview,0.1.0-beta.3,3889,11,2026-07-28T03:11:29.237081
+moonview,Nanaloveyuki/moonview,0.1.0-beta.4,3889,11,2026-08-09T08:39:35.643314
 orbit-plugin-abi,Nanaloveyuki/orbit-plugin-abi,0.1.0,405,1,2026-07-29T08:20:29.525343
-orby,Nanaloveyuki/orby,0.1.0-beta.1,3219,9,2026-07-29T07:45:55.146536
-parsec,Nanaloveyuki/parsec,0.1.2,2928,5,2026-07-28T06:47:59.697349
-sync,Nanaloveyuki/sync,0.7.0,3881,12,2026-08-02T11:06:05.679579
+orby,Nanaloveyuki/orby,0.1.0-beta.3,3411,9,2026-08-09T08:28:33.969071
+parsec,Nanaloveyuki/parsec,0.1.3,2928,5,2026-08-09T08:30:43.660640
+sync,Nanaloveyuki/sync,0.7.1,3881,12,2026-08-09T08:36:47.460744
 feed_gen,tkancf/feed_gen,0.3.1,4888,2,2026-08-01T08:26:55.356333
 moonbit_version_cli,0xA672/moonbit_version_cli,0.10.0,388,2,2026-05-26T05:34:08.695549
 moonver,0xA672/moonver,0.1.0,212,2,2026-05-25T22:46:54.875067
@@ -1807,7 +1807,7 @@ moon_tera,btlqql/moon_tera,0.3.0,3082,2,2026-07-27T09:23:21.301301
 moonrllab,liuzhiyug/moonrllab,0.1.0,1162,2,2026-07-23T09:21:16.351758
 moonrule,YeeHh2004/moonrule,0.4.0,6411,2,2026-07-27T08:26:25.086374
 pixelforge,0717lee/pixelforge,0.13.0,7158,3,2026-07-31T11:59:10.174969
-endor,poteto0/endor,0.6.0,21939,18,2026-08-08T11:18:29.820461
+endor,poteto0/endor,0.7.0,25581,23,2026-08-09T08:06:53.043458
 agent,weopqrst/agent,0.3.2,6665,16,2026-08-05T02:15:49.432250
 behavior_tree,mhh12345678/behavior_tree,0.1.1,2004,2,2026-07-26T10:56:02.654216
 moon_metric_lab,myc1234567/moon_metric_lab,0.1.1,6708,22,2026-07-26T11:46:17.808919
@@ -1842,3 +1842,4 @@ mooncal,ciqingweiyang/mooncal,0.1.0,2838,3,2026-08-05T14:25:54.043856
 moon-sfv,6P66006/moon-sfv,0.1.0,24463,7,2026-08-06T02:51:17.103996
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
+eventrail,violetcb/eventrail,0.1.0,1914,2,2026-08-09T08:55:08.950813

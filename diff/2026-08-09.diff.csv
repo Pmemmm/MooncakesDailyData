@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 kaashyapan/html_dsl,新增,2633,1,0,0,2633,1
+violetcb/eventrail,新增,1914,2,0,0,1914,2
 wzzc-dev/moui_cli,新增,15415,2,0,0,15415,2
 wzzc-dev/moui_skia_renderer,新增,16823,1,0,0,16823,1
 wzzc-dev/moui_web_renderer,新增,4456,2,0,0,4456,2
@@ -9,6 +10,10 @@ hustcer/fbr,有变化,150,0,18723,5,18873,5
 JYPeng487/moonopenmetrics,有变化,-23,0,6014,2,5991,2
 kokic/sexp-html,有变化,261,0,1363,1,1624,1
 Ljh684/MoonParse,有变化,946,0,2881,2,3827,2
+moonbit-community/fuzzy_match,有变化,13,0,571,1,584,1
+Nanaloveyuki/ajni,有变化,222,1,977,3,1199,4
+Nanaloveyuki/orby,有变化,192,0,3219,9,3411,9
+poteto0/endor,有变化,3642,5,21939,18,25581,23
 shiguri-01/mcp,有变化,29,0,6172,8,6201,8
 shop1111/frontierlab,有变化,-1,0,9174,9,9173,9
 wzzc-dev/moui,有变化,-32121,7,127514,49,95393,56
@@ -1145,7 +1150,6 @@ moonbit-community/embed,无变化,0,0,790,1,790,1
 moonbit-community/ffi,无变化,0,0,222,1,222,1
 moonbit-community/find_cluster_break,无变化,0,0,647,2,647,2
 moonbit-community/flate,无变化,0,0,10193,4,10193,4
-moonbit-community/fuzzy_match,无变化,0,0,571,1,571,1
 moonbit-community/global_hotkey,无变化,0,0,1387,1,1387,1
 moonbit-community/graphviz,无变化,0,0,129433,85,129433,85
 moonbit-community/harfbuzz,无变化,0,0,214779,21,214779,21
@@ -1245,13 +1249,11 @@ myfreess/yaml,无变化,0,0,3915,1,3915,1
 MYmodddd/moonslide,无变化,0,0,777,1,777,1
 MYmodddd/pixelate,无变化,0,0,5883,1,5883,1
 Myytsjj/moon-ssg,无变化,0,0,2158,3,2158,3
-Nanaloveyuki/ajni,无变化,0,0,977,3,977,3
 Nanaloveyuki/BitLogger,无变化,0,0,20139,23,20139,23
 Nanaloveyuki/dynlib,无变化,0,0,234,1,234,1
 Nanaloveyuki/image,无变化,0,0,908,1,908,1
 Nanaloveyuki/moonview,无变化,0,0,3889,11,3889,11
 Nanaloveyuki/orbit-plugin-abi,无变化,0,0,405,1,405,1
-Nanaloveyuki/orby,无变化,0,0,3219,9,3219,9
 Nanaloveyuki/parsec,无变化,0,0,2928,5,2928,5
 Nanaloveyuki/sync,无变化,0,0,3881,12,3881,12
 nanlingyin/mbt_LIB,无变化,0,0,18,1,18,1
@@ -1334,7 +1336,6 @@ PingGuoMiaoMiao/mooncove,无变化,0,0,1413,2,1413,2
 PingGuoMiaoMiao/MoonVision,无变化,0,0,8852,16,8852,16
 PixelPoet/pixelate,无变化,0,0,5867,1,5867,1
 pocket7878/cog_complex,无变化,0,0,1552,2,1552,2
-poteto0/endor,无变化,0,0,21939,18,21939,18
 ppyj663/moon-jsonpath,无变化,0,0,1622,2,1622,2
 ppyj663/moonbit-robot-vision-formats,无变化,0,0,1418,2,1418,2
 ppyq882/moonnlp,无变化,0,0,4025,4,4025,4
