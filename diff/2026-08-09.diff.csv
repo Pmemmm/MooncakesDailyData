@@ -5,11 +5,15 @@ wzzc-dev/moui_skia_renderer,新增,16823,1,0,0,16823,1
 wzzc-dev/moui_web_renderer,新增,4456,2,0,0,4456,2
 wzzc-dev/moui_wgpu_renderer,新增,13753,6,0,0,13753,6
 Arcelyth/aitne,有变化,1779,0,14039,7,15818,7
+hustcer/fbr,有变化,150,0,18723,5,18873,5
+JYPeng487/moonopenmetrics,有变化,-23,0,6014,2,5991,2
 kokic/sexp-html,有变化,261,0,1363,1,1624,1
 Ljh684/MoonParse,有变化,946,0,2881,2,3827,2
+shiguri-01/mcp,有变化,29,0,6172,8,6201,8
 shop1111/frontierlab,有变化,-1,0,9174,9,9173,9
 wzzc-dev/moui,有变化,-32121,7,127514,49,95393,56
 wzzc-dev/moui_skia,有变化,2015,0,33555,8,35570,8
+Xpeng/mooncov,有变化,1,0,4889,2,4890,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -525,7 +529,6 @@ Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 howtomakeaname/tokenizers-moonbit,无变化,0,0,48096,11,48096,11
 hua1104/moonpress,无变化,0,0,1506,2,1506,2
 hustcer/ed25519,无变化,0,0,2189,2,2189,2
-hustcer/fbr,无变化,0,0,18723,5,18723,5
 hustcer/fzip,无变化,0,0,12808,2,12808,2
 hustcer/html2md,无变化,0,0,9635,6,9635,6
 hustcer/nanoid,无变化,0,0,1745,2,1745,2
@@ -655,7 +658,6 @@ justjavac/win32_messagebox,无变化,0,0,105,1,105,1
 justjavac/windows_subsystem,无变化,0,0,94,1,94,1
 justjoheinz/complex,无变化,0,0,164,1,164,1
 justjoheinz/iso-country,无变化,0,0,3412,1,3412,1
-JYPeng487/moonopenmetrics,无变化,0,0,6014,2,6014,2
 kaashyapan/postgresx,无变化,0,0,1102,1,1102,1
 kaashyapan/uri,无变化,0,0,3473,1,3473,1
 Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
@@ -1418,7 +1420,6 @@ ShellWen/sw_router,无变化,0,0,589,1,589,1
 ShellWen/sw_socket,无变化,0,0,983,6,983,6
 shiguri-01/jsonrpc,无变化,0,0,1803,3,1803,3
 shiguri-01/markdown,无变化,0,0,16622,3,16622,3
-shiguri-01/mcp,无变化,0,0,6172,8,6172,8
 shiguri-01/todotxt,无变化,0,0,421,1,421,1
 shiguri-01/webview,无变化,0,0,557,1,557,1
 shiheat/find_max,无变化,0,0,25,1,25,1
@@ -1724,7 +1725,6 @@ xingwangzhe/files_tree,无变化,0,0,628,1,628,1
 xingwangzhe/license_checker,无变化,0,0,840,1,840,1
 xingwangzhe/style_print,无变化,0,0,651,1,651,1
 Xpeng/mooncharts,无变化,0,0,5018,3,5018,3
-Xpeng/mooncov,无变化,0,0,4889,2,4889,2
 xrr2016/meow,无变化,0,0,103,2,103,2
 xrr2016/rmdir,无变化,0,0,86,2,86,2
 xrr2016/tui,无变化,0,0,518,2,518,2

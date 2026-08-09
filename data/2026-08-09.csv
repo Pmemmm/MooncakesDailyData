@@ -365,7 +365,7 @@ s3,hackwaly/s3,0.1.0,1484,1,2026-05-22T17:16:32.125535
 wordcount,hackwaly/wordcount,0.2.1,388,1,2026-06-22T06:32:58.406647
 readline,npmstudy/readline,0.1.6,4836,4,2026-03-15T13:02:33.481445
 ed25519,hustcer/ed25519,0.5.1,2189,2,2026-07-14T01:56:00.575297
-fbr,hustcer/fbr,0.8.0,18723,5,2026-06-14T00:13:43.133990
+fbr,hustcer/fbr,0.8.1,18873,5,2026-08-09T06:31:10.949709
 fzip,hustcer/fzip,0.8.6,12808,2,2026-07-15T05:43:27.012522
 html2md,hustcer/html2md,0.1.1,9635,6,2026-07-14T03:24:49.786645
 nanoid,hustcer/nanoid,0.6.0,1745,2,2026-05-07T15:57:11.820945
@@ -1310,7 +1310,7 @@ yaml,moonbit-community/yaml,0.0.6,6288,1,2026-07-13T03:40:43.420102
 zipc,moonbit-community/zipc,0.2.2,1551,1,2026-06-14T12:41:31.661551
 jsonrpc,shiguri-01/jsonrpc,0.3.0,1803,3,2026-06-11T08:45:15.392483
 markdown,shiguri-01/markdown,0.1.1,16622,3,2026-06-13T11:06:18.446013
-mcp,shiguri-01/mcp,0.1.0,6172,8,2026-05-28T15:33:05.884417
+mcp,shiguri-01/mcp,0.1.1,6201,8,2026-08-09T07:12:43.358710
 todotxt,shiguri-01/todotxt,0.1.2,421,1,2026-07-09T12:30:26.183237
 webview,shiguri-01/webview,0.1.1,557,1,2026-05-30T01:36:34.378488
 csv_parser,maria/csv_parser,0.1.0,929,2,2025-11-18T12:32:23.360367
@@ -1576,7 +1576,7 @@ examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
 bimap,aurasuisui/bimap,0.1.0,3941,3,2026-07-24T02:01:42.370160
 indexmap,aurasuisui/indexmap,0.4.0,6089,4,2026-07-31T16:32:51.906655
 mooncharts,Xpeng/mooncharts,0.8.0,5018,3,2026-07-07T15:27:23.230092
-mooncov,Xpeng/mooncov,0.1.0,4889,2,2026-07-29T16:49:35.006600
+mooncov,Xpeng/mooncov,0.1.1,4890,2,2026-08-09T06:19:51.019340
 concord,mokomoking2501/concord,0.1.0,1498,2,2026-07-12T16:10:47.466575
 fieldbus_core,mokomoking2501/fieldbus_core,0.1.0,18691,16,2026-07-12T17:09:04.782141
 isocontract,mokomoking2501/isocontract,0.1.0,2764,1,2026-07-12T15:57:49.446331
@@ -1823,7 +1823,7 @@ moonlogfmt-lens,sqhyyy/moonlogfmt-lens,0.2.1,5609,6,2026-07-30T10:02:47.190022
 cidr-audit,BeiLaDuo/cidr-audit,0.1.1,4429,4,2026-07-30T13:38:04.463807
 robots-gate,2111950632/robots-gate,0.2.1,6377,6,2026-07-30T13:22:39.946819
 moongettext,YanFangNie/moongettext,0.1.1,4378,3,2026-08-09T04:00:12.377100
-moonopenmetrics,JYPeng487/moonopenmetrics,0.1.0,6014,2,2026-07-29T17:29:41.732583
+moonopenmetrics,JYPeng487/moonopenmetrics,0.1.1,5991,2,2026-08-09T06:13:48.814793
 moon-multipart,Songyz002/moon-multipart,0.2.1,3250,2,2026-07-30T06:14:27.029674
 MoonSearch,Lucius646/MoonSearch,0.1.0,10403,11,2026-07-30T16:54:33.701936
 moonpixelanimkit,WangYF0829/moonpixelanimkit,0.1.1,4944,3,2026-07-31T10:52:26.872193
