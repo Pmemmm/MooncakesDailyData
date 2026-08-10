@@ -1431,6 +1431,7 @@ drawille,cg-zhou/drawille,0.1.2,583,2,2026-05-08T02:10:39.562438
 moon_lottie,cg-zhou/moon_lottie,0.3.0,19265,7,2026-05-08T02:08:08.912573
 admiral,totto2727/admiral,0.6.4,6517,5,2026-08-10T10:24:34.451524
 agent-cli-sdk,totto2727/agent-cli-sdk,0.2.1,438,1,2026-08-05T11:39:38.344748
+agent-core-sdk,totto2727/agent-core-sdk,0.1.0,461,1,2026-08-10T13:55:04.441109
 any-collection,totto2727/any-collection,0.2.1,429,2,2026-08-10T06:40:19.806742
 bw,totto2727/bw,0.2.2,2575,1,2026-08-10T10:18:22.055677
 codex-sdk,totto2727/codex-sdk,0.1.2,3346,2,2026-08-05T11:39:48.337681
@@ -1629,7 +1630,7 @@ moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.4,4696,2,2026-08-01T13:46:10.118259
 mooncollections,Zongzuixi114514/mooncollections,0.1.5,4664,13,2026-07-22T06:14:10.627852
-stencil,LL124-Arch/stencil,0.1.2,1101,2,2026-08-05T17:43:41.620315
+stencil,LL124-Arch/stencil,0.1.3,1797,2,2026-08-10T15:26:24.590562
 moonbit-abc,wedarp/moonbit-abc,0.1.0,2135,4,2026-08-05T11:38:02.210118
 moongraph,wedarp/moongraph,0.2.0,2144,2,2026-08-07T05:03:26.031626
 moonmodguard,Noverberrain/moonmodguard,0.2.0,2435,2,2026-07-22T04:19:56.155683
@@ -1643,7 +1644,7 @@ moon-fsm,Rz-coder8848/moon-fsm,0.1.1,1036,6,2026-07-10T04:08:35.555377
 cbor,2515050242/cbor,0.1.1,777,2,2026-07-10T17:19:55.912935
 moon_bencode,2515050243qyf/moon_bencode,0.1.2,1411,3,2026-07-29T09:38:34.379007
 moontemplate,Project2026-creator/moontemplate,0.2.2,849,2,2026-08-05T17:55:54.849557
-cron_mbt,cxh04/cron_mbt,0.2.1,1144,2,2026-07-18T17:01:31.103305
+cron_mbt,cxh04/cron_mbt,0.2.2,1319,3,2026-08-10T13:55:04.752578
 moon-cv-geometry,cxh04/moon-cv-geometry,0.1.0,1310,9,2026-07-22T14:36:59.075057
 moonbit-artboard,wccerty/moonbit-artboard,0.1.0,5552,11,2026-07-31T07:04:44.181895
 moonfeaturegate,wccerty/moonfeaturegate,0.1.1,1165,2,2026-07-11T16:17:55.411673
@@ -1805,6 +1806,7 @@ mcp-client,marianoguerra/mcp-client,0.3.0,1772,4,2026-08-07T08:51:14.024414
 mcp-inspector,marianoguerra/mcp-inspector,0.3.0,1664,2,2026-08-07T08:51:18.794539
 mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.3.0,1739,1,2026-08-07T08:51:23.865964
 pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2,2026-08-03T16:39:48.481646
+slack,marianoguerra/slack,0.1.0,11648,9,2026-08-10T15:23:38.796516
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
 tutuca,marianoguerra/tutuca,0.10.0,101279,38,2026-08-07T09:31:15.665751
 moon_api_guard,FidollarinLA/moon_api_guard,0.5.3,4646,4,2026-07-24T16:52:24.376916
@@ -1860,3 +1862,4 @@ moon-bump,unmbt/moon-bump,0.1.2,3001,9,2026-08-10T08:17:06.154896
 moonseal,liyun/moonseal,0.2.1,4613,2,2026-08-10T08:39:50.139173
 firmware-image-toolkit,Zzqy-yi/firmware-image-toolkit,0.1.0,5394,6,2026-08-10T12:20:43.347987
 dispokit,BenPaoBaMingWangXing/dispokit,0.1.1,4957,3,2026-08-10T13:42:33.018887
+moonchunk,xgzh1111/moonchunk,0.1.0,1988,2,2026-08-10T14:47:17.695025

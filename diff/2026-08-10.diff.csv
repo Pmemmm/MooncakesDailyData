@@ -2,9 +2,11 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 BenPaoBaMingWangXing/dispokit,新增,4957,3,0,0,4957,3
 Kaida-Amethyst/llama,新增,1887,5,0,0,1887,5
 liyun/moonseal,新增,4613,2,0,0,4613,2
+marianoguerra/slack,新增,11648,9,0,0,11648,9
 moonbit-community/uml_cli,新增,211,1,0,0,211,1
 Nanaloveyuki/orbit,新增,12155,13,0,0,12155,13
 oyjh0381/moonoci,新增,4746,13,0,0,4746,13
+totto2727/agent-core-sdk,新增,461,1,0,0,461,1
 totto2727/geo,新增,24434,4,0,0,24434,4
 totto2727/workgraph-agent-cli,新增,950,1,0,0,950,1
 totto2727/workgraph-codex-cli,新增,860,3,0,0,860,3
@@ -14,12 +16,15 @@ totto2727/workgraph-opencode-cli,新增,812,3,0,0,812,3
 totto2727/workgraph-visualization,新增,422,2,0,0,422,2
 totto2727/x,新增,259,1,0,0,259,1
 unmbt/moon-bump,新增,3001,9,0,0,3001,9
+xgzh1111/moonchunk,新增,1988,2,0,0,1988,2
 Zzqy-yi/firmware-image-toolkit,新增,5394,6,0,0,5394,6
 Arcelyth/aitne,有变化,582,0,16179,7,16761,7
+cxh04/cron_mbt,有变化,175,1,1144,2,1319,3
 dowdiness/js_engine,有变化,75180,4,152442,34,227622,38
 hustcer/fbr,有变化,111,0,18873,5,18984,5
 kokic/katex-parser,有变化,209,0,18667,5,18876,5
 kokic/uml,有变化,2389,-1,27898,14,30287,13
+LL124-Arch/stencil,有变化,696,0,1101,2,1797,2
 Milky2018/machv,有变化,15,0,12177,3,12192,3
 Milky2018/milkir,有变化,226,0,30481,3,30707,3
 Milky2018/regalloc,有变化,-384,0,11162,3,10778,3
@@ -326,7 +331,6 @@ CorvusCinereus/miniaudio,无变化,0,0,138,2,138,2
 cosettese/moonchartkit,无变化,0,0,1041,3,1041,3
 cosgammmmma/moonschema,无变化,0,0,355,1,355,1
 cou723/html-parser,无变化,0,0,794,4,794,4
-cxh04/cron_mbt,无变化,0,0,1144,2,1144,2
 cxh04/moon-cv-geometry,无变化,0,0,1310,9,1310,9
 cybershang/agent-o11y-demo,无变化,0,0,2527,2,2527,2
 cybershang/agent-telemetry,无变化,0,0,2371,1,2371,1
@@ -811,7 +815,6 @@ liuxinbo1984/example,无变化,0,0,94,2,94,2
 liuzhiyug/moonrllab,无变化,0,0,1162,2,1162,2
 Ljh684/MoonParse,无变化,0,0,3827,2,3827,2
 Ljw030710/find_max,无变化,0,0,25,1,25,1
-LL124-Arch/stencil,无变化,0,0,1101,2,1101,2
 LL728/moonseal,无变化,0,0,1537,9,1537,9
 llgllg/moontrustflow,无变化,0,0,807,2,807,2
 locing112/hello,无变化,0,0,63,2,63,2
