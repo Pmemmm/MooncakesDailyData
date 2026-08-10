@@ -766,7 +766,7 @@ sexp-html,kokic/sexp-html,0.5.0,1624,1,2026-08-08T15:09:30.659429
 talcparsec,kokic/talcparsec,0.1.1,2383,3,2026-07-22T08:24:56.569259
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 tinymark,kokic/tinymark,0.3.9,4766,5,2026-07-14T09:42:42.405113
-uml,kokic/uml,0.1.1,27898,14,2026-08-05T08:45:53.694772
+uml,kokic/uml,0.1.2,30287,13,2026-08-10T04:06:02.369938
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
 json,jinser/json,0.0.1,551,2,2025-02-06T08:05:55.931796
 baby,jumpping/baby,0.2.0,4270,6,2024-11-27T08:53:04.763310
@@ -778,6 +778,7 @@ chungshan,SyoujyoujiNaiki/chungshan,0.2.0,459,2,2024-12-05T02:40:39.140668
 oops,SyoujyoujiNaiki/oops,0.3.0,3229,2,2026-06-28T06:14:12.084894
 either,Kaida-Amethyst/either,0.1.0,1168,1,2025-09-06T08:20:16.650044
 godot,Kaida-Amethyst/godot,0.1.0,6040,1,2025-08-01T08:49:11.849396
+llama,Kaida-Amethyst/llama,0.1.0,1413,5,2026-08-10T05:34:40.638127
 llvm,Kaida-Amethyst/llvm,0.3.0,39638,4,2026-08-06T08:33:56.667832
 math,Kaida-Amethyst/math,0.1.21,15075,1,2026-07-08T07:47:59.141284
 matplotlib,Kaida-Amethyst/matplotlib,0.1.2,1237,1,2025-05-29T09:47:02.178399
@@ -1302,6 +1303,7 @@ sqlparser,moonbit-community/sqlparser,0.5.0,14703,2,2026-03-31T08:15:19.850301
 starter,moonbit-community/starter,0.2.0,43,1,2026-03-10T08:02:21.748947
 tray,moonbit-community/tray,0.1.14,1584,2,2026-08-06T03:53:38.695481
 tty,moonbit-community/tty,0.3.0,11521,21,2026-07-02T08:31:25.309381
+uml_cli,moonbit-community/uml_cli,0.1.0,211,1,2026-08-10T04:08:46.140315
 unicodewidth,moonbit-community/unicodewidth,0.2.1,25305,1,2026-06-02T07:18:02.219130
 verified,moonbit-community/verified,0.0.2,4118,36,2026-04-08T15:09:33.070213
 warren,moonbit-community/warren,0.2.3,3158,8,2026-08-06T06:25:35.817359
@@ -1520,7 +1522,7 @@ BitLogger,Nanaloveyuki/BitLogger,0.7.3,20139,23,2026-07-19T09:12:19.746518
 dynlib,Nanaloveyuki/dynlib,0.1.0,234,1,2026-07-29T07:31:55.769548
 image,Nanaloveyuki/image,0.1.1,908,1,2026-07-30T00:58:18.064235
 moonview,Nanaloveyuki/moonview,0.1.0-beta.6,3889,11,2026-08-10T00:17:10.564084
-orbit,Nanaloveyuki/orbit,0.1.0-alpha.1,12155,13,2026-08-10T01:47:15.245240
+orbit,Nanaloveyuki/orbit,0.1.0-alpha.2,12155,13,2026-08-10T04:32:52.866869
 orbit-plugin-abi,Nanaloveyuki/orbit-plugin-abi,0.2.2,1137,1,2026-08-09T11:58:56.604531
 orby,Nanaloveyuki/orby,0.1.0-beta.3,3411,9,2026-08-09T08:28:33.969071
 parsec,Nanaloveyuki/parsec,0.1.3,2928,5,2026-08-09T08:30:43.660640
@@ -1608,7 +1610,7 @@ moonchart,JunJunTnT/moonchart,0.1.2,3850,8,2026-07-17T05:04:43.831021
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moondockit,Estrella-11/moondockit,0.1.0,3563,3,2026-07-02T11:31:35.305056
 millow,megemini/millow,0.3.1,8133,6,2026-07-11T03:45:38.863062
-frontierlab,shop1111/frontierlab,0.8.0,10876,9,2026-08-09T16:32:29.349939
+frontierlab,shop1111/frontierlab,0.9.1,11009,9,2026-08-10T05:18:22.712773
 moon_sourcemap,shop1111/moon_sourcemap,0.1.0,6545,2,2026-07-28T01:58:03.243537
 moon_toolkit,OldPigxjk/moon_toolkit,0.1.2,6343,8,2026-07-06T15:00:40.589397
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
@@ -1767,7 +1769,7 @@ moonsic,hyl-star/moonsic,0.1.0,25224,27,2026-07-12T13:38:03.633581
 MoonMarkMind,Xiao-li-He/MoonMarkMind,0.1.0,30700,11,2026-07-12T14:12:17.179225
 moonslide,MYmodddd/moonslide,0.1.0,777,1,2026-07-12T14:22:52.399317
 pixelate,MYmodddd/pixelate,0.1.6,5883,1,2026-07-13T08:45:23.019533
-moonverity,Wchwch777/moonverity,0.1.0,1593,5,2026-07-12T15:12:15.512146
+moonverity,Wchwch777/moonverity,0.1.1,3495,5,2026-08-10T05:51:56.717977
 moontetris,youyong5/moontetris,0.1.0,749,1,2026-07-12T16:47:46.955195
 MoonTetris,youyong5/MoonTetris,0.1.0,749,1,2026-07-12T16:29:55.548908
 moonpath,Burnling-gx/moonpath,0.1.1,2131,2,2026-07-12T16:15:43.653944
