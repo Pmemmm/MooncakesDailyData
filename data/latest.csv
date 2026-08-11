@@ -269,7 +269,7 @@ hashbrown,bob/hashbrown,0.1.0,1549,3,2025-08-19T09:29:51.479774
 lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
-async,moonbitlang/async,0.20.4,47345,51,2026-08-07T07:34:58.338993
+async,moonbitlang/async,0.20.5,47301,51,2026-08-11T10:08:09.681349
 core,moonbitlang/core,0.1.20260811+bc794d341,202930,79,2026-08-11T08:14:49.259591
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 editor,moonbitlang/editor,0.4.4,168064,50,2026-08-03T10:35:21.219352
@@ -1800,7 +1800,7 @@ moonlabelkit,Zy789kl/moonlabelkit,0.1.1,2038,7,2026-07-22T17:57:33.347740
 moontls-parser,yhsrtty/moontls-parser,0.1.1,6405,2,2026-07-20T10:22:00.442261
 moonyara,Hjyyutr/moonyara,0.1.4,4471,4,2026-08-09T09:40:20.688976
 moonnlp,ppyq882/moonnlp,0.2.0,4025,4,2026-07-20T09:23:03.198130
-moongeoroute,phjphj676/moongeoroute,0.1.1,2640,7,2026-08-11T09:18:59.410128
+moongeoroute,phjphj676/moongeoroute,0.1.2,2810,7,2026-08-11T09:38:25.965196
 minitpl,joanna/minitpl,0.1.2,512,5,2026-07-16T03:19:54.478118
 moonbit-texteditor,lexchb/moonbit-texteditor,0.1.0,3502,1,2026-07-16T12:27:11.289357
 yamlscript,ingydotnet/yamlscript,0.2.29,92,1,2026-07-20T19:14:57.035843
@@ -1872,7 +1872,7 @@ pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
 eventrail,violetcb/eventrail,0.1.0,1914,2,2026-08-09T08:55:08.950813
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
-moonoci,oyjh0381/moonoci,0.1.0,4746,13,2026-08-10T07:46:19.143418
+moonoci,oyjh0381/moonoci,0.1.2,4760,13,2026-08-11T11:10:30.335846
 moon-bump,unmbt/moon-bump,0.1.3,3311,9,2026-08-11T03:36:13.705006
 moonseal,liyun/moonseal,0.2.1,4613,2,2026-08-10T08:39:50.139173
 firmware-image-toolkit,Zzqy-yi/firmware-image-toolkit,0.1.0,5394,6,2026-08-10T12:20:43.347987
@@ -1881,5 +1881,6 @@ moonchunk,xgzh1111/moonchunk,0.1.0,1988,2,2026-08-10T14:47:17.695025
 routeable,13131116363/routeable,0.1.0,4508,2,2026-08-10T15:54:27.286503
 pagelens,geniuszby/pagelens,0.1.0,4819,3,2026-08-11T02:10:38.901325
 dns-zone-toolkit,lmclmc1/dns-zone-toolkit,0.1.0,5905,6,2026-08-11T03:06:09.686050
-sourcemap,Derk2006/sourcemap,0.1.0,5633,2,2026-08-11T08:44:35.267390
+sarifkit,Derk2006/sarifkit,0.1.0,4921,4,2026-08-11T10:30:30.723561
+sourcemap,Derk2006/sourcemap,0.1.1,5652,4,2026-08-11T09:35:06.996609
 moon-httpsig,xiguaAp6y3/moon-httpsig,0.1.0,10413,9,2026-08-11T07:41:03.290090
