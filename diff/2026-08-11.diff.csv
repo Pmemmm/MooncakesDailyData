@@ -4,6 +4,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 BenPaoBaMingWangXing/edidkit,新增,4658,3,0,0,4658,3
 Derk2006/sarifkit,新增,4921,4,0,0,4921,4
 Derk2006/sourcemap,新增,5652,4,0,0,5652,4
+Eric-Song-Nop/opendal,新增,2348,1,0,0,2348,1
 geniuszby/pagelens,新增,4819,3,0,0,4819,3
 lllg123/moonbit-aseflow,新增,1362,2,0,0,1362,2
 lllg123/moontrustflow,新增,1143,2,0,0,1143,2
@@ -12,7 +13,7 @@ Lyhdsba/moonbit-chemreport,新增,1414,2,0,0,1414,2
 marianoguerra/llm,新增,4312,7,0,0,4312,7
 marianoguerra/mcp-server,新增,3706,3,0,0,3706,3
 marianoguerra/mcp-server-native,新增,513,2,0,0,513,2
-marianoguerra/mcp-slack,新增,3799,4,0,0,3799,4
+marianoguerra/mcp-slack,新增,3826,4,0,0,3826,4
 marianoguerra/slack-http,新增,123,1,0,0,123,1
 moonbit-community/proton_auto_launch,新增,1998,1,0,0,1998,1
 moonbit-community/proton_clipboard,新增,505,1,0,0,505,1
@@ -28,7 +29,7 @@ chenzehaoo/moon_guard,有变化,-14167,-8,19729,18,5562,10
 hnlyxiaobing/crescent,有变化,426,0,23434,23,23860,23
 hnlyxiaobing/toml,有变化,35,0,12832,3,12867,3
 hustcer/ed25519,有变化,1449,0,2189,2,3638,2
-hxiuzheng/moon_diffusion_lab,有变化,129,2,1922,7,2051,9
+hxiuzheng/moon_diffusion_lab,有变化,706,3,1922,7,2628,10
 Lyhdsba/moonforge,有变化,3339,0,1775,2,5114,2
 marianoguerra/mcp,有变化,889,0,3007,5,3896,5
 marianoguerra/slack,有变化,10227,4,11648,9,21875,13
