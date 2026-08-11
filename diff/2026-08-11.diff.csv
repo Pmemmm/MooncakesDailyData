@@ -6,8 +6,18 @@ lllg123/moonbit-aseflow,新增,1362,2,0,0,1362,2
 lllg123/moontrustflow,新增,1143,2,0,0,1143,2
 lmclmc1/dns-zone-toolkit,新增,5905,6,0,0,5905,6
 Lyhdsba/moonbit-chemreport,新增,1414,2,0,0,1414,2
+moonbit-community/proton_auto_launch,新增,1998,1,0,0,1998,1
+moonbit-community/proton_clipboard,新增,505,1,0,0,505,1
+moonbit-community/proton_ffi,新增,222,1,0,0,222,1
+moonbit-community/proton_global_hotkey,新增,1387,1,0,0,1387,1
+moonbit-community/proton_keepawake,新增,741,2,0,0,741,2
+moonbit-community/proton_microphone,新增,586,1,0,0,586,1
+moonbit-community/proton_tray,新增,1594,2,0,0,1594,2
 totto2727/agent-sdk,新增,1116,3,0,0,1116,3
+xiguaAp6y3/moon-httpsig,新增,10413,9,0,0,10413,9
 chenzehaoo/moon_guard,有变化,-14167,-8,19729,18,5562,10
+hnlyxiaobing/crescent,有变化,426,0,23434,23,23860,23
+hnlyxiaobing/toml,有变化,35,0,12832,3,12867,3
 hustcer/ed25519,有变化,1449,0,2189,2,3638,2
 Lyhdsba/moonforge,有变化,3339,0,1775,2,5114,2
 mizchi/bit,有变化,33,0,161608,5,161641,5
@@ -15,8 +25,11 @@ mizchi/bit_diff,有变化,27,0,1058,1,1085,1
 mizchi/bit_lib,有变化,99,0,46785,2,46884,2
 mizchi/bitx_hub,有变化,154,0,15349,3,15503,3
 moonbit-community/cmark,有变化,160,1,40197,7,40357,8
+moonbit-community/proton,有变化,50,0,21550,10,21600,10
+moonbit-community/proton_contract,有变化,16,0,418,1,434,1
+moonbit-community/sqlite3,有变化,12,0,747,2,759,2
 Nanaloveyuki/BitLogger,有变化,105,0,20139,23,20244,23
-Nanaloveyuki/orbit,有变化,4180,5,12155,13,16335,18
+Nanaloveyuki/orbit,有变化,4561,6,12155,13,16716,19
 Project2026-creator/moontemplate,有变化,94,0,849,2,943,2
 Rz-coder8848/moon-fsm,有变化,1103,2,1036,6,2139,8
 totto2727/agent-core-sdk,有变化,6,0,461,1,467,1
@@ -26,6 +39,7 @@ totto2727/opencode-sdk,有变化,621,2,1275,2,1896,4
 totto2727/x,有变化,217,1,259,1,476,2
 unmbt/moon-bump,有变化,310,0,3001,9,3311,9
 weopqrst/agent,有变化,330,1,6665,16,6995,17
+zmjknn/moonmark,有变化,950,2,746,4,1696,6
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
 001-Elsa/moonpack,无变化,0,0,5126,6,5126,6
@@ -531,9 +545,7 @@ hiroyannnn/sketch,无变化,0,0,975,2,975,2
 hiroyannnn/strsim,无变化,0,0,861,3,861,3
 Hjyyutr/moonyara,无变化,0,0,4471,4,4471,4
 hmyhmyhmyss/moontrajectory,无变化,0,0,1151,2,1151,2
-hnlyxiaobing/crescent,无变化,0,0,23434,23,23434,23
 hnlyxiaobing/MBOpenClacky,无变化,0,0,98780,33,98780,33
-hnlyxiaobing/toml,无变化,0,0,12832,3,12832,3
 horideicom/encoding_sjis,无变化,0,0,7475,2,7475,2
 horideicom/jww_parser,无变化,0,0,2497,3,2497,3
 houjie/rag-mbt,无变化,0,0,3978,4,3978,4
@@ -1181,11 +1193,9 @@ moonbit-community/opentelemetry,无变化,0,0,35454,37,35454,37
 moonbit-community/piediff,无变化,0,0,2718,1,2718,1
 moonbit-community/postgres,无变化,0,0,23333,11,23333,11
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
-moonbit-community/proton,无变化,0,0,21550,10,21550,10
 moonbit-community/proton_cli,无变化,0,0,21298,11,21298,11
 moonbit-community/proton_client,无变化,0,0,705,1,705,1
 moonbit-community/proton_config,无变化,0,0,3351,1,3351,1
-moonbit-community/proton_contract,无变化,0,0,418,1,418,1
 moonbit-community/proton_ext,无变化,0,0,5924,26,5924,26
 moonbit-community/proton_rabbita,无变化,0,0,539,1,539,1
 moonbit-community/proton_rsa,无变化,0,0,711,1,711,1
@@ -1195,7 +1205,6 @@ moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
 moonbit-community/rabbita,无变化,0,0,26405,21,26405,21
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
-moonbit-community/sqlite3,无变化,0,0,747,2,747,2
 moonbit-community/sqlparser,无变化,0,0,14703,2,14703,2
 moonbit-community/starter,无变化,0,0,43,1,43,1
 moonbit-community/tray,无变化,0,0,1584,2,1584,2
@@ -1856,7 +1865,6 @@ zkazure/moonfocus,无变化,0,0,4684,7,4684,7
 zlhahaha/moonlocale,无变化,0,0,5326,2,5326,2
 zlhahaha/moonreport,无变化,0,0,4505,2,4505,2
 zlhahaha/moonsim,无变化,0,0,11792,19,11792,19
-zmjknn/moonmark,无变化,0,0,746,4,746,4
 Zongzuixi114514/mooncollections,无变化,0,0,4664,13,4664,13
 zploc/loci,无变化,0,0,31491,20,31491,20
 ZSeanYves/bufferutils,无变化,0,0,8038,6,8038,6
