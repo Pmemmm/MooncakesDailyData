@@ -6,11 +6,13 @@ marianoguerra/atproto,新增,51484,10,0,0,51484,10
 marianoguerra/atproto-http,新增,130,1,0,0,130,1
 marianoguerra/mcp-bsky,新增,1648,2,0,0,1648,2
 Milky2018/tic80,新增,1658,2,0,0,1658,2
+niuniu513-ask/MoonRetrieve,新增,1131,2,0,0,1131,2
 oyjh0381/moonlab,新增,5046,6,0,0,5046,6
 pei0331/moon-wit,新增,3883,10,0,0,3883,10
 Q30399/moonvault,新增,3983,2,0,0,3983,2
 dgmxjj/moonplot,有变化,2336,4,1486,8,3822,12
 LL728/moonseal,有变化,1526,4,1537,9,3063,13
+Lyllyl789/mustache,有变化,216,0,5728,18,5944,18
 marianoguerra/mcp,有变化,94,1,3896,5,3990,6
 marianoguerra/mcp-server,有变化,172,0,3706,3,3878,3
 Milky2018/aarch64_target,有变化,-461,0,26052,1,25591,1
@@ -29,7 +31,11 @@ moonbit-community/moongrep,有变化,869,0,31612,15,32481,15
 moonbit-community/rabbita,有变化,36,0,26405,21,26441,21
 totto2727/x,有变化,1075,3,476,2,1551,5
 vectie/moongate,有变化,1127,0,105688,29,106815,29
+wccerty/moonfeaturegate,有变化,2632,0,1165,2,3797,2
+wcx789ll/moonsim,有变化,389,2,4395,14,4784,16
+wskwsk68/MoonEmbed,有变化,2397,0,908,2,3305,2
 Zcxssxx/moon-ninja,有变化,1059,0,1348,3,2407,3
+Zy789kl/moonlabelkit,有变化,782,0,2038,7,2820,7
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -848,7 +854,6 @@ Lyhdsba/moonbit-chemreport,无变化,0,0,1414,2,1414,2
 Lyhdsba/moonforge,无变化,0,0,5114,2,5114,2
 lyjttio/moongrad,无变化,0,0,1700,2,1700,2
 Lyl66655/moonbit-workflow-engine,无变化,0,0,1544,7,1544,7
-Lyllyl789/mustache,无变化,0,0,5728,18,5728,18
 lynzrand/test,无变化,0,0,11,1,11,1
 Magic486/moon_mutest,无变化,0,0,5866,7,5866,7
 Magic486/moon-uri-template,无变化,0,0,1256,3,1256,3
@@ -1732,9 +1737,7 @@ wangweigang/hello,无变化,0,0,276,3,276,3
 WangYF0829/moonpixelanimkit,无变化,0,0,4944,3,4944,3
 wangziling/hello,无变化,0,0,19,2,19,2
 wccerty/moonbit-artboard,无变化,0,0,5552,11,5552,11
-wccerty/moonfeaturegate,无变化,0,0,1165,2,1165,2
 Wchwch777/moonverity,无变化,0,0,4143,5,4143,5
-wcx789ll/moonsim,无变化,0,0,4395,14,4395,14
 wedarp/moonbit-abc,无变化,0,0,2135,4,2135,4
 wedarp/moongraph,无变化,0,0,2144,2,2144,2
 weidekais/moonrewardforge,无变化,0,0,719,2,719,2
@@ -1750,7 +1753,6 @@ wju-yuki111/moonbit-gffkit,无变化,0,0,5294,2,5294,2
 wjy030522/compare,无变化,0,0,53,2,53,2
 wjy030522/hello,无变化,0,0,25,2,25,2
 wqbcs/moon_collections,无变化,0,0,9581,15,9581,15
-wskwsk68/MoonEmbed,无变化,0,0,908,2,908,2
 wstreet/moontest,无变化,0,0,26,2,26,2
 wwj1203/string2int,无变化,0,0,33,1,33,1
 Wyh123456559/moonlexkit,无变化,0,0,1362,3,1362,3
@@ -1897,5 +1899,4 @@ ZSeanYves/moonjinja,无变化,0,0,5319,2,5319,2
 ZSeanYves/SimplexNoise,无变化,0,0,4655,4,4655,4
 zxch3n/colored,无变化,0,0,409,1,409,1
 zxch3n/expect,无变化,0,0,1319,1,1319,1
-Zy789kl/moonlabelkit,无变化,0,0,2038,7,2038,7
 Zzqy-yi/firmware-image-toolkit,无变化,0,0,5394,6,5394,6
