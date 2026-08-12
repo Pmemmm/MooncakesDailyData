@@ -1,6 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bobzhang/cfront,新增,26162,7,0,0,26162,7
 lampclaw/i18n,新增,8129,4,0,0,8129,4
 lampclaw/minimoon,新增,23,1,0,0,23,1
+lijunjie860/moonbit_cron,新增,800,2,0,0,800,2
 LL728/moonalign,新增,1184,2,0,0,1184,2
 marianoguerra/atproto,新增,51484,10,0,0,51484,10
 marianoguerra/atproto-http,新增,130,1,0,0,130,1
