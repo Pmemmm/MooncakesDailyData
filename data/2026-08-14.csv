@@ -1837,11 +1837,13 @@ mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.7.0,1739,1,2026-08-13T12:31:
 mcp-server,marianoguerra/mcp-server,0.7.0,4148,3,2026-08-13T12:31:03.076683
 mcp-server-native,marianoguerra/mcp-server-native,0.7.0,513,2,2026-08-13T12:31:07.779326
 mcp-slack,marianoguerra/mcp-slack,0.7.0,5207,4,2026-08-13T12:31:25.811515
+megalodon,marianoguerra/megalodon,0.1.0,3970,7,2026-08-13T19:47:42.827512
+megalodon-http,marianoguerra/megalodon-http,0.1.0,197,1,2026-08-13T19:48:36.828507
 pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2,2026-08-03T16:39:48.481646
 slack,marianoguerra/slack,0.4.0,21875,13,2026-08-11T12:45:54.968350
 slack-http,marianoguerra/slack-http,0.4.0,123,1,2026-08-11T12:46:09.275082
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
-tutuca,marianoguerra/tutuca,0.17.0,119173,49,2026-08-13T15:25:54.566485
+tutuca,marianoguerra/tutuca,0.18.1,120352,49,2026-08-13T20:52:55.978344
 moon_api_guard,FidollarinLA/moon_api_guard,0.5.3,4646,4,2026-07-24T16:52:24.376916
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.1,4717,3,2026-07-31T09:42:07.497015
 moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
