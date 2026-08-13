@@ -791,7 +791,7 @@ MoonMIR,Kaida-Amethyst/MoonMIR,0.1.2,15451,3,2025-12-02T11:11:32.477527
 openblas,Kaida-Amethyst/openblas,0.1.3,66273,2,2025-08-27T03:11:06.778261
 path,Kaida-Amethyst/path,0.1.1,745,1,2025-09-16T02:45:58.426272
 python,Kaida-Amethyst/python,0.1.7,6464,7,2025-11-13T02:23:01.302914
-readline,Kaida-Amethyst/readline,0.1.0,1674,2,2026-08-13T05:28:15.866789
+readline,Kaida-Amethyst/readline,0.1.1,1674,2,2026-08-13T08:26:24.419238
 screeps,Kaida-Amethyst/screeps,0.1.0,6542,3,2026-04-16T11:07:21.393926
 sdl3,Kaida-Amethyst/sdl3,0.1.1,22939,4,2026-03-31T03:22:48.743987
 hello,PegasusPlusUS/hello,0.1.0,341,2,2024-12-06T00:59:15.352703
@@ -1767,7 +1767,7 @@ moonschema,cosgammmmma/moonschema,0.1.1,355,1,2026-07-11T08:29:43.794014
 mooncollider,uiwcvb/mooncollider,0.2.1,5718,9,2026-07-17T07:48:27.229100
 moon-audit,minie135/moon-audit,0.2.0,6679,2,2026-07-14T02:49:43.272679
 der,lindividual/der,0.2.1,510,2,2026-07-11T14:01:20.238266
-mooncry,cc06b/mooncry,0.13.1,11467,3,2026-07-30T08:38:01.930195
+mooncry,cc06b/mooncry,0.15.0,13388,3,2026-08-13T09:33:14.623245
 MoonDocCheck,gywcs101/MoonDocCheck,0.1.0,3661,5,2026-07-11T14:04:51.665097
 moon_l10n,Zhouz-z/moon_l10n,0.1.0,793,2,2026-07-11T15:10:16.310704
 moon_doctor,sheldonshi115/moon_doctor,0.3.0,5319,7,2026-07-11T18:14:37.366162
@@ -1836,7 +1836,7 @@ pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2
 slack,marianoguerra/slack,0.4.0,21875,13,2026-08-11T12:45:54.968350
 slack-http,marianoguerra/slack-http,0.4.0,123,1,2026-08-11T12:46:09.275082
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
-tutuca,marianoguerra/tutuca,0.12.2,101809,38,2026-08-11T09:00:23.121859
+tutuca,marianoguerra/tutuca,0.13.0,113569,49,2026-08-13T08:07:54.284941
 moon_api_guard,FidollarinLA/moon_api_guard,0.5.3,4646,4,2026-07-24T16:52:24.376916
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.1,4717,3,2026-07-31T09:42:07.497015
 moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
@@ -1866,6 +1866,7 @@ robots-gate,2111950632/robots-gate,0.2.1,6377,6,2026-07-30T13:22:39.946819
 moongettext,YanFangNie/moongettext,0.1.1,4378,3,2026-08-09T04:00:12.377100
 moonopenmetrics,JYPeng487/moonopenmetrics,0.1.1,5991,2,2026-08-09T06:13:48.814793
 moon-multipart,Songyz002/moon-multipart,0.2.1,3250,2,2026-07-30T06:14:27.029674
+image,walkzzz/image,0.4.9,46018,18,2026-08-13T09:17:19.076397
 MoonSearch,Lucius646/MoonSearch,0.1.0,10403,11,2026-07-30T16:54:33.701936
 moonpixelanimkit,WangYF0829/moonpixelanimkit,0.1.1,4944,3,2026-07-31T10:52:26.872193
 MoonCache,Ag108/MoonCache,0.1.3,9318,9,2026-08-03T16:00:46.498019
@@ -1887,7 +1888,7 @@ nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
 eventrail,violetcb/eventrail,0.1.0,1914,2,2026-08-09T08:55:08.950813
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
 moonlab,oyjh0381/moonlab,0.1.0,5046,6,2026-08-12T09:13:17.014930
-moonoci,oyjh0381/moonoci,0.1.2,4760,13,2026-08-11T11:10:30.335846
+moonoci,oyjh0381/moonoci,0.1.4,5354,13,2026-08-13T08:56:36.083737
 moon-bump,unmbt/moon-bump,0.1.3,3311,9,2026-08-11T03:36:13.705006
 moonseal,liyun/moonseal,0.2.1,4613,2,2026-08-10T08:39:50.139173
 firmware-image-toolkit,Zzqy-yi/firmware-image-toolkit,0.1.0,5394,6,2026-08-10T12:20:43.347987
@@ -1903,7 +1904,7 @@ moon-httpsig,xiguaAp6y3/moon-httpsig,0.1.0,10413,9,2026-08-11T07:41:03.290090
 opendal,Eric-Song-Nop/opendal,0.1.0,2348,1,2026-08-11T14:06:27.418873
 moon-wit,pei0331/moon-wit,0.1.0,3883,10,2026-08-12T06:54:27.426923
 moonvault,Q30399/moonvault,0.1.0,3983,2,2026-08-12T07:23:54.995438
-MoonRetrieve,niuniu513-ask/MoonRetrieve,0.3.0,1575,2,2026-08-13T07:17:54.372739
+MoonRetrieve,niuniu513-ask/MoonRetrieve,0.4.0,1926,2,2026-08-13T09:10:10.827801
 moonbit_cron,lijunjie860/moonbit_cron,0.1.0,800,2,2026-08-12T15:24:08.147288
 moon-weblink,15614376790/moon-weblink,0.1.0,9390,7,2026-08-13T02:46:44.466824
 moonhls,chenqi-arch/moonhls,0.1.0,2281,2,2026-08-13T04:56:05.454963
@@ -1911,3 +1912,4 @@ moon-content-disposition,xiaojing012/moon-content-disposition,0.1.1,8942,8,2026-
 moon-robots,liuhang0001/moon-robots,0.1.1,2921,6,2026-08-13T04:59:29.259303
 moon-securitytxt,moyunijieshi1/moon-securitytxt,0.1.0-dev,5566,7,2026-08-13T05:43:52.832161
 neighbor_rota,zjk9993/neighbor_rota,0.1.0,5585,3,2026-08-13T07:33:49.698527
+rrule_lab,cjkzD/rrule_lab,0.1.0,4340,2,2026-08-13T09:28:55.040832
