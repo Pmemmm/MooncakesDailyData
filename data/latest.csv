@@ -1496,7 +1496,7 @@ timespec,kawaz/timespec,0.2.4,5988,1,2026-06-28T13:53:24.224930
 unicodegrapheme,kawaz/unicodegrapheme,0.9.0,33,1,2026-03-20T05:44:03.736470
 golem_sdk,golemcloud/golem_sdk,0.5.2,122220,56,2026-05-19T18:47:01.456449
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.5.2,10450,2,2026-05-19T18:47:03.259480
-i18n,lampclaw/i18n,0.1.0-rc.2,8888,4,2026-08-12T15:44:49.894315
+i18n,lampclaw/i18n,0.1.0-rc.3,8888,4,2026-08-13T01:40:45.211958
 lampo,lampclaw/lampo,0.1.0,26989,28,2026-07-10T01:22:18.866169
 minimoon,lampclaw/minimoon,0.0.1-rc.1,23,1,2026-08-12T05:39:27.553391
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7,2026-03-13T16:06:12.599459
@@ -1560,8 +1560,8 @@ email,nexacodes/email,0.1.0,6040,6,2026-05-18T14:59:27.785199
 moontask,nexacodes/moontask,0.1.2,6493,10,2026-05-17T14:28:59.555331
 moonbit_sqlc_plugin,Mairzzcllo/moonbit_sqlc_plugin,0.1.9,24370,3,2026-07-07T12:38:11.792289
 miniaudio,CorvusCinereus/miniaudio,0.4.0,138,2,2026-05-25T08:22:28.729283
-starlark,connect0459/starlark,0.4.1,68693,33,2026-07-12T07:37:17.928014
-urllib,connect0459/urllib,0.4.2,24429,6,2026-06-10T02:02:40.998709
+starlark,connect0459/starlark,0.5.0,68719,33,2026-08-13T00:43:46.515707
+urllib,connect0459/urllib,0.4.3,24430,6,2026-08-13T00:46:01.728267
 clipboard,mst-mkt/clipboard,0.1.1,1446,1,2026-05-24T19:43:53.652236
 moon-pptx,t-ujiie-g/moon-pptx,0.7.1,64334,16,2026-08-04T21:54:25.832862
 skir-client,gepheum/skir-client,0.1.1,4536,1,2026-05-26T22:37:39.385583
@@ -1902,3 +1902,4 @@ moon-wit,pei0331/moon-wit,0.1.0,3883,10,2026-08-12T06:54:27.426923
 moonvault,Q30399/moonvault,0.1.0,3983,2,2026-08-12T07:23:54.995438
 MoonRetrieve,niuniu513-ask/MoonRetrieve,0.1.0,1131,2,2026-08-12T11:54:54.280511
 moonbit_cron,lijunjie860/moonbit_cron,0.1.0,800,2,2026-08-12T15:24:08.147288
+moon-weblink,15614376790/moon-weblink,0.1.0,9390,7,2026-08-13T02:46:44.466824
