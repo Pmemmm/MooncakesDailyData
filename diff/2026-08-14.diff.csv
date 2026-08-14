@@ -1,12 +1,15 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 alicedhaha/minivcd_mbt,新增,5419,2,0,0,5419,2
 bobzhang/prolog,新增,1633,2,0,0,1633,2
+crh12354/moonconfigkit,新增,2631,2,0,0,2631,2
 haol-05/moondatalog,新增,3722,2,0,0,3722,2
 KKKIIO/gh-shim,新增,1296,2,0,0,1296,2
 klaseca/skia,新增,532,1,0,0,532,1
 klaseca/skia-sys,新增,3493,1,0,0,3493,1
 marianoguerra/megalodon,新增,3970,7,0,0,3970,7
 marianoguerra/megalodon-http,新增,197,1,0,0,197,1
+marianoguerra/wax,新增,79215,34,0,0,79215,34
+marianoguerra/wax-cli,新增,889,2,0,0,889,2
 walkzzz/embit,新增,9703,7,0,0,9703,7
 walkzzz/owl_mbt,新增,18555,14,0,0,18555,14
 walkzzz/re-mbt,新增,12972,2,0,0,12972,2
@@ -28,12 +31,14 @@ Milky2018/regalloc,有变化,186,0,8901,2,9087,2
 Milky2018/wasm_core,有变化,1712,1,5309,3,7021,4
 Milky2018/wasmoon,有变化,-1388,0,164398,31,163010,31
 Milky2018/x64_target,有变化,760,0,20486,1,21246,1
+moonbit-community/cmark,有变化,34,0,40357,8,40391,8
 moonbit-community/pty,有变化,497,1,1054,1,1551,2
 moonbit-community/rabbita,有变化,2166,1,26441,21,28607,22
 moonbitlang/parser,有变化,787,0,137473,20,138260,20
 moonbitlang/x,有变化,535,1,23189,21,23724,22
 Nanaloveyuki/moonview,有变化,37,0,4278,11,4315,11
-Nanaloveyuki/orbit,有变化,222,0,16716,19,16938,19
+Nanaloveyuki/orbit,有变化,231,0,16716,19,16947,19
+Nanaloveyuki/orby,有变化,124,1,3450,9,3574,10
 phjphj676/moongeoroute,有变化,1448,0,2810,7,4258,7
 totto2727/codex-sdk,有变化,23,0,3395,2,3418,2
 totto2727/opencode-sdk,有变化,-25,0,1896,4,1871,4
@@ -41,6 +46,7 @@ totto2727/x,有变化,24,0,1551,5,1575,5
 vectie/moonleaf,有变化,979,0,8388,8,9367,8
 walkzzz/image,有变化,229,0,46018,18,46247,18
 weopqrst/agent,有变化,110,1,6995,17,7105,18
+YumeXi/error,有变化,-2,-1,316,4,314,3
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -1188,7 +1194,6 @@ moonbit-community/casefold,无变化,0,0,2269,1,2269,1
 moonbit-community/chalk,无变化,0,0,250,1,250,1
 moonbit-community/charclass,无变化,0,0,319,1,319,1
 moonbit-community/clipboard,无变化,0,0,504,1,504,1
-moonbit-community/cmark,无变化,0,0,40357,8,40357,8
 moonbit-community/debug,无变化,0,0,5992,5,5992,5
 moonbit-community/debug_deriving,无变化,0,0,637,1,637,1
 moonbit-community/displaytext,无变化,0,0,935,1,935,1
@@ -1312,7 +1317,6 @@ Nanaloveyuki/BitLogger,无变化,0,0,20244,23,20244,23
 Nanaloveyuki/dynlib,无变化,0,0,234,1,234,1
 Nanaloveyuki/image,无变化,0,0,908,1,908,1
 Nanaloveyuki/orbit-plugin-abi,无变化,0,0,1137,1,1137,1
-Nanaloveyuki/orby,无变化,0,0,3450,9,3450,9
 Nanaloveyuki/parsec,无变化,0,0,2928,5,2928,5
 Nanaloveyuki/sync,无变化,0,0,3881,12,3881,12
 nanlingyin/mbt_LIB,无变化,0,0,18,1,18,1
@@ -1883,7 +1887,6 @@ Yu-zh/termbit,无变化,0,0,236,1,236,1
 Yu-zh/tracing,无变化,0,0,240,1,240,1
 yueTc/Binary-Indexed-Tree,无变化,0,0,58,2,58,2
 YumeCross/schema,无变化,0,0,1721,2,1721,2
-YumeXi/error,无变化,0,0,316,4,316,4
 YumeXi/format,无变化,0,0,1935,4,1935,4
 YumeXi/iter,无变化,0,0,735,1,735,1
 yuntian/cube_render,无变化,0,0,3570,11,3570,11
