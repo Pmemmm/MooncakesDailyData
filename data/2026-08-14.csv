@@ -664,6 +664,7 @@ zlib,gmlewis/zlib,0.21.11,720,1,2026-08-08T01:35:16.329785
 onebit-tui,Frank-III/onebit-tui,0.1.3,8004,7,2025-10-17T19:59:51.906075
 onebit-yoga,Frank-III/onebit-yoga,0.2.6,2491,4,2025-10-17T19:51:14.148025
 agconf,KKKIIO/agconf,0.3.0,961,2,2026-07-30T05:37:17.881838
+gh-shim,KKKIIO/gh-shim,0.1.0,1296,2,2026-08-14T08:49:22.821964
 selene,KKKIIO/selene,0.37.5,79443,63,2026-07-29T09:09:41.536675
 selene_raylib,KKKIIO/selene_raylib,0.37.5,8940,6,2026-07-29T09:10:25.870546
 selene_webgpu,KKKIIO/selene_webgpu,0.37.5,11837,6,2026-07-29T09:10:17.165922
@@ -1308,9 +1309,9 @@ proton_rsa,moonbit-community/proton_rsa,0.1.16,711,1,2026-08-13T06:57:54.500487
 proton_shell,moonbit-community/proton_shell,0.1.16,122,1,2026-08-13T06:57:59.316112
 proton_tray,moonbit-community/proton_tray,0.1.16,1587,2,2026-08-13T06:58:08.583128
 proton_updater,moonbit-community/proton_updater,0.1.16,911,1,2026-08-13T06:57:55.883770
-pty,moonbit-community/pty,0.3.3,1054,1,2026-08-08T10:21:20.166090
+pty,moonbit-community/pty,0.4.0,1551,2,2026-08-14T08:34:03.718782
 quickcheck_statemachine,moonbit-community/quickcheck_statemachine,0.0.1,11985,2,2026-06-02T07:09:28.626205
-rabbita,moonbit-community/rabbita,0.14.3,26441,21,2026-08-12T10:42:12.289106
+rabbita,moonbit-community/rabbita,0.15.0,28607,22,2026-08-14T09:12:33.591900
 rabbita_tui,moonbit-community/rabbita_tui,0.1.0,10070,6,2026-05-14T09:43:20.346889
 raylib,moonbit-community/raylib,0.3.1,21670,4,2026-03-18T09:21:40.263635
 sqlite3,moonbit-community/sqlite3,0.1.6,759,2,2026-08-11T06:43:07.405629
@@ -1501,7 +1502,7 @@ timespec,kawaz/timespec,0.2.4,5988,1,2026-06-28T13:53:24.224930
 unicodegrapheme,kawaz/unicodegrapheme,0.9.0,33,1,2026-03-20T05:44:03.736470
 golem_sdk,golemcloud/golem_sdk,0.5.2,122220,56,2026-05-19T18:47:01.456449
 golem_sdk_tools,golemcloud/golem_sdk_tools,0.5.2,10450,2,2026-05-19T18:47:03.259480
-i18n,lampclaw/i18n,0.6.0,17949,4,2026-08-14T06:46:43.085669
+i18n,lampclaw/i18n,0.8.0,21363,4,2026-08-14T09:32:15.789882
 lampo,lampclaw/lampo,0.1.0,26989,28,2026-07-10T01:22:18.866169
 minimoon,lampclaw/minimoon,0.0.1-rc.1,23,1,2026-08-12T05:39:27.553391
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7,2026-03-13T16:06:12.599459
@@ -1548,8 +1549,8 @@ ajni,Nanaloveyuki/ajni,0.2.2,1199,4,2026-08-09T08:25:27.191783
 BitLogger,Nanaloveyuki/BitLogger,0.8.0,20244,23,2026-08-11T05:31:19.402984
 dynlib,Nanaloveyuki/dynlib,0.1.0,234,1,2026-07-29T07:31:55.769548
 image,Nanaloveyuki/image,0.1.1,908,1,2026-07-30T00:58:18.064235
-moonview,Nanaloveyuki/moonview,0.1.0-beta.7,4278,11,2026-08-10T06:34:29.838070
-orbit,Nanaloveyuki/orbit,0.1.0-alpha.4,16716,19,2026-08-11T06:07:35.363869
+moonview,Nanaloveyuki/moonview,0.1.0-beta.8,4315,11,2026-08-14T09:15:45.321942
+orbit,Nanaloveyuki/orbit,0.1.0-alpha.5,16938,19,2026-08-14T09:11:42.646555
 orbit-plugin-abi,Nanaloveyuki/orbit-plugin-abi,0.2.2,1137,1,2026-08-09T11:58:56.604531
 orby,Nanaloveyuki/orby,0.1.0-beta.4,3450,9,2026-08-10T13:27:44.775809
 parsec,Nanaloveyuki/parsec,0.1.3,2928,5,2026-08-09T08:30:43.660640
@@ -1814,7 +1815,7 @@ moonlabelkit,Zy789kl/moonlabelkit,0.1.2,2820,7,2026-08-12T13:16:36.953074
 moontls-parser,yhsrtty/moontls-parser,0.1.2,6577,2,2026-08-11T11:53:28.336801
 moonyara,Hjyyutr/moonyara,0.1.4,4471,4,2026-08-09T09:40:20.688976
 moonnlp,ppyq882/moonnlp,0.2.0,4025,4,2026-07-20T09:23:03.198130
-moongeoroute,phjphj676/moongeoroute,0.1.2,2810,7,2026-08-11T09:38:25.965196
+moongeoroute,phjphj676/moongeoroute,0.1.4,4258,7,2026-08-14T08:33:49.825128
 minitpl,joanna/minitpl,0.1.2,512,5,2026-07-16T03:19:54.478118
 moonbit-texteditor,lexchb/moonbit-texteditor,0.1.0,3502,1,2026-07-16T12:27:11.289357
 yamlscript,ingydotnet/yamlscript,0.2.29,92,1,2026-07-20T19:14:57.035843
