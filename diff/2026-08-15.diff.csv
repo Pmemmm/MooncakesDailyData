@@ -2,15 +2,19 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 cpypypypy/har-toolkit,新增,5903,6,0,0,5903,6
 pei0331/moonbit_diff,新增,1792,2,0,0,1792,2
 WhisperJXH/moonflags,新增,1359,2,0,0,1359,2
+cc06b/mooncry,有变化,156,0,15176,3,15332,3
 chgttyyr/MoonSpectrum,有变化,2238,0,1389,2,3627,2
 clbbbb/moonbit-license-audit,有变化,648,0,4376,2,5024,2
 dgmxjj/moonplot,有变化,1513,2,3822,12,5335,14
 didiLjf/moonorbit,有变化,3421,4,353,2,3774,6
 Eric-Song-Nop/opendal,有变化,37830,3,2348,1,40178,4
 FidollarinLA/moon_api_guard,有变化,173,0,4646,4,4819,4
+haol-05/moondatalog,有变化,168,1,3722,2,3890,3
 Hhsqoo/moon-collections,有变化,854,2,2757,10,3611,12
 Hjyyutr/moonyara,有变化,121,0,4471,4,4592,4
+hmyhmyhmyss/moontrajectory,有变化,2423,0,1151,2,3574,2
 I3eg1nner/petgraph,有变化,9229,0,6583,7,15812,7
+kaashyapan/html_dsl,有变化,1535,1,2964,1,4499,2
 Kaida-Amethyst/llvm,有变化,-3985,-1,45221,5,41236,4
 lampclaw/i18n,有变化,176,0,21363,4,21539,4
 liuzhiyug/moonrllab,有变化,3370,1,1162,2,4532,3
@@ -18,9 +22,16 @@ LL124-Arch/stencil,有变化,2195,0,1797,2,3992,2
 Lxxbv/glob,有变化,2871,0,7887,2,10758,2
 marianoguerra/tutuca,有变化,-1823,-2,131564,54,129741,52
 minie135/moon-audit,有变化,73,0,6679,2,6752,2
+mizchi/blas,有变化,251,0,1219,2,1470,2
 mizchi/cst,有变化,132,0,2492,4,2624,4
+mizchi/layout,有变化,61,0,1852,6,1913,6
+mizchi/lsp,有变化,422,0,28260,7,28682,7
+mizchi/numbt,有变化,418,0,4602,1,5020,1
+mizchi/semver,有变化,-1,0,1661,4,1660,4
+mizchi/syntree,有变化,1595,0,29888,34,31483,34
+mizchi/vfs,有变化,79,0,2686,8,2765,8
 mizchi/zlib,有变化,-797,0,4188,6,3391,6
-moonbit-community/rabbita,有变化,22,0,28607,22,28629,22
+moonbit-community/rabbita,有变化,55,0,28607,22,28662,22
 Myytsjj/moon-ssg,有变化,2560,4,2158,3,4718,7
 ppyq882/moonnlp,有变化,1358,4,4025,4,5383,8
 totto2727/agent-sdk,有变化,3,0,1116,3,1119,3
@@ -32,7 +43,7 @@ wccerty/moonfeaturegate,有变化,1487,0,3797,2,5284,2
 wedarp/moongraph,有变化,2481,1,2144,2,4625,3
 Zcxssxx/moon-ninja,有变化,1880,0,2407,3,4287,3
 zhaoyuanjuns/moongridgym,有变化,2100,0,1031,2,3131,2
-Zy789kl/moonlabelkit,有变化,287,0,2820,7,3107,7
+Zy789kl/moonlabelkit,有变化,285,0,2820,7,3105,7
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -268,7 +279,6 @@ caozhanhao/qrcode,无变化,0,0,3833,2,3833,2
 cauchyQ/moon-sketch-kit,无变化,0,0,4447,5,4447,5
 cauchyQ/moonbit-argkit,无变化,0,0,4423,3,4423,3
 cauchyQ/moonbit-robots,无变化,0,0,4388,2,4388,2
-cc06b/mooncry,无变化,0,0,15176,3,15176,3
 CCllff-jpg/MoonLogTrace,无变化,0,0,4696,2,4696,2
 cg-zhou/bezier_easing,无变化,0,0,367,2,367,2
 cg-zhou/bezier-easing,无变化,0,0,288,2,288,2
@@ -535,7 +545,6 @@ Han-Wentao/moonbench,无变化,0,0,7124,3,7124,3
 Han-Wentao/mooncontract,无变化,0,0,4838,10,4838,10
 hanbings/fluorescence,无变化,0,0,181,4,181,4
 hanstechnow/ctf_tools,无变化,0,0,93,3,93,3
-haol-05/moondatalog,无变化,0,0,3722,2,3722,2
 Haoxincode/moonbash,无变化,0,0,45029,10,45029,10
 hbh112233abc/examine,无变化,0,0,76,2,76,2
 HCHogan/btree,无变化,0,0,1129,1,1129,1
@@ -549,7 +558,6 @@ himeno/test,无变化,0,0,36,1,36,1
 hiroyannnn/sketch,无变化,0,0,975,2,975,2
 hiroyannnn/strsim,无变化,0,0,861,3,861,3
 hjn0123/moon-http-range,无变化,0,0,3010,6,3010,6
-hmyhmyhmyss/moontrajectory,无变化,0,0,1151,2,1151,2
 hnlyxiaobing/crescent,无变化,0,0,23860,23,23860,23
 hnlyxiaobing/MBOpenClacky,无变化,0,0,98780,33,98780,33
 hnlyxiaobing/toml,无变化,0,0,12867,3,12867,3
@@ -691,7 +699,6 @@ justjavac/windows_subsystem,无变化,0,0,94,1,94,1
 justjoheinz/complex,无变化,0,0,164,1,164,1
 justjoheinz/iso-country,无变化,0,0,3412,1,3412,1
 JYPeng487/moonopenmetrics,无变化,0,0,5991,2,5991,2
-kaashyapan/html_dsl,无变化,0,0,2964,1,2964,1
 kaashyapan/postgresx,无变化,0,0,1102,1,1102,1
 kaashyapan/uri,无变化,0,0,3473,1,3473,1
 Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
@@ -1030,7 +1037,6 @@ mizchi/bitx_openpgp,无变化,0,0,204,1,204,1
 mizchi/bitx_rebase_ai,无变化,0,0,1188,1,1188,1
 mizchi/bitx_subdir,无变化,0,0,4927,1,4927,1
 mizchi/bitx_workspace,无变化,0,0,3845,1,3845,1
-mizchi/blas,无变化,0,0,1219,2,1219,2
 mizchi/brotli,无变化,0,0,18338,3,18338,3
 mizchi/canvas,无变化,0,0,6034,1,6034,1
 mizchi/cbor,无变化,0,0,1323,2,1323,2
@@ -1092,12 +1098,10 @@ mizchi/kagura_engine,无变化,0,0,25819,19,25819,19
 mizchi/kagura_game,无变化,0,0,8480,12,8480,12
 mizchi/kagura_js_runtime,无变化,0,0,2023,1,2023,1
 mizchi/kagura_physics,无变化,0,0,8363,4,8363,4
-mizchi/layout,无变化,0,0,1852,6,1852,6
 mizchi/lib,无变化,0,0,118,2,118,2
 mizchi/libgit2,无变化,0,0,2525,4,2525,4
 mizchi/libjit,无变化,0,0,9787,3,9787,3
 mizchi/llm,无变化,0,0,7671,8,7671,8
-mizchi/lsp,无变化,0,0,28260,7,28260,7
 mizchi/luna,无变化,0,0,45530,44,45530,44
 mizchi/luna_components,无变化,0,0,17700,18,17700,18
 mizchi/markdown,无变化,0,0,28566,29,28566,29
@@ -1116,7 +1120,6 @@ mizchi/mwac,无变化,0,0,10114,15,10114,15
 mizchi/nn,无变化,0,0,23065,9,23065,9
 mizchi/nom,无变化,0,0,3245,3,3245,3
 mizchi/npm_typed,无变化,0,0,83375,103,83375,103
-mizchi/numbt,无变化,0,0,4602,1,4602,1
 mizchi/oci_wasm,无变化,0,0,2061,7,2061,7
 mizchi/parquet,无变化,0,0,10202,4,10202,4
 mizchi/pathfind,无变化,0,0,311,1,311,1
@@ -1135,7 +1138,6 @@ mizchi/rlm,无变化,0,0,5747,1,5747,1
 mizchi/rlm_moonbit,无变化,0,0,5747,1,5747,1
 mizchi/s3,无变化,0,0,646,2,646,2
 mizchi/sandbox,无变化,0,0,66259,81,66259,81
-mizchi/semver,无变化,0,0,1661,4,1661,4
 mizchi/signals,无变化,0,0,4949,2,4949,2
 mizchi/simd,无变化,0,0,20763,10,20763,10
 mizchi/similarity,无变化,0,0,2664,5,2664,5
@@ -1146,7 +1148,6 @@ mizchi/sqlc_gen_moonbit,无变化,0,0,24482,30,24482,30
 mizchi/sqlite,无变化,0,0,2255,1,2255,1
 mizchi/starlint,无变化,0,0,18204,7,18204,7
 mizchi/svg,无变化,0,0,23970,4,23970,4
-mizchi/syntree,无变化,0,0,29888,34,29888,34
 mizchi/tempfile,无变化,0,0,496,2,496,2
 mizchi/terrain,无变化,0,0,30796,120,30796,120
 mizchi/text,无变化,0,0,1026,1,1026,1
@@ -1158,7 +1159,6 @@ mizchi/tui,无变化,0,0,39203,39,39203,39
 mizchi/tui-terminal-buffer,无变化,0,0,1037,1,1037,1
 mizchi/tui-terminal-protocol,无变化,0,0,1021,3,1021,3
 mizchi/v8,无变化,0,0,7480,2,7480,2
-mizchi/vfs,无变化,0,0,2686,8,2686,8
 mizchi/vivebox,无变化,0,0,3575,2,3575,2
 mizchi/wacon,无变化,0,0,6283,12,6283,12
 mizchi/wasi,无变化,0,0,3654,28,3654,28
