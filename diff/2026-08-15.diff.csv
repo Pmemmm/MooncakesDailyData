@@ -2,15 +2,20 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 chgttyyr/MoonSpectrum,有变化,2238,0,1389,2,3627,2
 clbbbb/moonbit-license-audit,有变化,648,0,4376,2,5024,2
 dgmxjj/moonplot,有变化,1513,2,3822,12,5335,14
+Eric-Song-Nop/opendal,有变化,37830,3,2348,1,40178,4
 Hhsqoo/moon-collections,有变化,854,2,2757,10,3611,12
 Hjyyutr/moonyara,有变化,121,0,4471,4,4592,4
 lampclaw/i18n,有变化,176,0,21363,4,21539,4
+liuzhiyug/moonrllab,有变化,3370,1,1162,2,4532,3
 Lxxbv/glob,有变化,2871,0,7887,2,10758,2
 marianoguerra/tutuca,有变化,-1823,-2,131564,54,129741,52
+moonbit-community/rabbita,有变化,22,0,28607,22,28629,22
+Myytsjj/moon-ssg,有变化,2560,4,2158,3,4718,7
 ppyq882/moonnlp,有变化,1358,4,4025,4,5383,8
+totto2727/agent-sdk,有变化,3,0,1116,3,1119,3
 wccerty/moonfeaturegate,有变化,1487,0,3797,2,5284,2
 wedarp/moongraph,有变化,2481,1,2144,2,4625,3
-Zcxssxx/moon-ninja,有变化,1647,0,2407,3,4054,3
+Zcxssxx/moon-ninja,有变化,1880,0,2407,3,4287,3
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -369,7 +374,6 @@ enanandesu/icc,无变化,0,0,823,1,823,1
 enanandesu/special-mathematical-functions,无变化,0,0,502,1,502,1
 enjoecn/easy,无变化,0,0,93,3,93,3
 enjoecn/gb,无变化,0,0,390,2,390,2
-Eric-Song-Nop/opendal,无变化,0,0,2348,1,2348,1
 Erolaffy/easy-io,无变化,0,0,26,2,26,2
 Erolaffy/easyio,无变化,0,0,211,1,211,1
 Estrella-11/moondockit,无变化,0,0,3563,3,3563,3
@@ -809,7 +813,6 @@ liuly0322/lru_cache,无变化,0,0,121,1,121,1
 liuly0322/tch_mbt,无变化,0,0,868,2,868,2
 liushiman1222/AgriDroneSwarm,无变化,0,0,8322,1,8322,1
 liuxinbo1984/example,无变化,0,0,94,2,94,2
-liuzhiyug/moonrllab,无变化,0,0,1162,2,1162,2
 liyun/moonseal,无变化,0,0,4613,2,4613,2
 Ljh684/MoonParse,无变化,0,0,3827,2,3827,2
 Ljw030710/find_max,无变化,0,0,25,1,25,1
@@ -1232,7 +1235,6 @@ moonbit-community/proton_tray,无变化,0,0,1587,2,1587,2
 moonbit-community/proton_updater,无变化,0,0,911,1,911,1
 moonbit-community/pty,无变化,0,0,1551,2,1551,2
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
-moonbit-community/rabbita,无变化,0,0,28607,22,28607,22
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,759,2,759,2
@@ -1300,7 +1302,6 @@ myfreess/unicode_data,无变化,0,0,30812,2,30812,2
 myfreess/yaml,无变化,0,0,3915,1,3915,1
 MYmodddd/moonslide,无变化,0,0,777,1,777,1
 MYmodddd/pixelate,无变化,0,0,5883,1,5883,1
-Myytsjj/moon-ssg,无变化,0,0,2158,3,2158,3
 Nanaloveyuki/ajni,无变化,0,0,1199,4,1199,4
 Nanaloveyuki/BitLogger,无变化,0,0,20244,23,20244,23
 Nanaloveyuki/dynlib,无变化,0,0,234,1,234,1
@@ -1688,7 +1689,6 @@ tonyfettes/xxh64,无变化,0,0,248,1,248,1
 totto2727/admiral,无变化,0,0,6517,5,6517,5
 totto2727/agent-cli-sdk,无变化,0,0,438,1,438,1
 totto2727/agent-core-sdk,无变化,0,0,467,1,467,1
-totto2727/agent-sdk,无变化,0,0,1116,3,1116,3
 totto2727/any-collection,无变化,0,0,429,2,429,2
 totto2727/bw,无变化,0,0,2575,1,2575,1
 totto2727/c-plugin,无变化,0,0,3076,2,3076,2
