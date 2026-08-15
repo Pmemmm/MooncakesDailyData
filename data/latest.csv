@@ -475,7 +475,7 @@ crater-webdriver-bidi,mizchi/crater-webdriver-bidi,0.19.0,73204,12,2026-07-10T14
 crater-webvitals,mizchi/crater-webvitals,0.19.0,798,1,2026-07-10T14:08:33.460767
 crdt_db,mizchi/crdt_db,0.1.1,5786,11,2026-02-07T05:59:16.761884
 css,mizchi/css,0.7.3,47457,12,2026-06-29T08:02:53.944003
-cst,mizchi/cst,0.1.7,2492,4,2026-05-15T16:58:15.600539
+cst,mizchi/cst,0.1.9,2624,4,2026-08-15T12:55:29.269543
 differencial_ecs,mizchi/differencial_ecs,0.1.1,682,3,2026-03-08T16:11:11.216765
 differentiable_ecs,mizchi/differentiable_ecs,0.2.1,682,3,2026-06-03T11:23:08.673618
 discord,mizchi/discord,0.1.2,1663,3,2026-04-25T13:36:51.417135
@@ -590,7 +590,7 @@ wit,mizchi/wit,0.3.1,5189,2,2026-07-07T11:57:42.209617
 wite,mizchi/wite,0.11.0,49049,16,2026-03-22T13:15:31.546043
 wit.mbt,mizchi/wit.mbt,0.1.0,9141,47,2026-02-02T05:07:30.901216
 x,mizchi/x,0.5.2,22790,20,2026-07-28T14:01:57.659598
-zlib,mizchi/zlib,0.4.8,4188,6,2026-06-29T04:48:27.505782
+zlib,mizchi/zlib,0.4.9,3391,6,2026-08-15T12:51:10.673738
 postgres,mattn/postgres,0.10.4,562,1,2026-01-11T10:56:13.122219
 eczn-utils,eczn/eczn-utils,0.2.0,50,1,2024-05-01T18:51:02.119094
 apple_silicon_accelerometer,oboard/apple_silicon_accelerometer,0.1.0,406,2,2026-04-03T01:54:46.113080
@@ -784,7 +784,7 @@ oops,SyoujyoujiNaiki/oops,0.3.0,3229,2,2026-06-28T06:14:12.084894
 either,Kaida-Amethyst/either,0.1.3,1329,1,2026-08-13T12:54:59.243724
 godot,Kaida-Amethyst/godot,0.1.0,6040,1,2025-08-01T08:49:11.849396
 llama,Kaida-Amethyst/llama,0.2.0,1887,5,2026-08-10T07:49:33.619255
-llvm,Kaida-Amethyst/llvm,0.4.0,45221,5,2026-08-13T09:56:17.613933
+llvm,Kaida-Amethyst/llvm,0.5.0,41236,4,2026-08-15T13:02:24.437472
 math,Kaida-Amethyst/math,0.1.21,15075,1,2026-07-08T07:47:59.141284
 matplotlib,Kaida-Amethyst/matplotlib,0.1.2,1237,1,2025-05-29T09:47:02.178399
 mbtcc,Kaida-Amethyst/mbtcc,0.1.0,26861,8,2025-11-18T07:32:58.480255
@@ -1462,11 +1462,11 @@ moon-agent-graph,totto2727/moon-agent-graph,0.1.2,7694,11,2026-08-05T11:40:01.83
 opencode-sdk,totto2727/opencode-sdk,0.4.0,1871,4,2026-08-13T23:07:55.289395
 opencode-server-sdk,totto2727/opencode-server-sdk,0.2.1,619,2,2026-08-05T11:39:42.331289
 target-file-discovery,totto2727/target-file-discovery,0.2.1,577,1,2026-08-05T11:39:40.847550
-workgraph-agent-cli,totto2727/workgraph-agent-cli,0.1.3,950,1,2026-08-10T10:28:48.434439
-workgraph-codex-cli,totto2727/workgraph-codex-cli,0.1.3,860,3,2026-08-10T10:28:55.502737
+workgraph-agent-cli,totto2727/workgraph-agent-cli,0.2.0,1447,1,2026-08-15T11:46:45.446098
+workgraph-codex-cli,totto2727/workgraph-codex-cli,0.2.0,651,3,2026-08-15T11:46:49.996945
 workgraph-core,totto2727/workgraph-core,0.1.3,3035,2,2026-08-10T10:28:45.235126
 workgraph-llm,totto2727/workgraph-llm,0.1.3,665,3,2026-08-10T10:28:51.258126
-workgraph-opencode-cli,totto2727/workgraph-opencode-cli,0.1.3,812,3,2026-08-10T10:28:57.653238
+workgraph-opencode-cli,totto2727/workgraph-opencode-cli,0.2.0,755,3,2026-08-15T11:46:51.685515
 workgraph-visualization,totto2727/workgraph-visualization,0.1.3,422,2,2026-08-10T10:28:53.034327
 wt,totto2727/wt,0.1.3,728,1,2026-08-10T10:19:42.822182
 x,totto2727/x,0.6.0,1575,5,2026-08-13T22:50:06.417134
@@ -1649,7 +1649,7 @@ moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
 MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.4,4696,2,2026-08-01T13:46:10.118259
 mooncollections,Zongzuixi114514/mooncollections,0.1.5,4664,13,2026-07-22T06:14:10.627852
-stencil,LL124-Arch/stencil,0.1.3,1797,2,2026-08-10T15:26:24.590562
+stencil,LL124-Arch/stencil,0.1.4,3992,2,2026-08-15T11:36:59.418770
 moonbit-abc,wedarp/moonbit-abc,0.1.0,2135,4,2026-08-05T11:38:02.210118
 moongraph,wedarp/moongraph,0.2.1,4625,3,2026-08-14T16:27:12.382880
 moonmodguard,Noverberrain/moonmodguard,0.2.0,2435,2,2026-07-22T04:19:56.155683
@@ -1811,7 +1811,7 @@ moontetris,youyong5/moontetris,0.1.0,749,1,2026-07-12T16:47:46.955195
 MoonTetris,youyong5/MoonTetris,0.1.0,749,1,2026-07-12T16:29:55.548908
 moonpath,Burnling-gx/moonpath,0.1.1,2131,2,2026-07-12T16:15:43.653944
 moon-schedule,100kkk/moon-schedule,0.1.0,785,2,2026-07-12T16:19:44.526736
-moonlabelkit,Zy789kl/moonlabelkit,0.1.2,2820,7,2026-08-12T13:16:36.953074
+moonlabelkit,Zy789kl/moonlabelkit,0.1.3,3107,7,2026-08-15T13:03:01.336090
 moontls-parser,yhsrtty/moontls-parser,0.1.2,6577,2,2026-08-11T11:53:28.336801
 moonyara,Hjyyutr/moonyara,0.1.5,4592,4,2026-08-15T04:22:59.747579
 moonnlp,ppyq882/moonnlp,0.3.0,5383,8,2026-08-14T16:37:06.702016
@@ -1851,7 +1851,7 @@ wax,marianoguerra/wax,0.2.0,79215,34,2026-08-14T11:25:48.758833
 wax-cli,marianoguerra/wax-cli,0.2.0,889,2,2026-08-14T11:35:20.425606
 moon_api_guard,FidollarinLA/moon_api_guard,0.6.0,4819,4,2026-08-15T09:00:48.573676
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.1,4717,3,2026-07-31T09:42:07.497015
-moongridgym,zhaoyuanjuns/moongridgym,0.1.0,1031,2,2026-07-23T04:15:45.171845
+moongridgym,zhaoyuanjuns/moongridgym,0.1.1,3131,2,2026-08-15T12:43:55.103120
 moontrajectory,hmyhmyhmyss/moontrajectory,0.1.0,1151,2,2026-07-23T04:31:47.172244
 moonrewardforge,weidekais/moonrewardforge,0.1.0,719,2,2026-07-23T04:51:18.124303
 MoonEmbed,wskwsk68/MoonEmbed,0.1.2,3305,2,2026-08-12T13:48:26.451071

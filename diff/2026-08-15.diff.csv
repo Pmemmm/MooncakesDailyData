@@ -11,19 +11,28 @@ FidollarinLA/moon_api_guard,有变化,173,0,4646,4,4819,4
 Hhsqoo/moon-collections,有变化,854,2,2757,10,3611,12
 Hjyyutr/moonyara,有变化,121,0,4471,4,4592,4
 I3eg1nner/petgraph,有变化,9229,0,6583,7,15812,7
+Kaida-Amethyst/llvm,有变化,-3985,-1,45221,5,41236,4
 lampclaw/i18n,有变化,176,0,21363,4,21539,4
 liuzhiyug/moonrllab,有变化,3370,1,1162,2,4532,3
+LL124-Arch/stencil,有变化,2195,0,1797,2,3992,2
 Lxxbv/glob,有变化,2871,0,7887,2,10758,2
 marianoguerra/tutuca,有变化,-1823,-2,131564,54,129741,52
 minie135/moon-audit,有变化,73,0,6679,2,6752,2
+mizchi/cst,有变化,132,0,2492,4,2624,4
+mizchi/zlib,有变化,-797,0,4188,6,3391,6
 moonbit-community/rabbita,有变化,22,0,28607,22,28629,22
 Myytsjj/moon-ssg,有变化,2560,4,2158,3,4718,7
 ppyq882/moonnlp,有变化,1358,4,4025,4,5383,8
 totto2727/agent-sdk,有变化,3,0,1116,3,1119,3
 totto2727/mdt,有变化,174,0,471,1,645,1
+totto2727/workgraph-agent-cli,有变化,497,0,950,1,1447,1
+totto2727/workgraph-codex-cli,有变化,-209,0,860,3,651,3
+totto2727/workgraph-opencode-cli,有变化,-57,0,812,3,755,3
 wccerty/moonfeaturegate,有变化,1487,0,3797,2,5284,2
 wedarp/moongraph,有变化,2481,1,2144,2,4625,3
 Zcxssxx/moon-ninja,有变化,1880,0,2407,3,4287,3
+zhaoyuanjuns/moongridgym,有变化,2100,0,1031,2,3131,2
+Zy789kl/moonlabelkit,有变化,287,0,2820,7,3107,7
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -689,7 +698,6 @@ Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
 Kaida-Amethyst/either,无变化,0,0,1329,1,1329,1
 Kaida-Amethyst/godot,无变化,0,0,6040,1,6040,1
 Kaida-Amethyst/llama,无变化,0,0,1887,5,1887,5
-Kaida-Amethyst/llvm,无变化,0,0,45221,5,45221,5
 Kaida-Amethyst/math,无变化,0,0,15075,1,15075,1
 Kaida-Amethyst/matplotlib,无变化,0,0,1237,1,1237,1
 Kaida-Amethyst/mbtcc,无变化,0,0,26861,8,26861,8
@@ -821,7 +829,6 @@ liuxinbo1984/example,无变化,0,0,94,2,94,2
 liyun/moonseal,无变化,0,0,4613,2,4613,2
 Ljh684/MoonParse,无变化,0,0,3827,2,3827,2
 Ljw030710/find_max,无变化,0,0,25,1,25,1
-LL124-Arch/stencil,无变化,0,0,1797,2,1797,2
 LL728/moonalign,无变化,0,0,1184,2,1184,2
 LL728/moonseal,无变化,0,0,3956,13,3956,13
 llgllg/moontrustflow,无变化,0,0,807,2,807,2
@@ -1055,7 +1062,6 @@ mizchi/crater-webdriver-bidi,无变化,0,0,73204,12,73204,12
 mizchi/crater-webvitals,无变化,0,0,798,1,798,1
 mizchi/crdt_db,无变化,0,0,5786,11,5786,11
 mizchi/css,无变化,0,0,47457,12,47457,12
-mizchi/cst,无变化,0,0,2492,4,2492,4
 mizchi/differencial_ecs,无变化,0,0,682,3,682,3
 mizchi/differentiable_ecs,无变化,0,0,682,3,682,3
 mizchi/discord,无变化,0,0,1663,3,1663,3
@@ -1170,7 +1176,6 @@ mizchi/wit,无变化,0,0,5189,2,5189,2
 mizchi/wit.mbt,无变化,0,0,9141,47,9141,47
 mizchi/wite,无变化,0,0,49049,16,49049,16
 mizchi/x,无变化,0,0,22790,20,22790,20
-mizchi/zlib,无变化,0,0,4188,6,4188,6
 mohongquan0630/moon-prometheus,无变化,0,0,632,2,632,2
 mohongquan0630/moonbit-plasma,无变化,0,0,1085,2,1085,2
 mokomoking2501/concord,无变化,0,0,1498,2,1498,2
@@ -1705,11 +1710,8 @@ totto2727/moon-agent-graph,无变化,0,0,7694,11,7694,11
 totto2727/opencode-sdk,无变化,0,0,1871,4,1871,4
 totto2727/opencode-server-sdk,无变化,0,0,619,2,619,2
 totto2727/target-file-discovery,无变化,0,0,577,1,577,1
-totto2727/workgraph-agent-cli,无变化,0,0,950,1,950,1
-totto2727/workgraph-codex-cli,无变化,0,0,860,3,860,3
 totto2727/workgraph-core,无变化,0,0,3035,2,3035,2
 totto2727/workgraph-llm,无变化,0,0,665,3,665,3
-totto2727/workgraph-opencode-cli,无变化,0,0,812,3,812,3
 totto2727/workgraph-visualization,无变化,0,0,422,2,422,2
 totto2727/wt,无变化,0,0,728,1,728,1
 totto2727/x,无变化,0,0,1575,5,1575,5
@@ -1911,7 +1913,6 @@ zen314/shadow,无变化,0,0,529,2,529,2
 zhaihaozhen/zero_fill,无变化,0,0,40,2,40,2
 zhangbowen2006/moonbvhkit,无变化,0,0,4845,3,4845,3
 zhangshun-123/factorial,无变化,0,0,33,1,33,1
-zhaoyuanjuns/moongridgym,无变化,0,0,1031,2,1031,2
 Zhouz-z/moon_l10n,无变化,0,0,793,2,793,2
 zhuguiyuan/eda-router,无变化,0,0,487,2,487,2
 zhzh12345678/moon_tracekit,无变化,0,0,3581,11,3581,11
@@ -1938,5 +1939,4 @@ ZSeanYves/moonjinja,无变化,0,0,5319,2,5319,2
 ZSeanYves/SimplexNoise,无变化,0,0,4655,4,4655,4
 zxch3n/colored,无变化,0,0,409,1,409,1
 zxch3n/expect,无变化,0,0,1319,1,1319,1
-Zy789kl/moonlabelkit,无变化,0,0,2820,7,2820,7
 Zzqy-yi/firmware-image-toolkit,无变化,0,0,5394,6,5394,6
