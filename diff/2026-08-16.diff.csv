@@ -1,12 +1,16 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 amistozy/prolog,新增,7242,2,0,0,7242,2
+JJ-ai-nb/moonbit-submit-guard,新增,1019,2,0,0,1019,2
 liying-han/moonresilience,新增,5205,2,0,0,5205,2
+walkzzz/ghostvalley,新增,643,1,0,0,643,1
+walkzzz/moon_hydro,新增,16392,8,0,0,16392,8
 walkzzz/moondes,新增,2603,10,0,0,2603,10
 wch6766/MoonSecureCodec,新增,11711,6,0,0,11711,6
 YumeXi/nanocake,新增,13472,11,0,0,13472,11
 2515050243qyf/moon_bencode,有变化,5180,0,1411,3,6591,3
 bobzhang/lexer,有变化,8,0,622,1,630,1
 bobzhang/toml,有变化,595,0,15532,7,16127,7
+colmugx/mcp,有变化,5504,1,7989,10,13493,11
 cxh04/cron_mbt,有变化,3560,0,1319,3,4879,3
 kaashyapan/html_dsl,有变化,618,1,4499,2,5117,3
 Lyl66655/moonbit-workflow-engine,有变化,2095,5,1544,7,3639,12
@@ -34,6 +38,7 @@ mohongquan0630/moon-prometheus,有变化,925,1,632,2,1557,3
 mohongquan0630/moonbit-plasma,有变化,916,0,1085,2,2001,2
 Qlcdsba/uri,有变化,2001,1,1511,2,3512,3
 Rz-coder8848/moon-fsm,有变化,2304,2,2139,8,4443,10
+walkzzz/embit,有变化,4452,0,9703,7,14155,7
 wcx789ll/moonsim,有变化,64,0,4784,16,4848,16
 weidekais/moonrewardforge,有变化,3918,0,719,2,4637,2
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -318,7 +323,6 @@ cogna-dev/parkit,无变化,0,0,1750,3,1750,3
 cogna-dev/sbom,无变化,0,0,4747,13,4747,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
 colmugx/jieba,无变化,0,0,386261,3,386261,3
-colmugx/mcp,无变化,0,0,7989,10,7989,10
 colmugx/ofd,无变化,0,0,2520,4,2520,4
 colmugx/ofdx,无变化,0,0,166,1,166,1
 colmugx/posoco,无变化,0,0,29001,9,29001,9
@@ -1761,7 +1765,6 @@ vectie/moonvis,无变化,0,0,2980,5,2980,5
 vicTop-cw/RX-MBT,无变化,0,0,14689,15,14689,15
 violetcb/eventrail,无变化,0,0,1914,2,1914,2
 vivid-oi/moonquotakit,无变化,0,0,1516,3,1516,3
-walkzzz/embit,无变化,0,0,9703,7,9703,7
 walkzzz/image,无变化,0,0,46247,18,46247,18
 walkzzz/owl_mbt,无变化,0,0,18555,14,18555,14
 walkzzz/pinyin,无变化,0,0,25652,3,25652,3

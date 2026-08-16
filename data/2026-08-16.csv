@@ -600,7 +600,7 @@ eval,oboard/eval,0.9.4,73029,8,2026-06-23T15:54:14.007811
 jsonx,oboard/jsonx,0.1.0,881,2,2026-05-19T07:25:55.371067
 mimetype,oboard/mimetype,0.1.9,1158,2,2025-10-18T12:38:11.888071
 mio,oboard/mio,0.5.2,11412,3,2026-05-07T04:31:29.278050
-mocket,oboard/mocket,0.7.7,7366,15,2026-07-12T08:55:09.589060
+mocket,oboard/mocket,0.7.8,7366,15,2026-08-16T09:29:57.192360
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7,2026-04-11T13:52:48.300037
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2,2024-07-30T12:09:43.313495
 moonetx,oboard/moonetx,0.1.8,1323,1,2026-02-06T17:05:37.814555
@@ -1118,7 +1118,7 @@ rle,dowdiness/rle,0.2.3,6020,5,2026-06-23T13:33:22.077992
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1,2026-04-21T10:59:39.607352
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2,2026-04-10T13:17:50.317286
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
-mcp,colmugx/mcp,0.14.0,7989,10,2026-06-16T11:59:29.627601
+mcp,colmugx/mcp,0.15.0,13493,11,2026-08-16T09:46:35.902323
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
 posoco,colmugx/posoco,0.10.1,29001,9,2026-08-07T16:26:10.178561
@@ -1881,9 +1881,11 @@ robots-gate,2111950632/robots-gate,0.2.1,6377,6,2026-07-30T13:22:39.946819
 moongettext,YanFangNie/moongettext,0.1.1,4378,3,2026-08-09T04:00:12.377100
 moonopenmetrics,JYPeng487/moonopenmetrics,0.1.1,5991,2,2026-08-09T06:13:48.814793
 moon-multipart,Songyz002/moon-multipart,0.2.1,3250,2,2026-07-30T06:14:27.029674
-embit,walkzzz/embit,0.1.1,9703,7,2026-08-13T23:30:09.651084
+embit,walkzzz/embit,0.1.2,14155,7,2026-08-16T09:21:38.570590
+ghostvalley,walkzzz/ghostvalley,0.1.0,643,1,2026-08-16T09:42:36.449880
 image,walkzzz/image,0.4.11,46247,18,2026-08-14T06:27:16.849770
 moondes,walkzzz/moondes,0.5.0,2603,10,2026-08-16T04:59:25.414557
+moon_hydro,walkzzz/moon_hydro,0.8.0,16392,8,2026-08-16T09:22:34.954020
 owl_mbt,walkzzz/owl_mbt,0.1.1,18555,14,2026-08-14T04:08:45.752611
 pinyin,walkzzz/pinyin,0.1.0,25652,3,2026-08-13T13:45:35.323179
 re-mbt,walkzzz/re-mbt,0.1.0,12972,2,2026-08-13T23:48:52.621897
@@ -1945,3 +1947,4 @@ moonbit-license-audit,clbbbb/moonbit-license-audit,0.1.1,5024,2,2026-08-14T15:28
 har-toolkit,cpypypypy/har-toolkit,0.1.0,5903,6,2026-08-15T08:33:00.072658
 moonflags,WhisperJXH/moonflags,0.1.0,1359,2,2026-08-15T09:35:21.199446
 moonresilience,liying-han/moonresilience,0.2.0,5205,2,2026-08-16T04:15:36.834635
+moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
