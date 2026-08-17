@@ -1119,7 +1119,7 @@ order-tree,dowdiness/order-tree,0.1.2,2317,1,2026-08-01T15:45:06.037924
 rle,dowdiness/rle,0.2.3,6020,5,2026-06-23T13:33:22.077992
 svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1,2026-04-21T10:59:39.607352
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2,2026-04-10T13:17:50.317286
-acp,colmugx/acp,0.1.1,48954,20,2026-08-17T06:56:30.861020
+acp,colmugx/acp,0.1.2,49001,20,2026-08-17T07:42:42.625984
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 mcp,colmugx/mcp,0.15.0,13493,11,2026-08-16T09:46:35.902323
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
@@ -1649,6 +1649,7 @@ moon_toolkit,OldPigxjk/moon_toolkit,0.1.2,6343,8,2026-07-06T15:00:40.589397
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moontrustflow,llgllg/moontrustflow,0.1.0,807,2,2026-07-05T03:28:11.847583
 moon-collections,Hhsqoo/moon-collections,0.4.1,3595,12,2026-08-16T14:18:24.734961
+moon-frequency-sketch,Hhsqoo/moon-frequency-sketch,0.2.0,6065,12,2026-08-17T08:40:46.379091
 MoonParse,Ljh684/MoonParse,0.1.4,3827,2,2026-08-08T14:57:21.163142
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonChartSVG,Mitsuha11zz/MoonChartSVG,0.1.5,5332,2,2026-07-10T11:44:57.643900
@@ -1911,9 +1912,10 @@ moon-problem-details,6P66006/moon-problem-details,0.1.0-dev,2964,6,2026-08-13T06
 moon-sfv,6P66006/moon-sfv,0.1.0,24463,7,2026-08-06T02:51:17.103996
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
-eventrail,violetcb/eventrail,0.1.0,1914,2,2026-08-09T08:55:08.950813
+eventrail,violetcb/eventrail,0.2.0,4369,2,2026-08-17T08:48:57.057376
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
 moonslokit,Zxy666668/moonslokit,0.2.0,3267,2,2026-08-16T14:06:12.768349
+moonbdd,oyjh0381/moonbdd,0.1.0,4701,5,2026-08-17T08:51:44.944174
 moonipfix,oyjh0381/moonipfix,0.1.0,9260,5,2026-08-13T09:59:31.966195
 moonlab,oyjh0381/moonlab,0.1.0,5046,6,2026-08-12T09:13:17.014930
 moonoci,oyjh0381/moonoci,0.1.4,5354,13,2026-08-13T08:56:36.083737

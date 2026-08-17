@@ -1,11 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 bobzhang/myshell,新增,1263,2,0,0,1263,2
-colmugx/acp,新增,48954,20,0,0,48954,20
+colmugx/acp,新增,49001,20,0,0,49001,20
 DWS-ai-nb/termproof,新增,2452,4,0,0,2452,4
+Hhsqoo/moon-frequency-sketch,新增,6065,12,0,0,6065,12
 hmc11234/mooncompat,新增,5159,2,0,0,5159,2
 kokic/fakefetch,新增,1510,2,0,0,1510,2
 lxz123411/moonrrule,新增,7745,7,0,0,7745,7
 MX-ai-nb/taptrail,新增,856,3,0,0,856,3
+oyjh0381/moonbdd,新增,4701,5,0,0,4701,5
 p1nbored/moon_cron,新增,5531,2,0,0,5531,2
 WB-ai-nb/constraint-lens,新增,1233,2,0,0,1233,2
 2515050242/cbor,有变化,4925,0,777,2,5702,2
@@ -21,6 +23,7 @@ Noverberrain/moonmodguard,有变化,374,0,2435,2,2809,2
 phjphj676/moongeoroute,有变化,132,1,4258,7,4390,8
 Project2026-creator/moontemplate,有变化,1845,0,1872,2,3717,2
 qyt1234567/moongraphlearn,有变化,2904,2,2913,7,5817,9
+violetcb/eventrail,有变化,2455,0,1914,2,4369,2
 YumeXi/nanocake,有变化,1541,1,13472,11,15013,12
 Zcxssxx/moon-ninja,有变化,-2,0,4287,3,4285,3
 Zhouz-z/moon_l10n,有变化,5190,0,793,2,5983,2
@@ -1770,7 +1773,6 @@ vectie/moonrobo,无变化,0,0,120507,78,120507,78
 vectie/moontown,无变化,0,0,151138,97,151138,97
 vectie/moonvis,无变化,0,0,2980,5,2980,5
 vicTop-cw/RX-MBT,无变化,0,0,14689,15,14689,15
-violetcb/eventrail,无变化,0,0,1914,2,1914,2
 vivid-oi/moonquotakit,无变化,0,0,1516,3,1516,3
 walkzzz/embit,无变化,0,0,14155,7,14155,7
 walkzzz/ghostvalley,无变化,0,0,643,1,643,1
