@@ -1,6 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-bobzhang/myshell,新增,1037,2,0,0,1037,2
-colmugx/acp,新增,48843,20,0,0,48843,20
+bobzhang/myshell,新增,1263,2,0,0,1263,2
+colmugx/acp,新增,48954,20,0,0,48954,20
+DWS-ai-nb/termproof,新增,2452,4,0,0,2452,4
+hmc11234/mooncompat,新增,5159,2,0,0,5159,2
+kokic/fakefetch,新增,1510,2,0,0,1510,2
+lxz123411/moonrrule,新增,7745,7,0,0,7745,7
 MX-ai-nb/taptrail,新增,856,3,0,0,856,3
 p1nbored/moon_cron,新增,5531,2,0,0,5531,2
 WB-ai-nb/constraint-lens,新增,1233,2,0,0,1233,2
@@ -11,6 +15,8 @@ hxiuzheng/moon_diffusion_lab,有变化,431,2,4826,14,5257,16
 IvanAXu/BioSeqs,有变化,3044,2,539829,389,542873,391
 justjoheinz/complex,有变化,10,0,164,1,174,1
 kokic/uml,有变化,382,0,36226,14,36608,14
+moonbitlang/async,有变化,162,0,47301,51,47463,51
+moonbitlang/parser,有变化,64,0,138260,20,138324,20
 Noverberrain/moonmodguard,有变化,374,0,2435,2,2809,2
 phjphj676/moongeoroute,有变化,132,1,4258,7,4390,8
 Project2026-creator/moontemplate,有变化,1845,0,1872,2,3717,2
@@ -1264,7 +1270,6 @@ moonbit-community/zipc,无变化,0,0,1551,1,1551,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,47301,51,47301,51
 moonbitlang/core,无变化,0,0,202930,79,202930,79
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
 moonbitlang/editor,无变化,0,0,168064,50,168064,50
@@ -1279,7 +1284,6 @@ moonbitlang/lexer,无变化,0,0,4528,3,4528,3
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/moon_config,无变化,0,0,3022,1,3022,1
-moonbitlang/parser,无变化,0,0,138260,20,138260,20
 moonbitlang/protobuf,无变化,0,0,4680,2,4680,2
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
