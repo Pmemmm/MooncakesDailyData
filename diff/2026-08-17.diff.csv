@@ -4,6 +4,7 @@ colmugx/acp,新增,49001,20,0,0,49001,20
 DWS-ai-nb/termproof,新增,2452,4,0,0,2452,4
 Hhsqoo/moon-frequency-sketch,新增,6065,12,0,0,6065,12
 hmc11234/mooncompat,新增,5159,2,0,0,5159,2
+JJ-ai-nb/moonbit-shard-note,新增,622,2,0,0,622,2
 kokic/fakefetch,新增,1510,2,0,0,1510,2
 lxz123411/moonrrule,新增,7745,7,0,0,7745,7
 MX-ai-nb/taptrail,新增,856,3,0,0,856,3
@@ -12,6 +13,7 @@ p1nbored/moon_cron,新增,5531,2,0,0,5531,2
 WB-ai-nb/constraint-lens,新增,1233,2,0,0,1233,2
 2515050242/cbor,有变化,4925,0,777,2,5702,2
 cc06b/mooncry,有变化,101,0,15332,3,15433,3
+Derk2006/sarifkit,有变化,358,0,4921,4,5279,4
 EJJ-ai-nb/harborcheck,有变化,332,0,2211,3,2543,3
 fan-ere/moonbarcode,有变化,97,0,2494,2,2591,2
 FidollarinLA/moon_api_guard,有变化,4,0,4819,4,4823,4
@@ -29,6 +31,7 @@ Project2026-creator/moontemplate,有变化,1845,0,1872,2,3717,2
 python123-ops/moon-cv-geometry,有变化,4467,0,2212,9,6679,9
 qyt1234567/moongraphlearn,有变化,2904,2,2913,7,5817,9
 violetcb/eventrail,有变化,4813,0,1914,2,6727,2
+WhisperJXH/moonflags,有变化,7218,0,1359,2,8577,2
 YumeXi/nanocake,有变化,1557,1,13472,11,15029,12
 Zcxssxx/moon-ninja,有变化,-2,0,4287,3,4285,3
 Zhouz-z/moon_l10n,有变化,5190,0,793,2,5983,2
@@ -344,7 +347,6 @@ ddd-1234d/MoonCRDTKit,无变化,0,0,1146,2,1146,2
 Demonmasterlqx/box2d_ffi,无变化,0,0,2101,2,2101,2
 Demonmasterlqx/moonbit_stickman_map_loader,无变化,0,0,952,3,952,3
 Demonmasterlqx/MoonP5,无变化,0,0,3563,4,3563,4
-Derk2006/sarifkit,无变化,0,0,4921,4,4921,4
 Derk2006/sourcemap,无变化,0,0,5652,4,5652,4
 Deviaana/pathforge,无变化,0,0,1367,2,1367,2
 dgmxjj/moonplot,无变化,0,0,5335,14,5335,14
@@ -1801,7 +1803,6 @@ WenqiChen3019/sqrt,无变化,0,0,44,2,44,2
 weopqrst/agent,无变化,0,0,7105,18,7105,18
 wflixu/Halo,无变化,0,0,4853,7,4853,7
 wflixu/Orion,无变化,0,0,7579,10,7579,10
-WhisperJXH/moonflags,无变化,0,0,1359,2,1359,2
 WilliamZ1008/qt-gui,无变化,0,0,44,1,44,1
 WilliamZ1008/qtgui,无变化,0,0,1601,1,1601,1
 wjhfather/pinyin-toolkit,无变化,0,0,14641,6,14641,6
