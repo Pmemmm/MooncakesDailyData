@@ -600,7 +600,7 @@ base16384,oboard/base16384,0.1.4,291,1,2026-05-27T03:29:13.031489
 eval,oboard/eval,0.9.4,73029,8,2026-06-23T15:54:14.007811
 jsonx,oboard/jsonx,0.1.0,881,2,2026-05-19T07:25:55.371067
 mimetype,oboard/mimetype,0.1.9,1158,2,2025-10-18T12:38:11.888071
-mio,oboard/mio,0.5.2,11412,3,2026-05-07T04:31:29.278050
+mio,oboard/mio,0.5.4,11588,3,2026-08-17T16:56:42.377652
 mocket,oboard/mocket,0.7.8,7366,15,2026-08-16T09:29:57.192360
 moonbit-eval,oboard/moonbit-eval,0.8.26,65512,7,2026-04-11T13:52:48.300037
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2,2024-07-30T12:09:43.313495
@@ -609,6 +609,7 @@ morm,oboard/morm,0.4.1,23999,19,2026-07-16T02:46:40.728214
 numoon,oboard/numoon,0.4.1,1332,2,2026-02-06T17:02:33.896464
 readline,oboard/readline,0.1.6,342,2,2025-12-12T06:15:20.088795
 redis,oboard/redis,0.1.5,5304,1,2026-05-25T13:38:14.187099
+reqmest,oboard/reqmest,0.5.4,11610,3,2026-08-17T17:27:21.552602
 stdout,oboard/stdout,0.1.1,154,1,2025-09-04T09:13:12.950199
 weatherquery,oboard/weatherquery,0.1.1,81,1,2025-06-23T12:05:55.596048
 schema,YumeCross/schema,0.4.3,1721,2,2024-11-03T04:15:53.128825
