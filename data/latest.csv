@@ -72,7 +72,7 @@ loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7,2026-05-
 mbtexcel,bobzhang/mbtexcel,0.1.9,674545,97,2026-07-29T07:14:37.872666
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
 moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
-myshell,bobzhang/myshell,0.2.0,1263,2,2026-08-17T05:11:01.484539
+myshell,bobzhang/myshell,0.3.0,1974,2,2026-08-17T09:44:10.752557
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
 office,bobzhang/office,0.4.0,49,1,2026-08-06T02:02:14.046790
@@ -283,12 +283,12 @@ formatter,moonbitlang/formatter,0.1.6,4683,6,2026-05-25T11:50:36.868257
 json_deriving,moonbitlang/json_deriving,0.1.2,1882,4,2025-11-06T06:32:30.154240
 json_deriving_codegen,moonbitlang/json_deriving_codegen,0.0.2,1188,1,2025-11-06T05:47:35.118641
 lex,moonbitlang/lex,0.3.9,8652,20,2026-01-07T04:18:00.616560
-lexer,moonbitlang/lexer,0.3.14,4528,3,2026-08-13T03:54:07.368560
+lexer,moonbitlang/lexer,0.3.15,4544,3,2026-08-17T09:23:08.487672
 lex-runtime,moonbitlang/lex-runtime,0.1.3,255,2,2025-03-07T13:16:36.623930
 mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1,2025-03-31T03:07:33.428508
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2,2025-04-25T02:20:11.677497
-moon_config,moonbitlang/moon_config,0.3.13,3022,1,2026-08-13T03:55:07.136402
-parser,moonbitlang/parser,0.3.16,138324,20,2026-08-17T05:33:17.287052
+moon_config,moonbitlang/moon_config,0.3.14,3022,1,2026-08-17T09:23:51.007940
+parser,moonbitlang/parser,0.3.17,138377,20,2026-08-17T09:24:28.204830
 protobuf,moonbitlang/protobuf,0.1.2,4680,2,2026-06-03T03:39:41.944681
 quickcheck,moonbitlang/quickcheck,0.14.0,13278,16,2026-05-23T08:03:48.705739
 regexp,moonbitlang/regexp,0.3.5,12052,5,2026-01-30T06:57:50.050285
@@ -1721,7 +1721,7 @@ petgraph,I3eg1nner/petgraph,0.2.0,15812,7,2026-08-15T07:46:14.560386
 moonbench,Han-Wentao/moonbench,0.3.0,7124,3,2026-07-15T05:31:49.686920
 mooncontract,Han-Wentao/mooncontract,0.1.0,4838,10,2026-07-24T08:20:33.636429
 moonbit-pixelkit,ttxiangshang/moonbit-pixelkit,0.2.0,2451,11,2026-07-18T06:39:47.168293
-moon-cv-geometry,python123-ops/moon-cv-geometry,0.2.0,2212,9,2026-08-09T10:57:32.528000
+moon-cv-geometry,python123-ops/moon-cv-geometry,0.2.1,6679,9,2026-08-17T09:25:47.702863
 moon-ray,Kai-Junhan/moon-ray,0.3.1,4345,2,2026-07-17T09:18:07.605728
 moonbit-argkit,cauchyQ/moonbit-argkit,0.1.0,4423,3,2026-08-03T14:55:37.808963
 moonbit-robots,cauchyQ/moonbit-robots,0.1.0,4388,2,2026-08-04T14:34:37.483654
@@ -1912,7 +1912,7 @@ moon-problem-details,6P66006/moon-problem-details,0.1.0-dev,2964,6,2026-08-13T06
 moon-sfv,6P66006/moon-sfv,0.1.0,24463,7,2026-08-06T02:51:17.103996
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
-eventrail,violetcb/eventrail,0.2.0,4369,2,2026-08-17T08:48:57.057376
+eventrail,violetcb/eventrail,0.3.2,6727,2,2026-08-17T10:15:34.264733
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
 moonslokit,Zxy666668/moonslokit,0.2.0,3267,2,2026-08-16T14:06:12.768349
 moonbdd,oyjh0381/moonbdd,0.1.0,4701,5,2026-08-17T08:51:44.944174
@@ -1956,7 +1956,7 @@ moonflags,WhisperJXH/moonflags,0.1.0,1359,2,2026-08-15T09:35:21.199446
 moonresilience,liying-han/moonresilience,0.2.0,5205,2,2026-08-16T04:15:36.834635
 moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
 moonbarcode,fan-ere/moonbarcode,0.1.0,2494,2,2026-08-16T13:32:50.101845
-harborcheck,EJJ-ai-nb/harborcheck,0.1.0,2211,3,2026-08-16T14:16:21.138969
+harborcheck,EJJ-ai-nb/harborcheck,0.1.2,2543,3,2026-08-17T10:33:54.449862
 taptrail,MX-ai-nb/taptrail,0.1.0,856,3,2026-08-16T15:20:11.073007
 moon_cron,p1nbored/moon_cron,0.1.0,5531,2,2026-08-16T15:59:24.778640
 constraint-lens,WB-ai-nb/constraint-lens,0.1.1,1233,2,2026-08-16T16:32:42.104119

@@ -1,5 +1,5 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
-bobzhang/myshell,新增,1263,2,0,0,1263,2
+bobzhang/myshell,新增,1974,2,0,0,1974,2
 colmugx/acp,新增,49001,20,0,0,49001,20
 DWS-ai-nb/termproof,新增,2452,4,0,0,2452,4
 Hhsqoo/moon-frequency-sketch,新增,6065,12,0,0,6065,12
@@ -12,18 +12,21 @@ p1nbored/moon_cron,新增,5531,2,0,0,5531,2
 WB-ai-nb/constraint-lens,新增,1233,2,0,0,1233,2
 2515050242/cbor,有变化,4925,0,777,2,5702,2
 cc06b/mooncry,有变化,101,0,15332,3,15433,3
+EJJ-ai-nb/harborcheck,有变化,332,0,2211,3,2543,3
 FidollarinLA/moon_api_guard,有变化,4,0,4819,4,4823,4
 hxiuzheng/moon_diffusion_lab,有变化,431,2,4826,14,5257,16
 IvanAXu/BioSeqs,有变化,3044,2,539829,389,542873,391
 justjoheinz/complex,有变化,10,0,164,1,174,1
 kokic/uml,有变化,382,0,36226,14,36608,14
 moonbitlang/async,有变化,162,0,47301,51,47463,51
-moonbitlang/parser,有变化,64,0,138260,20,138324,20
+moonbitlang/lexer,有变化,16,0,4528,3,4544,3
+moonbitlang/parser,有变化,117,0,138260,20,138377,20
 Noverberrain/moonmodguard,有变化,374,0,2435,2,2809,2
 phjphj676/moongeoroute,有变化,132,1,4258,7,4390,8
 Project2026-creator/moontemplate,有变化,1845,0,1872,2,3717,2
+python123-ops/moon-cv-geometry,有变化,4467,0,2212,9,6679,9
 qyt1234567/moongraphlearn,有变化,2904,2,2913,7,5817,9
-violetcb/eventrail,有变化,2455,0,1914,2,4369,2
+violetcb/eventrail,有变化,4813,0,1914,2,6727,2
 YumeXi/nanocake,有变化,1541,1,13472,11,15013,12
 Zcxssxx/moon-ninja,有变化,-2,0,4287,3,4285,3
 Zhouz-z/moon_l10n,有变化,5190,0,793,2,5983,2
@@ -374,7 +377,6 @@ edragain2nd/biblatex,无变化,0,0,10315,3,10315,3
 edragain2nd/compose,无变化,0,0,1233,1,1233,1
 edragain2nd/unscanny,无变化,0,0,916,1,916,1
 eisem/moon_graphql,无变化,0,0,7127,11,7127,11
-EJJ-ai-nb/harborcheck,无变化,0,0,2211,3,2211,3
 elzup/peeler,无变化,0,0,1162,2,1162,2
 emadurandal/examine,无变化,0,0,119,2,119,2
 emadurandal/rhodonite,无变化,0,0,2919,3,2919,3
@@ -1283,7 +1285,6 @@ moonbitlang/json_deriving,无变化,0,0,1882,4,1882,4
 moonbitlang/json_deriving_codegen,无变化,0,0,1188,1,1188,1
 moonbitlang/lex,无变化,0,0,8652,20,8652,20
 moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
-moonbitlang/lexer,无变化,0,0,4528,3,4528,3
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/moon_config,无变化,0,0,3022,1,3022,1
@@ -1420,7 +1421,6 @@ poteto0/endor,无变化,0,0,25581,23,25581,23
 ppyj663/moon-jsonpath,无变化,0,0,1622,2,1622,2
 ppyj663/moonbit-robot-vision-formats,无变化,0,0,1418,2,1418,2
 ppyq882/moonnlp,无变化,0,0,5383,8,5383,8
-python123-ops/moon-cv-geometry,无变化,0,0,2212,9,2212,9
 python123/moondepsolve,无变化,0,0,2504,3,2504,3
 pzl-love/Introsort,无变化,0,0,320,2,320,2
 q0w1ertyuiop/moonflagkit,无变化,0,0,1543,2,1543,2
