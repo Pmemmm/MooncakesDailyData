@@ -1751,8 +1751,8 @@ mooncron,001-Elsa/mooncron,0.1.4,5560,2,2026-08-01T04:20:32.671603
 moonpack,001-Elsa/moonpack,0.1.2,5126,6,2026-07-12T15:21:24.825743
 moon-diff,yuzhiblue/moon-diff,0.2.2,4904,3,2026-07-09T06:07:11.062349
 moon_collections,wqbcs/moon_collections,0.2.4,9581,15,2026-07-10T02:24:34.511571
-moonbit-aseflow,lllg123/moonbit-aseflow,0.1.0,1362,2,2026-08-10T18:00:46.409372
-moonbit-chemreport,lllg123/moonbit-chemreport,0.2.0,3778,2,2026-08-18T10:22:36.911433
+moonbit-aseflow,lllg123/moonbit-aseflow,0.3.0,21705,2,2026-08-18T12:38:56.988638
+moonbit-chemreport,lllg123/moonbit-chemreport,0.3.0,10010,3,2026-08-18T11:28:46.663429
 moontrustflow,lllg123/moontrustflow,0.2.0,3761,2,2026-08-16T13:32:22.696498
 basex,Lfan-ke/basex,0.2.0,1035,7,2026-07-26T19:18:45.028365
 moonapi,Lfan-ke/moonapi,0.6.2,6713,1,2026-07-29T06:55:32.748833
@@ -1769,6 +1769,7 @@ moonrpc,Lfan-ke/moonrpc,0.8.1,11605,3,2026-07-30T20:12:17.375718
 moon-sqlite,Lfan-ke/moon-sqlite,0.2.0,844,1,2026-07-29T23:21:41.990583
 moonzero,Lfan-ke/moonzero,0.6.2,5926,2,2026-07-29T07:04:48.462719
 raft-moonbit,Lfan-ke/raft-moonbit,0.5.2,27377,15,2026-07-26T19:38:49.498952
+MoonHook,lin2077-zeming/MoonHook,0.2.0,3038,2,2026-08-18T12:50:37.555915
 template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
 moonbit-csv,sikadi123/moonbit-csv,0.1.1,1954,8,2026-07-10T08:10:34.079533
 moonphaserkit,Ridge-Lab/moonphaserkit,0.3.0,5596,3,2026-07-10T13:51:25.000617
@@ -1953,7 +1954,7 @@ opendal,Eric-Song-Nop/opendal,0.2.0,40178,4,2026-08-15T05:01:05.646734
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.901950
 moon-wit,pei0331/moon-wit,0.1.0,3883,10,2026-08-12T06:54:27.426923
 moonvault,Q30399/moonvault,0.1.0,3983,2,2026-08-12T07:23:54.995438
-MoonRetrieve,niuniu513-ask/MoonRetrieve,0.4.2,1926,2,2026-08-17T13:12:55.585439
+MoonRetrieve,niuniu513-ask/MoonRetrieve,0.4.3,1948,3,2026-08-18T11:46:55.783730
 moonbit_cron,lijunjie860/moonbit_cron,0.1.0,800,2,2026-08-12T15:24:08.147288
 moon-weblink,15614376790/moon-weblink,0.1.0,9390,7,2026-08-13T02:46:44.466824
 moonhls,chenqi-arch/moonhls,0.2.0,4260,2,2026-08-18T03:20:47.014181
@@ -1974,7 +1975,7 @@ moonflags,WhisperJXH/moonflags,0.2.1,8577,2,2026-08-17T14:40:05.414836
 moonresilience,liying-han/moonresilience,0.2.0,5205,2,2026-08-16T04:15:36.834635
 moonbit-shard-note,JJ-ai-nb/moonbit-shard-note,0.1.0,622,2,2026-08-17T14:50:39.852389
 moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
-moonbarcode,fan-ere/moonbarcode,0.1.2,2591,2,2026-08-17T13:12:07.273993
+moonbarcode,fan-ere/moonbarcode,0.1.3,2620,3,2026-08-18T11:46:19.705408
 harborcheck,EJJ-ai-nb/harborcheck,0.1.2,2543,3,2026-08-17T10:33:54.449862
 taptrail,MX-ai-nb/taptrail,0.1.0,856,3,2026-08-16T15:20:11.073007
 moon_cron,p1nbored/moon_cron,0.1.0,5531,2,2026-08-16T15:59:24.778640
