@@ -1,6 +1,12 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+2515050243qyf/moonbit-geofield,新增,13977,3,0,0,13977,3
+IvanAXu/BlackBoxOptimization,新增,12296,4,0,0,12296,4
+jjyiiuy/moonbit-orbit,新增,7393,2,0,0,7393,2
+LL124-Arch/moonbit-reactor,新增,8076,3,0,0,8076,3
 Myytsjj/moonbit-feature-forge,新增,11571,2,0,0,11571,2
+ppyq882/moon-privacy-budget,新增,8451,11,0,0,8451,11
 Project2026-creator/moontemplate,有变化,4745,0,3717,2,8462,2
+WB-ai-nb/constraint-lens,有变化,399,0,1233,2,1632,2
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -1810,7 +1816,6 @@ wangmingfa/zipx,无变化,0,0,1840,3,1840,3
 wangweigang/hello,无变化,0,0,276,3,276,3
 WangYF0829/moonpixelanimkit,无变化,0,0,4944,3,4944,3
 wangziling/hello,无变化,0,0,19,2,19,2
-WB-ai-nb/constraint-lens,无变化,0,0,1233,2,1233,2
 wccerty/moonbit-artboard,无变化,0,0,5552,11,5552,11
 wccerty/moonfeaturegate,无变化,0,0,5284,2,5284,2
 wch6766/MoonSecureCodec,无变化,0,0,11711,6,11711,6
