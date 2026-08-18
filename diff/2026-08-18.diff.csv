@@ -3,12 +3,18 @@ hxiuzheng/robust_stats,新增,9217,2,0,0,9217,2
 lyjttio/moon-data-contract,新增,10353,7,0,0,10353,7
 Lyl66655/moon-survival,新增,9176,3,0,0,9176,3
 Lyllyl789/moon-kalman,新增,14170,3,0,0,14170,3
+moonbit-community/moondiff,新增,24516,18,0,0,24516,18
 NBB2006/docproof-harbor,新增,2544,3,0,0,2544,3
 NBB2006/harborcheck,新增,2543,3,0,0,2543,3
 oboard/reqbest,新增,11945,3,0,0,11945,3
 oboard/reqmest,新增,11610,3,0,0,11610,3
 phjphj676/moon-online-models,新增,15824,2,0,0,15824,2
+pla678889/moon-experiment,新增,9059,14,0,0,9059,14
+qjgqjg/moon-causal,新增,8134,2,0,0,8134,2
 Rz-coder8848/moonbit-genbank,新增,16015,2,0,0,16015,2
+tyytyy68/moon-bayes-kit,新增,5207,2,0,0,5207,2
+vicoproplus/moon-humanize,新增,3516,2,0,0,3516,2
+wcx789ll/moon-reliability,新增,10346,2,0,0,10346,2
 yjdszjoe/moon-humanize,新增,3134,2,0,0,3134,2
 Zy789kl/moon-change-point,新增,13531,2,0,0,13531,2
 chenqi-arch/moonhls,有变化,1979,0,2281,2,4260,2
@@ -19,6 +25,7 @@ moonbitlang/core,有变化,2760,-3,202930,79,205690,76
 oboard/mio,有变化,176,0,11412,3,11588,3
 ppyj663/moonbit-robot-vision-formats,有变化,25141,0,1418,2,26559,2
 walkzzz/ghostvalley,有变化,1770,1,643,1,2413,2
+zhangbowen2006/moonbvhkit,有变化,663,0,4845,3,5508,3
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -1944,7 +1951,6 @@ zdu881/DataProc,无变化,0,0,143,1,143,1
 zdu881/webmocket,无变化,0,0,291,2,291,2
 zen314/shadow,无变化,0,0,529,2,529,2
 zhaihaozhen/zero_fill,无变化,0,0,40,2,40,2
-zhangbowen2006/moonbvhkit,无变化,0,0,4845,3,4845,3
 zhangshun-123/factorial,无变化,0,0,33,1,33,1
 zhaoyuanjuns/moongridgym,无变化,0,0,3131,2,3131,2
 Zhouz-z/moon_l10n,无变化,0,0,5983,2,5983,2
