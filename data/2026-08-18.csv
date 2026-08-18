@@ -226,7 +226,7 @@ json_parser,bzy-debug/json_parser,0.1.0,1070,1,2025-11-17T09:45:13.399577
 string_zipper,bzy-debug/string_zipper,0.1.3,2185,1,2026-02-13T10:32:25.397627
 text_document,bzy-debug/text_document,0.1.0,1213,1,2025-08-27T07:29:52.697766
 codex_worfkow,Yu-zh/codex_worfkow,0.1.0,2436,4,2026-01-19T03:26:02.758133
-data,Yu-zh/data,0.1.0,8026,5,2026-08-14T05:47:19.461849
+data,Yu-zh/data,0.2.0,17982,7,2026-08-18T14:01:11.778352
 either,Yu-zh/either,0.1.0,69,1,2024-01-01T00:00:00
 fast,Yu-zh/fast,0.1.0,7239,14,2026-06-27T15:51:19.294186
 iterator,Yu-zh/iterator,0.1.0,524,2,2025-03-09T07:39:50.184770
@@ -1990,3 +1990,4 @@ moon-experiment,pla678889/moon-experiment,0.2.0,9059,14,2026-08-18T06:38:48.8849
 moon-causal,qjgqjg/moon-causal,0.2.1,8134,2,2026-08-18T06:49:29.544340
 moon-bayes-kit,tyytyy68/moon-bayes-kit,0.1.5,5566,2,2026-08-18T07:18:41.372402
 moon-missingness,liuminyuan/moon-missingness,0.2.2,11087,6,2026-08-18T09:51:36.687863
+moonlexicon,dsyuuii/moonlexicon,0.2.0,10797,3,2026-08-18T14:42:31.466357
