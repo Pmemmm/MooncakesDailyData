@@ -274,7 +274,7 @@ lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.20.6,47463,51,2026-08-17T06:13:43.584923
-core,moonbitlang/core,0.1.20260811+bc794d341,202930,79,2026-08-11T08:14:49.259591
+core,moonbitlang/core,0.1.20260818+8606a5800,205690,76,2026-08-18T02:24:57.932458
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 editor,moonbitlang/editor,0.4.4,168064,50,2026-08-03T10:35:21.219352
 editor-server,moonbitlang/editor-server,0.1.0,5041,3,2026-08-03T08:09:14.938419
@@ -763,7 +763,7 @@ NyaCSV,xunyoyo/NyaCSV,0.3.3,900,1,2025-04-28T12:52:07.612135
 NyaSearch,xunyoyo/NyaSearch,0.1.0,500,1,2025-03-01T08:53:06.179032
 permutation,xunyoyo/permutation,0.1.3,209,4,2024-11-17T16:19:56.797966
 Permutation,xunyoyo/Permutation,0.1.1,216,4,2024-11-15T10:48:43.405249
-fakefetch,kokic/fakefetch,0.1.2,1553,2,2026-08-17T16:08:25.910232
+fakefetch,kokic/fakefetch,0.1.3,1580,2,2026-08-18T02:55:43.062309
 i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
 katex-parser,kokic/katex-parser,0.2.7,18876,5,2026-08-10T08:12:47.736212
 momoka,kokic/momoka,0.4.4,1299,1,2026-08-14T07:19:26.195026
@@ -1207,6 +1207,7 @@ special-mathematical-functions,enanandesu/special-mathematical-functions,0.1.2,5
 box2d_ffi,Demonmasterlqx/box2d_ffi,0.2.7,2101,2,2025-11-12T09:41:51.708471
 moonbit_stickman_map_loader,Demonmasterlqx/moonbit_stickman_map_loader,0.0.9,952,3,2025-11-12T07:03:40.008372
 MoonP5,Demonmasterlqx/MoonP5,0.0.8,3563,4,2025-11-12T07:02:44.618738
+moon-humanize,yjdszjoe/moon-humanize,0.1.0,3134,2,2026-08-18T02:46:57.360184
 examine,leopeng1995/examine,0.1.0,66,2,2025-08-18T10:38:14.892161
 bytebuf,iceBear67/bytebuf,0.4.1,1163,1,2025-10-30T09:42:15.737863
 classfile,iceBear67/classfile,0.2.0,4699,4,2025-09-24T02:48:58.978638
@@ -1666,6 +1667,7 @@ moon-record-linkage,didiLjf/moon-record-linkage,0.1.0,5634,12,2026-07-29T09:40:4
 moontemplate,jshsj124/moontemplate,0.1.1,1168,6,2026-07-28T13:02:44.387351
 moonpathfinding,hzc-666-ai/moonpathfinding,0.1.3,3072,7,2026-08-01T07:53:45.396239
 moonmark,zmjknn/moonmark,0.1.1,1696,6,2026-08-11T05:48:58.472043
+moonbit-genbank,Rz-coder8848/moonbit-genbank,0.2.1,16015,2,2026-08-18T02:42:14.040520
 moon-fsm,Rz-coder8848/moon-fsm,0.3.0,4443,10,2026-08-16T01:10:18.294033
 cbor,2515050242/cbor,0.1.2,5702,2,2026-08-16T15:02:18.688465
 moon_bencode,2515050243qyf/moon_bencode,0.2.0,6591,3,2026-08-16T02:11:47.136553
@@ -1678,7 +1680,7 @@ moonbit-vcfkit,chgttyyr/moonbit-vcfkit,0.1.0,2335,6,2026-07-29T09:10:50.723536
 MoonSpectrum,chgttyyr/MoonSpectrum,0.2.2,3627,2,2026-08-14T18:00:15.863807
 moonflagkit,q0w1ertyuiop/moonflagkit,0.2.0,1543,2,2026-07-12T13:38:54.030107
 moonleasekit,dxh8888/moonleasekit,0.1.0,2126,3,2026-07-05T16:12:22.386004
-moonalign,LL728/moonalign,0.1.0,1184,2,2026-08-12T02:34:08.107002
+moonalign,LL728/moonalign,0.2.0,10788,2,2026-08-18T03:08:08.973808
 moonseal,LL728/moonseal,0.1.6,4496,13,2026-08-16T12:58:59.137068
 rag-mbt,houjie/rag-mbt,0.1.1,3978,4,2026-08-06T14:09:47.167177
 moonjournalkit,Sxy11112/moonjournalkit,0.2.0,1984,3,2026-07-18T02:53:56.807075
@@ -1929,7 +1931,7 @@ moon-bump,unmbt/moon-bump,0.1.3,3311,9,2026-08-11T03:36:13.705006
 moonseal,liyun/moonseal,0.2.1,4613,2,2026-08-10T08:39:50.139173
 firmware-image-toolkit,Zzqy-yi/firmware-image-toolkit,0.1.0,5394,6,2026-08-10T12:20:43.347987
 dispokit,BenPaoBaMingWangXing/dispokit,0.1.1,4957,3,2026-08-10T13:42:33.018887
-edidkit,BenPaoBaMingWangXing/edidkit,0.1.1,4658,3,2026-08-11T12:32:34.800819
+edidkit,BenPaoBaMingWangXing/edidkit,0.1.2,4658,3,2026-08-18T02:50:48.318475
 moonchunk,xgzh1111/moonchunk,0.1.0,1988,2,2026-08-10T14:47:17.695025
 routeable,13131116363/routeable,0.1.0,4508,2,2026-08-10T15:54:27.286503
 pagelens,geniuszby/pagelens,0.1.0,4819,3,2026-08-11T02:10:38.901325
