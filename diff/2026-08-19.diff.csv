@@ -1,11 +1,15 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 2515050243qyf/moonbit-geofield,新增,13977,3,0,0,13977,3
+chiooo09/moonbit-ifc,新增,9357,3,0,0,9357,3
 IvanAXu/BlackBoxOptimization,新增,12296,4,0,0,12296,4
 jjyiiuy/moonbit-orbit,新增,7393,2,0,0,7393,2
 LL124-Arch/moonbit-reactor,新增,8076,3,0,0,8076,3
+moonbit-community/proton_package,新增,2051,2,0,0,2051,2
 Myytsjj/moonbit-feature-forge,新增,11571,2,0,0,11571,2
 ppyq882/moon-privacy-budget,新增,8451,11,0,0,8451,11
+moonbitlang/async,有变化,83,0,47463,51,47546,51
 Project2026-creator/moontemplate,有变化,4745,0,3717,2,8462,2
+qjgqjg/moon-causal,有变化,82,0,8134,2,8216,2
 WB-ai-nb/constraint-lens,有变化,399,0,1233,2,1632,2
 weopqrst/agent,有变化,673,1,7105,18,7778,19
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -1282,7 +1286,6 @@ moonbit-community/zipc,无变化,0,0,1551,1,1551,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,47463,51,47463,51
 moonbitlang/core,无变化,0,0,205690,76,205690,76
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
 moonbitlang/editor,无变化,0,0,168064,50,168064,50
@@ -1447,7 +1450,6 @@ python123/moondepsolve,无变化,0,0,2504,3,2504,3
 pzl-love/Introsort,无变化,0,0,320,2,320,2
 q0w1ertyuiop/moonflagkit,无变化,0,0,1543,2,1543,2
 Q30399/moonvault,无变化,0,0,3983,2,3983,2
-qjgqjg/moon-causal,无变化,0,0,8134,2,8134,2
 Qlcdsba/uri,无变化,0,0,3512,3,3512,3
 QuietlyChan/moonai,无变化,0,0,122587,30,122587,30
 qyt1234567/moongraphlearn,无变化,0,0,5817,9,5817,9
