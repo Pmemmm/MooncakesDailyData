@@ -296,7 +296,7 @@ std,moonbitlang/std,0.1.0,99,1,2024-01-01T00:00:00
 ulex,moonbitlang/ulex,0.3.29,8776,16,2026-06-23T05:44:02.986380
 ulex-runtime,moonbitlang/ulex-runtime,0.4.3,131,1,2026-01-19T06:52:59.858911
 wasm4,moonbitlang/wasm4,0.2.9,813,1,2025-11-18T02:28:47.869535
-x,moonbitlang/x,0.4.50,23724,22,2026-08-14T06:30:39.188117
+x,moonbitlang/x,0.5.0,26493,21,2026-08-19T04:57:08.142110
 yacc,moonbitlang/yacc,0.7.19,18860,21,2026-08-04T07:54:26.799929
 test,Young-Flash/test,0.2.0,25,2,2024-08-23T10:32:04.970519
 test_ignore,Young-Flash/test_ignore,0.2.0,25,2,2024-08-23T10:31:48.481588
@@ -358,7 +358,7 @@ easing,hackwaly/easing,0.1.0,999,2,2025-09-03T05:51:41.808872
 fastcc,hackwaly/fastcc,0.1.0,77867,67,2026-02-14T07:47:40.621598
 find_cluster_break,hackwaly/find_cluster_break,0.1.2,629,2,2025-09-02T03:42:26.462617
 lexbuf,hackwaly/lexbuf,0.1.0,466,1,2026-06-22T06:52:30.794885
-moonback,hackwaly/moonback,0.8.0,4780,5,2026-07-29T09:38:26.311666
+moonback,hackwaly/moonback,0.8.1,4785,5,2026-08-19T03:42:21.871674
 moonyacc,hackwaly/moonyacc,0.3.1,12650,17,2024-12-23T17:39:47.402951
 msgpack,hackwaly/msgpack,0.1.0,1143,2,2025-08-26T08:15:48.401565
 pem,hackwaly/pem,0.1.2,1306,1,2025-09-11T08:20:19.541152
@@ -1681,6 +1681,7 @@ moon_bencode,2515050243qyf/moon_bencode,0.2.0,6591,3,2026-08-16T02:11:47.136553
 moonbit-geofield,2515050243qyf/moonbit-geofield,0.1.0,13977,3,2026-08-18T17:55:43.897201
 moontemplate,Project2026-creator/moontemplate,0.2.7,8462,2,2026-08-18T15:31:13.845910
 cron_mbt,cxh04/cron_mbt,0.2.4,6278,3,2026-08-16T11:22:51.336906
+moonbit_camera_models,cxh04/moonbit_camera_models,0.1.0,37320,10,2026-08-19T03:45:07.872840
 moon-cv-geometry,cxh04/moon-cv-geometry,0.1.0,1310,9,2026-07-22T14:36:59.075057
 moonbit-artboard,wccerty/moonbit-artboard,0.1.0,5552,11,2026-07-31T07:04:44.181895
 moonfeaturegate,wccerty/moonfeaturegate,0.1.3,5284,2,2026-08-14T18:28:49.802042
@@ -1843,7 +1844,7 @@ moonlabelkit,Zy789kl/moonlabelkit,0.1.4,3105,7,2026-08-15T13:29:29.242490
 moontls-parser,yhsrtty/moontls-parser,0.1.2,6577,2,2026-08-11T11:53:28.336801
 moonyara,Hjyyutr/moonyara,0.1.5,4592,4,2026-08-15T04:22:59.747579
 moonnlp,ppyq882/moonnlp,0.3.0,5383,8,2026-08-14T16:37:06.702016
-moon-privacy-budget,ppyq882/moon-privacy-budget,0.1.0,8451,11,2026-08-18T17:48:59.273926
+moon-privacy-budget,ppyq882/moon-privacy-budget,0.1.1,10109,11,2026-08-19T04:29:02.710255
 moongeoroute,phjphj676/moongeoroute,0.1.6,4390,8,2026-08-16T15:58:51.680452
 moon-online-models,phjphj676/moon-online-models,0.2.0,15824,2,2026-08-17T16:41:35.821900
 minitpl,joanna/minitpl,0.1.2,512,5,2026-07-16T03:19:54.478118
@@ -1885,13 +1886,16 @@ moon_api_guard,FidollarinLA/moon_api_guard,0.6.1,4823,4,2026-08-16T15:35:39.9620
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.1,4717,3,2026-07-31T09:42:07.497015
 moongridgym,zhaoyuanjuns/moongridgym,0.1.1,3131,2,2026-08-15T12:43:55.103120
 moontrajectory,hmyhmyhmyss/moontrajectory,0.1.1,3574,2,2026-08-15T13:48:34.572160
+moonbit-adsorption,weidekais/moonbit-adsorption,0.2.0,8460,4,2026-08-19T03:32:54.941050
 moonrewardforge,weidekais/moonrewardforge,0.1.1,4637,2,2026-08-15T14:46:33.680101
+membrane,wskwsk68/membrane,0.2.1,27306,5,2026-08-19T04:14:28.614802
 MoonEmbed,wskwsk68/MoonEmbed,0.1.6,4927,2,2026-08-16T13:56:11.521375
 moonrules,z2823253773-p/moonrules,0.2.0,3648,3,2026-07-29T02:22:26.858614
 moon_tera,btlqql/moon_tera,0.3.0,3082,2,2026-07-27T09:23:21.301301
+moonbit-multilang-cms,liuzhiyug/moonbit-multilang-cms,0.1.1,1746,5,2026-08-19T04:22:33.397222
 moonrllab,liuzhiyug/moonrllab,0.1.1,4532,3,2026-08-15T07:03:54.217768
 moonrule,YeeHh2004/moonrule,0.4.1,6428,2,2026-08-11T11:52:26.239531
-pixelforge,0717lee/pixelforge,0.13.0,7158,3,2026-07-31T11:59:10.174969
+pixelforge,0717lee/pixelforge,0.13.1,7158,3,2026-08-19T04:11:22.890344
 endor,poteto0/endor,0.7.0,25581,23,2026-08-09T08:06:53.043458
 agent,weopqrst/agent,0.5.1,7778,19,2026-08-19T00:56:02.386105
 behavior_tree,mhh12345678/behavior_tree,0.1.2,5993,2,2026-08-16T12:18:23.497061
@@ -1995,7 +1999,7 @@ harborcheck,NBB2006/harborcheck,0.1.2,2543,3,2026-08-17T16:36:01.120565
 moon-humanize,vicoproplus/moon-humanize,0.1.1,3682,2,2026-08-18T10:52:28.577045
 moon-experiment,pla678889/moon-experiment,0.2.0,9059,14,2026-08-18T06:38:48.884911
 moon-causal,qjgqjg/moon-causal,0.2.2,8216,2,2026-08-19T03:16:22.106759
-moon-bayes-kit,tyytyy68/moon-bayes-kit,0.1.5,5566,2,2026-08-18T07:18:41.372402
+moon-bayes-kit,tyytyy68/moon-bayes-kit,0.1.6,5566,2,2026-08-19T03:27:53.791345
 moon-missingness,liuminyuan/moon-missingness,0.2.2,11087,6,2026-08-18T09:51:36.687863
 moonlexicon,dsyuuii/moonlexicon,0.2.0,10797,3,2026-08-18T14:42:31.466357
 moonbit-ifc,chiooo09/moonbit-ifc,0.1.0,9357,3,2026-08-19T02:24:04.560775

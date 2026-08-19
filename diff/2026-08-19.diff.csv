@@ -1,13 +1,19 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 2515050243qyf/moonbit-geofield,新增,13977,3,0,0,13977,3
 chiooo09/moonbit-ifc,新增,9357,3,0,0,9357,3
+cxh04/moonbit_camera_models,新增,37320,10,0,0,37320,10
 IvanAXu/BlackBoxOptimization,新增,12296,4,0,0,12296,4
 jjyiiuy/moonbit-orbit,新增,7393,2,0,0,7393,2
+liuzhiyug/moonbit-multilang-cms,新增,1746,5,0,0,1746,5
 LL124-Arch/moonbit-reactor,新增,8076,3,0,0,8076,3
 moonbit-community/proton_package,新增,2051,2,0,0,2051,2
 Myytsjj/moonbit-feature-forge,新增,11571,2,0,0,11571,2
-ppyq882/moon-privacy-budget,新增,8451,11,0,0,8451,11
+ppyq882/moon-privacy-budget,新增,10109,11,0,0,10109,11
+weidekais/moonbit-adsorption,新增,8460,4,0,0,8460,4
+wskwsk68/membrane,新增,27306,5,0,0,27306,5
+hackwaly/moonback,有变化,5,0,4780,5,4785,5
 moonbitlang/async,有变化,83,0,47463,51,47546,51
+moonbitlang/x,有变化,2769,-1,23724,22,26493,21
 Project2026-creator/moontemplate,有变化,4745,0,3717,2,8462,2
 qjgqjg/moon-causal,有变化,82,0,8134,2,8216,2
 WB-ai-nb/constraint-lens,有变化,399,0,1233,2,1632,2
@@ -515,7 +521,6 @@ hackwaly/easing,无变化,0,0,999,2,999,2
 hackwaly/fastcc,无变化,0,0,77867,67,77867,67
 hackwaly/find_cluster_break,无变化,0,0,629,2,629,2
 hackwaly/lexbuf,无变化,0,0,466,1,466,1
-hackwaly/moonback,无变化,0,0,4780,5,4780,5
 hackwaly/moonyacc,无变化,0,0,12650,17,12650,17
 hackwaly/msgpack,无变化,0,0,1143,2,1143,2
 hackwaly/pem,无变化,0,0,1306,1,1306,1
@@ -1308,7 +1313,6 @@ moonbitlang/std,无变化,0,0,99,1,99,1
 moonbitlang/ulex,无变化,0,0,8776,16,8776,16
 moonbitlang/ulex-runtime,无变化,0,0,131,1,131,1
 moonbitlang/wasm4,无变化,0,0,813,1,813,1
-moonbitlang/x,无变化,0,0,23724,22,23724,22
 moonbitlang/yacc,无变化,0,0,18860,21,18860,21
 moonrockz/cucumber-expressions,无变化,0,0,3208,1,3208,1
 moonrockz/cucumber-messages,无变化,0,0,3958,1,3958,1
