@@ -1825,6 +1825,7 @@ moonmacro,faaaaaa3/moonmacro,0.2.2,3702,7,2026-07-17T14:51:32.564898
 moonfocus,zkazure/moonfocus,0.1.1,4684,7,2026-07-12T08:44:39.227211
 moonkv,wallll-wal6/moonkv,0.1.3,3556,3,2026-08-14T15:11:48.566500
 moonbin,hourizon/moonbin,0.1.0,1096,2,2026-07-12T10:08:15.999965
+sessionlog,ywz1314/sessionlog,0.2.2,10628,27,2026-08-19T09:00:12.525947
 vector,ywz1314/vector,0.1.3,5026,2,2026-08-16T13:32:15.834865
 moongraphlearn,qyt1234567/moongraphlearn,0.1.2,5817,9,2026-08-16T15:40:17.653695
 moon_tracekit,zhzh12345678/moon_tracekit,0.1.2,4702,12,2026-08-16T13:04:30.348532
@@ -1834,6 +1835,7 @@ moonsic,hyl-star/moonsic,0.1.0,25224,27,2026-07-12T13:38:03.633581
 MoonMarkMind,Xiao-li-He/MoonMarkMind,0.1.0,30700,11,2026-07-12T14:12:17.179225
 moonslide,MYmodddd/moonslide,0.1.0,777,1,2026-07-12T14:22:52.399317
 pixelate,MYmodddd/pixelate,0.1.6,5883,1,2026-07-13T08:45:23.019533
+moonbit-thermal-vision,Wchwch777/moonbit-thermal-vision,0.1.0,19675,3,2026-08-19T08:13:11.542872
 moonverity,Wchwch777/moonverity,0.1.2,4143,5,2026-08-10T07:08:31.642054
 moontetris,youyong5/moontetris,0.1.0,749,1,2026-07-12T16:47:46.955195
 MoonTetris,youyong5/MoonTetris,0.1.0,749,1,2026-07-12T16:29:55.548908
@@ -1887,7 +1889,7 @@ moon_api_guard,FidollarinLA/moon_api_guard,0.6.1,4823,4,2026-08-16T15:35:39.9620
 moonbit-seqkit,clhhhhhh/moonbit-seqkit,0.1.1,4717,3,2026-07-31T09:42:07.497015
 moonbit_extractor,zhaoyuanjuns/moonbit_extractor,0.1.0,15328,22,2026-08-19T06:40:22.985951
 moongridgym,zhaoyuanjuns/moongridgym,0.1.1,3131,2,2026-08-15T12:43:55.103120
-generative_patterns,hmyhmyhmyss/generative_patterns,0.2.0,10440,2,2026-08-19T06:55:22.796222
+generative_patterns,hmyhmyhmyss/generative_patterns,0.3.0,13103,2,2026-08-19T07:35:15.034081
 moontrajectory,hmyhmyhmyss/moontrajectory,0.1.1,3574,2,2026-08-15T13:48:34.572160
 moonbit-adsorption,weidekais/moonbit-adsorption,0.2.0,8460,4,2026-08-19T03:32:54.941050
 moonrewardforge,weidekais/moonrewardforge,0.1.1,4637,2,2026-08-15T14:46:33.680101
@@ -2008,3 +2010,6 @@ moon-missingness,liuminyuan/moon-missingness,0.2.2,11087,6,2026-08-18T09:51:36.6
 moonlexicon,dsyuuii/moonlexicon,0.2.0,10797,3,2026-08-18T14:42:31.466357
 moonbit-ifc,chiooo09/moonbit-ifc,0.1.0,9357,3,2026-08-19T02:24:04.560775
 moonbit-gltf-tools,hzfhzf89/moonbit-gltf-tools,0.1.0,11880,3,2026-08-19T06:12:48.424364
+radiation,Zjfzjf666/radiation,0.2.0,10610,2,2026-08-19T08:15:10.210031
+moonbit-ats-timetable,zhtzht12345678/moonbit-ats-timetable,0.1.0,9287,3,2026-08-19T08:28:30.409925
+moonbit-easings,Zlj6566/moonbit-easings,0.1.0,9797,3,2026-08-19T08:32:31.967849
