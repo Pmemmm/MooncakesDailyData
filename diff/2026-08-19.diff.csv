@@ -2,6 +2,8 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 2515050243qyf/moonbit-geofield,新增,13977,3,0,0,13977,3
 chiooo09/moonbit-ifc,新增,9357,3,0,0,9357,3
 cxh04/moonbit_camera_models,新增,37320,10,0,0,37320,10
+hmyhmyhmyss/generative_patterns,新增,10440,2,0,0,10440,2
+hzfhzf89/moonbit-gltf-tools,新增,11880,3,0,0,11880,3
 IvanAXu/BlackBoxOptimization,新增,12296,4,0,0,12296,4
 jjyiiuy/moonbit-orbit,新增,7393,2,0,0,7393,2
 liuzhiyug/moonbit-multilang-cms,新增,1746,5,0,0,1746,5
@@ -9,9 +11,15 @@ LL124-Arch/moonbit-reactor,新增,8076,3,0,0,8076,3
 moonbit-community/proton_package,新增,2051,2,0,0,2051,2
 Myytsjj/moonbit-feature-forge,新增,11571,2,0,0,11571,2
 ppyq882/moon-privacy-budget,新增,10109,11,0,0,10109,11
+WB-ai-nb/docproof-harbor,新增,3142,3,0,0,3142,3
 weidekais/moonbit-adsorption,新增,8460,4,0,0,8460,4
 wskwsk68/membrane,新增,27306,5,0,0,27306,5
+yhsrtty/moon-distinct-sketch,新增,10888,17,0,0,10888,17
+zhaoyuanjuns/moonbit_extractor,新增,15328,22,0,0,15328,22
 hackwaly/moonback,有变化,5,0,4780,5,4785,5
+Lyhdsba/moonbit-chemreport,有变化,18282,0,1414,2,19696,2
+Milky2018/moon_accesskit,有变化,737,1,19304,4,20041,5
+Milky2018/svgdiff,有变化,2342,0,45175,32,47517,32
 moonbitlang/async,有变化,83,0,47463,51,47546,51
 moonbitlang/x,有变化,2769,-1,23724,22,26493,21
 Project2026-creator/moontemplate,有变化,4745,0,3717,2,8462,2
@@ -874,7 +882,6 @@ Lxxbv/glob,无变化,0,0,10758,2,10758,2
 Lxxbv/moonbit-thermochem,无变化,0,0,4491,6,4491,6
 lxz123411/moonrrule,无变化,0,0,7745,7,7745,7
 lyf597/hello,无变化,0,0,25,2,25,2
-Lyhdsba/moonbit-chemreport,无变化,0,0,1414,2,1414,2
 Lyhdsba/moonforge,无变化,0,0,5114,2,5114,2
 lyjttio/moon-data-contract,无变化,0,0,10353,7,10353,7
 lyjttio/moongrad,无变化,0,0,3267,2,3267,2
@@ -940,7 +947,6 @@ Milky2018/mgstudio,无变化,0,0,168396,65,168396,65
 Milky2018/milkir,无变化,0,0,30458,3,30458,3
 Milky2018/milkir_machv,无变化,0,0,2981,2,2981,2
 Milky2018/minigpt,无变化,0,0,6239,6,6239,6
-Milky2018/moon_accesskit,无变化,0,0,19304,4,19304,4
 Milky2018/moon_cosmic,无变化,0,0,50219,8,50219,8
 Milky2018/moon_cpal,无变化,0,0,19049,19,19049,19
 Milky2018/moon_dagre,无变化,0,0,10424,1,10424,1
@@ -979,7 +985,6 @@ Milky2018/selene-canvas,无变化,0,0,591,1,591,1
 Milky2018/slotmap,无变化,0,0,3217,1,3217,1
 Milky2018/sqlparser,无变化,0,0,14669,2,14669,2
 Milky2018/svg,无变化,0,0,23596,2,23596,2
-Milky2018/svgdiff,无变化,0,0,45175,32,45175,32
 Milky2018/svgdiff-raster-codec,无变化,0,0,1575,1,1575,1
 Milky2018/sysinfo,无变化,0,0,6510,1,6510,1
 Milky2018/tic80,无变化,0,0,1658,2,1658,2
