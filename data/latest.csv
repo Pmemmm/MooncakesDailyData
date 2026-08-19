@@ -274,7 +274,7 @@ lexer,bob/lexer,0.1.0,244,1,2025-08-15T14:23:09.446109
 toml,bob/toml,0.1.6,7656,3,2025-08-20T02:40:00.995997
 arduino,moonbitlang/arduino,0.0.8,1043,4,2025-03-20T10:05:41.472766
 async,moonbitlang/async,0.21.0,47546,51,2026-08-19T02:51:42.952112
-core,moonbitlang/core,0.1.20260818+8606a5800,205690,76,2026-08-18T02:24:57.932458
+core,moonbitlang/core,0.1.20260819+6e6c44045,223240,78,2026-08-19T10:16:19.549527
 dummy_abort,moonbitlang/dummy_abort,0.2.0,20,2,2025-05-12T08:00:44.027508
 editor,moonbitlang/editor,0.4.4,168064,50,2026-08-03T10:35:21.219352
 editor-server,moonbitlang/editor-server,0.1.0,5041,3,2026-08-03T08:09:14.938419
@@ -764,14 +764,16 @@ NyaCSV,xunyoyo/NyaCSV,0.3.3,900,1,2025-04-28T12:52:07.612135
 NyaSearch,xunyoyo/NyaSearch,0.1.0,500,1,2025-03-01T08:53:06.179032
 permutation,xunyoyo/permutation,0.1.3,209,4,2024-11-17T16:19:56.797966
 Permutation,xunyoyo/Permutation,0.1.1,216,4,2024-11-15T10:48:43.405249
+cmark,kokic/cmark,0.1.1,12885,1,2026-08-19T10:01:03.889229
 fakefetch,kokic/fakefetch,0.1.3,1580,2,2026-08-18T02:55:43.062309
 i18n-ipsum,kokic/i18n-ipsum,0.1.4,600,1,2026-07-13T05:28:26.179703
 katex-parser,kokic/katex-parser,0.2.7,18876,5,2026-08-10T08:12:47.736212
 momoka,kokic/momoka,0.4.4,1299,1,2026-08-14T07:19:26.195026
 moonbit-chalk,kokic/moonbit-chalk,0.6.0,248,1,2026-06-16T12:03:40.201677
-notiz,kokic/notiz,0.1.1,2096,4,2026-08-07T07:59:22.538433
+notiz,kokic/notiz,0.1.2,4200,4,2026-08-19T10:01:42.549940
+obsmark,kokic/obsmark,0.1.1,412,1,2026-08-19T10:03:29.672915
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
-sexp-html,kokic/sexp-html,0.5.0,1624,1,2026-08-08T15:09:30.659429
+sexp-html,kokic/sexp-html,0.6.0,1229,1,2026-08-19T09:29:09.973934
 talcparsec,kokic/talcparsec,0.1.1,2383,3,2026-07-22T08:24:56.569259
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 tinymark,kokic/tinymark,0.3.9,4766,5,2026-07-14T09:42:42.405113
@@ -1683,7 +1685,7 @@ moontemplate,Project2026-creator/moontemplate,0.2.7,8462,2,2026-08-18T15:31:13.8
 cron_mbt,cxh04/cron_mbt,0.2.4,6278,3,2026-08-16T11:22:51.336906
 moonbit_camera_models,cxh04/moonbit_camera_models,0.1.0,37320,10,2026-08-19T03:45:07.872840
 moon-cv-geometry,cxh04/moon-cv-geometry,0.1.0,1310,9,2026-07-22T14:36:59.075057
-moonbit-artboard,wccerty/moonbit-artboard,0.1.0,5552,11,2026-07-31T07:04:44.181895
+moonbit-artboard,wccerty/moonbit-artboard,0.1.1,11506,15,2026-08-19T09:37:57.207355
 moonfeaturegate,wccerty/moonfeaturegate,0.1.3,5284,2,2026-08-14T18:28:49.802042
 moonbit-vcfkit,chgttyyr/moonbit-vcfkit,0.1.0,2335,6,2026-07-29T09:10:50.723536
 MoonSpectrum,chgttyyr/MoonSpectrum,0.2.2,3627,2,2026-08-14T18:00:15.863807
@@ -1827,6 +1829,7 @@ moonkv,wallll-wal6/moonkv,0.1.3,3556,3,2026-08-14T15:11:48.566500
 moonbin,hourizon/moonbin,0.1.0,1096,2,2026-07-12T10:08:15.999965
 sessionlog,ywz1314/sessionlog,0.2.2,10628,27,2026-08-19T09:00:12.525947
 vector,ywz1314/vector,0.1.3,5026,2,2026-08-16T13:32:15.834865
+moonbit-modbus,qyt1234567/moonbit-modbus,0.2.0,10491,3,2026-08-19T09:44:06.173180
 moongraphlearn,qyt1234567/moongraphlearn,0.1.2,5817,9,2026-08-16T15:40:17.653695
 moon_tracekit,zhzh12345678/moon_tracekit,0.1.2,4702,12,2026-08-16T13:04:30.348532
 moon-tensor,Ankaluoer/moon-tensor,0.1.0,659,2,2026-07-12T12:48:50.360177
@@ -1845,6 +1848,7 @@ moon-change-point,Zy789kl/moon-change-point,0.2.0,13531,2,2026-08-18T03:30:18.39
 moonlabelkit,Zy789kl/moonlabelkit,0.1.4,3105,7,2026-08-15T13:29:29.242490
 moon-distinct-sketch,yhsrtty/moon-distinct-sketch,0.2.1,10888,17,2026-08-19T06:48:16.686320
 moontls-parser,yhsrtty/moontls-parser,0.1.2,6577,2,2026-08-11T11:53:28.336801
+moon-minhash,Hjyyutr/moon-minhash,0.1.0,10539,17,2026-08-19T09:05:56.038179
 moonyara,Hjyyutr/moonyara,0.1.5,4592,4,2026-08-15T04:22:59.747579
 moonnlp,ppyq882/moonnlp,0.3.0,5383,8,2026-08-14T16:37:06.702016
 moon-privacy-budget,ppyq882/moon-privacy-budget,0.1.1,10109,11,2026-08-19T04:29:02.710255
@@ -1866,14 +1870,14 @@ pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
 atproto,marianoguerra/atproto,0.1.0,51484,10,2026-08-11T16:27:26.457544
 atproto-http,marianoguerra/atproto-http,0.1.0,130,1,2026-08-11T16:27:44.006156
 llm,marianoguerra/llm,0.1.1,4312,7,2026-08-11T13:14:44.778022
-mcp,marianoguerra/mcp,0.7.0,3990,6,2026-08-13T12:30:58.576652
-mcp-bsky,marianoguerra/mcp-bsky,0.7.0,2180,2,2026-08-13T12:31:29.978936
-mcp-client,marianoguerra/mcp-client,0.7.0,1772,4,2026-08-13T12:31:11.320149
-mcp-inspector,marianoguerra/mcp-inspector,0.7.0,1664,2,2026-08-13T12:31:16.041115
-mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.7.0,1739,1,2026-08-13T12:31:20.765868
-mcp-server,marianoguerra/mcp-server,0.7.0,4148,3,2026-08-13T12:31:03.076683
-mcp-server-native,marianoguerra/mcp-server-native,0.7.0,513,2,2026-08-13T12:31:07.779326
-mcp-slack,marianoguerra/mcp-slack,0.7.0,5207,4,2026-08-13T12:31:25.811515
+mcp,marianoguerra/mcp,0.8.0,3990,6,2026-08-19T10:27:15.917510
+mcp-bsky,marianoguerra/mcp-bsky,0.8.0,2340,2,2026-08-19T10:27:48.443257
+mcp-client,marianoguerra/mcp-client,0.8.0,1772,4,2026-08-19T10:27:29.037267
+mcp-inspector,marianoguerra/mcp-inspector,0.8.0,1664,2,2026-08-19T10:27:33.890614
+mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.8.0,1739,1,2026-08-19T10:27:38.711849
+mcp-server,marianoguerra/mcp-server,0.8.0,5503,3,2026-08-19T10:27:20.678699
+mcp-server-native,marianoguerra/mcp-server-native,0.8.0,513,2,2026-08-19T10:27:25.387209
+mcp-slack,marianoguerra/mcp-slack,0.8.0,5475,4,2026-08-19T10:27:44.033026
 megalodon,marianoguerra/megalodon,0.1.0,3970,7,2026-08-13T19:47:42.827512
 megalodon-http,marianoguerra/megalodon-http,0.1.0,197,1,2026-08-13T19:48:36.828507
 pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2,2026-08-03T16:39:48.481646
@@ -1904,6 +1908,8 @@ pixelforge,0717lee/pixelforge,0.13.1,7158,3,2026-08-19T04:11:22.890344
 endor,poteto0/endor,0.7.0,25581,23,2026-08-09T08:06:53.043458
 agent,weopqrst/agent,0.5.1,7778,19,2026-08-19T00:56:02.386105
 behavior_tree,mhh12345678/behavior_tree,0.1.2,5993,2,2026-08-16T12:18:23.497061
+injuryrisk,mhh12345678/injuryrisk,0.2.0,10500,3,2026-08-19T09:14:13.814919
+moonbit-canbus,myc1234567/moonbit-canbus,0.1.0,9293,4,2026-08-19T09:47:27.646330
 moon_metric_lab,myc1234567/moon_metric_lab,0.1.3,4851,12,2026-08-16T14:30:13.042930
 moontera,Zjyyer/moontera,0.1.0,2360,9,2026-07-28T03:47:06.308745
 moonqr,naoto24kawa/moonqr,0.2.0,19785,3,2026-07-29T07:31:39.338183
@@ -1935,6 +1941,7 @@ moon-wasi,Ag108/moon-wasi,0.1.0,2683,9,2026-08-01T15:24:47.541102
 moon-multipart,GCodinggo/moon-multipart,0.3.1,3537,2,2026-08-03T14:59:53.723313
 mooncap,usagi-star/mooncap,0.1.0,5334,13,2026-08-01T05:53:50.563309
 moonai,QuietlyChan/moonai,0.1.0,122587,30,2026-08-16T12:49:27.613279
+gaitlab,hgetty/gaitlab,0.1.1,15822,11,2026-08-19T10:20:55.401130
 RX-MBT,vicTop-cw/RX-MBT,0.1.0,14689,15,2026-08-03T04:03:40.688374
 decision-tree,chenzexin02-hash/decision-tree,0.2.0,5800,6,2026-08-04T12:25:39.897591
 time-series-forecasting,wjhsb1/time-series-forecasting,0.1.0,5854,1,2026-08-05T06:04:08.462322
@@ -1943,6 +1950,7 @@ thermo_trail,sujy123456/thermo_trail,0.1.0,5849,3,2026-08-05T09:52:25.084940
 voltweave,sujy123456/voltweave,0.1.0,5653,3,2026-08-08T11:15:17.018777
 moon-proxyproto,P7001/moon-proxyproto,0.1.0,6571,9,2026-08-05T13:18:11.047269
 mooncal,ciqingweiyang/mooncal,0.1.2,4759,3,2026-08-17T14:58:31.717941
+comemoon,starAndHonor/comemoon,0.1.1,3542,1,2026-08-19T09:12:08.000938
 moon-problem-details,6P66006/moon-problem-details,0.1.0-dev,2964,6,2026-08-13T06:22:42.367925
 moon-sfv,6P66006/moon-sfv,0.1.0,24463,7,2026-08-06T02:51:17.103996
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
@@ -2013,3 +2021,6 @@ moonbit-gltf-tools,hzfhzf89/moonbit-gltf-tools,0.1.0,11880,3,2026-08-19T06:12:48
 radiation,Zjfzjf666/radiation,0.2.0,10610,2,2026-08-19T08:15:10.210031
 moonbit-ats-timetable,zhtzht12345678/moonbit-ats-timetable,0.1.0,9287,3,2026-08-19T08:28:30.409925
 moonbit-easings,Zlj6566/moonbit-easings,0.1.0,9797,3,2026-08-19T08:32:31.967849
+moonbit-deid,ljlljl678/moonbit-deid,0.1.0,9897,2,2026-08-19T09:22:29.554192
+moonbit-vector-trace-plan,zgfzgf899/moonbit-vector-trace-plan,0.2.0,13380,8,2026-08-19T09:35:05.466460
+moonbit-iec104,hhxhhx78/moonbit-iec104,0.2.0,9688,2,2026-08-19T09:51:34.937623
