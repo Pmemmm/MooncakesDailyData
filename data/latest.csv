@@ -52,7 +52,7 @@ html_parser,bobzhang/html_parser,0.1.7,50077,18,2026-05-21T03:42:56.447948
 html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2,2026-05-21T03:43:22.933298
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1,2026-04-18T15:10:19.510122
 issues,bobzhang/issues,0.1.5,43389,11,2026-05-22T02:26:37.948232
-jq,bobzhang/jq,0.1.0,270,1,2026-08-20T08:05:31.196706
+jq,bobzhang/jq,0.1.1,270,1,2026-08-20T09:20:57.395188
 jsonl,bobzhang/jsonl,0.2.0,287,1,2026-06-02T09:08:42.613926
 kanban,bobzhang/kanban,0.3.2,3820,4,2026-04-04T13:28:57.586356
 kimicc,bobzhang/kimicc,0.1.243,129685,12,2026-06-04T03:58:03.955236
@@ -85,6 +85,7 @@ portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
 prolog,bobzhang/prolog,0.1.1,1633,2,2026-08-14T07:42:39.762819
 prove,bobzhang/prove,0.0.2,3164,84,2026-03-17T06:33:22.282546
 qrc,bobzhang/qrc,0.1.1,2073,3,2026-04-19T15:00:22.396834
+scheme,bobzhang/scheme,0.1.0,141,1,2026-08-20T10:52:23.533391
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6,2026-01-05T11:56:06.887005
 scheme-r6rs-cli,bobzhang/scheme-r6rs-cli,0.1.0,170,1,2026-08-20T08:11:50.890795
 sexp,bobzhang/sexp,0.1.2,50,1,2026-04-18T15:10:25.489963
@@ -777,7 +778,7 @@ notiz,kokic/notiz,0.1.2,4200,4,2026-08-19T10:01:42.549940
 obsmark,kokic/obsmark,0.1.1,412,1,2026-08-19T10:03:29.672915
 prime,kokic/prime,0.1.8,549,2,2026-07-03T06:51:16.198438
 sexp-html,kokic/sexp-html,0.6.0,1229,1,2026-08-19T09:29:09.973934
-talcparsec,kokic/talcparsec,0.1.1,2383,3,2026-07-22T08:24:56.569259
+talcparsec,kokic/talcparsec,0.2.3,2539,3,2026-08-20T09:20:05.223467
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 tinymark,kokic/tinymark,0.3.9,4766,5,2026-07-14T09:42:42.405113
 uml,kokic/uml,0.1.5,36608,14,2026-08-17T02:53:30.009291
@@ -1331,7 +1332,7 @@ quickcheck_statemachine,moonbit-community/quickcheck_statemachine,0.0.1,11985,2,
 rabbita,moonbit-community/rabbita,0.15.4,28907,23,2026-08-20T04:20:00.109356
 rabbita_tui,moonbit-community/rabbita_tui,0.1.0,10070,6,2026-05-14T09:43:20.346889
 raylib,moonbit-community/raylib,0.3.1,21670,4,2026-03-18T09:21:40.263635
-sqlite3,moonbit-community/sqlite3,0.1.7,1518,2,2026-08-20T05:37:51.488846
+sqlite3,moonbit-community/sqlite3,0.2.0,2271,2,2026-08-20T09:36:50.212840
 sqlparser,moonbit-community/sqlparser,0.5.0,14703,2,2026-03-31T08:15:19.850301
 starter,moonbit-community/starter,0.2.0,43,1,2026-03-10T08:02:21.748947
 tray,moonbit-community/tray,0.1.14,1584,2,2026-08-06T03:53:38.695481
@@ -1724,6 +1725,7 @@ sdl-sys,klaseca/sdl-sys,0.1.0,2416,1,2026-08-01T18:20:42.674163
 skia,klaseca/skia,0.1.0,532,1,2026-08-13T18:49:11.667168
 skia-sys,klaseca/skia-sys,0.1.0,3493,1,2026-08-13T18:47:22.900108
 moon-actor,Zcxssxx/moon-actor,0.1.0,153,1,2026-07-06T15:53:03.157830
+moonbit-music-theory,Zcxssxx/moonbit-music-theory,0.1.1,9393,3,2026-08-20T10:22:36.601964
 moon-ninja,Zcxssxx/moon-ninja,0.3.2,4285,3,2026-08-16T15:29:24.328092
 moonbit-robot-vision-formats,ppyj663/moonbit-robot-vision-formats,0.3.0,26559,2,2026-08-17T16:40:30.824962
 moon-jsonpath,ppyj663/moon-jsonpath,0.2.0,1622,2,2026-07-12T05:49:37.017755
@@ -2048,3 +2050,4 @@ bech32-kit,MM-ai-nb/bech32-kit,0.1.0,4904,2,2026-08-20T04:43:34.890701
 robopolicy,JQ-ai-nb/robopolicy,0.1.0,5253,2,2026-08-20T05:54:14.092643
 cspkit,ZYK-ai-nb/cspkit,0.1.0,4740,2,2026-08-20T06:57:03.392707
 paletteguard,Jay7724/paletteguard,0.1.0,6260,2,2026-08-20T08:37:44.598367
+rectloom,YM-ai-nb/rectloom,0.1.0,4801,2,2026-08-20T10:44:15.697354

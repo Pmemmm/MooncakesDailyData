@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 bobzhang/jq,新增,270,1,0,0,270,1
+bobzhang/scheme,新增,141,1,0,0,141,1
 bobzhang/scheme-r6rs-cli,新增,170,1,0,0,170,1
 cstoooo/moonbit-aml,新增,30615,2,0,0,30615,2
 gckbbrant/moonbitTolerance,新增,15092,2,0,0,15092,2
@@ -15,6 +16,8 @@ SHX-ai-nb/capsuletrace-upload,新增,3624,3,0,0,3624,3
 wallll-wal6/moonbit-design-tokens,新增,20348,2,0,0,20348,2
 WB-ai-nb/reviewproof-kit,新增,5520,3,0,0,5520,3
 WSH-ai-nb/reslock,新增,3688,2,0,0,3688,2
+YM-ai-nb/rectloom,新增,4801,2,0,0,4801,2
+Zcxssxx/moonbit-music-theory,新增,9393,3,0,0,9393,3
 ZYK-ai-nb/cspkit,新增,4740,2,0,0,4740,2
 aurasuisui/bimap,有变化,1240,1,4745,3,5985,4
 bobzhang/moonjq,有变化,1877,3,10898,3,12775,6
@@ -22,12 +25,13 @@ colmugx/mcp,有变化,117,0,13493,11,13610,11
 colmugx/posoco,有变化,1283,0,29001,9,30284,9
 EJJ-ai-nb/harborcheck,有变化,2331,0,2543,3,4874,3
 JJ-ai-nb/moonbit-shard-note,有变化,3899,0,622,2,4521,2
+kokic/talcparsec,有变化,156,0,2383,3,2539,3
 liu666789987/moonbtkit,有变化,2349,0,6015,4,8364,4
 marianoguerra/tutuca,有变化,7095,1,129741,52,136836,53
 Mgk789a/moonbit-gerberkit,有变化,13901,0,9646,3,23547,3
 moonbit-community/opentelemetry,有变化,25,0,35454,37,35479,37
 moonbit-community/rabbita,有变化,245,1,28662,22,28907,23
-moonbit-community/sqlite3,有变化,759,0,759,2,1518,2
+moonbit-community/sqlite3,有变化,1512,0,759,2,2271,2
 moonbit-community/warren,有变化,931,0,3158,8,4089,8
 MX-ai-nb/taptrail,有变化,4009,2,856,3,4865,5
 Ridge-Lab/moonwavkit,有变化,550,0,5055,3,5605,3
@@ -789,7 +793,6 @@ kokic/notiz,无变化,0,0,4200,4,4200,4
 kokic/obsmark,无变化,0,0,412,1,412,1
 kokic/prime,无变化,0,0,549,2,549,2
 kokic/sexp-html,无变化,0,0,1229,1,1229,1
-kokic/talcparsec,无变化,0,0,2383,3,2383,3
 kokic/tim,无变化,0,0,270,1,270,1
 kokic/tinymark,无变化,0,0,4766,5,4766,5
 kokic/uml,无变化,0,0,36608,14,36608,14
