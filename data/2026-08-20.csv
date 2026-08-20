@@ -1126,7 +1126,7 @@ svg-dsl,dowdiness/svg-dsl,0.1.0,1900,1,2026-04-21T10:59:39.607352
 cstdio-ffi,Bemly/cstdio-ffi,0.1.0,1725,2,2026-04-10T13:17:50.317286
 acp,colmugx/acp,0.1.2,49001,20,2026-08-17T07:42:42.625984
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
-mcp,colmugx/mcp,0.15.0,13493,11,2026-08-16T09:46:35.902323
+mcp,colmugx/mcp,0.15.1,13610,11,2026-08-20T03:17:45.996258
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
 posoco,colmugx/posoco,0.10.1,29001,9,2026-08-07T16:26:10.178561
@@ -1337,7 +1337,7 @@ tty,moonbit-community/tty,0.3.0,11521,21,2026-07-02T08:31:25.309381
 uml_cli,moonbit-community/uml_cli,0.1.0,211,1,2026-08-10T04:08:46.140315
 unicodewidth,moonbit-community/unicodewidth,0.2.1,25305,1,2026-06-02T07:18:02.219130
 verified,moonbit-community/verified,0.0.2,4118,36,2026-04-08T15:09:33.070213
-warren,moonbit-community/warren,0.3.0,4068,8,2026-08-19T16:56:34.517835
+warren,moonbit-community/warren,0.3.1,4089,8,2026-08-20T03:08:53.996609
 XMLParser,moonbit-community/XMLParser,0.2.5,4528,2,2026-05-07T09:21:21.245729
 yaml,moonbit-community/yaml,0.0.6,6288,1,2026-07-13T03:40:43.420102
 zipc,moonbit-community/zipc,0.2.2,1551,1,2026-06-14T12:41:31.661551
