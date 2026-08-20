@@ -85,8 +85,8 @@ portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
 prolog,bobzhang/prolog,0.1.1,1633,2,2026-08-14T07:42:39.762819
 prove,bobzhang/prove,0.0.2,3164,84,2026-03-17T06:33:22.282546
 qrc,bobzhang/qrc,0.1.1,2073,3,2026-04-19T15:00:22.396834
-scheme,bobzhang/scheme,0.1.0,141,1,2026-08-20T10:52:23.533391
-scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6,2026-01-05T11:56:06.887005
+scheme,bobzhang/scheme,0.1.1,141,1,2026-08-20T11:07:36.208309
+scheme-r6rs,bobzhang/scheme-r6rs,0.1.1,40116,8,2026-08-20T11:07:20.986159
 scheme-r6rs-cli,bobzhang/scheme-r6rs-cli,0.1.0,170,1,2026-08-20T08:11:50.890795
 sexp,bobzhang/sexp,0.1.2,50,1,2026-04-18T15:10:25.489963
 splitwise,bobzhang/splitwise,0.3.2,2042,4,2026-04-04T13:29:02.722607
@@ -1361,6 +1361,7 @@ c,nuskey8/c,0.3.4,2481,1,2026-07-17T16:30:09.080813
 lisp,nuskey8/lisp,0.1.4,389,2,2025-12-21T16:20:24.135992
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
 raylib,nuskey8/raylib,0.1.0,10854,2,2026-07-18T11:04:00.229991
+lunar-reactor,quelgar/lunar-reactor,0.1.0,2388,4,2026-08-20T11:40:54.635809
 test_moon,cgx027/test_moon,0.1.0,76,2,2025-12-08T00:29:37.621354
 foxql,jaredzhou/foxql,0.1.4,4030,5,2026-07-28T13:38:57.161313
 libs,jaredzhou/libs,0.1.1,2534,3,2026-06-21T03:05:33.716497
@@ -1892,7 +1893,7 @@ slack,marianoguerra/slack,0.4.0,21875,13,2026-08-11T12:45:54.968350
 slack-http,marianoguerra/slack-http,0.4.0,123,1,2026-08-11T12:46:09.275082
 tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
 temporal,marianoguerra/temporal,0.1.0,24538,5,2026-08-18T09:38:20.121047
-tutuca,marianoguerra/tutuca,0.23.0,136836,53,2026-08-20T07:14:46.411049
+tutuca,marianoguerra/tutuca,0.24.1,135357,53,2026-08-20T12:47:17.070839
 uri,marianoguerra/uri,0.1.0,10810,3,2026-08-18T09:38:41.261968
 wax,marianoguerra/wax,0.2.0,79215,34,2026-08-14T11:25:48.758833
 wax-cli,marianoguerra/wax-cli,0.2.0,889,2,2026-08-14T11:35:20.425606
@@ -1963,6 +1964,7 @@ comemoon,starAndHonor/comemoon,0.1.1,3542,1,2026-08-19T09:12:08.000938
 moon-problem-details,6P66006/moon-problem-details,0.1.0-dev,2964,6,2026-08-13T06:22:42.367925
 moon-sfv,6P66006/moon-sfv,0.1.0,24463,7,2026-08-06T02:51:17.103996
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
+moonbit-mcu-hal,sbqrre/moonbit-mcu-hal,0.2.0,11360,47,2026-08-20T11:28:10.199682
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
 eventrail,violetcb/eventrail,0.3.2,6727,2,2026-08-17T10:15:34.264733
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
@@ -2015,7 +2017,7 @@ moon_cron,p1nbored/moon_cron,0.1.0,5531,2,2026-08-16T15:59:24.778640
 constraint-lens,WB-ai-nb/constraint-lens,0.2.0,1632,2,2026-08-18T17:36:50.914897
 docproof-harbor,WB-ai-nb/docproof-harbor,0.1.2,3142,3,2026-08-19T05:49:17.093525
 reviewproof-kit,WB-ai-nb/reviewproof-kit,0.3.1,5520,3,2026-08-20T06:58:52.120126
-termproof,DWS-ai-nb/termproof,0.1.0,2452,4,2026-08-17T06:03:04.479617
+termproof,DWS-ai-nb/termproof,0.1.1,5693,5,2026-08-20T11:03:21.832214
 moonrrule,lxz123411/moonrrule,0.1.0,7745,7,2026-08-17T06:33:46.509718
 mooncompat,hmc11234/mooncompat,0.1.0,5159,2,2026-08-17T06:35:57.738226
 docproof-harbor,NBB2006/docproof-harbor,0.1.2,2544,3,2026-08-17T16:46:42.021711
@@ -2050,4 +2052,7 @@ bech32-kit,MM-ai-nb/bech32-kit,0.1.0,4904,2,2026-08-20T04:43:34.890701
 robopolicy,JQ-ai-nb/robopolicy,0.1.0,5253,2,2026-08-20T05:54:14.092643
 cspkit,ZYK-ai-nb/cspkit,0.1.0,4740,2,2026-08-20T06:57:03.392707
 paletteguard,Jay7724/paletteguard,0.1.0,6260,2,2026-08-20T08:37:44.598367
+moonformdata,ouoankang/moonformdata,0.1.0,10036,4,2026-08-20T11:08:53.518434
 rectloom,YM-ai-nb/rectloom,0.1.0,4801,2,2026-08-20T10:44:15.697354
+cakecheck,ZBZ-ai-nb/cakecheck,0.1.0,5664,3,2026-08-20T13:18:41.339235
+moonbit_constraint,mjfmjf879/moonbit_constraint,0.1.0,27641,3,2026-08-20T13:28:41.415673
