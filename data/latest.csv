@@ -52,6 +52,7 @@ html_parser,bobzhang/html_parser,0.1.7,50077,18,2026-05-21T03:42:56.447948
 html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2,2026-05-21T03:43:22.933298
 ipaddr,bobzhang/ipaddr,0.1.1,2023,1,2026-04-18T15:10:19.510122
 issues,bobzhang/issues,0.1.5,43389,11,2026-05-22T02:26:37.948232
+jq,bobzhang/jq,0.1.0,270,1,2026-08-20T08:05:31.196706
 jsonl,bobzhang/jsonl,0.2.0,287,1,2026-06-02T09:08:42.613926
 kanban,bobzhang/kanban,0.3.2,3820,4,2026-04-04T13:28:57.586356
 kimicc,bobzhang/kimicc,0.1.243,129685,12,2026-06-04T03:58:03.955236
@@ -71,7 +72,7 @@ loop_invariants_techniques,bobzhang/loop_invariants_techniques,0.17.0,20283,35,2
 loop_invariants_verified,bobzhang/loop_invariants_verified,0.8.0,1499,7,2026-05-14T00:44:14.114561
 mbtexcel,bobzhang/mbtexcel,0.1.9,674545,97,2026-07-29T07:14:37.872666
 mbtpdf,bobzhang/mbtpdf,0.1.2,82073,50,2026-01-28T14:09:21.559981
-moonjq,bobzhang/moonjq,0.1.0,10898,3,2025-12-14T10:10:13.226345
+moonjq,bobzhang/moonjq,0.1.1,12775,6,2026-08-20T07:51:28.189305
 myshell,bobzhang/myshell,0.3.0,1974,2,2026-08-17T09:44:10.752557
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
@@ -85,6 +86,7 @@ prolog,bobzhang/prolog,0.1.1,1633,2,2026-08-14T07:42:39.762819
 prove,bobzhang/prove,0.0.2,3164,84,2026-03-17T06:33:22.282546
 qrc,bobzhang/qrc,0.1.1,2073,3,2026-04-19T15:00:22.396834
 scheme-r6rs,bobzhang/scheme-r6rs,0.1.0,37370,6,2026-01-05T11:56:06.887005
+scheme-r6rs-cli,bobzhang/scheme-r6rs-cli,0.1.0,170,1,2026-08-20T08:11:50.890795
 sexp,bobzhang/sexp,0.1.2,50,1,2026-04-18T15:10:25.489963
 splitwise,bobzhang/splitwise,0.3.2,2042,4,2026-04-04T13:29:02.722607
 spreadsheet,bobzhang/spreadsheet,0.1.1,7797,7,2026-04-04T13:29:23.217719
@@ -1299,7 +1301,7 @@ moondiff,moonbit-community/moondiff,0.0.1,24516,18,2026-08-18T06:44:09.205912
 moongrep,moonbit-community/moongrep,0.1.18,32481,15,2026-08-12T02:55:27.230069
 moongrep-skill,moonbit-community/moongrep-skill,0.1.0,1095,1,2026-01-25T13:17:34.643090
 NyaCSV,moonbit-community/NyaCSV,0.3.3,1196,1,2026-05-03T09:57:32.237871
-opentelemetry,moonbit-community/opentelemetry,0.1.4,35454,37,2026-05-27T07:55:09.322526
+opentelemetry,moonbit-community/opentelemetry,0.1.5,35479,37,2026-08-20T08:00:22.476102
 piediff,moonbit-community/piediff,0.1.1,2718,1,2026-07-10T07:16:01.615080
 postgres,moonbit-community/postgres,0.0.7,23333,11,2026-07-29T08:18:35.026237
 prettyprinter,moonbit-community/prettyprinter,0.4.10,1732,1,2026-05-12T10:27:04.999906
@@ -1916,7 +1918,7 @@ moonbit-canbus,myc1234567/moonbit-canbus,0.1.0,9293,4,2026-08-19T09:47:27.646330
 moon_metric_lab,myc1234567/moon_metric_lab,0.1.3,4851,12,2026-08-16T14:30:13.042930
 moontera,Zjyyer/moontera,0.1.0,2360,9,2026-07-28T03:47:06.308745
 moonqr,naoto24kawa/moonqr,0.2.0,19785,3,2026-07-29T07:31:39.338183
-moonbtkit,liu666789987/moonbtkit,0.1.3,6015,4,2026-07-31T08:51:46.041106
+moonbtkit,liu666789987/moonbtkit,0.1.6,8364,4,2026-08-20T08:50:09.960114
 moonbvhkit,zhangbowen2006/moonbvhkit,0.2.0,5508,3,2026-08-18T05:23:32.369477
 moonbit-roman,Armyhealthyhappy/moonbit-roman,0.3.0,8597,7,2026-07-30T15:26:50.490105
 moonbit-plasma,mohongquan0630/moonbit-plasma,0.1.4,2001,2,2026-08-15T16:27:26.240556
@@ -2006,7 +2008,7 @@ moonbit-shard-note,JJ-ai-nb/moonbit-shard-note,0.2.1,4521,2,2026-08-20T07:04:40.
 moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
 moonbarcode,fan-ere/moonbarcode,0.1.3,2620,3,2026-08-18T11:46:19.705408
 harborcheck,EJJ-ai-nb/harborcheck,0.1.4,4874,3,2026-08-20T05:29:12.866725
-taptrail,MX-ai-nb/taptrail,0.1.0,856,3,2026-08-16T15:20:11.073007
+taptrail,MX-ai-nb/taptrail,0.3.0,4865,5,2026-08-20T08:01:55.784681
 moon_cron,p1nbored/moon_cron,0.1.0,5531,2,2026-08-16T15:59:24.778640
 constraint-lens,WB-ai-nb/constraint-lens,0.2.0,1632,2,2026-08-18T17:36:50.914897
 docproof-harbor,WB-ai-nb/docproof-harbor,0.1.2,3142,3,2026-08-19T05:49:17.093525
@@ -2045,3 +2047,4 @@ capsuletrace-upload,SHX-ai-nb/capsuletrace-upload,0.2.0,3624,3,2026-08-19T18:27:
 bech32-kit,MM-ai-nb/bech32-kit,0.1.0,4904,2,2026-08-20T04:43:34.890701
 robopolicy,JQ-ai-nb/robopolicy,0.1.0,5253,2,2026-08-20T05:54:14.092643
 cspkit,ZYK-ai-nb/cspkit,0.1.0,4740,2,2026-08-20T06:57:03.392707
+paletteguard,Jay7724/paletteguard,0.1.0,6260,2,2026-08-20T08:37:44.598367

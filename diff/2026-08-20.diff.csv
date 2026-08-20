@@ -1,8 +1,11 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bobzhang/jq,新增,270,1,0,0,270,1
+bobzhang/scheme-r6rs-cli,新增,170,1,0,0,170,1
 cstoooo/moonbit-aml,新增,30615,2,0,0,30615,2
 gckbbrant/moonbitTolerance,新增,15092,2,0,0,15092,2
 hnriiuu/moonbit_forceplate,新增,14861,14,0,0,14861,14
 impart563/moonbit-neuroscore,新增,202732,2,0,0,202732,2
+Jay7724/paletteguard,新增,6260,2,0,0,6260,2
 JM-ai-nb/mailshield,新增,3437,3,0,0,3437,3
 JQ-ai-nb/robopolicy,新增,5253,2,0,0,5253,2
 MM-ai-nb/bech32-kit,新增,4904,2,0,0,4904,2
@@ -14,15 +17,19 @@ WB-ai-nb/reviewproof-kit,新增,5520,3,0,0,5520,3
 WSH-ai-nb/reslock,新增,3688,2,0,0,3688,2
 ZYK-ai-nb/cspkit,新增,4740,2,0,0,4740,2
 aurasuisui/bimap,有变化,1240,1,4745,3,5985,4
+bobzhang/moonjq,有变化,1877,3,10898,3,12775,6
 colmugx/mcp,有变化,117,0,13493,11,13610,11
 colmugx/posoco,有变化,1283,0,29001,9,30284,9
 EJJ-ai-nb/harborcheck,有变化,2331,0,2543,3,4874,3
 JJ-ai-nb/moonbit-shard-note,有变化,3899,0,622,2,4521,2
+liu666789987/moonbtkit,有变化,2349,0,6015,4,8364,4
 marianoguerra/tutuca,有变化,7095,1,129741,52,136836,53
 Mgk789a/moonbit-gerberkit,有变化,13901,0,9646,3,23547,3
+moonbit-community/opentelemetry,有变化,25,0,35454,37,35479,37
 moonbit-community/rabbita,有变化,245,1,28662,22,28907,23
 moonbit-community/sqlite3,有变化,759,0,759,2,1518,2
 moonbit-community/warren,有变化,931,0,3158,8,4089,8
+MX-ai-nb/taptrail,有变化,4009,2,856,3,4865,5
 Ridge-Lab/moonwavkit,有变化,550,0,5055,3,5605,3
 shiguri-01/mcp,有变化,14881,0,6201,8,21082,8
 shina1024/jqx,有变化,-67,0,21813,11,21746,11
@@ -186,7 +193,6 @@ bobzhang/loop_invariants_techniques,无变化,0,0,20283,35,20283,35
 bobzhang/loop_invariants_verified,无变化,0,0,1499,7,1499,7
 bobzhang/mbtexcel,无变化,0,0,674545,97,674545,97
 bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
-bobzhang/moonjq,无变化,0,0,10898,3,10898,3
 bobzhang/myshell,无变化,0,0,1974,2,1974,2
 bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
 bobzhang/noteapp,无变化,0,0,1582,4,1582,4
@@ -848,7 +854,6 @@ lin2077-zeming/MoonHook,无变化,0,0,3038,2,3038,2
 lin2077-zeming/template,无变化,0,0,7375,4,7375,4
 lindividual/der,无变化,0,0,510,2,510,2
 littleotherut/digit-insert,无变化,0,0,55,2,55,2
-liu666789987/moonbtkit,无变化,0,0,6015,4,6015,4
 liuhang0001/moon-robots,无变化,0,0,2921,6,2921,6
 liuhuo23/clickhouse-driver,无变化,0,0,4886,3,4886,3
 liuly0322/lru_cache,无变化,0,0,121,1,121,1
@@ -1271,7 +1276,6 @@ moonbit-community/moondiff,无变化,0,0,24516,18,24516,18
 moonbit-community/moongrep,无变化,0,0,32481,15,32481,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/NyaCSV,无变化,0,0,1196,1,1196,1
-moonbit-community/opentelemetry,无变化,0,0,35454,37,35454,37
 moonbit-community/piediff,无变化,0,0,2718,1,2718,1
 moonbit-community/postgres,无变化,0,0,23333,11,23333,11
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
@@ -1350,7 +1354,6 @@ moransky/bloom_filter,无变化,0,0,105,2,105,2
 morning-start/mbtgraph,无变化,0,0,36647,25,36647,25
 moyunijieshi1/moon-securitytxt,无变化,0,0,5566,7,5566,7
 mst-mkt/clipboard,无变化,0,0,1446,1,1446,1
-MX-ai-nb/taptrail,无变化,0,0,856,3,856,3
 my-xn/hello,无变化,0,0,25,2,25,2
 myc1234567/moon_metric_lab,无变化,0,0,4851,12,4851,12
 myc1234567/moonbit-canbus,无变化,0,0,9293,4,9293,4
