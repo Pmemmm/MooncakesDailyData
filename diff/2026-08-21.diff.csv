@@ -1,5 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 cghyyrrt/moonbit-pcap,新增,8009,11,0,0,8009,11
+dgmxjj/moonbit-posterkit,新增,8304,17,0,0,8304,17
+hbYlj/moonldap,新增,6761,8,0,0,6761,8
 HYF-ai2006/moonsec-headers,新增,5340,2,0,0,5340,2
 LF-ai-nb/caseweave,新增,4677,2,0,0,4677,2
 pzq893/moonbit-spice,新增,10133,2,0,0,10133,2
