@@ -1,15 +1,23 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+BB-ai-nb/spongekit,新增,4928,2,0,0,4928,2
 cghyyrrt/moonbit-pcap,新增,8009,11,0,0,8009,11
+conglinyizhi/toml,新增,16149,7,0,0,16149,7
 dgmxjj/moonbit-posterkit,新增,9634,19,0,0,9634,19
 hbYlj/moonldap,新增,6761,8,0,0,6761,8
+hsy-bit/moonbit-circuit-solver,新增,37146,10,0,0,37146,10
 HYF-ai2006/moonsec-headers,新增,5340,2,0,0,5340,2
 LF-ai-nb/caseweave,新增,4677,2,0,0,4677,2
 pzq893/moonbit-spice,新增,10133,2,0,0,10133,2
 rinnein/dan-any-mbt,新增,4696,7,0,0,4696,7
+SongYZZZ/ansi-guard,新增,3168,7,0,0,3168,7
+WB-ai-nb/pantrycalc,新增,4480,3,0,0,4480,3
 colmugx/acp,有变化,17520,0,49001,20,66521,20
 hxiuzheng/robust_stats,有变化,17780,0,9217,2,26997,2
 Lyl66655/moon-survival,有变化,46,0,29098,3,29144,3
+marianoguerra/tutuca,有变化,5556,2,135467,53,141023,55
+moonbit-community/sqlite3,有变化,378,0,2271,2,2649,2
 moonbit-community/warren,有变化,103,0,4089,8,4192,8
+moonbitlang/parser,有变化,187,0,138377,20,138564,20
 Nanaloveyuki/dynlib,有变化,179,0,234,1,413,1
 Nanaloveyuki/orbit,有变化,-6,0,16947,19,16941,19
 Nanaloveyuki/orby,有变化,-7,0,3574,10,3567,10
@@ -936,7 +944,6 @@ marianoguerra/slack,无变化,0,0,21875,13,21875,13
 marianoguerra/slack-http,无变化,0,0,123,1,123,1
 marianoguerra/tailwindcss,无变化,0,0,15876,4,15876,4
 marianoguerra/temporal,无变化,0,0,24538,5,24538,5
-marianoguerra/tutuca,无变化,0,0,135467,53,135467,53
 marianoguerra/uri,无变化,0,0,10810,3,10810,3
 marianoguerra/wax,无变化,0,0,79215,34,79215,34
 marianoguerra/wax-cli,无变化,0,0,889,2,889,2
@@ -1306,7 +1313,6 @@ moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
 moonbit-community/rabbita,无变化,0,0,28907,23,28907,23
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
-moonbit-community/sqlite3,无变化,0,0,2271,2,2271,2
 moonbit-community/sqlparser,无变化,0,0,14703,2,14703,2
 moonbit-community/starter,无变化,0,0,43,1,43,1
 moonbit-community/tray,无变化,0,0,1584,2,1584,2
@@ -1336,7 +1342,6 @@ moonbitlang/lexer,无变化,0,0,4544,3,4544,3
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
 moonbitlang/moon_config,无变化,0,0,3022,1,3022,1
-moonbitlang/parser,无变化,0,0,138377,20,138377,20
 moonbitlang/protobuf,无变化,0,0,4680,2,4680,2
 moonbitlang/quickcheck,无变化,0,0,13278,16,13278,16
 moonbitlang/regexp,无变化,0,0,12052,5,12052,5
