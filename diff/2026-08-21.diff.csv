@@ -10,11 +10,13 @@ hbYlj/moonldap,新增,6761,8,0,0,6761,8
 hnlyxiaobing/moonbitmark,新增,92527,68,0,0,92527,68
 hsy-bit/moonbit-circuit-solver,新增,37146,10,0,0,37146,10
 HYF-ai2006/moonsec-headers,新增,5340,2,0,0,5340,2
+kaashyapan/html_dsl_converter,新增,2509,2,0,0,2509,2
 LF-ai-nb/caseweave,新增,4677,2,0,0,4677,2
 moonbit-community/proton_bundle,新增,1174,1,0,0,1174,1
 moonbit-community/proton_cefsetup,新增,1665,2,0,0,1665,2
 mxz1234/moon_webhook_guard,新增,5012,2,0,0,5012,2
 pzq893/moonbit-spice,新增,10133,2,0,0,10133,2
+qianfuzsc/moon-webfinger,新增,6367,7,0,0,6367,7
 rinnein/dan-any-mbt,新增,4696,7,0,0,4696,7
 SongYZZZ/ansi-guard,新增,3168,7,0,0,3168,7
 WB-ai-nb/pantrycalc,新增,4835,3,0,0,4835,3
@@ -25,8 +27,10 @@ Zjyyer/moonbit-klt-tracker,新增,12322,15,0,0,12322,15
 chgttyyr/moonbit-vcfkit,有变化,3730,0,2335,6,6065,6
 colmugx/acp,有变化,17520,0,49001,20,66521,20
 fan-ere/moonbarcode,有变化,1474,0,2620,3,4094,3
+hjn0123/moon-http-range,有变化,1183,2,3010,6,4193,8
 hxiuzheng/robust_stats,有变化,17780,0,9217,2,26997,2
 JQ-ai-nb/robopolicy,有变化,1858,0,5253,2,7111,2
+kaashyapan/html_dsl,有变化,-1881,-1,5117,3,3236,2
 le065-tc/moonredis,有变化,160,0,3961,7,4121,7
 Lxxbv/moonbit-thermochem,有变化,200,2,4491,6,4691,8
 Lyl66655/moon-survival,有变化,46,0,29098,3,29144,3
@@ -50,6 +54,8 @@ niuniu513-ask/MoonRetrieve,有变化,2204,0,1948,3,4152,3
 oboard/mimetype,有变化,7,0,1158,2,1165,2
 oboard/mocket,有变化,1204,1,7415,15,8619,16
 thy1016/moonttl,有变化,929,0,6408,7,7337,7
+wedarp/moonbit-abc,有变化,7487,0,2135,4,9622,4
+xiguaAp6y3/moon-httpsig,有变化,6,0,10413,9,10419,9
 yufenfei111/toml-mbt,有变化,4845,6,4126,2,8971,8
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -590,7 +596,6 @@ himeno/reactive,无变化,0,0,569,1,569,1
 himeno/test,无变化,0,0,36,1,36,1
 hiroyannnn/sketch,无变化,0,0,975,2,975,2
 hiroyannnn/strsim,无变化,0,0,861,3,861,3
-hjn0123/moon-http-range,无变化,0,0,3010,6,3010,6
 Hjyyutr/moon-minhash,无变化,0,0,10539,17,10539,17
 Hjyyutr/moonyara,无变化,0,0,4592,4,4592,4
 hmc11234/mooncompat,无变化,0,0,5159,2,5159,2
@@ -747,7 +752,6 @@ justjavac/windows_subsystem,无变化,0,0,94,1,94,1
 justjoheinz/complex,无变化,0,0,174,1,174,1
 justjoheinz/iso-country,无变化,0,0,3412,1,3412,1
 JYPeng487/moonopenmetrics,无变化,0,0,5991,2,5991,2
-kaashyapan/html_dsl,无变化,0,0,5117,3,5117,3
 kaashyapan/postgresx,无变化,0,0,1102,1,1102,1
 kaashyapan/uri,无变化,0,0,3473,1,3473,1
 Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
@@ -1891,7 +1895,6 @@ Wchwch777/moonbit-thermal-vision,无变化,0,0,28162,3,28162,3
 Wchwch777/moonverity,无变化,0,0,4143,5,4143,5
 wcx789ll/moon-reliability,无变化,0,0,10346,2,10346,2
 wcx789ll/moonsim,无变化,0,0,4848,16,4848,16
-wedarp/moonbit-abc,无变化,0,0,2135,4,2135,4
 wedarp/moongraph,无变化,0,0,4625,3,4625,3
 weidekais/moonbit-adsorption,无变化,0,0,8460,4,8460,4
 weidekais/moonrewardforge,无变化,0,0,4637,2,4637,2
@@ -1937,7 +1940,6 @@ Xiao-li-He/MoonMarkMind,无变化,0,0,30700,11,30700,11
 XiaoChenxu/msdoc-viewer,无变化,0,0,14830,2,14830,2
 xiaojing012/moon-content-disposition,无变化,0,0,8942,8,8942,8
 XiaoMao-MYY/acceptkit,无变化,0,0,5026,2,5026,2
-xiguaAp6y3/moon-httpsig,无变化,0,0,10413,9,10413,9
 xing0818/xing0818,无变化,0,0,15,1,15,1
 xingwangzhe/files_tree,无变化,0,0,628,1,628,1
 xingwangzhe/license_checker,无变化,0,0,840,1,840,1
