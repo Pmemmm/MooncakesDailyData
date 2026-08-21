@@ -1900,7 +1900,7 @@ megalodon-http,marianoguerra/megalodon-http,0.1.0,197,1,2026-08-13T19:48:36.8285
 pretty-fast-pretty-printer,marianoguerra/pretty-fast-pretty-printer,0.2.1,2305,2,2026-08-03T16:39:48.481646
 slack,marianoguerra/slack,0.4.0,21875,13,2026-08-11T12:45:54.968350
 slack-http,marianoguerra/slack-http,0.4.0,123,1,2026-08-11T12:46:09.275082
-tailwindcss,marianoguerra/tailwindcss,0.2.0,15876,4,2026-07-25T13:04:42.047764
+tailwindcss,marianoguerra/tailwindcss,0.3.0,15922,4,2026-08-21T21:24:37.243965
 temporal,marianoguerra/temporal,0.1.0,24538,5,2026-08-18T09:38:20.121047
 tutuca,marianoguerra/tutuca,0.26.0,141023,55,2026-08-21T08:16:37.263054
 uri,marianoguerra/uri,0.1.0,10810,3,2026-08-18T09:38:41.261968
@@ -2074,6 +2074,7 @@ rectloom,YM-ai-nb/rectloom,0.1.0,4801,2,2026-08-20T10:44:15.697354
 cakecheck,ZBZ-ai-nb/cakecheck,0.1.0,5664,3,2026-08-20T13:18:41.339235
 moonbit_constraint,mjfmjf879/moonbit_constraint,0.1.0,27641,3,2026-08-20T13:28:41.415673
 mooncalguard,WYT-ai-nb/mooncalguard,0.1.0,5971,2,2026-08-20T13:57:43.330045
+stuntmaster,Camilotk/stuntmaster,0.2.1,3063,3,2026-08-21T21:53:22.402994
 mbitsv,CJR-zhang/mbitsv,0.1.0,4990,3,2026-08-20T14:20:31.548960
 bech32-kit,SWJ-ai-srw/bech32-kit,0.1.0,4904,2,2026-08-20T14:47:34.329923
 moonsec-headers,HYF-ai2006/moonsec-headers,0.1.0,5340,2,2026-08-20T15:52:01.160328
