@@ -7,7 +7,11 @@ dtzrttp/moonbit-rtl,新增,8607,9,0,0,8607,9
 DZX-ai-nb/lunemark,新增,6330,3,0,0,6330,3
 fhh12341/mailkit_12314,新增,5073,2,0,0,5073,2
 fuyun-2026/moonbit-canbus,新增,7409,13,0,0,7409,13
+guiqi695/moon-prometheus-sdk,新增,7179,19,0,0,7179,19
+hjuuhj/moonbit-rulesorigin,新增,10292,12,0,0,10292,12
 JM-ai-n/moonfolio,新增,5294,3,0,0,5294,3
+longhuanlin/multipart-stream,新增,7077,14,0,0,7077,14
+lwmvr/moonbit-fixedincome,新增,8604,22,0,0,8604,22
 lwq443/moonbit-ocean-qc,新增,1337,7,0,0,1337,7
 lyyjavastudy/moonbit-counterpoint,新增,18776,3,0,0,18776,3
 lyyjavastudy/moonbit-freight-calculator,新增,32274,3,0,0,32274,3
@@ -15,12 +19,20 @@ mhlagent/moonbit-accounting,新增,12507,2,0,0,12507,2
 PingGuoMiaoMiao/MoonRoute,新增,1868,13,0,0,1868,13
 qxjhhrr/moonbit-returnplay,新增,6615,3,0,0,6615,3
 qzx-cyber/moonbit-tradeclass,新增,40287,3,0,0,40287,3
+suqinxi/voltweave,新增,5653,3,0,0,5653,3
+zhou506403/fairshift,新增,4789,2,0,0,4789,2
 zzy12346/moonhook,新增,6406,2,0,0,6406,2
 13131116363/routeable,有变化,689,1,4508,2,5197,3
-hnlyxiaobing/moonbitmark,有变化,2489,2,92527,68,95016,70
+hhxhhx78/moonbit-iec104,有变化,13672,0,9688,2,23360,2
+hmyhmyhmyss/generative_patterns,有变化,16717,0,13103,2,29820,2
+hnlyxiaobing/moonbitmark,有变化,2538,2,92527,68,95065,70
+hzfhzf89/moonbit-gltf-tools,有变化,19026,0,11880,3,30906,3
+kaashyapan/html_dsl,有变化,2,0,3236,2,3238,2
+kaashyapan/html_dsl_converter,有变化,5,0,2509,2,2514,2
 liuminyuan/moon-missingness,有变化,14725,2,11087,6,25812,8
 LMK-ai-nb/permscope,有变化,4488,0,1533,2,6021,2
 marianoguerra/tailwindcss,有变化,46,0,15876,4,15922,4
+marianoguerra/tutuca,有变化,-14386,-2,141023,55,126637,53
 oboard/mocket,有变化,263,1,8619,16,8882,17
 pla678889/moon-experiment,有变化,14988,12,9059,14,24047,26
 poteto0/endor,有变化,3098,1,25581,23,28679,24
@@ -28,7 +40,9 @@ qjgqjg/moon-causal,有变化,17994,0,8216,2,26210,2
 sacckey/mahjong,有变化,176,0,3446,4,3622,4
 SHX-ai-nb/capsuletrace-upload,有变化,801,0,3624,3,4425,3
 wcx789ll/moon-reliability,有变化,14539,1,10346,2,24885,3
+wskwsk68/membrane,有变化,12100,0,27306,5,39406,5
 ZBZ-ai-nb/cakecheck,有变化,475,0,5664,3,6139,3
+zhaoyuanjuns/moonbit_extractor,有变化,17819,0,15328,22,33147,22
 Zy789kl/moon-change-point,有变化,15639,0,13531,2,29170,2
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -575,7 +589,6 @@ hevienz/moonbit_libbpf,无变化,0,0,568,2,568,2
 hgetty/gaitlab,无变化,0,0,15822,11,15822,11
 Hhsqoo/moon-collections,无变化,0,0,3595,12,3595,12
 Hhsqoo/moon-frequency-sketch,无变化,0,0,6065,12,6065,12
-hhxhhx78/moonbit-iec104,无变化,0,0,9688,2,9688,2
 himeno/mopress,无变化,0,0,7421,9,7421,9
 himeno/reactive,无变化,0,0,569,1,569,1
 himeno/test,无变化,0,0,36,1,36,1
@@ -585,7 +598,6 @@ hjn0123/moon-http-range,无变化,0,0,4193,8,4193,8
 Hjyyutr/moon-minhash,无变化,0,0,10539,17,10539,17
 Hjyyutr/moonyara,无变化,0,0,4592,4,4592,4
 hmc11234/mooncompat,无变化,0,0,5159,2,5159,2
-hmyhmyhmyss/generative_patterns,无变化,0,0,13103,2,13103,2
 hmyhmyhmyss/moontrajectory,无变化,0,0,3574,2,3574,2
 hnlyxiaobing/crescent,无变化,0,0,23919,23,23919,23
 hnlyxiaobing/MBOpenClacky,无变化,0,0,98780,33,98780,33
@@ -610,7 +622,6 @@ hxiuzheng/robust_stats,无变化,0,0,26997,2,26997,2
 HYF-ai2006/moonsec-headers,无变化,0,0,5340,2,5340,2
 hyl-star/moonsic,无变化,0,0,25224,27,25224,27
 hzc-666-ai/moonpathfinding,无变化,0,0,3072,7,3072,7
-hzfhzf89/moonbit-gltf-tools,无变化,0,0,11880,3,11880,3
 hzqdf/aoko,无变化,0,0,20,0,20,0
 hzqdf/sum-calc,无变化,0,0,19,1,19,1
 I3eg1nner/petgraph,无变化,0,0,15812,7,15812,7
@@ -742,8 +753,6 @@ justjavac/windows_subsystem,无变化,0,0,94,1,94,1
 justjoheinz/complex,无变化,0,0,174,1,174,1
 justjoheinz/iso-country,无变化,0,0,3412,1,3412,1
 JYPeng487/moonopenmetrics,无变化,0,0,5991,2,5991,2
-kaashyapan/html_dsl,无变化,0,0,3236,2,3236,2
-kaashyapan/html_dsl_converter,无变化,0,0,2509,2,2509,2
 kaashyapan/postgresx,无变化,0,0,1102,1,1102,1
 kaashyapan/uri,无变化,0,0,3473,1,3473,1
 Kai-Junhan/moon-ray,无变化,0,0,4345,2,4345,2
@@ -962,7 +971,6 @@ marianoguerra/pretty-fast-pretty-printer,无变化,0,0,2305,2,2305,2
 marianoguerra/slack,无变化,0,0,21875,13,21875,13
 marianoguerra/slack-http,无变化,0,0,123,1,123,1
 marianoguerra/temporal,无变化,0,0,24538,5,24538,5
-marianoguerra/tutuca,无变化,0,0,141023,55,141023,55
 marianoguerra/uri,无变化,0,0,10810,3,10810,3
 marianoguerra/wax,无变化,0,0,79215,34,79215,34
 marianoguerra/wax-cli,无变化,0,0,889,2,889,2
@@ -1927,7 +1935,6 @@ wjy030522/compare,无变化,0,0,53,2,53,2
 wjy030522/hello,无变化,0,0,25,2,25,2
 wqbcs/moon_collections,无变化,0,0,9581,15,9581,15
 WSH-ai-nb/reslock,无变化,0,0,3688,2,3688,2
-wskwsk68/membrane,无变化,0,0,27306,5,27306,5
 wskwsk68/MoonEmbed,无变化,0,0,4927,2,4927,2
 wstreet/moontest,无变化,0,0,26,2,26,2
 wwj1203/string2int,无变化,0,0,33,1,33,1
@@ -2063,7 +2070,6 @@ zgfzgf899/moonbit-vector-trace-plan,无变化,0,0,13380,8,13380,8
 zhaihaozhen/zero_fill,无变化,0,0,40,2,40,2
 zhangbowen2006/moonbvhkit,无变化,0,0,5508,3,5508,3
 zhangshun-123/factorial,无变化,0,0,33,1,33,1
-zhaoyuanjuns/moonbit_extractor,无变化,0,0,15328,22,15328,22
 zhaoyuanjuns/moongridgym,无变化,0,0,3131,2,3131,2
 Zhouz-z/moon_l10n,无变化,0,0,5983,2,5983,2
 zhtzht12345678/moonbit-ats-timetable,无变化,0,0,9287,3,9287,3
