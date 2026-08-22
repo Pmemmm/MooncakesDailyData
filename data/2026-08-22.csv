@@ -1440,7 +1440,7 @@ ulid,paveg/ulid,0.1.0,962,1,2026-01-19T08:16:22.381613
 channel,bnyu2/channel,0.1.1,967,2,2026-01-24T15:39:12.471080
 mongodb,allain/mongodb,0.1.1,9540,3,2026-01-29T18:30:06.080944
 lunaboy,sacckey/lunaboy,0.1.2,4639,3,2026-02-23T11:49:40.159722
-mahjong,sacckey/mahjong,0.2.0,3446,4,2026-08-02T16:48:14.811449
+mahjong,sacckey/mahjong,0.3.0,3622,4,2026-08-22T07:24:25.749251
 moon8bit,sacckey/moon8bit,0.1.0,3115,7,2026-04-03T18:39:56.309983
 sha256,shu-kitamura/sha256,0.1.1,263,1,2026-01-29T14:58:19.304011
 mbtgraph,morning-start/mbtgraph,0.1.3,36647,25,2026-07-08T14:09:43.444694
@@ -1982,6 +1982,7 @@ pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
 moonbit-mcu-hal,sbqrre/moonbit-mcu-hal,0.2.0,11360,47,2026-08-20T11:28:10.199682
 iec104,dgmlbtttt/iec104,0.2.0,9467,11,2026-08-20T13:45:44.958011
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
+moonbit-deadline,chyppi/moonbit-deadline,0.1.0,10011,3,2026-08-22T08:13:01.050573
 eventrail,violetcb/eventrail,0.3.2,6727,2,2026-08-17T10:15:34.264733
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
 moonslokit,Zxy666668/moonslokit,0.2.0,3267,2,2026-08-16T14:06:12.768349
@@ -2013,7 +2014,7 @@ moon-content-disposition,xiaojing012/moon-content-disposition,0.1.1,8942,8,2026-
 moon-warc,xiaojing012/moon-warc,0.1.0,7560,3,2026-08-21T12:00:17.341296
 moon-robots,liuhang0001/moon-robots,0.1.1,2921,6,2026-08-13T04:59:29.259303
 moon-securitytxt,moyunijieshi1/moon-securitytxt,0.1.0,5566,7,2026-08-21T13:03:29.372006
-neighbor_rota,zjk9993/neighbor_rota,0.1.0,5585,3,2026-08-13T07:33:49.698527
+neighbor_rota,zjk9993/neighbor_rota,0.1.1,5585,3,2026-08-22T07:27:15.083495
 rrule_lab,cjkzD/rrule_lab,0.1.0,4340,2,2026-08-13T09:28:55.040832
 moon-http-range,hjn0123/moon-http-range,0.1.0,4193,8,2026-08-21T14:36:49.535794
 moonredis,le065-tc/moonredis,0.1.3,4121,7,2026-08-21T09:43:47.463423
@@ -2073,7 +2074,7 @@ cspkit,ZYK-ai-nb/cspkit,0.1.0,4740,2,2026-08-20T06:57:03.392707
 paletteguard,Jay7724/paletteguard,0.1.0,6260,2,2026-08-20T08:37:44.598367
 moonformdata,ouoankang/moonformdata,0.1.0,10036,4,2026-08-20T11:08:53.518434
 rectloom,YM-ai-nb/rectloom,0.1.0,4801,2,2026-08-20T10:44:15.697354
-cakecheck,ZBZ-ai-nb/cakecheck,0.1.0,5664,3,2026-08-20T13:18:41.339235
+cakecheck,ZBZ-ai-nb/cakecheck,0.2.0,6139,3,2026-08-22T07:57:37.585186
 moonbit_constraint,mjfmjf879/moonbit_constraint,0.1.0,27641,3,2026-08-20T13:28:41.415673
 mooncalguard,WYT-ai-nb/mooncalguard,0.1.0,5971,2,2026-08-20T13:57:43.330045
 stuntmaster,Camilotk/stuntmaster,0.2.1,3063,3,2026-08-21T21:53:22.402994
@@ -2095,4 +2096,7 @@ moonfolio,JM-ai-n/moonfolio,0.1.0,5294,3,2026-08-22T02:49:22.012658
 moon-sdp,coke089/moon-sdp,0.1.0,5213,7,2026-08-22T05:00:45.706840
 lunemark,DZX-ai-nb/lunemark,0.2.1,6330,3,2026-08-22T04:07:57.378105
 moon-wav,bw448/moon-wav,0.1.0,1291,2,2026-08-22T04:18:37.796958
-moonbit-counterpoint,lyyjavastudy/moonbit-counterpoint,0.2.0,11720,3,2026-08-22T06:48:51.310229
+moonbit-counterpoint,lyyjavastudy/moonbit-counterpoint,0.3.0,18776,3,2026-08-22T07:17:09.795828
+moonbit-freight-calculator,lyyjavastudy/moonbit-freight-calculator,0.1.0,17336,3,2026-08-22T08:48:21.538370
+moonhook,zzy12346/moonhook,0.1.0,6406,2,2026-08-22T07:26:29.014769
+mailkit_12314,fhh12341/mailkit_12314,0.1.0,5073,2,2026-08-22T07:42:59.414310
