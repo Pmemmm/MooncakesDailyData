@@ -1703,6 +1703,7 @@ moonfeaturegate,wccerty/moonfeaturegate,0.1.3,5284,2,2026-08-14T18:28:49.802042
 moonbit-vcfkit,chgttyyr/moonbit-vcfkit,0.2.1,6065,6,2026-08-21T10:00:27.340026
 MoonSpectrum,chgttyyr/MoonSpectrum,0.2.2,3627,2,2026-08-14T18:00:15.863807
 moonflagkit,q0w1ertyuiop/moonflagkit,0.2.0,1543,2,2026-07-12T13:38:54.030107
+moonrag-bench,q0w1ertyuiop/moonrag-bench,0.2.0,6687,2,2026-08-22T20:02:34.253705
 moonleasekit,dxh8888/moonleasekit,0.1.0,2126,3,2026-07-05T16:12:22.386004
 moonalign,LL728/moonalign,0.2.1,15745,2,2026-08-18T09:58:01.627441
 moonseal,LL728/moonseal,0.1.6,4496,13,2026-08-16T12:58:59.137068
@@ -2117,7 +2118,8 @@ moonbit-triage,agentdebug799/moonbit-triage,0.4.0,10511,3,2026-08-22T15:21:03.76
 sshconfig-resolve,jingmo653/sshconfig-resolve,0.1.0,7891,11,2026-08-22T15:43:02.658349
 moonmail,howhere7/moonmail,0.1.0,6818,7,2026-08-22T15:54:02.929178
 moon-dns-stub,jinshengmeng46/moon-dns-stub,0.1.0,8595,4,2026-08-22T16:06:35.315094
-moon-avro,yugonlian/moon-avro,0.2.4,3905,10,2026-08-22T17:25:10.629523
+moon-avro,yugonlian/moon-avro,0.3.0,4495,11,2026-08-22T19:10:29.614458
 moonbit-brandbook,cyypyhon123/moonbit-brandbook,0.2.1,12099,2,2026-08-22T18:12:51.157984
-moonbit-icd,Ycq-68798/moonbit-icd,0.2.0,6778,3,2026-08-22T18:51:03.213963
+moonbit-icd,Ycq-68798/moonbit-icd,0.2.2,7185,3,2026-08-22T19:16:53.885574
 MoonEditorConfig,tlhuecdkoyg/MoonEditorConfig,0.1.0,5634,3,2026-08-22T18:51:33.670821
+tzif-engine,caijiewei295/tzif-engine,0.1.0,7997,15,2026-08-22T19:20:29.813163
