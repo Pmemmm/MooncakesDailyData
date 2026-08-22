@@ -1,12 +1,14 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+agentdebug799/moonbit-triage,新增,2791,3,0,0,2791,3
 bw448/moon-wav,新增,1291,2,0,0,1291,2
 Camilotk/stuntmaster,新增,3063,3,0,0,3063,3
 chyppi/moonbit-deadline,新增,10011,3,0,0,10011,3
 coke089/moon-sdp,新增,5213,7,0,0,5213,7
-dtzrttp/moonbit-rtl,新增,8607,9,0,0,8607,9
+cravan371/xpath-evaluator,新增,7252,8,0,0,7252,8
+dtzrttp/moonbit-rtl,新增,8608,9,0,0,8608,9
 DZX-ai-nb/lunemark,新增,6330,3,0,0,6330,3
 fhh12341/mailkit_12314,新增,5073,2,0,0,5073,2
-fuyun-2026/moonbit-canbus,新增,7409,13,0,0,7409,13
+fuyun-2026/moonbit-canbus,新增,7473,13,0,0,7473,13
 guiqi695/moon-prometheus-sdk,新增,7179,19,0,0,7179,19
 hjuuhj/moonbit-rulesorigin,新增,10292,12,0,0,10292,12
 JM-ai-n/moonfolio,新增,5294,3,0,0,5294,3
@@ -21,6 +23,7 @@ qxjhhrr/moonbit-returnplay,新增,6615,3,0,0,6615,3
 qzx-cyber/moonbit-tradeclass,新增,40287,3,0,0,40287,3
 suqinxi/voltweave,新增,5653,3,0,0,5653,3
 zhou506403/fairshift,新增,4789,2,0,0,4789,2
+zhou506403/rosterweave,新增,4789,2,0,0,4789,2
 zzy12346/moonhook,新增,6406,2,0,0,6406,2
 13131116363/routeable,有变化,689,1,4508,2,5197,3
 hhxhhx78/moonbit-iec104,有变化,13672,0,9688,2,23360,2
@@ -37,6 +40,7 @@ oboard/mocket,有变化,263,1,8619,16,8882,17
 pla678889/moon-experiment,有变化,14988,12,9059,14,24047,26
 poteto0/endor,有变化,3098,1,25581,23,28679,24
 qjgqjg/moon-causal,有变化,17994,0,8216,2,26210,2
+qyt1234567/moonbit-modbus,有变化,17325,0,10491,3,27816,3
 sacckey/mahjong,有变化,176,0,3446,4,3622,4
 SHX-ai-nb/capsuletrace-upload,有变化,801,0,3624,3,4425,3
 wcx789ll/moon-reliability,有变化,14539,1,10346,2,24885,3
@@ -1534,7 +1538,6 @@ qianfuzsc/moon-webfinger,无变化,0,0,6367,7,6367,7
 Qlcdsba/uri,无变化,0,0,3512,3,3512,3
 quelgar/lunar-reactor,无变化,0,0,2388,4,2388,4
 QuietlyChan/moonai,无变化,0,0,122587,30,122587,30
-qyt1234567/moonbit-modbus,无变化,0,0,10491,3,10491,3
 qyt1234567/moongraphlearn,无变化,0,0,5817,9,5817,9
 QZL-max/QZL-max,无变化,0,0,12,1,12,1
 R00TK17/hex_editor,无变化,0,0,11406,3,11406,3
