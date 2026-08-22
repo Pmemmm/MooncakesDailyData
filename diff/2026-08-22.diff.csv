@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Camilotk/stuntmaster,新增,3063,3,0,0,3063,3
 dtzrttp/moonbit-rtl,新增,8607,9,0,0,8607,9
+JM-ai-n/moonfolio,新增,5294,3,0,0,5294,3
 lwq443/moonbit-ocean-qc,新增,1337,7,0,0,1337,7
 mhlagent/moonbit-accounting,新增,12507,2,0,0,12507,2
 qxjhhrr/moonbit-returnplay,新增,6615,3,0,0,6615,3
