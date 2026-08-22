@@ -1630,7 +1630,7 @@ moonbit-pathfinding,Suquster/moonbit-pathfinding,0.2.0,181493,71,2026-07-12T22:3
 mb-secure-stream,ChenJiasen-123/mb-secure-stream,0.1.3,8512,10,2026-07-11T13:11:54.230114
 nestedtext,OrisGo/nestedtext,0.1.1,6924,2,2026-07-11T15:24:08.597158
 examine,NiHao124538/examine,0.1.0,110,2,2026-06-13T08:44:18.445445
-bimap,aurasuisui/bimap,0.1.2,5985,4,2026-08-19T17:30:45.934065
+bimap,aurasuisui/bimap,0.1.3,6194,4,2026-08-22T16:52:33.419152
 indexmap,aurasuisui/indexmap,0.4.0,6089,4,2026-07-31T16:32:51.906655
 mooncharts,Xpeng/mooncharts,0.8.0,5018,3,2026-07-07T15:27:23.230092
 mooncov,Xpeng/mooncov,0.1.1,4890,2,2026-08-09T06:19:51.019340
@@ -1679,7 +1679,7 @@ MoonLogTrace,CCllff-jpg/MoonLogTrace,0.1.4,4696,2,2026-08-01T13:46:10.118259
 mooncollections,Zongzuixi114514/mooncollections,0.1.5,4664,13,2026-07-22T06:14:10.627852
 moonbit-reactor,LL124-Arch/moonbit-reactor,0.2.0,8076,3,2026-08-18T17:25:38.098220
 stencil,LL124-Arch/stencil,0.1.5,5417,2,2026-08-16T14:39:46.692040
-moonbit-abc,wedarp/moonbit-abc,0.1.1,9622,4,2026-08-21T14:51:40.024840
+moonbit-abc,wedarp/moonbit-abc,0.1.3,9745,4,2026-08-22T17:58:58.410160
 moongraph,wedarp/moongraph,0.2.2,4625,3,2026-08-16T14:31:12.832489
 moonmodguard,Noverberrain/moonmodguard,0.3.0,2809,2,2026-08-16T16:15:09.676488
 moonproto,Duan-lang-dev/moonproto,0.2.0,3415,2,2026-08-03T10:37:57.870287
@@ -2017,6 +2017,7 @@ moonhls,chenqi-arch/moonhls,0.2.0,4260,2,2026-08-18T03:20:47.014181
 moon-content-disposition,xiaojing012/moon-content-disposition,0.1.1,8942,8,2026-08-13T03:34:43.494987
 moon-warc,xiaojing012/moon-warc,0.1.0,7560,3,2026-08-21T12:00:17.341296
 moon-robots,liuhang0001/moon-robots,0.1.1,2921,6,2026-08-13T04:59:29.259303
+moonbit-fastq-qc,zkc-long/moonbit-fastq-qc,0.1.1,4389,9,2026-08-22T17:17:16.231068
 moon-securitytxt,moyunijieshi1/moon-securitytxt,0.1.0,5566,7,2026-08-21T13:03:29.372006
 neighbor_rota,zjk9993/neighbor_rota,0.1.1,5585,3,2026-08-22T07:27:15.083495
 rrule_lab,cjkzD/rrule_lab,0.1.0,4340,2,2026-08-13T09:28:55.040832
@@ -2116,4 +2117,7 @@ moonbit-triage,agentdebug799/moonbit-triage,0.4.0,10511,3,2026-08-22T15:21:03.76
 sshconfig-resolve,jingmo653/sshconfig-resolve,0.1.0,7891,11,2026-08-22T15:43:02.658349
 moonmail,howhere7/moonmail,0.1.0,6818,7,2026-08-22T15:54:02.929178
 moon-dns-stub,jinshengmeng46/moon-dns-stub,0.1.0,8595,4,2026-08-22T16:06:35.315094
-moon-avro,yugonlian/moon-avro,0.1.0,331,6,2026-08-22T16:13:06.548916
+moon-avro,yugonlian/moon-avro,0.2.4,3905,10,2026-08-22T17:25:10.629523
+moonbit-brandbook,cyypyhon123/moonbit-brandbook,0.2.1,12099,2,2026-08-22T18:12:51.157984
+moonbit-icd,Ycq-68798/moonbit-icd,0.2.0,6778,3,2026-08-22T18:51:03.213963
+MoonEditorConfig,tlhuecdkoyg/MoonEditorConfig,0.1.0,5634,3,2026-08-22T18:51:33.670821
