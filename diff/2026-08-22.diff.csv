@@ -1,10 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 bw448/moon-wav,新增,1291,2,0,0,1291,2
 Camilotk/stuntmaster,新增,3063,3,0,0,3063,3
+coke089/moon-sdp,新增,5213,7,0,0,5213,7
 dtzrttp/moonbit-rtl,新增,8607,9,0,0,8607,9
 DZX-ai-nb/lunemark,新增,6330,3,0,0,6330,3
+fuyun-2026/moonbit-canbus,新增,7409,13,0,0,7409,13
 JM-ai-n/moonfolio,新增,5294,3,0,0,5294,3
 lwq443/moonbit-ocean-qc,新增,1337,7,0,0,1337,7
+lyyjavastudy/moonbit-counterpoint,新增,11720,3,0,0,11720,3
 mhlagent/moonbit-accounting,新增,12507,2,0,0,12507,2
 PingGuoMiaoMiao/MoonRoute,新增,1868,13,0,0,1868,13
 qxjhhrr/moonbit-returnplay,新增,6615,3,0,0,6615,3
