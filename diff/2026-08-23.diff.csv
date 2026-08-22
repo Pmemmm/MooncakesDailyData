@@ -16,6 +16,7 @@ zkc-long/moonbit-fastq-qc,新增,4389,9,0,0,4389,9
 agentdebug799/moonbit-triage,有变化,7720,0,2791,3,10511,3
 aurasuisui/bimap,有变化,209,0,5985,4,6194,4
 ljlljl678/moonbit-deid,有变化,13799,0,9897,2,23696,2
+mohongquan0630/moonbit-plasma,有变化,8276,0,2001,2,10277,2
 myc1234567/moonbit-canbus,有变化,13408,0,9293,4,22701,4
 wedarp/moonbit-abc,有变化,123,0,9622,4,9745,4
 ywz1314/sessionlog,有变化,20450,11,10628,27,31078,38
@@ -1269,7 +1270,6 @@ mizchi/zlib,无变化,0,0,3391,6,3391,6
 mjfmjf879/moonbit_constraint,无变化,0,0,27641,3,27641,3
 MM-ai-nb/bech32-kit,无变化,0,0,4904,2,4904,2
 mohongquan0630/moon-prometheus,无变化,0,0,1557,3,1557,3
-mohongquan0630/moonbit-plasma,无变化,0,0,2001,2,2001,2
 mokomoking2501/concord,无变化,0,0,1498,2,1498,2
 mokomoking2501/fieldbus_core,无变化,0,0,18691,16,18691,16
 mokomoking2501/isocontract,无变化,0,0,2764,1,2764,1
