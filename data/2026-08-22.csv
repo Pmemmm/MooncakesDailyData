@@ -1010,6 +1010,7 @@ Autumn_frame,PingGuoMiaoMiao/Autumn_frame,0.1.0,14303,24,2025-11-09T02:29:39.683
 hello,PingGuoMiaoMiao/hello,0.1.0,25,2,2025-03-11T13:22:26.718149
 LunarKeccak256,PingGuoMiaoMiao/LunarKeccak256,0.1.3,1023,2,2025-12-29T07:14:57.507263
 mooncove,PingGuoMiaoMiao/mooncove,0.1.0,1413,2,2025-09-06T05:45:32.321820
+MoonRoute,PingGuoMiaoMiao/MoonRoute,0.1.0,1868,13,2026-08-22T04:41:46.411549
 MoonVision,PingGuoMiaoMiao/MoonVision,0.2.5,8852,16,2026-08-17T05:50:58.398101
 xing0818,xing0818/xing0818,0.1.0,15,1,2025-03-11T13:31:44.729211
 yhsz,YHSZ-ONEC/yhsz,0.1.0,12,1,2025-03-11T13:41:59.854488
@@ -1922,7 +1923,7 @@ moonbit-multilang-cms,liuzhiyug/moonbit-multilang-cms,0.1.1,1746,5,2026-08-19T04
 moonrllab,liuzhiyug/moonrllab,0.1.1,4532,3,2026-08-15T07:03:54.217768
 moonrule,YeeHh2004/moonrule,0.4.1,6428,2,2026-08-11T11:52:26.239531
 pixelforge,0717lee/pixelforge,0.13.1,7158,3,2026-08-19T04:11:22.890344
-endor,poteto0/endor,0.7.0,25581,23,2026-08-09T08:06:53.043458
+endor,poteto0/endor,0.8.0,28679,24,2026-08-22T04:02:23.399363
 agent,weopqrst/agent,0.5.1,7778,19,2026-08-19T00:56:02.386105
 behavior_tree,mhh12345678/behavior_tree,0.1.2,5993,2,2026-08-16T12:18:23.497061
 injuryrisk,mhh12345678/injuryrisk,0.2.0,10500,3,2026-08-19T09:14:13.814919
@@ -2090,3 +2091,5 @@ moonbit-accounting,mhlagent/moonbit-accounting,0.2.0,12507,2,2026-08-21T15:05:24
 moonbit-tradeclass,qzx-cyber/moonbit-tradeclass,0.2.0,40287,3,2026-08-21T16:43:33.773565
 moonbit-ocean-qc,lwq443/moonbit-ocean-qc,0.2.0,1337,7,2026-08-21T17:42:23.710047
 moonfolio,JM-ai-n/moonfolio,0.1.0,5294,3,2026-08-22T02:49:22.012658
+lunemark,DZX-ai-nb/lunemark,0.2.1,6330,3,2026-08-22T04:07:57.378105
+moon-wav,bw448/moon-wav,0.1.0,1291,2,2026-08-22T04:18:37.796958
