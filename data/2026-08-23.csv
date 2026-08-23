@@ -1686,6 +1686,7 @@ moonsarif,Noverberrain/moonsarif,0.3.0,2190,2,2026-08-23T03:28:33.810711
 moonproto,Duan-lang-dev/moonproto,0.2.0,3415,2,2026-08-03T10:37:57.870287
 moonorbit,didiLjf/moonorbit,0.2.1,3774,6,2026-08-16T15:04:41.929575
 moon-record-linkage,didiLjf/moon-record-linkage,0.1.4,10398,13,2026-08-18T10:13:22.648899
+moonaerowx,jshsj124/moonaerowx,0.1.0,2873,2,2026-08-23T05:42:52.102288
 moontemplate,jshsj124/moontemplate,0.1.1,1168,6,2026-07-28T13:02:44.387351
 moonpathfinding,hzc-666-ai/moonpathfinding,0.1.3,3072,7,2026-08-01T07:53:45.396239
 moonmark,zmjknn/moonmark,0.1.1,1696,6,2026-08-11T05:48:58.472043
@@ -1983,10 +1984,12 @@ moonbit-canbus,fuyun-2026/moonbit-canbus,0.2.3,7473,13,2026-08-22T13:35:02.98903
 moonbit-pcap,cghyyrrt/moonbit-pcap,0.1.1,8009,11,2026-08-20T18:30:41.057957
 moonbit-rtl,dtzrttp/moonbit-rtl,0.2.1,8608,9,2026-08-22T14:16:39.774041
 pinyin-toolkit,wjhfather/pinyin-toolkit,0.1.0,14641,6,2026-08-06T13:58:57.334741
-moonbit-mcu-hal,sbqrre/moonbit-mcu-hal,0.2.0,11360,47,2026-08-20T11:28:10.199682
-iec104,dgmlbtttt/iec104,0.2.0,9467,11,2026-08-20T13:45:44.958011
+moonbit-mcu-hal,sbqrre/moonbit-mcu-hal,0.2.1,11360,47,2026-08-23T06:58:30.451658
+iec104,dgmlbtttt/iec104,0.2.1,9467,11,2026-08-23T06:48:12.317994
 nmea-toolkit,jiujitong/nmea-toolkit,0.1.0,6832,6,2026-08-08T04:13:31.945222
+photonics,wyhjjkk/photonics,0.1.0,11296,12,2026-08-23T05:53:44.898205
 moonbit-deadline,chyppi/moonbit-deadline,0.1.0,10011,3,2026-08-22T08:13:01.050573
+measure,wjyupl/measure,0.1.1,8849,13,2026-08-23T05:41:02.632050
 moonbit-fixedincome,lwmvr/moonbit-fixedincome,0.2.0,8604,22,2026-08-22T10:47:29.466625
 eventrail,violetcb/eventrail,0.3.2,6727,2,2026-08-17T10:15:34.264733
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
@@ -2126,3 +2129,7 @@ MoonEditorConfig,tlhuecdkoyg/MoonEditorConfig,0.1.0,5634,3,2026-08-22T18:51:33.6
 tzif-engine,caijiewei295/tzif-engine,0.1.0,7997,15,2026-08-22T19:20:29.813163
 mbt-email,Mr-Houjie/mbt-email,0.1.0,5719,2,2026-08-22T23:08:50.836850
 moonbit-json-jcs,xlyyyyyy112/moonbit-json-jcs,0.1.0,5161,2,2026-08-23T02:23:09.610904
+moonbit-visual-caliper,llyiioo/moonbit-visual-caliper,0.2.2,11201,3,2026-08-23T06:13:49.186333
+web-discovery-kit,yeshenyue2017/web-discovery-kit,0.1.1,6447,7,2026-08-23T05:40:49.554013
+moonbit-sourcemap,xiaoxiao1211/moonbit-sourcemap,0.1.0,2199,2,2026-08-23T06:53:29.650440
+moon-lsp-compiletest,yinlaomo112/moon-lsp-compiletest,0.1.0,4432,9,2026-08-23T06:57:05.337365
