@@ -1841,6 +1841,7 @@ moonbit-workflow-engine,Lyl66655/moonbit-workflow-engine,0.1.4,3639,12,2026-08-1
 moon-survival,Lyl66655/moon-survival,0.2.3,29144,3,2026-08-20T15:06:06.914040
 moon-kalman,Lyllyl789/moon-kalman,0.2.1,24444,3,2026-08-20T14:37:48.758199
 mustache,Lyllyl789/mustache,0.1.6,9337,18,2026-08-16T03:38:27.882541
+moonbit-seismic,wch6766/moonbit-seismic,0.1.0,22077,3,2026-08-23T10:18:24.145472
 MoonSecureCodec,wch6766/MoonSecureCodec,0.1.1,11711,6,2026-08-16T02:34:12.527333
 pixelate,PixelPoet/pixelate,0.1.3,5867,1,2026-07-12T07:48:29.302347
 moonguard,918154429/moonguard,0.2.0,9047,2,2026-07-12T07:52:31.521920
@@ -2019,6 +2020,7 @@ moonvault,Q30399/moonvault,0.1.0,3983,2,2026-08-12T07:23:54.995438
 moonbit-rulesorigin,hjuuhj/moonbit-rulesorigin,0.1.1,10292,12,2026-08-22T13:11:54.789882
 MoonRetrieve,niuniu513-ask/MoonRetrieve,0.5.0,4152,3,2026-08-21T09:43:43.746223
 moonbit_cron,lijunjie860/moonbit_cron,0.1.0,800,2,2026-08-12T15:24:08.147288
+moonbit-eta-predict,lijunjie860/moonbit-eta-predict,0.2.1,6580,2,2026-08-23T10:41:04.825984
 moon-weblink,15614376790/moon-weblink,0.1.1,9390,7,2026-08-21T14:17:21.229683
 moonhls,chenqi-arch/moonhls,0.2.0,4260,2,2026-08-18T03:20:47.014181
 moon-content-disposition,xiaojing012/moon-content-disposition,0.1.1,8942,8,2026-08-13T03:34:43.494987
@@ -2064,7 +2066,7 @@ moon-missingness,liuminyuan/moon-missingness,0.3.0,25812,8,2026-08-22T10:17:17.5
 moonlexicon,dsyuuii/moonlexicon,0.2.0,10797,3,2026-08-18T14:42:31.466357
 moonbit-ifc,chiooo09/moonbit-ifc,0.1.0,9357,3,2026-08-19T02:24:04.560775
 moonbit-gltf-tools,hzfhzf89/moonbit-gltf-tools,0.1.1,30906,3,2026-08-22T11:13:02.854953
-radiation,Zjfzjf666/radiation,0.2.0,10610,2,2026-08-19T08:15:10.210031
+radiation,Zjfzjf666/radiation,0.2.1,28030,2,2026-08-23T10:30:29.639598
 moonbit-ats-timetable,zhtzht12345678/moonbit-ats-timetable,0.1.0,9287,3,2026-08-19T08:28:30.409925
 moonbit-easings,Zlj6566/moonbit-easings,0.1.0,9797,3,2026-08-19T08:32:31.967849
 moonbit-deid,ljlljl678/moonbit-deid,0.1.1,23696,2,2026-08-22T15:11:29.343840

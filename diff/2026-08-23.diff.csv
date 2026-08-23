@@ -8,6 +8,7 @@ howhere7/moonmail,新增,6818,7,0,0,6818,7
 jingmo653/sshconfig-resolve,新增,7891,11,0,0,7891,11
 jinshengmeng46/moon-dns-stub,新增,8595,4,0,0,8595,4
 jshsj124/moonaerowx,新增,2873,2,0,0,2873,2
+lijunjie860/moonbit-eta-predict,新增,6580,2,0,0,6580,2
 llyiioo/moonbit-visual-caliper,新增,11201,3,0,0,11201,3
 lsh775/moonbit_metrology,新增,8047,2,0,0,8047,2
 Mr-Houjie/mbt-email,新增,5719,2,0,0,5719,2
@@ -16,6 +17,7 @@ q0w1ertyuiop/moonrag-bench,新增,6687,2,0,0,6687,2
 Qlcdsba/moonbit-barcoder,新增,12286,2,0,0,12286,2
 spectacleCase/moonbook,新增,2671,7,0,0,2671,7
 tlhuecdkoyg/MoonEditorConfig,新增,5634,3,0,0,5634,3
+wch6766/moonbit-seismic,新增,22077,3,0,0,22077,3
 wjyupl/measure,新增,8849,13,0,0,8849,13
 wyhjjkk/photonics,新增,11296,12,0,0,11296,12
 xiaoxiao1211/moonbit-sourcemap,新增,2199,2,0,0,2199,2
@@ -58,6 +60,7 @@ wzzc-dev/moui_webview,有变化,2103,0,1647,6,3750,6
 wzzc-dev/moui_wgpu_renderer,有变化,145,0,13753,6,13898,6
 ywz1314/sessionlog,有变化,20450,11,10628,27,31078,38
 zgfzgf899/moonbit-vector-trace-plan,有变化,10985,0,13380,8,24365,8
+Zjfzjf666/radiation,有变化,17420,0,10610,2,28030,2
 Zjyyer/moonbit-klt-tracker,有变化,19,0,12322,15,12341,15
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -2108,7 +2111,6 @@ ZijianFeng33/gs,无变化,0,0,242,2,242,2
 ZijianFeng33/range,无变化,0,0,159,2,159,2
 ZijianFeng33/regexp,无变化,0,0,117,2,117,2
 ZijianFeng33/strongPasswordChecker,无变化,0,0,381,2,381,2
-Zjfzjf666/radiation,无变化,0,0,10610,2,10610,2
 zjk9993/neighbor_rota,无变化,0,0,5585,3,5585,3
 Zjyyer/moontera,无变化,0,0,2360,9,2360,9
 zkazure/moonfocus,无变化,0,0,4684,7,4684,7
