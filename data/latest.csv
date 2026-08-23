@@ -1996,7 +1996,7 @@ measure,wjyupl/measure,0.1.1,8849,13,2026-08-23T05:41:02.632050
 moonbit-fixedincome,lwmvr/moonbit-fixedincome,0.2.0,8604,22,2026-08-22T10:47:29.466625
 eventrail,violetcb/eventrail,0.3.2,6727,2,2026-08-17T10:15:34.264733
 acceptkit,XiaoMao-MYY/acceptkit,0.1.0,5026,2,2026-08-09T13:00:47.047403
-moonbit-vle,Zxy666668/moonbit-vle,0.2.1,7597,2,2026-08-23T18:37:13.762282
+moonbit-vle,Zxy666668/moonbit-vle,0.2.2,7594,2,2026-08-23T18:54:35.016699
 moonslokit,Zxy666668/moonslokit,0.2.0,3267,2,2026-08-16T14:06:12.768349
 moonbit-notary,hcjbat/moonbit-notary,0.1.0,7126,14,2026-08-23T07:15:21.450408
 moonbdd,oyjh0381/moonbdd,0.1.0,4701,5,2026-08-17T08:51:44.944174
@@ -2158,4 +2158,6 @@ moonbit-visual-debug,xlh123jjj/moonbit-visual-debug,0.2.1,6520,3,2026-08-23T18:0
 moonbit-fish-stock,lfbnntr/moonbit-fish-stock,0.1.1,7241,19,2026-08-23T17:28:44.919013
 moonbit-biogeochem,lqlnvj/moonbit-biogeochem,0.1.1,6245,10,2026-08-23T18:05:32.349378
 moonbit-reef-connect,hcrrtte/moonbit-reef-connect,0.1.1,9229,8,2026-08-23T18:39:52.873883
-cf_ocean,hrwqe/cf_ocean,0.1.0,7583,12,2026-08-23T18:50:09.358145
+cf_ocean,hrwqe/cf_ocean,0.1.3,8882,12,2026-08-23T19:41:37.170225
+moonbit-lbm,zhsyutt/moonbit-lbm,0.2.1,8567,2,2026-08-23T19:48:02.554408
+moonbitJobShop,ljs448/moonbitJobShop,0.2.0,8136,3,2026-08-23T20:31:47.280502
