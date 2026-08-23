@@ -2035,11 +2035,12 @@ moonredis,le065-tc/moonredis,0.1.3,4121,7,2026-08-21T09:43:47.463423
 minivcd_mbt,alicedhaha/minivcd_mbt,0.1.6,5419,2,2026-08-21T03:23:20.063618
 toml-mbt,yufenfei111/toml-mbt,0.2.0,8971,8,2026-08-21T06:13:21.810427
 moondatalog,haol-05/moondatalog,0.1.1,3890,3,2026-08-15T13:30:35.283161
-moonconfigkit,crh12354/moonconfigkit,0.1.0,2631,2,2026-08-14T10:27:38.204373
+moonconfigkit,crh12354/moonconfigkit,0.1.1,3889,2,2026-08-23T13:33:08.731421
 moonbit-license-audit,clbbbb/moonbit-license-audit,0.1.1,5024,2,2026-08-14T15:28:32.465356
 moonbit-wasm-inspect,clbbbb/moonbit-wasm-inspect,0.1.0,4236,3,2026-08-22T14:45:34.409007
 har-toolkit,cpypypypy/har-toolkit,0.1.0,5903,6,2026-08-15T08:33:00.072658
 moonflags,WhisperJXH/moonflags,0.2.1,8577,2,2026-08-17T14:40:05.414836
+moonbit-energybalance,liying-han/moonbit-energybalance,0.2.3,9281,3,2026-08-23T13:59:50.855561
 moonresilience,liying-han/moonresilience,0.2.0,5205,2,2026-08-16T04:15:36.834635
 moonbit-shard-note,JJ-ai-nb/moonbit-shard-note,0.2.1,4521,2,2026-08-20T07:04:40.459734
 moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
@@ -2140,4 +2141,10 @@ moonbit-sourcemap,xiaoxiao1211/moonbit-sourcemap,0.1.0,2199,2,2026-08-23T06:53:2
 moon-lsp-compiletest,yinlaomo112/moon-lsp-compiletest,0.1.0,4432,9,2026-08-23T06:57:05.337365
 sbs,17731189258/sbs,0.1.0,4527,2,2026-08-23T11:37:50.816247
 moonbit-fhir,cxh123-alt/moonbit-fhir,0.2.0,8456,2,2026-08-23T11:48:16.939568
-moonevent,shaoaiwan/moonevent,0.1.0,1215,2,2026-08-23T11:51:29.711360
+moonevent,shaoaiwan/moonevent,0.2.0,4143,2,2026-08-23T13:51:49.110713
+moonflow,xvyve123/moonflow,0.1.0,5793,2,2026-08-23T13:20:46.314190
+xb123,k5111114s/xb123,0.1.0,5440,2,2026-08-23T13:26:28.373273
+shiftweave,SUIKKKA/shiftweave,0.1.1,4418,2,2026-08-23T14:33:55.764928
+mooncidr,lzh123411/mooncidr,0.1.0,3670,2,2026-08-23T13:30:15.104609
+moon-flow-guard,wcj12314/moon-flow-guard,0.1.0,10248,2,2026-08-23T13:36:31.488846
+moonshrink,httt-star/moonshrink,0.1.1,36348,9,2026-08-23T14:39:09.966946
