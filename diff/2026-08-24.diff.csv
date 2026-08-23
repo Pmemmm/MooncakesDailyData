@@ -12,6 +12,7 @@ yangxixi00/moon_vcdiff,新增,6471,2,0,0,6471,2
 yourenA1108/flipspec,新增,4594,2,0,0,4594,2
 zhsyutt/moonbit-lbm,新增,8567,2,0,0,8567,2
 Zxy666668/moonbit-vle,新增,7594,2,0,0,7594,2
+cxh04/moonbit_camera_models,有变化,653,0,37320,10,37973,10
 gmlewis/fonts,有变化,22,0,15141,20,15163,20
 gmlewis/image,有变化,69,0,10063,5,10132,5
 gmlewis/moonbit-pdk,有变化,9,0,1224,12,1233,12
@@ -351,7 +352,6 @@ crh12354/moonconfigkit,无变化,0,0,3889,2,3889,2
 cstoooo/moonbit-aml,无变化,0,0,30615,2,30615,2
 cxh04/cron_mbt,无变化,0,0,6278,3,6278,3
 cxh04/moon-cv-geometry,无变化,0,0,1310,9,1310,9
-cxh04/moonbit_camera_models,无变化,0,0,37320,10,37320,10
 cxh123-alt/moonbit-fhir,无变化,0,0,8456,2,8456,2
 cybershang/agent-o11y-demo,无变化,0,0,2527,2,2527,2
 cybershang/agent-telemetry,无变化,0,0,2371,1,2371,1
