@@ -40,7 +40,7 @@ crescent,bobzhang/crescent,0.11.0,23609,23,2026-07-23T14:39:55.005494
 crescent-benchmarks,bobzhang/crescent-benchmarks,0.0.1,122,4,2026-04-09T15:48:34.164048
 crescent-examples,bobzhang/crescent-examples,0.0.1,377,7,2026-04-09T15:48:27.673572
 crescent_wasm_demo,bobzhang/crescent_wasm_demo,0.1.0,148,2,2026-07-23T14:57:35.256169
-docx2html,bobzhang/docx2html,0.3.0,70771,18,2026-08-06T02:01:32.206914
+docx2html,bobzhang/docx2html,0.4.0,85926,18,2026-08-24T02:41:58.287885
 finapp,bobzhang/finapp,0.1.0,2463,4,2026-04-04T13:27:46.326636
 flowgraph,bobzhang/flowgraph,0.1.1,1085,1,2026-04-18T15:09:55.235835
 fuzzyscore,bobzhang/fuzzyscore,0.1.1,898,2,2026-04-18T15:10:12.479821
@@ -76,9 +76,10 @@ moonjq,bobzhang/moonjq,0.1.1,12775,6,2026-08-20T07:51:28.189305
 myshell,bobzhang/myshell,0.3.0,1974,2,2026-08-17T09:44:10.752557
 nodegraph,bobzhang/nodegraph,0.1.0,3556,4,2026-04-04T13:27:48.198273
 noteapp,bobzhang/noteapp,0.3.2,1582,4,2026-04-04T13:28:59.319728
-office,bobzhang/office,0.4.0,49,1,2026-08-06T02:02:14.046790
-office-lib,bobzhang/office-lib,0.3.0,64076,14,2026-08-06T02:02:00.271790
+office,bobzhang/office,0.5.0,49,1,2026-08-24T02:45:41.737442
+office-lib,bobzhang/office-lib,0.4.0,66140,14,2026-08-24T02:44:58.458409
 openseek,bobzhang/openseek,0.2.2,73072,80,2026-07-05T14:14:50.537822
+pagelayout,bobzhang/pagelayout,0.1.0,16024,15,2026-08-24T02:44:27.629424
 pdflite,bobzhang/pdflite,0.1.41,357336,50,2026-07-12T06:53:13.461741
 pollapp,bobzhang/pollapp,0.3.2,1586,4,2026-04-04T13:29:01.010690
 portable_cli,bobzhang/portable_cli,0.1.11,10365,15,2026-06-03T14:29:53.911616
@@ -243,6 +244,7 @@ cowsay,Yoorkin/cowsay,0.1.2,195,1,2026-06-25T12:20:01.395578
 duplix,Yoorkin/duplix,0.2.9,3148,4,2026-07-15T04:03:30.651190
 format,Yoorkin/format,0.1.5,62,1,2024-07-30T09:45:49.046658
 fuzzy_search,Yoorkin/fuzzy_search,0.1.1,249,1,2025-03-27T05:42:51.310533
+grill-me,Yoorkin/grill-me,0.2.5,23,1,2026-08-24T03:05:52.515204
 hashtbl,Yoorkin/hashtbl,0.1.2,59,2,2024-09-04T03:16:18.533001
 hello,Yoorkin/hello,0.1.3,33,2,2024-02-04T09:07:20.617611
 jmop,Yoorkin/jmop,0.1.1,2187,2,2025-10-11T08:39:33.645502
@@ -943,7 +945,7 @@ moui_skia,wzzc-dev/moui_skia,0.1.10,35748,8,2026-08-23T07:36:52.735384
 moui_skia_renderer,wzzc-dev/moui_skia_renderer,0.1.11,16994,1,2026-08-23T16:14:28.382031
 moui_sun,wzzc-dev/moui_sun,0.1.7,81386,4,2026-07-12T08:24:26.664774
 moui_web_renderer,wzzc-dev/moui_web_renderer,0.1.10,4456,2,2026-08-23T07:58:43.534153
-moui_webview,wzzc-dev/moui_webview,0.1.10,3750,6,2026-08-23T07:59:59.681945
+moui_webview,wzzc-dev/moui_webview,0.1.11,3849,6,2026-08-24T03:22:00.484220
 moui_wgpu_renderer,wzzc-dev/moui_wgpu_renderer,0.1.10,13898,6,2026-08-23T08:00:30.846033
 skia_mbt,wzzc-dev/skia_mbt,0.1.2,14341,8,2026-05-30T08:07:25.670355
 teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
@@ -1699,7 +1701,7 @@ moon_bencode,2515050243qyf/moon_bencode,0.2.0,6591,3,2026-08-16T02:11:47.136553
 moonbit-geofield,2515050243qyf/moonbit-geofield,0.1.0,13977,3,2026-08-18T17:55:43.897201
 moontemplate,Project2026-creator/moontemplate,0.2.7,8462,2,2026-08-18T15:31:13.845910
 cron_mbt,cxh04/cron_mbt,0.2.4,6278,3,2026-08-16T11:22:51.336906
-moonbit_camera_models,cxh04/moonbit_camera_models,0.2.0,37973,10,2026-08-23T21:12:00.347560
+moonbit_camera_models,cxh04/moonbit_camera_models,0.2.1,7830,10,2026-08-24T03:04:56.598119
 moon-cv-geometry,cxh04/moon-cv-geometry,0.1.0,1310,9,2026-07-22T14:36:59.075057
 moonbit-artboard,wccerty/moonbit-artboard,0.1.1,11506,15,2026-08-19T09:37:57.207355
 moonfeaturegate,wccerty/moonfeaturegate,0.1.3,5284,2,2026-08-14T18:28:49.802042
@@ -1746,7 +1748,7 @@ moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonbit-chemreport,Lyhdsba/moonbit-chemreport,0.3.0,19696,2,2026-08-19T05:15:14.751402
 moonforge,Lyhdsba/moonforge,0.1.3,5114,2,2026-08-11T02:44:37.386012
 dotenv,spectacleCase/dotenv,0.1.0,2004,2,2026-07-07T03:12:36.699614
-moonbook,spectacleCase/moonbook,0.3.0,2671,7,2026-08-23T07:39:02.626776
+moonbook,spectacleCase/moonbook,0.3.1,2680,7,2026-08-24T03:02:42.441891
 aegisrun,tuya-me/aegisrun,0.9.3,4645,4,2026-07-17T09:52:25.375224
 flowgate,tuya-me/flowgate,0.1.0,307,2,2026-07-07T07:34:07.794564
 fuse,tuya-me/fuse,0.1.0,324,2,2026-07-07T07:34:10.204699
@@ -2161,3 +2163,4 @@ moonbit-reef-connect,hcrrtte/moonbit-reef-connect,0.1.1,9229,8,2026-08-23T18:39:
 cf_ocean,hrwqe/cf_ocean,0.1.3,8882,12,2026-08-23T19:41:37.170225
 moonbit-lbm,zhsyutt/moonbit-lbm,0.2.1,8567,2,2026-08-23T19:48:02.554408
 moonbitJobShop,ljs448/moonbitJobShop,0.2.0,8136,3,2026-08-23T20:31:47.280502
+dwarfscope,wuhaiting321/dwarfscope,0.1.0,8697,10,2026-08-24T03:09:24.434486
