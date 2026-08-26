@@ -3,11 +3,14 @@ bobzhang/jqlog,新增,185,1,0,0,185,1
 moonbitlang/moonback,新增,4787,5,0,0,4787,5
 mooxCLI/cmd,新增,5355,20,0,0,5355,20
 bobzhang/moonjq,有变化,5217,18,12775,6,17992,24
+brickfrog/moontrace,有变化,13,0,14080,10,14093,10
 colmugx/posoco,有变化,1353,0,31462,9,32815,9
+Kaida-Amethyst/readline,有变化,1415,-1,1674,2,3089,1
 marianoguerra/llm,有变化,394,0,4320,7,4714,7
 moonbit-community/flate,有变化,641,0,10193,4,10834,4
 moonbit-community/graphviz,有变化,447,0,173784,115,174231,115
 moonbit-community/moondiff,有变化,-9856,1,32440,18,22584,19
+moonbit-community/moongrep,有变化,-3027,0,32481,15,29454,15
 moonbitlang/async,有变化,4638,2,47546,51,52184,53
 morning-start/prism,有变化,378,0,28285,17,28663,17
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -232,7 +235,6 @@ bobzhang/wc,无变化,0,0,253,1,253,1
 bobzhang/xxd,无变化,0,0,335,1,335,1
 bobzhang/zip,无变化,0,0,17585,16,17585,16
 bobzhang/zipc,无变化,0,0,6456,6,6456,6
-brickfrog/moontrace,无变化,0,0,14080,10,14080,10
 brickfrog/pippa,无变化,0,0,39179,35,39179,35
 brickfrog/tempo,无变化,0,0,7155,1,7155,1
 brother-666/moonwheelkit,无变化,0,0,1656,3,1656,3
@@ -808,7 +810,6 @@ Kaida-Amethyst/MoonMIR,无变化,0,0,15451,3,15451,3
 Kaida-Amethyst/openblas,无变化,0,0,66273,2,66273,2
 Kaida-Amethyst/path,无变化,0,0,745,1,745,1
 Kaida-Amethyst/python,无变化,0,0,6464,7,6464,7
-Kaida-Amethyst/readline,无变化,0,0,1674,2,1674,2
 Kaida-Amethyst/screeps,无变化,0,0,6542,3,6542,3
 Kaida-Amethyst/sdl3,无变化,0,0,22939,4,22939,4
 kalculos/miao,无变化,0,0,11498,12,11498,12
@@ -1370,7 +1371,6 @@ moonbit-community/microphone,无变化,0,0,586,1,586,1
 moonbit-community/miniio,无变化,0,0,3557,10,3557,10
 moonbit-community/moon_cpal,无变化,0,0,19042,19,19042,19
 moonbit-community/moon_dagre,无变化,0,0,11649,4,11649,4
-moonbit-community/moongrep,无变化,0,0,32481,15,32481,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/normalization,无变化,0,0,1389,3,1389,3
 moonbit-community/NyaCSV,无变化,0,0,1196,1,1196,1
