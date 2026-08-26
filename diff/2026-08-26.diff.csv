@@ -1,10 +1,14 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+bobzhang/jqlog,新增,185,1,0,0,185,1
 moonbitlang/moonback,新增,4787,5,0,0,4787,5
-mooxCLI/cmd,新增,150,0,0,0,150,0
+mooxCLI/cmd,新增,5355,20,0,0,5355,20
+bobzhang/moonjq,有变化,5217,18,12775,6,17992,24
 colmugx/posoco,有变化,1353,0,31462,9,32815,9
+marianoguerra/llm,有变化,394,0,4320,7,4714,7
 moonbit-community/flate,有变化,641,0,10193,4,10834,4
 moonbit-community/graphviz,有变化,447,0,173784,115,174231,115
 moonbit-community/moondiff,有变化,-9856,1,32440,18,22584,19
+moonbitlang/async,有变化,4638,2,47546,51,52184,53
 morning-start/prism,有变化,378,0,28285,17,28663,17
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -185,7 +189,6 @@ bobzhang/loop_invariants_techniques,无变化,0,0,20283,35,20283,35
 bobzhang/loop_invariants_verified,无变化,0,0,1499,7,1499,7
 bobzhang/mbtexcel,无变化,0,0,674545,97,674545,97
 bobzhang/mbtpdf,无变化,0,0,82073,50,82073,50
-bobzhang/moonjq,无变化,0,0,12775,6,12775,6
 bobzhang/myshell,无变化,0,0,1974,2,1974,2
 bobzhang/nl,无变化,0,0,195,1,195,1
 bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
@@ -1013,7 +1016,6 @@ maria/toml_parser,无变化,0,0,1018,2,1018,2
 marianoguerra/atom,无变化,0,0,1100,1,1100,1
 marianoguerra/atproto,无变化,0,0,51484,10,51484,10
 marianoguerra/atproto-http,无变化,0,0,136,1,136,1
-marianoguerra/llm,无变化,0,0,4320,7,4320,7
 marianoguerra/mcp,无变化,0,0,3990,6,3990,6
 marianoguerra/mcp-bsky,无变化,0,0,2340,2,2340,2
 marianoguerra/mcp-client,无变化,0,0,1777,4,1777,4
@@ -1423,7 +1425,6 @@ moonbit-community/zipc,无变化,0,0,1551,1,1551,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,47546,51,47546,51
 moonbitlang/core,无变化,0,0,228217,79,228217,79
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
 moonbitlang/editor,无变化,0,0,168064,50,168064,50
