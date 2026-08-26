@@ -1,6 +1,10 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+moonbitlang/moonback,新增,4787,5,0,0,4787,5
+mooxCLI/cmd,新增,150,0,0,0,150,0
 colmugx/posoco,有变化,1353,0,31462,9,32815,9
 moonbit-community/flate,有变化,641,0,10193,4,10834,4
+moonbit-community/graphviz,有变化,447,0,173784,115,174231,115
+moonbit-community/moondiff,有变化,-9856,1,32440,18,22584,19
 morning-start/prism,有变化,378,0,28285,17,28663,17
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -1351,7 +1355,6 @@ moonbit-community/ffi,无变化,0,0,222,1,222,1
 moonbit-community/find_cluster_break,无变化,0,0,647,2,647,2
 moonbit-community/fuzzy_match,无变化,0,0,584,1,584,1
 moonbit-community/global_hotkey,无变化,0,0,1387,1,1387,1
-moonbit-community/graphviz,无变化,0,0,173784,115,173784,115
 moonbit-community/harfbuzz,无变化,0,0,214779,21,214779,21
 moonbit-community/html,无变化,0,0,102802,3,102802,3
 moonbit-community/idna,无变化,0,0,6820,4,6820,4
@@ -1365,7 +1368,6 @@ moonbit-community/microphone,无变化,0,0,586,1,586,1
 moonbit-community/miniio,无变化,0,0,3557,10,3557,10
 moonbit-community/moon_cpal,无变化,0,0,19042,19,19042,19
 moonbit-community/moon_dagre,无变化,0,0,11649,4,11649,4
-moonbit-community/moondiff,无变化,0,0,32440,18,32440,18
 moonbit-community/moongrep,无变化,0,0,32481,15,32481,15
 moonbit-community/moongrep-skill,无变化,0,0,1095,1,1095,1
 moonbit-community/normalization,无变化,0,0,1389,3,1389,3
