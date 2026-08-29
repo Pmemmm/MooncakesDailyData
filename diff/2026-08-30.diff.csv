@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 colmugx/mcp,有变化,276,0,14884,11,15160,11
+kokic/katex-parser,有变化,-10509,-7,22602,8,12093,1
 Lfan-ke/moon-mysql,有变化,125,0,3103,2,3228,2
 Lfan-ke/moon-postgres,有变化,55,0,2698,1,2753,1
 Lfan-ke/moonapi,有变化,4680,23,6713,1,11393,24
@@ -864,7 +865,6 @@ kokic/cmark,无变化,0,0,12885,1,12885,1
 kokic/fakefetch,无变化,0,0,1580,2,1580,2
 kokic/i18n-ipsum,无变化,0,0,600,1,600,1
 kokic/identifier,无变化,0,0,440,1,440,1
-kokic/katex-parser,无变化,0,0,22602,8,22602,8
 kokic/metrics,无变化,0,0,1118,1,1118,1
 kokic/momoka,无变化,0,0,1299,1,1299,1
 kokic/moonbit-chalk,无变化,0,0,248,1,248,1
