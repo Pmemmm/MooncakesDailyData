@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 colmugx/mcp,有变化,276,0,14884,11,15160,11
+colmugx/posoco,有变化,315,0,34082,9,34397,9
 kokic/katex-parser,有变化,-10509,-7,22602,8,12093,1
 Lfan-ke/moon-mysql,有变化,125,0,3103,2,3228,2
 Lfan-ke/moon-postgres,有变化,55,0,2698,1,2753,1
@@ -359,7 +360,6 @@ colmugx/acp,无变化,0,0,78938,22,78938,22
 colmugx/jieba,无变化,0,0,386261,3,386261,3
 colmugx/ofd,无变化,0,0,2520,4,2520,4
 colmugx/ofdx,无变化,0,0,166,1,166,1
-colmugx/posoco,无变化,0,0,34082,9,34082,9
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
