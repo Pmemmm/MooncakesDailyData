@@ -856,7 +856,7 @@ markdown,shiguri-01/markdown,0.1.1,16622,3,2026-06-13T11:06:18.446013
 markdown,mizchi/markdown,0.8.3,32450,31,2026-08-30T15:29:32.446256
 markitdown,ZSeanYves/markitdown,0.5.3,182209,106,2026-07-12T15:41:25.028084
 mars,mizchi/mars,0.3.11,15562,12,2026-06-29T17:59:52.458832
-maru,kosei28/maru,0.2.0,1069,1,2026-09-02T16:27:52.941852
+maru,kosei28/maru,0.3.0,2354,4,2026-09-02T19:03:27.25473
 math,0Ayachi0/math,0.1.0,821,3,2025-02-08T18:14:23.512674
 math,Kaida-Amethyst/math,0.1.21,15075,1,2026-07-08T07:47:59.141284
 MATH,Kilig/MATH,0.1.1,39,2,2025-03-12T07:46:24.684889
@@ -1198,7 +1198,7 @@ moon_cpal,Milky2018/moon_cpal,0.11.8,19049,19,2026-08-03T13:45:48.097004
 MoonCRDTKit,ddd-1234d/MoonCRDTKit,0.2.0,1146,2,2026-07-19T23:53:05.418905
 moon_cron,p1nbored/moon_cron,0.1.0,5531,2,2026-08-16T15:59:24.77864
 mooncron,001-Elsa/mooncron,0.1.4,5560,2,2026-08-01T04:20:32.671603
-mooncry,cc06b/mooncry,0.27.0,21025,3,2026-09-02T11:58:38.431717
+mooncry,cc06b/mooncry,0.28.0,35227,3,2026-09-02T17:15:54.335735
 mooncrypto,oboard/mooncrypto,0.1.8,1010,2,2024-07-30T12:09:43.313495
 moon-csv-lite,clhhhhh/moon-csv-lite,0.1.0,9897,8,2026-07-01T01:48:54.851672
 moonctl,Lfan-ke/moonctl,0.7.0,13048,18,2026-08-30T18:01:19.486214
@@ -1965,7 +1965,7 @@ string_zipper,bzy-debug/string_zipper,0.1.3,2185,1,2026-02-13T10:32:25.397627
 strip,0xA672/strip,0.1.2,2191,2,2026-05-18T14:50:39.667056
 strongPasswordChecker,ZijianFeng33/strongPasswordChecker,0.1.0,381,2,2025-09-29T08:34:31.947725
 strsim,hiroyannnn/strsim,0.2.0,861,3,2026-03-20T16:35:24.097041
-stuntmaster,Camilotk/stuntmaster,0.2.2,5070,4,2026-08-28T17:45:39.363241
+stuntmaster,Camilotk/stuntmaster,0.2.4,5368,6,2026-09-02T17:52:40.734701
 style_print,xingwangzhe/style_print,0.1.7,651,1,2025-10-08T07:24:11.249098
 submodule-test,tonyfettes/submodule-test,0.1.1,27,2,2025-04-02T06:56:14.553567
 subprocess,trkbt10/subprocess,0.2.0,1882,6,2026-03-16T09:17:59.320523
@@ -2307,7 +2307,7 @@ yacc,moonbitlang/yacc,0.7.19,18860,21,2026-08-04T07:54:26.799929
 yaml,moonbit-community/yaml,0.0.6,6288,1,2026-07-13T03:40:43.420102
 yaml,myfreess/yaml,0.1.0,3915,1,2025-08-29T06:43:33.480441
 yamlscript,ingydotnet/yamlscript,0.2.32,92,1,2026-08-25T14:31:30.794428
-yamlstar,ingydotnet/yamlstar,0.1.18,92,1,2026-07-29T02:33:18.441137
+yamlstar,ingydotnet/yamlstar,0.1.19,92,1,2026-09-02T19:18:07.915785
 yhsz,YHSZ-ONEC/yhsz,0.1.0,12,1,2025-03-11T13:41:59.854488
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
 yimai_prophecy_moonbit,Across2005/yimai_prophecy_moonbit,0.1.1,12077,6,2026-08-27T08:35:15.583616
