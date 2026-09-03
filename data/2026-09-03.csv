@@ -263,7 +263,7 @@ converge,mizchi/converge,0.2.0,8050,14,2026-08-03T06:42:52.755439
 convert,amor2025/convert,0.3.2,1342,2,2025-07-17T04:30:04.991617
 copy,totto2727/copy,0.2.0,254,1,2026-08-01T16:08:00.563423
 core,moonbitlang/core,0.1.20260831+6ff76a5f9,229977,79,2026-08-31T02:49:00.825589
-core,cli/core,0.1.1,2761,7,2026-09-01T08:31:34.176066
+core,cli/core,0.1.2,4704,7,2026-09-03T00:03:12.068037
 core_affinity,justjavac/core_affinity,0.2.4,360,2,2026-06-10T05:37:59.69447
 core-extra,loneoutpost/core-extra,0.0.6,926,3,2024-06-03T10:11:41.349647
 coreutils,five-nuts/coreutils,0.1.3,274,4,2024-11-16T11:05:35.555323
@@ -317,7 +317,7 @@ ctf_tools,hanstechnow/ctf_tools,0.1.0,93,3,2025-01-15T12:55:49.239999
 cube_render,yuntian/cube_render,0.0.3,3570,11,2026-03-19T01:39:06.90011
 cucumber-expressions,moonrockz/cucumber-expressions,0.3.2,3208,1,2026-02-24T04:57:11.530033
 cucumber-messages,moonrockz/cucumber-messages,0.2.0,3958,1,2026-02-22T14:12:59.013201
-curl,cli/curl,0.1.1,115,1,2026-09-01T08:44:10.645172
+curl,cli/curl,0.1.2,910,1,2026-09-03T00:06:27.529643
 cut,bobzhang/cut,0.1.1,297,1,2026-08-26T08:21:39.782396
 cut,cli/cut,0.1.0,277,1,2026-08-30T13:06:09.404416
 dan-any-mbt,rinnein/dan-any-mbt,0.2.0,4696,7,2026-08-21T07:09:08.042812
@@ -358,7 +358,7 @@ docproof-harbor,NBB2006/docproof-harbor,0.1.2,2544,3,2026-08-17T16:46:42.021711
 docproof-harbor,WB-ai-nb/docproof-harbor,0.1.2,3142,3,2026-08-19T05:49:17.093525
 docx2html,bobzhang/docx2html,0.5.0,89580,18,2026-08-30T17:36:19.872545
 dom_api,fgeygfe/dom_api,0.1.0,354,1,2025-09-18T08:06:42.307287
-dom-ffi,tiye/dom-ffi,0.3.0,2818,2,2026-08-31T12:40:39.667969
+dom-ffi,tiye/dom-ffi,0.4.0,4733,2,2026-09-02T22:27:03.258614
 dom_sanitizer,moonbit-community/dom_sanitizer,0.1.0,2546,1,2026-03-30T10:43:02.574103
 dongyx,dongyvxuan/dongyx,0.1.1,33,2,2025-03-05T14:17:47.596817
 dotenv,ShellWen/dotenv,0.6.1,1379,1,2025-10-02T16:36:19.959672
@@ -1369,7 +1369,7 @@ moonplot,dgmxjj/moonplot,0.5.0,5335,14,2026-08-15T02:55:37.84408
 moonpolicykit,jhshuai/moonpolicykit,0.2.0,1295,2,2026-07-06T17:42:02.116624
 moonpost,MaoDingA/moonpost,0.2.1,16868,12,2026-07-07T07:00:16.222092
 moon-postgres,Lfan-ke/moon-postgres,0.3.0,2974,1,2026-08-30T15:39:07.11726
-moon-pptx,t-ujiie-g/moon-pptx,0.8.0,65336,16,2026-09-01T12:15:40.157198
+moon-pptx,t-ujiie-g/moon-pptx,0.9.0,66298,16,2026-09-02T23:09:22.364091
 moonpress,hua1104/moonpress,0.1.0,1506,2,2026-07-08T03:06:46.777822
 moon-privacy-budget,ppyq882/moon-privacy-budget,0.1.1,10109,11,2026-08-19T04:29:02.710255
 moon-problem-details,6P66006/moon-problem-details,0.1.0,4301,7,2026-08-21T12:38:37.966479
@@ -2251,7 +2251,7 @@ webview,justjavac/webview,0.1.10,1261,17,2025-06-30T14:27:41.174019
 webview,lepus-apps/webview,0.1.15,3114,3,2026-06-18T15:33:00.863571
 webview-ffi,wzzc-dev/webview-ffi,0.1.1,148,3,2025-03-07T05:58:58.518561
 webview-mbt-demo,wzzc-dev/webview-mbt-demo,0.1.0,45,2,2025-03-05T02:39:18.680768
-wget,cli/wget,0.1.1,104,1,2026-09-01T08:44:35.272552
+wget,cli/wget,0.1.2,804,1,2026-09-03T00:06:46.988361
 wgpu_mbt,Milky2018/wgpu_mbt,0.16.0,45845,10,2026-07-21T13:53:00.455694
 wgsl,Milky2018/wgsl,0.17.0,69279,5,2026-07-21T03:20:42.420766
 whenwords,mizchi/whenwords,0.1.3,1058,2,2026-02-11T09:16:58.085973
