@@ -1,5 +1,6 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 moonbitlang/jsonl,新增,287,1,0,0,287,1
+cc06b/mooncry,有变化,732,0,113774,3,114506,3
 marianoguerra/llm,有变化,412,0,4714,7,5126,7
 marianoguerra/tutuca,有变化,151,0,173606,58,173757,58
 moonbit-community/cmark,有变化,474,0,40393,8,40867,8
@@ -284,7 +285,6 @@ caozhanhao/qrcode,无变化,0,0,3833,2,3833,2
 cauchyQ/moon-sketch-kit,无变化,0,0,4447,5,4447,5
 cauchyQ/moonbit-argkit,无变化,0,0,4423,3,4423,3
 cauchyQ/moonbit-robots,无变化,0,0,4388,2,4388,2
-cc06b/mooncry,无变化,0,0,113774,3,113774,3
 CCllff-jpg/moondicom,无变化,0,0,1870,3,1870,3
 CCllff-jpg/MoonLogTrace,无变化,0,0,4696,2,4696,2
 cg-zhou/bezier_easing,无变化,0,0,367,2,367,2
