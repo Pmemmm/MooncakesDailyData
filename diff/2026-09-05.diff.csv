@@ -4,10 +4,15 @@ mldong/jeeflow-facade,新增,3254,1,0,0,3254,1
 mldong/jeeflow-persist,新增,729,1,0,0,729,1
 mldong/jeeflow-repository-mysql,新增,2582,4,0,0,2582,4
 moonbitlang/jsonl,新增,287,1,0,0,287,1
-cc06b/mooncry,有变化,732,0,113774,3,114506,3
+oyjh0381/http-cache,新增,4535,7,0,0,4535,7
+bobzhang/openseek,有变化,588,0,451138,262,451726,262
+bobzhang/openseek_protocol,有变化,56,0,2113,2,2169,2
+cc06b/mooncry,有变化,6029,0,113774,3,119803,3
+colmugx/posoco,有变化,2129,0,34985,9,37114,9
 marianoguerra/llm,有变化,412,0,4714,7,5126,7
 marianoguerra/tutuca,有变化,151,0,173606,58,173757,58
 moonbit-community/cmark,有变化,474,0,40393,8,40867,8
+moonbitlang/workflow,有变化,616,1,9330,7,9946,8
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -197,8 +202,6 @@ bobzhang/nodegraph,无变化,0,0,3556,4,3556,4
 bobzhang/noteapp,无变化,0,0,1582,4,1582,4
 bobzhang/office,无变化,0,0,49,1,49,1
 bobzhang/office-lib,无变化,0,0,69701,14,69701,14
-bobzhang/openseek,无变化,0,0,451138,262,451138,262
-bobzhang/openseek_protocol,无变化,0,0,2113,2,2113,2
 bobzhang/pagelayout,无变化,0,0,16041,15,16041,15
 bobzhang/paste,无变化,0,0,188,1,188,1
 bobzhang/pdflite,无变化,0,0,357336,50,357336,50
@@ -402,7 +405,6 @@ colmugx/lody,无变化,0,0,4275,1,4275,1
 colmugx/mcp,无变化,0,0,16564,11,16564,11
 colmugx/ofd,无变化,0,0,2520,4,2520,4
 colmugx/ofdx,无变化,0,0,166,1,166,1
-colmugx/posoco,无变化,0,0,34985,9,34985,9
 colmugx/reader,无变化,0,0,228,1,228,1
 colmugx/sqlite-vec,无变化,0,0,983,3,983,3
 colmugx/sqlite3,无变化,0,0,832,2,832,2
@@ -1522,7 +1524,6 @@ moonbitlang/std,无变化,0,0,99,1,99,1
 moonbitlang/ulex,无变化,0,0,8776,16,8776,16
 moonbitlang/ulex-runtime,无变化,0,0,131,1,131,1
 moonbitlang/wasm4,无变化,0,0,813,1,813,1
-moonbitlang/workflow,无变化,0,0,9330,7,9330,7
 moonbitlang/x,无变化,0,0,26502,21,26502,21
 moonbitlang/yacc,无变化,0,0,18860,21,18860,21
 moonrockz/cucumber-expressions,无变化,0,0,3208,1,3208,1
