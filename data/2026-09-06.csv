@@ -380,7 +380,7 @@ easing,hackwaly/easing,0.1.0,999,2,2025-09-03T05:51:41.808872
 easy,enjoecn/easy,0.1.0,93,3,2024-06-25T04:39:31.476831
 easy-io,Erolaffy/easy-io,0.1.0,26,2,2025-01-20T08:19:21.115336
 easyio,Erolaffy/easyio,0.2.1,211,1,2025-02-27T01:46:06.101265
-echo,cli/echo,0.1.4,174,1,2026-09-05T17:30:02.756374
+echo,cli/echo,0.1.5,176,1,2026-09-05T19:42:06.076322
 eczn-utils,eczn/eczn-utils,0.2.0,50,1,2024-05-01T18:51:02.119094
 ed25519,hustcer/ed25519,0.6.0,3633,2,2026-08-23T04:26:10.96574
 eda-router,zhuguiyuan/eda-router,0.1.3,487,2,2025-04-04T15:36:13.868129
@@ -429,7 +429,7 @@ factorial,zhangshun-123/factorial,0.1.0,33,1,2025-02-24T09:53:38.805498
 fairshift,zhou506403/fairshift,0.1.0,4789,2,2026-08-22T12:46:40.083775
 fakefetch,kokic/fakefetch,0.1.3,1580,2,2026-08-18T02:55:43.062309
 false,bobzhang/false,0.1.0,33,1,2026-08-25T07:46:07.501577
-false,cli/false,0.1.4,44,1,2026-09-05T17:30:58.078431
+false,cli/false,0.1.5,46,1,2026-09-05T19:42:16.394928
 fast,Yu-zh/fast,0.1.0,7239,14,2026-06-27T15:51:19.294186
 fastcc,hackwaly/fastcc,0.1.0,77867,67,2026-02-14T07:47:40.621598
 fbr,hustcer/fbr,0.8.2,18984,5,2026-08-10T10:41:20.396606
@@ -704,7 +704,7 @@ jpeg2000,trkbt10/jpeg2000,0.2.0,36963,25,2026-03-17T12:06:45.363123
 jq,bobzhang/jq,0.1.2,270,1,2026-08-26T08:22:14.552912
 jq,mizchi/jq,0.2.2,10923,2,2026-04-25T13:41:16.471499
 jq,cli/jq,0.1.4,581,1,2026-09-05T15:57:44.21445
-jqlog,cli/jqlog,0.1.4,186,1,2026-09-05T15:57:49.973895
+jqlog,cli/jqlog,0.1.5,186,1,2026-09-05T19:42:24.948008
 jqlog,bobzhang/jqlog,0.1.1,185,1,2026-08-26T08:22:16.273267
 jqx,shina1024/jqx,0.4.2,21746,11,2026-08-20T04:31:56.831481
 js,moonbit-js-ffi/js,0.2.0,1160,2,2024-06-13T15:41:51.834985
@@ -1883,14 +1883,14 @@ selene_xaml,KKKIIO/selene_xaml,0.37.5,16206,15,2026-07-29T09:10:01.364638
 semver,mizchi/semver,0.1.2,1660,4,2026-08-15T13:52:15.572739
 SemVer,Seedking/SemVer,0.1.0,608,1,2025-03-24T11:58:24.694051
 sensor_driver,maria/sensor_driver,0.1.0,1376,2,2025-11-22T02:40:44.417662
-seq,cli/seq,0.1.4,303,1,2026-09-05T17:30:26.223979
+seq,cli/seq,0.1.5,312,1,2026-09-05T19:42:31.050685
 sessionlog,ywz1314/sessionlog,0.2.4,31203,38,2026-08-24T11:56:27.694345
 sexp,sennenki/sexp,0.1.1,1833,1,2026-04-14T03:20:16.4627
 sexp,bobzhang/sexp,0.1.2,50,1,2026-04-18T15:10:25.489963
 sexp-html,kokic/sexp-html,0.6.0,1229,1,2026-08-19T09:29:09.973934
 sfengine,HK-SHAO/sfengine,0.1.2,3009,1,2026-08-23T17:03:02.302579
 sfo,jtenner/sfo,0.1.1,13087,1,2026-02-17T20:48:33.625955
-sh,cli/sh,0.1.4,120,1,2026-09-05T15:22:23.604414
+sh,cli/sh,0.1.5,124,1,2026-09-05T19:42:38.176093
 sha1,gmlewis/sha1,0.12.13,425,1,2026-09-03T17:50:06.455566
 sha256,gmlewis/sha256,0.17.33,516,1,2026-08-23T15:23:30.176999
 sha256,shu-kitamura/sha256,0.1.1,263,1,2026-01-29T14:58:19.304011
@@ -1918,7 +1918,7 @@ skir-client-async,gepheum/skir-client-async,0.1.1,42256,50,2026-05-26T23:47:49.6
 slack,marianoguerra/slack,0.4.1,21875,13,2026-08-25T09:17:05.564066
 slack-http,marianoguerra/slack-http,0.4.1,128,1,2026-08-25T09:17:16.021929
 sleep,bobzhang/sleep,0.1.1,110,1,2026-08-26T08:21:56.102791
-sleep,cli/sleep,0.1.4,117,1,2026-09-05T17:30:37.796794
+sleep,cli/sleep,0.1.5,119,1,2026-09-05T19:42:44.897732
 slotmap,Yoorkin/slotmap,0.2.4,155,1,2026-07-22T07:40:08.203462
 slotmap,Milky2018/slotmap,0.1.2,3217,1,2026-05-08T09:18:03.970553
 slugify,sennenki/slugify,0.1.0,806,1,2026-03-10T03:01:37.450391
@@ -2130,7 +2130,7 @@ tree_sitter_yaml,tonyfettes/tree_sitter_yaml,0.1.26,39,1,2026-03-26T02:23:05.289
 tree_sitter_zig,tonyfettes/tree_sitter_zig,0.1.26,35,1,2026-03-26T02:23:07.939538
 trie,Yoorkin/trie,0.2.10,132,1,2026-02-11T03:20:29.762712
 true,bobzhang/true,0.1.0,25,1,2026-08-25T07:46:06.169338
-true,cli/true,0.1.4,39,1,2026-09-05T17:30:46.305741
+true,cli/true,0.1.5,41,1,2026-09-05T19:42:53.464535
 try_publish,Young-Flash/try_publish,0.1.6,25,2,2025-03-05T08:40:07.339267
 ts,mizchi/ts,0.5.2,203305,17,2026-07-28T16:16:29.578784
 tsparser,sennenki/tsparser,0.1.2,13828,1,2026-02-10T09:15:00.80008
@@ -2215,7 +2215,7 @@ vte,tonyfettes/vte,0.2.0,3839,1,2026-07-24T02:05:31.396033
 wacon,mizchi/wacon,0.1.1,6283,12,2026-04-25T13:32:34.053052
 walkdir,justjavac/walkdir,0.1.7,467,4,2026-06-29T08:09:59.431817
 wallpaper,justjavac/wallpaper,0.1.3,528,3,2026-06-10T05:58:36.295367
-wap,marianoguerra/wap,0.1.0,7088,5,2026-09-05T18:10:34.767449
+wap,marianoguerra/wap,0.2.0,10740,5,2026-09-05T20:05:02.88598
 warren,moonbit-community/warren,0.3.3,4363,8,2026-09-03T09:36:22.168602
 was,marianoguerra/was,0.1.0,5337,3,2026-09-05T18:10:25.015428
 wasee-moon,Nanaloveyuki/wasee-moon,0.1.0,520,2,2026-08-25T07:29:16.449627
