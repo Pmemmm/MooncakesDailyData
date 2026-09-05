@@ -1,4 +1,8 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+mldong/jeeflow-core,新增,6590,13,0,0,6590,13
+mldong/jeeflow-facade,新增,3254,1,0,0,3254,1
+mldong/jeeflow-persist,新增,729,1,0,0,729,1
+mldong/jeeflow-repository-mysql,新增,2582,4,0,0,2582,4
 moonbitlang/jsonl,新增,287,1,0,0,287,1
 cc06b/mooncry,有变化,732,0,113774,3,114506,3
 marianoguerra/llm,有变化,412,0,4714,7,5126,7
