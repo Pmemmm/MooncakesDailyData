@@ -1899,8 +1899,8 @@ shadow,zen314/shadow,0.1.0,529,2,2026-01-20T16:09:07.484559
 shared-lib,yuyi919/shared-lib,0.1.8,9773,9,2025-06-20T09:06:53.77517
 shiftweave,SUIKKKA/shiftweave,0.1.1,4418,2,2026-08-23T14:33:55.764928
 shiki,Yoorkin/shiki,0.1.1,174,1,2026-03-05T08:00:24.547849
-shrubbery,marianoguerra/shrubbery,0.1.0,19100,13,2026-09-05T13:00:20.904511
-shrubbery-cli,marianoguerra/shrubbery-cli,0.1.0,526,1,2026-09-05T13:00:25.999199
+shrubbery,marianoguerra/shrubbery,0.1.1,19344,13,2026-09-05T20:43:48.08015
+shrubbery-cli,marianoguerra/shrubbery-cli,0.1.1,526,1,2026-09-05T20:43:53.421709
 signal,CGaaaaaa/signal,0.1.2,1249,1,2025-08-06T15:57:02.583329
 signals,mizchi/signals,0.6.5,4949,2,2026-07-15T15:04:21.929701
 simd,mizchi/simd,0.6.1,20763,10,2026-07-14T17:56:52.678261
@@ -2215,7 +2215,7 @@ vte,tonyfettes/vte,0.2.0,3839,1,2026-07-24T02:05:31.396033
 wacon,mizchi/wacon,0.1.1,6283,12,2026-04-25T13:32:34.053052
 walkdir,justjavac/walkdir,0.1.7,467,4,2026-06-29T08:09:59.431817
 wallpaper,justjavac/wallpaper,0.1.3,528,3,2026-06-10T05:58:36.295367
-wap,marianoguerra/wap,0.2.0,10740,5,2026-09-05T20:05:02.88598
+wap,marianoguerra/wap,0.2.1,10801,5,2026-09-05T20:47:58.17195
 warren,moonbit-community/warren,0.3.3,4363,8,2026-09-03T09:36:22.168602
 was,marianoguerra/was,0.1.0,5337,3,2026-09-05T18:10:25.015428
 wasee-moon,Nanaloveyuki/wasee-moon,0.1.0,520,2,2026-08-25T07:29:16.449627
