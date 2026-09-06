@@ -4,9 +4,11 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 2515050242/moonagentcheck,新增,139,1,0,0,139,1
 2d5rrr333/mtab,新增,4152,6,0,0,4152,6
 AlexenderSokolov/moonsplit,新增,3171,8,0,0,3171,8
+clhhhhhh/moonbit-treespec,新增,6830,3,0,0,6830,3
 Kaida-Amethyst/moondbg,新增,26315,22,0,0,26315,22
 marianoguerra/wap,新增,10801,5,0,0,10801,5
 marianoguerra/was,新增,5337,3,0,0,5337,3
+moonbitlang/cvc5,新增,2060,2,0,0,2060,2
 ryutaroM/examine,新增,107,2,0,0,107,2
 cc06b/mooncry,有变化,640,0,120610,3,121250,3
 cli/base64,有变化,6,0,266,1,272,1
@@ -35,10 +37,11 @@ cli/wc,有变化,125,0,272,1,397,1
 cli/xxd,有变化,218,0,337,1,555,1
 dimon-83/mbel,有变化,8550,3,5575,12,14125,15
 Luna-Flow/floating,有变化,244,0,81027,30,81271,30
-Magic486/moon-miniprogram,有变化,1719,-1,1476,4,3195,3
+Magic486/moon-miniprogram,有变化,1977,-1,1476,4,3453,3
 marianoguerra/shrubbery,有变化,244,0,19100,13,19344,13
 oboard/mocket,有变化,13,0,8882,17,8895,17
 R00TK17/hex_editor,有变化,291,0,11406,3,11697,3
+t-ujiie-g/moon-pptx,有变化,833,1,66298,16,67131,17
 ZSeanYves/MoonJust,有变化,-12772,2,71429,29,58657,31
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -1858,7 +1861,6 @@ SWJ-ai-srw/bech32-kit,无变化,0,0,4904,2,4904,2
 Sxy11112/moonjournalkit,无变化,0,0,1984,3,1984,3
 SyoujyoujiNaiki/chungshan,无变化,0,0,459,2,459,2
 SyoujyoujiNaiki/oops,无变化,0,0,3229,2,3229,2
-t-ujiie-g/moon-pptx,无变化,0,0,66298,16,66298,16
 Teddy-Yangjiale/rope,无变化,0,0,1189,2,1189,2
 tekihei2317/hello,无变化,0,0,55,2,55,2
 TheWaWaR/clap,无变化,0,0,1344,1,1344,1
