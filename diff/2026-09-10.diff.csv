@@ -2,6 +2,7 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 kokic/pythagoras,新增,626,1,0,0,626,1
 manabeai/ac-library-mbt,新增,2751,16,0,0,2751,16
 PerfectPan/svgo,新增,25666,7,0,0,25666,7
+cc06b/mooncry,有变化,149,0,164091,3,164240,3
 dimon-83/mbel,有变化,1401,0,17205,16,18606,16
 hutingyu-nuist/moonballot,有变化,1,0,944,1,945,1
 marianoguerra/pure-py,有变化,85,0,21520,16,21605,16
@@ -297,7 +298,6 @@ CaptainK-65/moon-humanize,无变化,0,0,443,7,443,7
 cauchyQ/moon-sketch-kit,无变化,0,0,4447,5,4447,5
 cauchyQ/moonbit-argkit,无变化,0,0,4423,3,4423,3
 cauchyQ/moonbit-robots,无变化,0,0,4388,2,4388,2
-cc06b/mooncry,无变化,0,0,164091,3,164091,3
 CCllff-jpg/moondicom,无变化,0,0,1870,3,1870,3
 CCllff-jpg/MoonLogTrace,无变化,0,0,4696,2,4696,2
 cg-zhou/bezier_easing,无变化,0,0,367,2,367,2
