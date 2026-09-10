@@ -5,10 +5,12 @@ LING71671/moon-egui,新增,8107,8,0,0,8107,8
 mizchi/luna_three,新增,1327,1,0,0,1327,1
 PaiGack/ftp,新增,5347,2,0,0,5347,2
 ShunjunGu/moon-npy,新增,5311,12,0,0,5311,12
+superbigcup325/jumbit,新增,7108,7,0,0,7108,7
 yyqdbngt/moon_edtf,新增,1065,2,0,0,1065,2
 kokic/uml,有变化,3855,1,45066,15,48921,16
 marianoguerra/pure-py,有变化,402,0,21605,16,22007,16
 mizchi/luna,有变化,4786,4,45530,44,50316,48
+mizchi/playwright,有变化,331,0,8363,4,8694,4
 mizchi/tui,有变化,7,0,39203,39,39210,39
 mizchi/wit,有变化,23,0,5188,2,5211,2
 PerfectPan/svgo,有变化,-91,1,25666,7,25575,8
@@ -1384,7 +1386,6 @@ mizchi/physics,无变化,0,0,8058,3,8058,3
 mizchi/pixelmatch,无变化,0,0,4306,5,4306,5
 mizchi/pkf,无变化,0,0,19481,3,19481,3
 mizchi/pkl,无变化,0,0,100101,2,100101,2
-mizchi/playwright,无变化,0,0,8363,4,8363,4
 mizchi/process_pool,无变化,0,0,1162,2,1162,2
 mizchi/protocol,无变化,0,0,803,2,803,2
 mizchi/quint_connect,无变化,0,0,1826,10,1826,10
