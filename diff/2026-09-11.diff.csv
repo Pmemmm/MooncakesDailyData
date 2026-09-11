@@ -1,11 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 123123213weqw/moon_pyversion,新增,1466,3,0,0,1466,3
 btlqql/moon_json_repair,新增,961,3,0,0,961,3
-LING71671/moon-egui,新增,8107,8,0,0,8107,8
+heyq02/moonjs,新增,19567,18,0,0,19567,18
+LING71671/moon-egui,新增,9452,8,0,0,9452,8
 mizchi/luna_three,新增,1327,1,0,0,1327,1
 PaiGack/ftp,新增,5347,2,0,0,5347,2
 ShunjunGu/moon-npy,新增,5311,12,0,0,5311,12
 superbigcup325/jumbit,新增,7108,7,0,0,7108,7
+Yoorkin/rabbit-tea,新增,21568,18,0,0,21568,18
 yyqdbngt/moon_edtf,新增,1065,2,0,0,1065,2
 kokic/uml,有变化,3855,1,45066,15,48921,16
 marianoguerra/pure-py,有变化,402,0,21605,16,22007,16
@@ -13,6 +15,7 @@ mizchi/luna,有变化,4786,4,45530,44,50316,48
 mizchi/playwright,有变化,331,0,8363,4,8694,4
 mizchi/tui,有变化,7,0,39203,39,39210,39
 mizchi/wit,有变化,23,0,5188,2,5211,2
+moonbitlang/mbtexcel,有变化,-4001,0,733827,112,729826,112
 PerfectPan/svgo,有变化,-91,1,25666,7,25575,8
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -1561,7 +1564,6 @@ moonbitlang/lex-runtime,无变化,0,0,255,2,255,2
 moonbitlang/lexer,无变化,0,0,4583,3,4583,3
 moonbitlang/mbt_lexer,无变化,0,0,5526,2,5526,2
 moonbitlang/mbt-lexer,无变化,0,0,1460,1,1460,1
-moonbitlang/mbtexcel,无变化,0,0,733827,112,733827,112
 moonbitlang/moon_config,无变化,0,0,3027,1,3027,1
 moonbitlang/moon_cove,无变化,0,0,10744,9,10744,9
 moonbitlang/moonback,无变化,0,0,4787,5,4787,5
