@@ -1,11 +1,16 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+668xin/modbus_lint,新增,5052,2,0,0,5052,2
+cauchyQ/moonbit-causalkit,新增,4730,2,0,0,4730,2
 cauchyQ/moonbit-slotplan,新增,4278,3,0,0,4278,3
 colmugx/ai-passport,新增,7984,7,0,0,7984,7
+conglinyizhi/moonbit-llm-faceoff,新增,18486,9,0,0,18486,9
+conglinyizhi/moonbit-llm-faceoff-web,新增,10212,4,0,0,10212,4
 Lfan-ke/moonbase,新增,1035,7,0,0,1035,7
 Lfan-ke/moonmysql,新增,3228,2,0,0,3228,2
 Lfan-ke/moonpostgres,新增,2974,1,0,0,2974,1
 Lfan-ke/moonraft,新增,27386,15,0,0,27386,15
 Lfan-ke/moonsqlite,新增,844,1,0,0,844,1
+liyun6666/moon-shapefile,新增,4255,3,0,0,4255,3
 moonbitstack/moonapi,新增,16200,24,0,0,16200,24
 moonbitstack/moonasgi,新增,5733,15,0,0,5733,15
 moonbitstack/moonbase,新增,1035,7,0,0,1035,7
@@ -22,6 +27,8 @@ moonbitstack/moonrpc,新增,17380,31,0,0,17380,31
 moonbitstack/moonsqlite,新增,844,1,0,0,844,1
 moonbitstack/moonzero,新增,15813,17,0,0,15813,17
 Qisu-dev/ffi,新增,85,1,0,0,85,1
+Ridge-Lab/moonice,新增,3608,3,0,0,3608,3
+TryAndRun-TvT/fast_qr_moonbit,新增,4456,7,0,0,4456,7
 vicoproplus/moon_ua_parser_mars,新增,990,2,0,0,990,2
 bobzhang/openseek,有变化,-19967,-24,451726,262,431759,238
 bobzhang/openseek_protocol,有变化,753,0,2169,2,2922,2
@@ -33,7 +40,9 @@ gmlewis/image,有变化,5,0,10132,5,10137,5
 gmlewis/moonbit-pdk,有变化,-1,0,1233,12,1232,12
 gmlewis/spin-moonbit-sdk,有变化,217,0,13739,46,13956,46
 gmlewis/step,有变化,142,0,26022,52,26164,52
+Han-Wentao/mooncontract,有变化,231,0,4838,10,5069,10
 HK-SHAO/dsp,有变化,40,0,3604,1,3644,1
+Kai-Junhan/moon-ray,有变化,247,0,4570,2,4817,2
 Kaida-Amethyst/moondbg,有变化,2524,1,26315,22,28839,23
 Lfan-ke/moonapi,有变化,-1,0,16201,24,16200,24
 Lfan-ke/moonasgi,有变化,79,0,5654,15,5733,15
@@ -43,7 +52,10 @@ moonbit-community/graphviz,有变化,23300,0,129995,86,153295,86
 moonbit-community/sqlite3,有变化,1874,0,2649,2,4523,2
 riantr/moonbit_labeler,有变化,87,0,5495,3,5582,3
 weopqrst/mooncassette,有变化,2826,3,6728,13,9554,16
+Xu107-hhh/moonbit-jsonpatch,有变化,-282,1,3183,4,2901,5
+Yoorkin/rui,有变化,3,0,42007,1,42010,1
 yyyt0807/moonmvt,有变化,387,2,5270,12,5657,14
+zhangbowen2006/moonkeyguard,有变化,645,1,6879,3,7524,4
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -698,7 +710,6 @@ hackwaly/regex,无变化,0,0,4857,9,4857,9
 hackwaly/s3,无变化,0,0,1484,1,1484,1
 hackwaly/wordcount,无变化,0,0,388,1,388,1
 Han-Wentao/moonbench,无变化,0,0,7124,3,7124,3
-Han-Wentao/mooncontract,无变化,0,0,4838,10,4838,10
 Han-Wentao/moonsieve,无变化,0,0,4668,3,4668,3
 Han-Wentao/moonwire,无变化,0,0,543,1,543,1
 hanbings/fluorescence,无变化,0,0,181,4,181,4
@@ -909,7 +920,6 @@ kaashyapan/postgresx,无变化,0,0,1102,1,1102,1
 kaashyapan/s3,无变化,0,0,1961,2,1961,2
 kaashyapan/sigv4,无变化,0,0,1336,1,1336,1
 kaashyapan/uri,无变化,0,0,3711,1,3711,1
-Kai-Junhan/moon-ray,无变化,0,0,4570,2,4570,2
 Kai-Junhan/moonbit-easing,无变化,0,0,3004,2,3004,2
 Kai-Junhan/moonbit-motion-lab,无变化,0,0,463,2,463,2
 Kaida-Amethyst/either,无变化,0,0,1329,1,1329,1
@@ -2282,7 +2292,6 @@ xrr2016/meow,无变化,0,0,103,2,103,2
 xrr2016/rmdir,无变化,0,0,86,2,86,2
 xrr2016/tui,无变化,0,0,518,2,518,2
 xrr2016/tui-ansi,无变化,0,0,313,1,313,1
-Xu107-hhh/moonbit-jsonpatch,无变化,0,0,3183,4,3183,4
 Xu107-hhh/moonbit-jsonschema,无变化,0,0,18659,3,18659,3
 xubowen1234/moontsinspect,无变化,0,0,3060,3,3060,3
 xubowen1234/moonuri,无变化,0,0,852,1,852,1
@@ -2336,7 +2345,6 @@ Yoorkin/moonbee,无变化,0,0,2376,1,2376,1
 Yoorkin/prettyprinter,无变化,0,0,1655,2,1655,2
 Yoorkin/proxy,无变化,0,0,149,1,149,1
 Yoorkin/rabbit-tea,无变化,0,0,21568,18,21568,18
-Yoorkin/rui,无变化,0,0,42007,1,42007,1
 Yoorkin/shiki,无变化,0,0,174,1,174,1
 Yoorkin/slotmap,无变化,0,0,155,1,155,1
 Yoorkin/splice,无变化,0,0,246,1,246,1
@@ -2404,7 +2412,6 @@ zen314/shadow,无变化,0,0,529,2,529,2
 zgfzgf899/moonbit-vector-trace-plan,无变化,0,0,24915,8,24915,8
 zhaihaozhen/zero_fill,无变化,0,0,40,2,40,2
 zhangbowen2006/moonbvhkit,无变化,0,0,5508,3,5508,3
-zhangbowen2006/moonkeyguard,无变化,0,0,6879,3,6879,3
 zhangshun-123/factorial,无变化,0,0,33,1,33,1
 zhaoyuanjuns/moonbit_extractor,无变化,0,0,33413,22,33413,22
 zhaoyuanjuns/moongridgym,无变化,0,0,3131,2,3131,2
