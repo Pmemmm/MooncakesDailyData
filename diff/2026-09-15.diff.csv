@@ -1,5 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 Ag108/MoonReduce,新增,4151,20,0,0,4151,20
+bobzhang/openseek_tools,新增,524,1,0,0,524,1
+chenliyi-cly/moontopo,新增,2068,6,0,0,2068,6
 mizchi/kagura_asset_loader,新增,1377,1,0,0,1377,1
 mizchi/kagura_audio,新增,2457,1,0,0,2457,1
 mizchi/kagura_cli,新增,473,1,0,0,473,1
@@ -8,9 +10,14 @@ mizchi/kagura_platform_web,新增,2022,10,0,0,2022,10
 mizchi/kagura_ui,新增,2910,1,0,0,2910,1
 mizchi/machinations,新增,1495,1,0,0,1495,1
 mizchi/native_runtime_hooks,新增,4626,5,0,0,4626,5
+mizchi/veri,新增,15371,59,0,0,15371,59
 mizchi/web_runtime_hooks,新增,6056,1,0,0,6056,1
+NoahLiu/moonbit-libyue,新增,13586,17,0,0,13586,17
+sssssurf/checkdigit,新增,1300,2,0,0,1300,2
 Strangelight-Merser/moon-mqtt-client,新增,2245,6,0,0,2245,6
+willzhang/json_regress,新增,4085,13,0,0,4085,13
 xiguaAp6y3/moonbit-casbin,新增,6713,3,0,0,6713,3
+Xpeng/moongitattrs,新增,1536,2,0,0,1536,2
 Zh666-lab/moonsuncalc,新增,2975,6,0,0,2975,6
 AlexenderSokolov/moonsplit,有变化,7217,2,3171,8,10388,10
 conglinyizhi/moonbit-llm-faceoff,有变化,533,1,18486,9,19019,10
@@ -27,7 +34,7 @@ mizchi/mesh3d,有变化,28,0,1212,1,1240,1
 mizchi/pathfind,有变化,2,0,311,1,313,1
 mizchi/renderer2d,有变化,360,0,4074,1,4434,1
 mizchi/text,有变化,12,0,1026,1,1038,1
-riantr/moonbit_labeler,有变化,50,0,5582,3,5632,3
+riantr/moonbit_labeler,有变化,95,0,5582,3,5677,3
 weopqrst/mooncassette,有变化,3230,2,9554,16,12784,18
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
