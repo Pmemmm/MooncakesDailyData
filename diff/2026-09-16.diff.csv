@@ -8,6 +8,7 @@ mizchi/kagura,有变化,1125,2,334,1,1459,3
 mizchi/kagura_core,有变化,611,0,16625,11,17236,11
 mizchi/kagura_engine,有变化,233,0,25196,23,25429,23
 mizchi/kagura_game,有变化,453,2,4374,11,4827,13
+mizchi/veri,有变化,7162,16,15371,59,22533,75
 moonbit-community/proton,有变化,157,1,34326,18,34483,19
 Nanaloveyuki/orbit,有变化,1933,0,118908,23,120841,23
 vectie/moonleaf,有变化,54,0,9367,8,9421,8
@@ -1458,7 +1459,6 @@ mizchi/tui,无变化,0,0,39210,39,39210,39
 mizchi/tui-terminal-buffer,无变化,0,0,1037,1,1037,1
 mizchi/tui-terminal-protocol,无变化,0,0,1021,3,1021,3
 mizchi/v8,无变化,0,0,7757,2,7757,2
-mizchi/veri,无变化,0,0,15371,59,15371,59
 mizchi/vfs,无变化,0,0,2765,8,2765,8
 mizchi/vivebox,无变化,0,0,3575,2,3575,2
 mizchi/wacon,无变化,0,0,6283,12,6283,12
