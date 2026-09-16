@@ -13,7 +13,7 @@ admiral,totto2727/admiral,0.6.5,6250,5,2026-08-25T10:48:35.023284
 admiral,mizchi/admiral,0.1.1,1477,2,2026-08-15T17:36:15.966523
 advent_of_code,peter-jerry-ye/advent_of_code,0.3.1-fix,254,2,2024-01-26T08:48:45.349484
 adw,tonyfettes/adw,0.2.0,1704,1,2026-07-24T02:05:12.672917
-aegis,jedisct1/aegis,0.2.1,1131,2,2024-09-05T11:54:20.988088
+aegis,jedisct1/aegis,0.3.1,2403,1,2026-09-16T20:00:11.797079
 aegis,bob/aegis,0.1.0,1126,2,2024-05-17T06:57:16.599651
 aegisrun,tuya-me/aegisrun,0.9.3,4645,4,2026-07-17T09:52:25.375224
 agconf,KKKIIO/agconf,0.3.0,961,2,2026-07-30T05:37:17.881838
@@ -2291,7 +2291,7 @@ trie,Yoorkin/trie,0.2.10,132,1,2026-02-11T03:20:29.762712
 true,cli/true,0.1.5,41,1,2026-09-05T19:42:53.464535
 true,bobzhang/true,0.1.0,25,1,2026-08-25T07:46:06.169338
 try_publish,Young-Flash/try_publish,0.1.6,25,2,2025-03-05T08:40:07.339267
-ts,mizchi/ts,0.5.2,203305,17,2026-07-28T16:16:29.578784
+ts,mizchi/ts,0.6.0,260415,14,2026-09-16T18:32:02.167287
 tsparser,sennenki/tsparser,0.1.2,13828,1,2026-02-10T09:15:00.80008
 ttf_parser_moonbit,Ronlands/ttf_parser_moonbit,0.1.1,1918,8,2025-10-27T13:52:01.643099
 ttl,justjavac/ttl,0.1.2,513,2,2026-07-24T15:50:46.164027
