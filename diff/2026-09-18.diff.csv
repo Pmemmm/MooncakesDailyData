@@ -5,13 +5,19 @@ Atman-Angle/oas2moon_core,新增,1687,1,0,0,1687,1
 Atman-Angle/oas2moon_frontend,新增,824,1,0,0,824,1
 Atman-Angle/oas2moon_runtime,新增,1409,1,0,0,1409,1
 CaptainK-65/moon-collate,新增,20236,2,0,0,20236,2
+cauchyQ/moonbit-roaring,新增,4290,2,0,0,4290,2
+erzhuzi259/moongrammata,新增,6180,6,0,0,6180,6
 mizchi/bit_objstore,新增,2370,1,0,0,2370,1
 mizchi/bitx_wal,新增,1211,1,0,0,1211,1
+TangShiJi/moonpageflow,新增,3338,6,0,0,3338,6
 wbgxiaosu/xiangqi,新增,1643,2,0,0,1643,2
 wjcoomk/moondns,新增,4793,8,0,0,4793,8
 xcc-ordinary/moonbit-roaring,新增,5131,5,0,0,5131,5
-cc06b/mooncry,有变化,226,0,177134,3,177360,3
+cc06b/mooncry,有变化,221,0,177134,3,177355,3
+chenqi-arch/moonbit-project,有变化,718,0,2201,2,2919,2
+colmugx/ai-passport,有变化,780,2,6318,11,7098,13
 colmugx/posoco,有变化,873,0,42696,10,43569,10
+lampclaw/i18n,有变化,152,0,21726,4,21878,4
 mizchi/actrun,有变化,689,0,66353,10,67042,10
 mizchi/bit,有变化,514,0,161943,5,162457,5
 mizchi/bit_archive,有变化,-1,0,494,1,493,1
@@ -25,9 +31,13 @@ mizchi/bitx_hub,有变化,1,0,15524,3,15525,3
 mizchi/bitx_rebase_ai,有变化,1,0,1188,1,1189,1
 mizchi/bitx_subdir,有变化,-36,0,4927,1,4891,1
 mizchi/bitx_workspace,有变化,-1,0,3845,1,3844,1
+moonbit-community/proton,有变化,73,0,34799,19,34872,19
+moonbit-community/proton_cli,有变化,-3,0,9813,10,9810,10
+moonbit-community/rabbita,有变化,-125,0,28522,23,28397,23
 NoahLiu/moonbit-libyue,有变化,4279,1,17243,19,21522,20
 vicTop-cw/fist-mbt,有变化,2218,0,9918,13,12136,13
 weopqrst/mooncassette,有变化,1523,1,12784,18,14307,19
+Yoorkin/shiki,有变化,265,0,174,1,439,1
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -348,7 +358,6 @@ ChenJiasen-123/mb-secure-stream,无变化,0,0,8512,10,8512,10
 chenliyi-cly/mooncsp,无变化,0,0,754,2,754,2
 chenliyi-cly/moontopo,无变化,0,0,2068,6,2068,6
 chenliyi-cly/moonweave,无变化,0,0,1551,5,1551,5
-chenqi-arch/moonbit-project,无变化,0,0,2201,2,2201,2
 chenqi-arch/moonhls,无变化,0,0,4260,2,4260,2
 chensuiyi/bm2,无变化,0,0,5062,5,5062,5
 chensuiyi/packet,无变化,0,0,1033,1,1033,1
@@ -441,7 +450,6 @@ cogna-dev/sbom,无变化,0,0,4747,13,4747,13
 cogna-dev/x,无变化,0,0,2733,4,2733,4
 coke089/moon-sdp,无变化,0,0,5213,7,5213,7
 colmugx/acp,无变化,0,0,79075,22,79075,22
-colmugx/ai-passport,无变化,0,0,6318,11,6318,11
 colmugx/fuwaroid,无变化,0,0,4131,1,4131,1
 colmugx/jieba,无变化,0,0,386261,3,386261,3
 colmugx/lody,无变化,0,0,4275,1,4275,1
@@ -998,7 +1006,6 @@ kosei28/maru,无变化,0,0,2354,4,2354,4
 kujirahand/base64,无变化,0,0,239,2,239,2
 kujirahand/crc32,无变化,0,0,229,2,229,2
 Lalenture/hello,无变化,0,0,19,2,19,2
-lampclaw/i18n,无变化,0,0,21726,4,21726,4
 lampclaw/lampo,无变化,0,0,26989,28,26989,28
 lampclaw/minimoon,无变化,0,0,24878,20,24878,20
 lampclaw/minimoon_ui,无变化,0,0,13004,4,13004,4
@@ -1558,11 +1565,9 @@ moonbit-community/opentelemetry,无变化,0,0,35479,37,35479,37
 moonbit-community/piediff,无变化,0,0,2718,1,2718,1
 moonbit-community/postgres,无变化,0,0,23831,11,23831,11
 moonbit-community/prettyprinter,无变化,0,0,1732,1,1732,1
-moonbit-community/proton,无变化,0,0,34799,19,34799,19
 moonbit-community/proton_auto_launch,无变化,0,0,1670,1,1670,1
 moonbit-community/proton_bundle,无变化,0,0,1161,1,1161,1
 moonbit-community/proton_cefsetup,无变化,0,0,1833,2,1833,2
-moonbit-community/proton_cli,无变化,0,0,9813,10,9813,10
 moonbit-community/proton_client,无变化,0,0,959,1,959,1
 moonbit-community/proton_clipboard,无变化,0,0,428,1,428,1
 moonbit-community/proton_codegen,无变化,0,0,1319,2,1319,2
@@ -1586,7 +1591,6 @@ moonbit-community/proton_updater,无变化,0,0,935,1,935,1
 moonbit-community/pty,无变化,0,0,1624,2,1624,2
 moonbit-community/punycode,无变化,0,0,998,2,998,2
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
-moonbit-community/rabbita,无变化,0,0,28522,23,28522,23
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/sqlite3,无变化,0,0,4523,2,4523,2
@@ -2394,7 +2398,6 @@ Yoorkin/prettyprinter,无变化,0,0,1655,2,1655,2
 Yoorkin/proxy,无变化,0,0,149,1,149,1
 Yoorkin/rabbit-tea,无变化,0,0,21568,18,21568,18
 Yoorkin/rui,无变化,0,0,42010,1,42010,1
-Yoorkin/shiki,无变化,0,0,174,1,174,1
 Yoorkin/slotmap,无变化,0,0,155,1,155,1
 Yoorkin/splice,无变化,0,0,246,1,246,1
 Yoorkin/stack,无变化,0,0,75,1,75,1
