@@ -1,8 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Careylq/spell,新增,4311,8,0,0,4311,8
 cheng-jun56/pop3,新增,1103,3,0,0,1103,3
 chenglong-coding/irc,新增,1500,3,0,0,1500,3
 dongxuan2012/cnnum,新增,2123,3,0,0,2123,3
-Freon793/moonopt,新增,20295,13,0,0,20295,13
+Freon793/moonopt,新增,20296,13,0,0,20296,13
 guolei-dev/xiangqi,新增,1883,3,0,0,1883,3
 HaQiLyner/moon_digest_fields,新增,1070,3,0,0,1070,3
 huanglong44/imap,新增,1647,3,0,0,1647,3
@@ -10,12 +11,17 @@ lhw153766-ctrl/sparse-linalg,新增,8317,15,0,0,8317,15
 liu-fang38/webdav,新增,1955,3,0,0,1955,3
 liubin-dev/mailbox,新增,1046,3,0,0,1046,3
 mawei2018/forth,新增,4621,3,0,0,4621,3
+moonbitstack/moonquic,新增,9254,8,0,0,9254,8
+moonbitstack/moontls,新增,3830,8,0,0,3830,8
 peng-jun21/faker,新增,7683,3,0,0,7683,3
+sebastian/http_retry,新增,2364,3,0,0,2364,3
 tanglong2001/dockerlint,新增,3005,3,0,0,3005,3
 tlhuecdkoyg/MoonFixture,新增,5450,3,0,0,5450,3
+uiwcvb/hocon,新增,566246,2,0,0,566246,2
 V1GreenSummer/codemoonbit,新增,13947,9,0,0,13947,9
 V1GreenSummer/typstbit,新增,5019,6,0,0,5019,6
 wang-chen89/amqp,新增,9300,3,0,0,9300,3
+weopqrst/mooncassette-llm,新增,1011,2,0,0,1011,2
 xie-wei10/gorilla,新增,2697,3,0,0,2697,3
 xiefei-coding/wfc,新增,3182,3,0,0,3182,3
 xuting22/ntp,新增,6156,3,0,0,6156,3
@@ -24,7 +30,7 @@ zhaojun-coding/thrift,新增,22843,4,0,0,22843,4
 zhengming2004/awk,新增,43671,3,0,0,43671,3
 zhengxin-coding/scss,新增,10689,3,0,0,10689,3
 zhou-wei97/promql,新增,3764,3,0,0,3764,3
-colmugx/ai-passport,有变化,150,0,6106,14,6256,14
+colmugx/ai-passport,有变化,1021,5,6106,14,7127,19
 gmlewis/b2,有变化,10,0,625,1,635,1
 gmlewis/flate,有变化,15,0,4339,3,4354,3
 gmlewis/fonts,有变化,954,0,15170,20,16124,20
@@ -39,12 +45,15 @@ gmlewis/sha256,有变化,75,0,516,1,591,1
 gmlewis/spin-moonbit-sdk,有变化,925,0,13956,46,14881,46
 gmlewis/step,有变化,551,0,26164,52,26715,52
 gmlewis/zlib,有变化,15,0,720,1,735,1
-howtomakeaname/tokenizers-moonbit,有变化,23,0,55943,11,55966,11
+HhWw96/moonmmdb,有变化,175,0,9643,10,9818,10
+howtomakeaname/tokenizers-moonbit,有变化,280,0,55943,11,56223,11
 mizchi/bit,有变化,10,0,162457,5,162467,5
 mizchi/bit_io_native,有变化,-8,0,2898,1,2890,1
 mizchi/bit_lib,有变化,236,0,47429,2,47665,2
 mizchi/bit_protocol,有变化,12,0,3348,1,3360,1
 mizchi/bit_repo,有变化,32,0,1718,1,1750,1
+mizchi/gfx,有变化,17,0,6125,1,6142,1
+moonbitstack/mooncat,有变化,-13287,-14,25604,27,12317,13
 moonbitstack/mooncred,有变化,174,0,3450,4,3624,4
 moonbitstack/mooncrypt,有变化,317,0,6268,15,6585,15
 moonbitstack/moonegui,有变化,219,0,7825,15,8044,15
@@ -58,6 +67,7 @@ moonbitstack/moonrpc,有变化,3,0,16871,31,16874,31
 moonbitstack/moonzero,有变化,-268,0,15813,17,15545,17
 oboard/redis,有变化,38,0,5304,1,5342,1
 vitro/engine,有变化,21463,9,12387,10,33850,19
+weopqrst/mooncassette,有变化,1497,1,14307,19,15804,20
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -754,7 +764,6 @@ heyq02/moonjs,无变化,0,0,19567,18,19567,18
 hgetty/gaitlab,无变化,0,0,15822,11,15822,11
 Hhsqoo/moon-collections,无变化,0,0,3595,12,3595,12
 Hhsqoo/moon-frequency-sketch,无变化,0,0,6065,12,6065,12
-HhWw96/moonmmdb,无变化,0,0,9643,10,9643,10
 hhxhhx78/moonbit-iec104,无变化,0,0,23360,2,23360,2
 himeno/mopress,无变化,0,0,7421,9,7421,9
 himeno/reactive,无变化,0,0,569,1,569,1
@@ -1421,7 +1430,6 @@ mizchi/flatbuffers,无变化,0,0,10671,3,10671,3
 mizchi/font,无变化,0,0,11298,4,11298,4
 mizchi/fswatch,无变化,0,0,982,1,982,1
 mizchi/geom,无变化,0,0,3566,4,3566,4
-mizchi/gfx,无变化,0,0,6125,1,6125,1
 mizchi/git,无变化,0,0,53603,9,53603,9
 mizchi/github,无变化,0,0,1974,11,1974,11
 mizchi/glfw,无变化,0,0,485,2,485,2
@@ -1696,7 +1704,6 @@ moonbitlang/yacc,无变化,0,0,19838,21,19838,21
 moonbitstack/moonapi,无变化,0,0,12896,21,12896,21
 moonbitstack/moonasgi,无变化,0,0,6069,21,6069,21
 moonbitstack/moonbase,无变化,0,0,1767,8,1767,8
-moonbitstack/mooncat,无变化,0,0,25604,27,25604,27
 moonbitstack/moonctl,无变化,0,0,13175,18,13175,18
 moonbitstack/moondb,无变化,0,0,2017,1,2017,1
 moonbitstack/moonhttp,无变化,0,0,1590,4,1590,4
@@ -2332,7 +2339,6 @@ WeiR-h/moonapi_check,无变化,0,0,1915,2,1915,2
 WeiR-h/moonldif,无变化,0,0,5015,3,5015,3
 WenqiChen3019/sqrt,无变化,0,0,44,2,44,2
 weopqrst/agent,无变化,0,0,7778,19,7778,19
-weopqrst/mooncassette,无变化,0,0,14307,19,14307,19
 wflixu/Halo,无变化,0,0,4853,7,4853,7
 wflixu/Orion,无变化,0,0,7579,10,7579,10
 WGYo90/moonbit-gif,无变化,0,0,20840,3,20840,3
