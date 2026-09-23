@@ -12,6 +12,7 @@ shop1111/moonbindgen,新增,1483,2,0,0,1483,2
 trail-it/moonchsrc,新增,2871,5,0,0,2871,5
 youyong5/racedelta,新增,7686,2,0,0,7686,2
 z2823253773-p/moontick,新增,1701,4,0,0,1701,4
+Across2005/harness-self-evolution,有变化,150,0,27424,11,27574,11
 bobzhang/beautiful_mermaid,有变化,-75,0,82308,41,82233,41
 bobzhang/codex_workflow,有变化,30,0,3340,3,3370,3
 bobzhang/jq,有变化,-1,0,270,1,269,1
@@ -21,6 +22,8 @@ bobzhang/loop_invariants_geometry,有变化,-2,0,8848,17,8846,17
 bobzhang/loop_invariants_math,有变化,-2,0,22100,40,22098,40
 bobzhang/loop_invariants_persistent,有变化,-42,0,18537,44,18495,44
 bobzhang/moonjq,有变化,-7,0,17992,24,17985,24
+bobzhang/qrc,有变化,6,0,2087,3,2093,3
+bobzhang/unmarshal,有变化,6,0,10851,6,10857,6
 gaato/anthropic,有变化,21422,1,1369,1,22791,2
 gaato/dave,有变化,95,0,2512,2,2607,2
 gaato/discord,有变化,75,0,97634,37,97709,37
@@ -100,7 +103,6 @@ zhangbowen2006/moonkeyguard,有变化,2615,3,7524,4,10139,7
 6P66006/moon-sfv,无变化,0,0,24463,7,24463,7
 918154429/moonguard,无变化,0,0,9047,2,9047,2
 A-23187/encoding,无变化,0,0,756,3,756,3
-Across2005/harness-self-evolution,无变化,0,0,27424,11,27424,11
 Across2005/MoonBit-memory,无变化,0,0,1657,2,1657,2
 Across2005/yimai_prophecy_moonbit,无变化,0,0,12077,6,12077,6
 AdUhTkJm/assembler,无变化,0,0,431,1,431,1
@@ -265,7 +267,6 @@ bobzhang/portable_cli,无变化,0,0,10365,15,10365,15
 bobzhang/printf,无变化,0,0,1453,1,1453,1
 bobzhang/prolog,无变化,0,0,4028,3,4028,3
 bobzhang/prove,无变化,0,0,6824,89,6824,89
-bobzhang/qrc,无变化,0,0,2087,3,2087,3
 bobzhang/scheme,无变化,0,0,141,1,141,1
 bobzhang/scheme-r6rs,无变化,0,0,40116,8,40116,8
 bobzhang/scheme-r6rs-cli,无变化,0,0,170,1,170,1
@@ -285,7 +286,6 @@ bobzhang/toml_cli,无变化,0,0,204,1,204,1
 bobzhang/tr,无变化,0,0,329,1,329,1
 bobzhang/true,无变化,0,0,25,1,25,1
 bobzhang/uniq,无变化,0,0,146,1,146,1
-bobzhang/unmarshal,无变化,0,0,10851,6,10851,6
 bobzhang/uri,无变化,0,0,2678,1,2678,1
 bobzhang/uuidm,无变化,0,0,2343,1,2343,1
 bobzhang/vg,无变化,0,0,8154,7,8154,7
