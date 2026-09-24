@@ -9,12 +9,19 @@ HuLunTunTao/moon-ort,新增,4701,7,0,0,4701,7
 prowk/binschema,新增,9885,5,0,0,9885,5
 Rz-coder8848/moon-neo4j,新增,3765,2,0,0,3765,2
 SongYZZZ/moon-firmware,新增,8365,13,0,0,8365,13
-wangjiale6036-dotcom/moonnifti,新增,1986,3,0,0,1986,3
-colmugx/fuwaroid,有变化,5260,1,4131,1,9391,2
-colmugx/posoco,有变化,296,0,45697,10,45993,10
+wangjiale6036-dotcom/moonnifti,新增,2711,3,0,0,2711,3
+1726914517-spec/moon_otp,有变化,439,0,1861,3,2300,3
+colmugx/fuwaroid,有变化,5284,1,4131,1,9415,2
+colmugx/posoco,有变化,638,0,45697,10,46335,10
 gaato/discord,有变化,8137,17,97709,37,105846,54
+howtomakeaname/tokenizers-moonbit,有变化,141,0,58969,11,59110,11
 JIA2JIA2/moonbitgeodb,有变化,20113,0,9718,8,29831,8
 lepus-apps/lepus,有变化,-9873,-7,19938,77,10065,70
+moonbit-community/flate,有变化,387,0,22437,6,22824,6
+moonbit-community/rabbita,有变化,3335,0,28411,23,31746,23
+moonbitlang/async,有变化,425,0,54164,47,54589,47
+NoahLiu/moonbit-libyue,有变化,11801,2,24223,5,36024,7
+riantr/moonbit_labeler,有变化,13235,1,5677,3,18912,4
 superbigcup325/jumbit,有变化,1238,0,9908,7,11146,7
 TryAndRun-TvT/fast_qr_moonbit,有变化,335,1,4456,7,4791,8
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -40,7 +47,6 @@ TryAndRun-TvT/fast_qr_moonbit,有变化,335,1,4456,7,4791,8
 123123213weqw/moonbit_mcp,无变化,0,0,1496,2,1496,2
 13131116363/routeable,无变化,0,0,5197,3,5197,3
 15614376790/moon-weblink,无变化,0,0,9390,7,9390,7
-1726914517-spec/moon_otp,无变化,0,0,1861,3,1861,3
 17731189258/sbs,无变化,0,0,4527,2,4527,2
 202306123/lib_mbt,无变化,0,0,15,1,15,1
 2111950632/robots-gate,无变化,0,0,6387,6,6387,6
@@ -771,7 +777,6 @@ houjie/rag-mbt,无变化,0,0,3978,4,3978,4
 hourizon/moonbin,无变化,0,0,1096,2,1096,2
 Howardzhangdqs/md5,无变化,0,0,287,2,287,2
 howhere7/moonmail,无变化,0,0,6818,7,6818,7
-howtomakeaname/tokenizers-moonbit,无变化,0,0,58969,11,58969,11
 hrwqe/cf_ocean,无变化,0,0,8874,12,8874,12
 hsy-bit/moonbit-circuit-solver,无变化,0,0,31097,10,31097,10
 httt-star/moonshrink,无变化,0,0,36348,9,36348,9
@@ -1581,7 +1586,6 @@ moonbit-community/elf,无变化,0,0,9902,1,9902,1
 moonbit-community/embed,无变化,0,0,785,1,785,1
 moonbit-community/ffi,无变化,0,0,222,1,222,1
 moonbit-community/find_cluster_break,无变化,0,0,647,2,647,2
-moonbit-community/flate,无变化,0,0,22437,6,22437,6
 moonbit-community/fuzzy_match,无变化,0,0,584,1,584,1
 moonbit-community/global_hotkey,无变化,0,0,1387,1,1387,1
 moonbit-community/graphviz,无变化,0,0,151269,81,151269,81
@@ -1636,7 +1640,6 @@ moonbit-community/proton_updater,无变化,0,0,921,1,921,1
 moonbit-community/pty,无变化,0,0,1874,2,1874,2
 moonbit-community/punycode,无变化,0,0,1004,2,1004,2
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
-moonbit-community/rabbita,无变化,0,0,28411,23,28411,23
 moonbit-community/rabbita_tui,无变化,0,0,10070,6,10070,6
 moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/rui,无变化,0,0,42307,3,42307,3
@@ -1657,7 +1660,6 @@ moonbit-community/zipc,无变化,0,0,1551,1,1551,1
 moonbit-courses/minimoonbit-courses,无变化,0,0,112,1,112,1
 moonbit-js-ffi/js,无变化,0,0,1160,2,1160,2
 moonbitlang/arduino,无变化,0,0,1043,4,1043,4
-moonbitlang/async,无变化,0,0,54164,47,54164,47
 moonbitlang/core,无变化,0,0,233125,80,233125,80
 moonbitlang/docx2html,无变化,0,0,104000,19,104000,19
 moonbitlang/dummy_abort,无变化,0,0,20,2,20,2
@@ -1790,7 +1792,6 @@ nexacodes/moontask,无变化,0,0,6493,10,6493,10
 NiHao124538/examine,无变化,0,0,110,2,110,2
 niuniu513-ask/MoonRetrieve,无变化,0,0,4152,3,4152,3
 nkwork9999/ayatsumugi,无变化,0,0,1142,3,1142,3
-NoahLiu/moonbit-libyue,无变化,0,0,24223,5,24223,5
 nodex/ssmp,无变化,0,0,109,1,109,1
 NoEmotionYY/moon-pathplanning,无变化,0,0,8131,16,8131,16
 Noverberrain/configscope,无变化,0,0,5960,5,5960,5
@@ -1934,7 +1935,6 @@ Refined_heart/Sort,无变化,0,0,60,2,60,2
 remain11/i18n,无变化,0,0,52,3,52,3
 riantr/moonbit_doubleML,无变化,0,0,30500,15,30500,15
 riantr/moonbit_image,无变化,0,0,7607,1,7607,1
-riantr/moonbit_labeler,无变化,0,0,5677,3,5677,3
 riantr/snn_mbt,无变化,0,0,42050,77,42050,77
 Ridge-Lab/moonice,无变化,0,0,4753,6,4753,6
 Ridge-Lab/moonphaserkit,无变化,0,0,5596,3,5596,3
