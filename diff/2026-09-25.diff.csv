@@ -6,6 +6,7 @@ azhzx/qbe,有变化,11239,5,31819,28,43058,33
 gaato/github,有变化,1,0,210579,2,210580,2
 gaato/sdk-runtime,有变化,354,0,2777,3,3131,3
 HhWw96/moonmmdb,有变化,1107,3,9818,10,10925,13
+klaseca/skia-sys,有变化,27,0,3493,1,3520,1
 lepus-apps/lepus,有变化,2507,6,10065,70,12572,76
 oboard/eval,有变化,7648,0,73029,8,80677,8
 WeiR-h/moonldif,有变化,769,0,5926,3,6695,3
@@ -1000,7 +1001,6 @@ KKKIIO/selene_xaml,无变化,0,0,16206,15,16206,15
 klaseca/sdl,无变化,0,0,1917,1,1917,1
 klaseca/sdl-sys,无变化,0,0,2424,1,2424,1
 klaseca/skia,无变化,0,0,532,1,532,1
-klaseca/skia-sys,无变化,0,0,3493,1,3493,1
 kokic/cmark,无变化,0,0,12885,1,12885,1
 kokic/fakefetch,无变化,0,0,1580,2,1580,2
 kokic/i18n-ipsum,无变化,0,0,600,1,600,1
