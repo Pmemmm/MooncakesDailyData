@@ -3,7 +3,9 @@ hiroyannnn/yuru-kit,新增,1931,4,0,0,1931,4
 youyong5/a11ytrace,新增,4379,3,0,0,4379,3
 Across2005/harness-self-evolution,有变化,405,0,27574,11,27979,11
 azhzx/qbe,有变化,11239,5,31819,28,43058,33
+gaato/anthropic,有变化,1,0,22791,2,22792,2
 gaato/github,有变化,1,0,210579,2,210580,2
+gaato/openai,有变化,1553,0,15107,2,16660,2
 gaato/sdk-runtime,有变化,354,0,2777,3,3131,3
 HhWw96/moonmmdb,有变化,1107,3,9818,10,10925,13
 klaseca/skia-sys,有变化,27,0,3493,1,3520,1
@@ -617,13 +619,11 @@ fundon/emoji,无变化,0,0,1656,1,1656,1
 furesoft/moos-sdk,无变化,0,0,958,2,958,2
 fuwasegu/moonbitap,无变化,0,0,333,1,333,1
 fuyun-2026/moonbit-canbus,无变化,0,0,7473,13,7473,13
-gaato/anthropic,无变化,0,0,22791,2,22791,2
 gaato/dave,无变化,0,0,2607,2,2607,2
 gaato/discord,无变化,0,0,105846,54,105846,54
 gaato/discord-cli,无变化,0,0,732,1,732,1
 gaato/http,无变化,0,0,1549,4,1549,4
 gaato/http-async,无变化,0,0,1461,2,1461,2
-gaato/openai,无变化,0,0,15107,2,15107,2
 gckbbrant/moonbitTolerance,无变化,0,0,4562,2,4562,2
 GCodinggo/moon-multipart,无变化,0,0,3537,2,3537,2
 GeneWang1226/tqdmoon,无变化,0,0,1190,3,1190,3
