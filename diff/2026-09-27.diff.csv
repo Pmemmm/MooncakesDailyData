@@ -13,6 +13,7 @@ cli/tree,新增,419,1,0,0,419,1
 cli/unexpand,新增,254,1,0,0,254,1
 cli/unlink,新增,111,1,0,0,111,1
 cli/yes,新增,70,1,0,0,70,1
+impart563/clinical-lab-qc,新增,6702,11,0,0,6702,11
 chenqi-arch/moonbit-project,有变化,2034,11,2919,2,4953,13
 colmugx/posoco,有变化,510,0,46747,10,47257,10
 hiroyannnn/sketch,有变化,37,0,975,2,1012,2
@@ -21,6 +22,7 @@ howtomakeaname/tokenizers-moonbit,有变化,951,0,60893,11,61844,11
 moonbit-community/ini,有变化,263,0,1794,1,2057,1
 moonbit-community/opentelemetry,有变化,7,0,35479,37,35486,37
 moonbit-community/rabbita_tui,有变化,448,0,10070,6,10518,6
+moonrockz/gherkin,有变化,2181,0,11821,9,14002,9
 NoahLiu/moonbit-libyue,有变化,47,0,36024,7,36071,7
 V1GreenSummer/codemoonbit,有变化,52,0,13947,9,13999,9
 V1GreenSummer/typstbit,有变化,165,0,5019,6,5184,6
@@ -1757,7 +1759,6 @@ moonrockz/cucumber-expressions,无变化,0,0,3208,1,3208,1
 moonrockz/cucumber-messages,无变化,0,0,3958,1,3958,1
 moonrockz/directories,无变化,0,0,743,1,743,1
 moonrockz/expect,无变化,0,0,394,1,394,1
-moonrockz/gherkin,无变化,0,0,11821,9,11821,9
 moonrockz/mediator,无变化,0,0,951,6,951,6
 moonrockz/moonspec,无变化,0,0,28202,14,28202,14
 mooxCLI/cmd,无变化,0,0,15,0,15,0
