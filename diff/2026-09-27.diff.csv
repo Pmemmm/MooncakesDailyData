@@ -14,6 +14,8 @@ cli/unexpand,新增,254,1,0,0,254,1
 cli/unlink,新增,111,1,0,0,111,1
 cli/yes,新增,70,1,0,0,70,1
 impart563/clinical-lab-qc,新增,6702,11,0,0,6702,11
+QuietlyChan/moon-agui,新增,1068,5,0,0,1068,5
+Careylq/spell,有变化,4934,1,7244,9,12178,10
 chenqi-arch/moonbit-project,有变化,2034,11,2919,2,4953,13
 colmugx/posoco,有变化,510,0,46747,10,47257,10
 hiroyannnn/sketch,有变化,37,0,975,2,1012,2
@@ -24,6 +26,7 @@ moonbit-community/opentelemetry,有变化,7,0,35479,37,35486,37
 moonbit-community/rabbita_tui,有变化,448,0,10070,6,10518,6
 moonrockz/gherkin,有变化,2181,0,11821,9,14002,9
 NoahLiu/moonbit-libyue,有变化,47,0,36024,7,36071,7
+riantr/moonbit_doubleML,有变化,-1938,-14,30500,15,28562,1
 V1GreenSummer/codemoonbit,有变化,52,0,13947,9,13999,9
 V1GreenSummer/typstbit,有变化,165,0,5019,6,5184,6
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -334,7 +337,6 @@ Camilotk/stuntmaster,无变化,0,0,5368,6,5368,6
 caozhanhao/qrcode,无变化,0,0,3833,2,3833,2
 CaptainK-65/moon-collate,无变化,0,0,20236,2,20236,2
 CaptainK-65/moon-humanize,无变化,0,0,443,7,443,7
-Careylq/spell,无变化,0,0,7244,9,7244,9
 cauchyQ/moon-sketch-kit,无变化,0,0,4447,5,4447,5
 cauchyQ/moonbit-argkit,无变化,0,0,4423,3,4423,3
 cauchyQ/moonbit-causalkit,无变化,0,0,4730,2,4730,2
@@ -1959,7 +1961,6 @@ rami3l/unicodewidth,无变化,0,0,25282,1,25282,1
 rami3l/version,无变化,0,0,3162,2,3162,2
 Refined_heart/Sort,无变化,0,0,60,2,60,2
 remain11/i18n,无变化,0,0,52,3,52,3
-riantr/moonbit_doubleML,无变化,0,0,30500,15,30500,15
 riantr/moonbit_image,无变化,0,0,7607,1,7607,1
 riantr/moonbit_labeler,无变化,0,0,18912,4,18912,4
 riantr/snn_mbt,无变化,0,0,42050,77,42050,77
