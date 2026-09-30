@@ -6,6 +6,7 @@ cosettese/moonastrofits,新增,4879,4,0,0,4879,4
 daqing/moonkafka-demo,新增,1677,2,0,0,1677,2
 GuoXBQ-Q/moon-boofuzz,新增,28401,17,0,0,28401,17
 jhshuai/moonlarder,新增,4524,2,0,0,4524,2
+jjyiiuy/moonforensics,新增,7216,2,0,0,7216,2
 Ljh684/moonnet-lab,新增,10845,10,0,0,10845,10
 LL124-Arch/amazon-ion-moonbit-core,新增,6656,6,0,0,6656,6
 lllg123/mooncontext,新增,7656,11,0,0,7656,11
@@ -19,13 +20,16 @@ spectacleCase/moonhadolint,新增,3144,2,0,0,3144,2
 SundayT1998/milvus-client,新增,37756,19,0,0,37756,19
 wuhaiting321/moonprobe,新增,8569,6,0,0,8569,6
 Wyh123456559/moonrouteguard,新增,6025,2,0,0,6025,2
+yadidyc/moonpod,新增,3584,5,0,0,3584,5
 YeeHh2004/moonundo,新增,2173,3,0,0,2173,3
 yujieMamba/mooncite,新增,3566,5,0,0,3566,5
 f4ah6o/duckdb,有变化,10440,4,18977,2,29417,6
 Freakz2z/tracecite,有变化,2879,2,2927,2,5806,4
 Freon793/moonopt,有变化,2036,0,21118,13,23154,13
 geniuszby/moon-policy-diff,有变化,1502,0,4380,2,5882,2
+HhWw96/moonmmdb,有变化,233,0,12886,15,13119,15
 impart563/clinical-lab-qc,有变化,722,0,6702,11,7424,11
+justinwongcn/moon-ical,有变化,285,0,6340,11,6625,11
 kokic/uniform-path,有变化,16,0,211,1,227,1
 lepus-apps/lepus,有变化,627,0,12597,77,13224,77
 lexchb/memcached,有变化,123,0,4759,2,4882,2
@@ -44,10 +48,11 @@ moonrockz/cucumber-messages,有变化,267,0,4506,1,4773,1
 prowk/binschema,有变化,1360,2,9885,5,11245,7
 riantr/moonbit_doubleML,有变化,2005,0,35395,1,37400,1
 riantr/moonbit_image,有变化,839,0,7607,1,8446,1
-riantr/snn_mbt,有变化,30261,0,42050,77,72311,77
+riantr/snn_mbt,有变化,35405,1,42050,77,77455,78
 Ridge-Lab/moonice,有变化,200,0,4753,6,4953,6
 sgy1023-crt/cassowary,有变化,196,0,39655,6,39851,6
 superbigcup325/jumbit,有变化,1428,0,11146,7,12574,7
+tiye/dom-ffi,有变化,468,0,4733,2,5201,2
 youyong5/a11ytrace,有变化,1025,0,9856,3,10881,3
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -819,7 +824,6 @@ hgetty/gaitlab,无变化,0,0,15822,11,15822,11
 Hhsqoo/artifactdock,无变化,0,0,2950,1,2950,1
 Hhsqoo/moon-collections,无变化,0,0,3595,12,3595,12
 Hhsqoo/moon-frequency-sketch,无变化,0,0,6065,12,6065,12
-HhWw96/moonmmdb,无变化,0,0,12886,15,12886,15
 hhxhhx78/moonbit-iec104,无变化,0,0,23360,2,23360,2
 himeno/mopress,无变化,0,0,7421,9,7421,9
 himeno/reactive,无变化,0,0,569,1,569,1
@@ -970,7 +974,6 @@ jtenner/telnet,无变化,0,0,29427,6,29427,6
 Jtian-t/Deque,无变化,0,0,268,1,268,1
 jumpping/baby,无变化,0,0,4270,6,4270,6
 JunJunTnT/moonchart,无变化,0,0,3850,8,3850,8
-justinwongcn/moon-ical,无变化,0,0,6340,11,6340,11
 justinwongcn/tyme4mb,无变化,0,0,22529,6,22529,6
 justjavac/auto_launch,无变化,0,0,2132,5,2132,5
 justjavac/btoi,无变化,0,0,1063,1,1063,1
@@ -2215,7 +2218,6 @@ Tino-hue/depsight,无变化,0,0,13524,9,13524,9
 tiye/caterfoil,无变化,0,0,2580,2,2580,2
 tiye/cirru-edn,无变化,0,0,1131,2,1131,2
 tiye/cirru-parser,无变化,0,0,1388,2,1388,2
-tiye/dom-ffi,无变化,0,0,4733,2,4733,2
 tiye/genai,无变化,0,0,2161,2,2161,2
 tiye/json5,无变化,0,0,1337,1,1337,1
 tiye/lexicon-fractional-index,无变化,0,0,957,2,957,2
