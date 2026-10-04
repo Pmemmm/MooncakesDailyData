@@ -8,11 +8,15 @@ chensuiyi/mwork,新增,323,1,0,0,323,1
 chensuiyi/release,新增,254,1,0,0,254,1
 chensuiyi/semver,新增,189,1,0,0,189,1
 chensuiyi/subproc,新增,690,1,0,0,690,1
+sa2360/toml,新增,7633,3,0,0,7633,3
 tanxiansheng221/birdcore,新增,940,3,0,0,940,3
+xlyyyyyy112/moonbit-mirostat,新增,5868,11,0,0,5868,11
 chensuiyi/notify,有变化,-194,0,1611,1,1417,1
+gaato/github,有变化,92,0,211398,2,211490,2
 mldong/moon-token,有变化,366,0,4022,6,4388,6
 mldong/moon-token-moonback,有变化,3,0,610,1,613,1
 mldong/moon-token-store,有变化,57,0,1802,2,1859,2
+PerfectPan/base64,有变化,-45,0,255,1,210,1
 riantr/moonbit_static_analysis,有变化,111,0,4712,12,4823,12
 riantr/pyroduct,有变化,-41015,0,53782,20,12767,20
 yuzhiblue/moon-watermark,有变化,15409,0,2721,3,18130,3
@@ -699,7 +703,6 @@ gaato/anthropic,无变化,0,0,23305,2,23305,2
 gaato/dave,无变化,0,0,2607,2,2607,2
 gaato/discord,无变化,0,0,106817,54,106817,54
 gaato/discord-cli,无变化,0,0,733,1,733,1
-gaato/github,无变化,0,0,211398,2,211398,2
 gaato/http,无变化,0,0,1549,4,1549,4
 gaato/http-async,无变化,0,0,1588,2,1588,2
 gaato/kbbi,无变化,0,0,1929,2,1929,2
@@ -1993,7 +1996,6 @@ peng-jun21/faker,无变化,0,0,7683,3,7683,3
 Penguinsltp/examine,无变化,0,0,66,2,66,2
 Penguinsltp/gif_decoder,无变化,0,0,1508,3,1508,3
 PerfectPan/agent-finder,无变化,0,0,896,5,896,5
-PerfectPan/base64,无变化,0,0,255,1,255,1
 PerfectPan/svgo,无变化,0,0,26128,8,26128,8
 peter-jerry-ye/advent_of_code,无变化,0,0,254,2,254,2
 peter-jerry-ye/assertion,无变化,0,0,283,1,283,1
