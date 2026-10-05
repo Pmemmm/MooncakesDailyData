@@ -133,7 +133,7 @@ bit_diff3,mizchi/bit_diff3,0.48.0,860,1,2026-09-21T15:00:25.781917
 bit_diff_core,mizchi/bit_diff_core,0.48.0,524,1,2026-09-21T15:00:29.001081
 bit_fast_import,mizchi/bit_fast_import,0.48.0,766,1,2026-09-21T15:00:32.287732
 bit_fingerprint,mizchi/bit_fingerprint,0.48.0,942,1,2026-09-21T15:02:42.569828
-bitflow,mizchi/bitflow,0.4.1,14768,5,2026-04-04T16:20:53.25791
+bitflow,mizchi/bitflow,0.4.2,14910,5,2026-10-05T03:58:00.348103
 bit_grep,mizchi/bit_grep,0.48.0,2537,1,2026-09-21T15:03:10.696581
 bit_hash,mizchi/bit_hash,0.48.0,1168,2,2026-09-21T15:00:35.806871
 bit_ignore,mizchi/bit_ignore,0.48.0,994,1,2026-09-21T15:00:39.184023
@@ -260,7 +260,7 @@ cmark,rami3l/cmark,0.4.0,30202,7,2025-09-09T05:58:55.596838
 cmd,mooxCLI/cmd,0.1.4,15,0,2026-08-30T14:10:09.331741
 cmp,cli/cmp,0.2.0,308,1,2026-09-21T10:06:40.131783
 cnnum,dongxuan2012/cnnum,0.4.0,2123,3,2026-09-21T18:05:45.489981
-codegen,mizchi/codegen,0.2.3,7115,5,2026-02-10T16:03:18.60147
+codegen,mizchi/codegen,0.2.4,7118,5,2026-10-05T03:19:56.615512
 codemoonbit,V1GreenSummer/codemoonbit,0.1.2,13999,9,2026-09-26T12:41:05.638604
 codex,moonbit-community/codex,0.151.0,33698,29,2026-09-28T02:02:07.245066
 codex,peter-jerry-ye/codex,0.129.0,32279,29,2026-06-11T07:49:52.261112
@@ -519,7 +519,7 @@ fist-mbt,vicTop-cw/fist-mbt,0.3.5,50342,17,2026-09-29T10:35:10.876305
 fkshz,JPLovever/fkshz,0.1.0,19,1,2025-03-02T13:51:17.010856
 flaker,mizchi/flaker,0.3.1,7121,21,2026-04-25T13:40:47.761858
 flashmoon,starAndHonor/flashmoon,0.1.1,6967,15,2026-09-26T04:12:35.588921
-flatbuffers,mizchi/flatbuffers,0.1.3,10671,3,2026-01-16T04:48:40.366693
+flatbuffers,mizchi/flatbuffers,0.1.4,10694,3,2026-10-05T03:19:54.717445
 flate,moonbit-community/flate,0.8.5,23870,6,2026-10-04T10:19:15.171855
 flate,gmlewis/flate,0.36.15,4354,3,2026-09-21T13:37:27.461489
 flipspec,yourenA1108/flipspec,0.1.1,4594,2,2026-08-23T15:44:29.558621
@@ -917,7 +917,7 @@ llm,mizchi/llm,0.3.2,8075,8,2026-08-15T17:20:32.908659
 llm,marianoguerra/llm,0.4.1,5318,7,2026-09-10T10:19:13.245806
 llm_interop,trkbt10/llm_interop,0.3.0,26468,17,2026-03-22T05:15:29.19747
 llm_mb_adapter,trail-it/llm_mb_adapter,0.1.0,313,1,2026-09-12T09:39:38.680379
-llvm,Kaida-Amethyst/llvm,0.5.6,44773,4,2026-10-04T16:40:04.421363
+llvm,Kaida-Amethyst/llvm,0.5.7,44816,4,2026-10-05T04:30:48.249858
 ln,cli/ln,0.2.0,284,1,2026-09-21T10:07:12.956333
 loci,zploc/loci,0.1.0,31491,20,2026-04-28T12:34:55.124255
 lockstep,Milky2018/lockstep,0.1.2,702,1,2026-09-07T09:12:30.433539
@@ -1201,7 +1201,7 @@ moonbit-deadline,chyppi/moonbit-deadline,0.1.1,10027,3,2026-08-24T09:00:34.40194
 moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
-moonbit_doubleML,riantr/moonbit_doubleML,0.91.0,54238,1,2026-10-04T15:30:25.692099
+moonbit_doubleML,riantr/moonbit_doubleML,0.92.0,55040,1,2026-10-05T01:24:44.264124
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
 moonbitemporal,yyyt0807/moonbitemporal,0.1.0,5342,7,2026-10-03T08:26:57.745208
@@ -1541,7 +1541,7 @@ MoonIDNA,ZSeanYves/MoonIDNA,0.2.1,14098,1,2026-07-22T02:17:56.097989
 moonifc_inspector,Mitsuha11zz/moonifc_inspector,0.1.0,2847,8,2026-09-29T08:46:32.924686
 moonim,Lmy271828/moonim,0.2.1,8374,13,2026-08-24T12:49:32.998408
 moonini,shangwuxi/moonini,0.1.1,1991,2,2026-09-10T05:16:46.53748
-mooninput,YeeHh2004/mooninput,0.1.0,1483,3,2026-10-01T17:36:09.526391
+mooninput,YeeHh2004/mooninput,0.1.1,1522,3,2026-10-05T03:15:35.27655
 mooninput,eisem/mooninput,0.1.0,4377,14,2026-09-28T07:24:03.591828
 moon-install,mizchi/moon-install,0.1.1,1006,2,2026-02-04T12:32:58.459914
 moonion,ZJH-666-ZJH/moonion,0.1.2,4382,5,2026-09-30T04:26:34.767533
@@ -2001,7 +2001,7 @@ oas2moon_frontend,Atman-Angle/oas2moon_frontend,0.1.0,824,1,2026-09-18T04:42:44.
 oas2moon_runtime,Atman-Angle/oas2moon_runtime,0.1.0,1409,1,2026-09-18T04:42:20.030375
 oauth2,ryota0624/oauth2,0.2.2,7919,6,2026-04-06T14:23:59.969776
 obsmark,kokic/obsmark,0.1.1,412,1,2026-08-19T10:03:29.672915
-oci_wasm,mizchi/oci_wasm,0.5.0,2061,7,2026-02-11T07:04:30.161696
+oci_wasm,mizchi/oci_wasm,0.5.1,2382,7,2026-10-05T03:58:02.846724
 ofd,colmugx/ofd,0.1.1,2520,4,2026-07-08T23:51:25.222349
 ofdx,colmugx/ofdx,0.1.0,166,1,2026-07-08T23:54:23.298137
 office,moonbitlang/office,0.2.1,15949,2,2026-09-28T03:50:39.69523
@@ -2027,7 +2027,7 @@ openseek_protocol,moonbitlang/openseek_protocol,0.3.0,4322,2,2026-09-28T01:57:37
 openseek_protocol,bobzhang/openseek_protocol,0.1.2,2922,2,2026-09-13T14:07:32.485061
 openseek_tools,bobzhang/openseek_tools,0.1.0,524,1,2026-09-15T03:59:27.894732
 openseek_tools,moonbitlang/openseek_tools,0.2.0,515,1,2026-09-24T08:13:04.168017
-openseek_tui,moonbitlang/openseek_tui,0.4.1,13856,20,2026-10-01T09:19:30.001731
+openseek_tui,moonbitlang/openseek_tui,0.4.2,13944,20,2026-10-05T02:12:10.913306
 openssl,tonyfettes/openssl,0.2.3,290,1,2025-08-18T02:06:11.96819
 opentelemetry,moonbit-community/opentelemetry,0.1.7,35486,37,2026-09-28T01:03:03.167876
 opentelemetry_proto_mbt,ryota0624/opentelemetry_proto_mbt,0.0.2,6573,11,2026-01-28T01:26:15.244841
@@ -2079,7 +2079,7 @@ pathforge,Deviaana/pathforge,0.1.0,1367,2,2026-07-20T07:44:56.526638
 pcap,chensuiyi/pcap,0.1.1,221,1,2026-08-01T11:49:29.16783
 pcre2,tonyfettes/pcre2,0.4.5,840,1,2026-03-04T05:27:33.721407
 pdf2md,moonbitlang/pdf2md,0.1.1,97,1,2026-09-28T03:40:24.555419
-pdflite,moonbitlang/pdflite,0.3.6,228730,45,2026-10-04T12:29:24.882154
+pdflite,moonbitlang/pdflite,0.3.7,230224,45,2026-10-05T01:26:23.341892
 pdflite,bobzhang/pdflite,0.1.41,357336,50,2026-07-12T06:53:13.461741
 peeler,elzup/peeler,0.1.2,1162,2,2026-06-23T07:14:05.261559
 peg,bobzhang/peg,0.1.0,40681,15,2026-09-27T00:57:50.110724
@@ -2139,7 +2139,7 @@ printf,cli/printf,0.2.0,1451,1,2026-09-21T10:07:30.653962
 printf,bobzhang/printf,0.1.3,1453,1,2026-09-28T01:06:56.812484
 prism,morning-start/prism,0.1.4,48674,22,2026-09-25T07:55:41.104357
 process,sennenki/process,0.1.0,708,1,2026-01-31T11:49:03.258844
-process_pool,mizchi/process_pool,0.1.3,1162,2,2026-02-11T09:07:52.586863
+process_pool,mizchi/process_pool,0.1.4,1207,2,2026-10-05T03:19:59.687329
 profinet_master,mokomoking2501/profinet_master,0.1.0,25256,17,2026-07-12T16:41:51.304981
 prolog,amistozy/prolog,0.1.7,7242,2,2026-08-16T08:25:30.010652
 prolog,bobzhang/prolog,0.1.5,4028,3,2026-09-28T01:13:47.647814
@@ -2194,7 +2194,7 @@ pure-py,marianoguerra/pure-py,0.10.0,22007,16,2026-09-10T15:59:47.650602
 pure-py-cli,marianoguerra/pure-py-cli,0.10.0,569,1,2026-09-10T15:59:52.485028
 pwd,cli/pwd,0.2.0,101,1,2026-09-21T10:07:32.840044
 pygments,bobzhang/pygments,0.2.4,125050,16,2026-10-02T07:23:44.667845
-pyroduct,riantr/pyroduct,0.1.22,15194,21,2026-10-04T14:43:12.181982
+pyroduct,riantr/pyroduct,0.1.24,15360,22,2026-10-05T05:12:03.524974
 pythagoras,kokic/pythagoras,0.1.0,626,1,2026-09-09T13:12:59.852735
 python,Kaida-Amethyst/python,0.1.7,6464,7,2025-11-13T02:23:01.302914
 qbe,azhzx/qbe,0.32.0,58238,42,2026-10-03T10:50:58.183605
@@ -2319,7 +2319,7 @@ s3,kaashyapan/s3,0.6.0,1961,2,2026-09-09T10:16:49.487927
 s3,hackwaly/s3,0.1.0,1484,1,2026-05-22T17:16:32.125535
 s7,RabitLogic/s7,0.2.6,4506,6,2026-08-11T07:45:40.275974
 safetensors-toolkit,aerbsi832/safetensors-toolkit,0.1.0,6122,11,2026-08-24T09:30:36.431926
-sandbox,mizchi/sandbox,0.1.1,66259,81,2026-02-11T11:32:45.105341
+sandbox,mizchi/sandbox,0.1.3,25967,13,2026-10-05T03:58:51.126045
 sarifkit,Derk2006/sarifkit,0.1.1,5279,4,2026-08-17T13:55:16.84847
 sat-solver,AdUhTkJm/sat-solver,0.1.2,2627,2,2025-06-06T19:12:27.769622
 sbom,cogna-dev/sbom,0.1.1,4747,13,2026-04-19T11:28:05.700383
@@ -2377,11 +2377,11 @@ shrubbery-cli,marianoguerra/shrubbery-cli,0.1.1,526,1,2026-09-05T20:43:53.421709
 shrubbery-css,marianoguerra/shrubbery-css,0.2.0,5519,6,2026-09-07T12:23:22.87268
 shrubbery-html,marianoguerra/shrubbery-html,0.1.0,2725,6,2026-09-07T07:14:58.366317
 signal,CGaaaaaa/signal,0.1.2,1249,1,2025-08-06T15:57:02.583329
-signals,mizchi/signals,0.6.5,4949,2,2026-07-15T15:04:21.929701
+signals,mizchi/signals,0.6.6,4897,2,2026-10-05T03:20:00.186113
 sigv4,kaashyapan/sigv4,0.5.0,1336,1,2026-09-09T10:15:09.624528
 simd,mizchi/simd,0.6.1,20763,10,2026-07-14T17:56:52.678261
 simdstring,MINGtoMING/simdstring,0.2.0,289,3,2025-05-31T18:51:00.886989
-similarity,mizchi/similarity,0.2.1,2664,5,2026-02-19T05:26:57.983884
+similarity,mizchi/similarity,0.2.2,2862,5,2026-10-05T03:20:15.206602
 simple_parserc,illusory0x0/simple_parserc,0.2.2,966,1,2025-09-23T15:20:01.774586
 simple-webauthn,f4ah6o/simple-webauthn,0.2.0,9234,8,2026-09-29T17:09:58.015425
 SimplexNoise,ZSeanYves/SimplexNoise,0.2.0,4655,4,2026-07-21T10:46:33.827229
@@ -2510,7 +2510,7 @@ teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
 tee,cli/tee,0.2.0,95,1,2026-09-21T10:07:52.97996
 telegram-bot,tonyfettes/telegram-bot,0.1.0,28891,1,2026-02-24T06:53:30.715295
 telnet,jtenner/telnet,0.1.3,29427,6,2026-05-26T00:54:14.550448
-tempfile,mizchi/tempfile,0.1.2,496,2,2026-02-11T05:40:43.444746
+tempfile,mizchi/tempfile,0.1.3,496,2,2026-10-05T03:19:55.206174
 template,lin2077-zeming/template,0.1.0,7375,4,2026-07-10T05:34:44.397828
 template,justjavac/template,0.1.1,317,1,2026-06-07T12:55:52.871566
 template_codegen,justjavac/template_codegen,0.1.4,1510,3,2026-09-28T05:59:01.526305
@@ -2586,7 +2586,7 @@ tqdmoon,GeneWang1226/tqdmoon,0.2.0,1190,3,2026-07-12T19:23:17.69953
 tr,cli/tr,0.2.0,639,1,2026-09-21T10:07:59.645234
 tr,bobzhang/tr,0.1.2,329,1,2026-09-28T01:07:08.115033
 trace,Yoorkin/trace,0.1.0,26,1,2025-10-09T04:08:22.371774
-tracecite,Freakz2z/tracecite,0.7.0,7256,5,2026-10-04T10:40:06.369169
+tracecite,Freakz2z/tracecite,0.7.1,8208,5,2026-10-05T04:20:19.646863
 tracing,Yu-zh/tracing,0.1.0,240,1,2026-02-01T15:29:13.408391
 tradedocs,zxwrrg/tradedocs,0.1.0,7670,9,2026-08-24T06:32:51.404219
 tray,justjavac/tray,0.1.8,1967,8,2026-09-28T08:47:02.894147
@@ -2652,7 +2652,7 @@ tyme4mb,justinwongcn/tyme4mb,0.2.3,22529,6,2026-09-01T22:22:37.825456
 type_theory,Luna-Flow/type_theory,0.2.0,3584,10,2026-06-16T13:13:19.908183
 type_unification,KCN-judu/type_unification,0.1.3,260,1,2025-11-17T14:21:58.073265
 typify,bobzhang/typify,0.2.0,25139,17,2026-09-26T10:07:16.958764
-typst,moonbitlang/typst,0.1.0,628257,75,2026-10-04T05:52:52.937395
+typst,moonbitlang/typst,0.1.1,629022,75,2026-10-05T00:38:50.505833
 typstbit,V1GreenSummer/typstbit,0.1.1,5184,6,2026-09-26T12:41:16.145541
 tzif-engine,caijiewei295/tzif-engine,0.1.0,7997,15,2026-08-22T19:20:29.813163
 u8str,AdUhTkJm/u8str,0.1.5,279,1,2025-07-10T10:23:06.579447
@@ -2735,7 +2735,7 @@ wasi-cli,BigOrangeQWQ/wasi-cli,0.2.6,270,12,2025-06-21T17:19:14.404824
 wasi-clocks,BigOrangeQWQ/wasi-clocks,0.2.6,93,2,2025-06-21T16:56:28.605205
 wasi-filesystem,BigOrangeQWQ/wasi-filesystem,0.2.6,1560,2,2025-06-21T16:56:58.149228
 wasi-imports,peter-jerry-ye/wasi-imports,0.1.5,9056,30,2025-09-19T05:34:48.286005
-wasi_interface,mizchi/wasi_interface,0.3.0,3605,3,2026-02-11T07:04:30.139383
+wasi_interface,mizchi/wasi_interface,0.3.1,4356,3,2026-10-05T03:19:57.801539
 wasi-io,BigOrangeQWQ/wasi-io,0.2.6,807,3,2025-06-21T16:56:01.995777
 wasi-random,BigOrangeQWQ/wasi-random,0.2.6,111,3,2025-06-21T16:57:12.352921
 wasi-sockets,BigOrangeQWQ/wasi-sockets,0.2.6,2399,7,2025-06-21T16:57:26.727089
@@ -2762,7 +2762,7 @@ weatherquery,oboard/weatherquery,0.1.1,81,1,2025-06-23T12:05:55.596048
 webapi,bikallem/webapi,0.5.0,184770,3,2026-04-06T16:08:57.137275
 webdav,liu-fang38/webdav,0.4.2,2039,3,2026-09-28T16:36:24.62955
 web-discovery-kit,yeshenyue2017/web-discovery-kit,0.1.1,6447,7,2026-08-23T05:40:49.554013
-webdriver,mizchi/webdriver,0.2.6,5240,1,2026-05-11T16:13:27.498917
+webdriver,mizchi/webdriver,0.2.7,6096,1,2026-10-05T03:58:01.713505
 webdriver.mbt,mizchi/webdriver.mbt,0.1.0,1848,1,2026-02-04T05:04:30.9004
 webgen,Yoorkin/webgen,0.1.1,2887,1,2025-10-15T16:15:49.578514
 webgpu,tonyfettes/webgpu,0.1.7,1626,1,2025-02-09T15:54:00.943996
@@ -2854,7 +2854,7 @@ zipc,moonbit-community/zipc,0.2.2,1551,1,2026-06-14T12:41:31.661551
 zipper,CAIMEOX/zipper,0.1.0,257,1,2025-08-25T02:09:53.36923
 zipx,wangmingfa/zipx,0.1.3,1840,3,2026-07-05T14:29:03.734526
 zlib,gmlewis/zlib,0.21.15,735,1,2026-09-21T14:20:08.835227
-zlib,mizchi/zlib,0.4.9,3391,6,2026-08-15T12:51:10.673738
+zlib,mizchi/zlib,0.4.10,4226,6,2026-10-05T03:57:59.096014
 zls,sohaha/zls,0.1.0,25,2,2025-05-16T08:36:01.992209
 zstd,Milky2018/zstd,0.1.3,40989,1,2026-09-07T09:50:11.467857
 原来可以发中文包,CAIMEOX/原来可以发中文包,0.1.1,17,1,2025-05-11T11:59:52.944489
