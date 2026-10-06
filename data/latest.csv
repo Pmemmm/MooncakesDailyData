@@ -1203,7 +1203,7 @@ moonbit-deadline,chyppi/moonbit-deadline,0.1.1,10027,3,2026-08-24T09:00:34.40194
 moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
-moonbit_doubleML,riantr/moonbit_doubleML,0.101.0,68263,1,2026-10-05T21:30:49.652516
+moonbit_doubleML,riantr/moonbit_doubleML,0.107.0,69388,1,2026-10-06T02:18:45.766518
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
 moonbitemporal,yyyt0807/moonbitemporal,0.1.0,5342,7,2026-10-03T08:26:57.745208
@@ -1305,7 +1305,7 @@ moonbitSPC,mwqcodex/moonbitSPC,0.2.0,10987,3,2026-08-19T18:27:17.903877
 moonbit-spice,pzq893/moonbit-spice,0.2.0,8405,2,2026-08-24T14:53:56.194096
 moonbit_sqlc_plugin,Mairzzcllo/moonbit_sqlc_plugin,0.1.9,24370,3,2026-07-07T12:38:11.792289
 moonbit-sse,shen-E/moonbit-sse,0.1.0,5393,7,2026-08-24T14:37:50.123034
-moonbit_static_analysis,riantr/moonbit_static_analysis,0.1.2,4823,12,2026-10-04T02:09:17.978458
+moonbit_static_analysis,riantr/moonbit_static_analysis,0.3.0,7820,16,2026-10-06T06:04:45.092243
 moonbit_stickman_map_loader,Demonmasterlqx/moonbit_stickman_map_loader,0.0.9,952,3,2025-11-12T07:03:40.008372
 moonbit-submit-guard,JJ-ai-nb/moonbit-submit-guard,0.1.0,1019,2,2026-08-16T10:05:55.993974
 moonbit-synthetic-vision,caassien/moonbit-synthetic-vision,0.3.0,9616,4,2026-08-24T08:36:05.114887
@@ -1535,7 +1535,7 @@ moonhook,zzy12346/moonhook,0.2.0,7303,2,2026-08-28T14:14:03.982321
 MoonHook,lin2077-zeming/MoonHook,0.4.0,4431,4,2026-09-12T08:21:44.684947
 moonhostabi,0717lee/moonhostabi,0.6.0,19991,20,2026-09-29T11:45:20.332206
 moonhttp,moonbitstack/moonhttp,0.12.1,14169,30,2026-09-27T20:29:05.98056
-moonhttp,q2316367743/moonhttp,0.4.0,18837,11,2026-10-01T08:06:19.467937
+moonhttp,q2316367743/moonhttp,0.5.0,19803,11,2026-10-06T03:46:53.70595
 moon-http-range,hjn0123/moon-http-range,0.1.0,4193,8,2026-08-21T14:36:49.535794
 moon-httpsig,xiguaAp6y3/moon-httpsig,0.1.1,10419,9,2026-08-21T13:54:23.735405
 moon-humanize,CaptainK-65/moon-humanize,0.1.0,443,7,2026-09-09T02:31:18.853163
@@ -2665,7 +2665,7 @@ tyme4mb,justinwongcn/tyme4mb,0.2.3,22529,6,2026-09-01T22:22:37.825456
 type_theory,Luna-Flow/type_theory,0.2.0,3584,10,2026-06-16T13:13:19.908183
 type_unification,KCN-judu/type_unification,0.1.3,260,1,2025-11-17T14:21:58.073265
 typify,bobzhang/typify,0.2.0,25139,17,2026-09-26T10:07:16.958764
-typst,moonbitlang/typst,0.1.3,783002,78,2026-10-05T11:36:06.115625
+typst,moonbitlang/typst,0.1.4,789498,78,2026-10-05T23:45:39.598129
 typstbit,V1GreenSummer/typstbit,0.1.1,5184,6,2026-09-26T12:41:16.145541
 tzif-engine,caijiewei295/tzif-engine,0.1.0,7997,15,2026-08-22T19:20:29.813163
 u8str,AdUhTkJm/u8str,0.1.5,279,1,2025-07-10T10:23:06.579447
