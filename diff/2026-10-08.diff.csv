@@ -2,10 +2,12 @@ name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_coun
 vicTop-cw/mcpconftest,新增,1811,4,0,0,1811,4
 XiLaiTL/skillpress,新增,17038,15,0,0,17038,15
 asdshuaishuai/moonviz,有变化,1091,0,33801,7,34892,7
+ash1day/sql,有变化,817,1,6085,4,6902,5
 connect0459/almanac,有变化,6669,0,85974,5,92643,5
 Kaida-Amethyst/llvm,有变化,37,0,44816,4,44853,4
 mldong/moon-token,有变化,165,0,4412,6,4577,6
 moonbit-community/evol-minifier,有变化,829,0,6164,1,6993,1
+moonrockz/krueger,有变化,13334,1,26501,11,39835,12
 riantr/moonbit_doubleML,有变化,871,0,74112,1,74983,1
 riantr/moonbit_labeler,有变化,8494,0,18962,5,27456,5
 riantr/moonbit_static_analysis,有变化,609,0,8622,16,9231,16
@@ -108,7 +110,6 @@ Arcelyth/aitne,无变化,0,0,16761,7,16761,7
 Arcelyth/html_escape,无变化,0,0,3072,2,3072,2
 Areo-Joe/webidl,无变化,0,0,9259,5,9259,5
 Armyhealthyhappy/moonbit-roman,无变化,0,0,8597,7,8597,7
-ash1day/sql,无变化,0,0,6085,4,6085,4
 aspnmy/moodtcpcli,无变化,0,0,92,2,92,2
 aspnmy/moonitest,无变化,0,0,803,1,803,1
 Asterless/MoonCoc,无变化,0,0,1074,3,1074,3
@@ -1883,7 +1884,6 @@ moonrockz/directories,无变化,0,0,854,1,854,1
 moonrockz/expect,无变化,0,0,8018,3,8018,3
 moonrockz/gherkin,无变化,0,0,14637,9,14637,9
 moonrockz/ion,无变化,0,0,23384,11,23384,11
-moonrockz/krueger,无变化,0,0,26501,11,26501,11
 moonrockz/mediator,无变化,0,0,951,6,951,6
 moonrockz/moonspec,无变化,0,0,30907,14,30907,14
 moonrockz/partiql,无变化,0,0,1191,2,1191,2
