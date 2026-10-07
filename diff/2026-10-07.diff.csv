@@ -3,6 +3,7 @@ CXREN/moonocr,新增,2786,2,0,0,2786,2
 chensuiyi/bm2,有变化,3206,0,5062,5,8268,5
 chensuiyi/mwork,有变化,93,0,323,1,416,1
 chensuiyi/subproc,有变化,108,0,690,1,798,1
+gaato/github,有变化,457,0,211490,2,211947,2
 riantr/moonbit_doubleML,有变化,240,0,73773,1,74013,1
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
@@ -704,7 +705,6 @@ gaato/anthropic,无变化,0,0,23305,2,23305,2
 gaato/dave,无变化,0,0,2607,2,2607,2
 gaato/discord,无变化,0,0,106817,54,106817,54
 gaato/discord-cli,无变化,0,0,733,1,733,1
-gaato/github,无变化,0,0,211490,2,211490,2
 gaato/http,无变化,0,0,1549,4,1549,4
 gaato/http-async,无变化,0,0,1588,2,1588,2
 gaato/kbbi,无变化,0,0,1929,2,1929,2
