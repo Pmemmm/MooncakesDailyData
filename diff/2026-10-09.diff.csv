@@ -1,14 +1,20 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+f4ah6o/moon-binstall,新增,413,2,0,0,413,2
 f4ah6o/yami_kumo,新增,1786,2,0,0,1786,2
 justinwongcn/moonpgp,新增,24037,16,0,0,24037,16
+moonbit-community/moon-new,新增,2725,6,0,0,2725,6
+thy1016/jsonld,新增,30844,4,0,0,30844,4
+Duckweed/moon-hive,有变化,104,1,6631,20,6735,21
+kaigeliang/jsonlogic,有变化,2055,2,2577,11,4632,13
 Luna-Flow/luna-generic,有变化,1248,0,767,1,2015,1
 mldong/jeeflow-core,有变化,64,0,14072,13,14136,13
 mldong/jeeflow-facade,有变化,118,0,7734,1,7852,1
 mldong/jeeflow-persist,有变化,1311,0,1019,1,2330,1
 mldong/jeeflow-repository-mysql,有变化,204,0,3709,3,3913,3
 moonrockz/ion,有变化,7340,0,23384,11,30724,11
-riantr/moonbit_doubleML,有变化,11101,0,76274,1,87375,1
-riantr/moonbit_static_analysis,有变化,1123,0,9231,16,10354,16
+Nanaloveyuki/vellum,有变化,629,0,2936,3,3565,3
+riantr/moonbit_doubleML,有变化,12992,0,76274,1,89266,1
+riantr/moonbit_static_analysis,有变化,4131,0,9231,16,13362,16
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,4205,12,4205,12
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -603,7 +609,6 @@ dtzrttp/moonbit-rtl,无变化,0,0,8687,10,8687,10
 dtzrttp/moonpropertydb,无变化,0,0,6329,2,6329,2
 Duan-lang-dev/moonecoguard,无变化,0,0,3516,17,3516,17
 Duan-lang-dev/moonproto,无变化,0,0,3415,2,3415,2
-Duckweed/moon-hive,无变化,0,0,6631,20,6631,20
 Duckweed/moon-proof,无变化,0,0,3195,13,3195,13
 DWS-ai-nb/termproof,无变化,0,0,5693,5,5693,5
 dxh8888/moonleasekit,无变化,0,0,2126,3,2126,3
@@ -1081,7 +1086,6 @@ Kaida-Amethyst/readline,无变化,0,0,3089,1,3089,1
 Kaida-Amethyst/screeps,无变化,0,0,6542,3,6542,3
 Kaida-Amethyst/sdl3,无变化,0,0,22939,4,22939,4
 kaigeliang/casekit,无变化,0,0,931,6,931,6
-kaigeliang/jsonlogic,无变化,0,0,2577,11,2577,11
 kalculos/miao,无变化,0,0,11498,12,11498,12
 Kali-Leo/moonbit-CryptoAssert,无变化,0,0,6999,5,6999,5
 kath61105/moon_schema_plan,无变化,0,0,6152,2,6152,2
@@ -1933,7 +1937,6 @@ Nanaloveyuki/orbit-plugin-abi,无变化,0,0,1198,1,1198,1
 Nanaloveyuki/orby,无变化,0,0,3567,10,3567,10
 Nanaloveyuki/parsec,无变化,0,0,3274,5,3274,5
 Nanaloveyuki/sync,无变化,0,0,4457,12,4457,12
-Nanaloveyuki/vellum,无变化,0,0,2936,3,2936,3
 Nanaloveyuki/wasee-moon,无变化,0,0,520,2,520,2
 nanlingyin/mbt_LIB,无变化,0,0,18,1,18,1
 naokikawamoto16/grpc,无变化,0,0,3792,5,3792,5
