@@ -45,7 +45,7 @@ amqp,wang-chen89/amqp,0.25.0,9845,4,2026-09-28T17:13:14.16131
 amtoml,tonyfettes/amtoml,0.1.0,1466,2,2025-11-18T01:52:46.036021
 anim3d,mizchi/anim3d,0.6.0,2842,5,2026-09-15T16:34:09.013945
 ansi-guard,SongYZZZ/ansi-guard,0.1.0,3168,7,2026-08-21T07:25:26.984248
-anthropic,gaato/anthropic,0.4.0,23591,2,2026-10-08T00:55:23.562271
+anthropic,gaato/anthropic,0.5.0,24508,2,2026-10-09T22:55:52.021961
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1,2026-03-27T06:41:52.668118
 any,tonyfettes/any,0.1.5,358,1,2025-12-04T03:25:44.963076
 any,Yoorkin/any,0.2.1,1160,1,2026-07-17T10:34:09.898811
@@ -415,7 +415,7 @@ drawille,cg-zhou/drawille,0.1.2,583,2,2026-05-08T02:10:39.562438
 dregex,Guest0x0/dregex,0.2.5,420,1,2024-01-31T07:26:46.522026
 ds,meguruli/ds,0.1.0,6475,1,2025-11-05T07:27:18.075147
 ds4,tonyfettes/ds4,0.1.1,2549,3,2026-06-17T08:34:34.314299
-dsh,f4ah6o/dsh,0.1.6,152707,63,2026-10-09T16:03:27.355668
+dsh,f4ah6o/dsh,0.1.8,158165,63,2026-10-09T23:55:23.04563
 dslx,f4ah6o/dslx,0.1.2,2880,1,2026-06-02T12:54:00.33823
 dsp,hwlxmm/dsp,0.1.0,9028,38,2026-08-24T12:15:13.521351
 dsp,HK-SHAO/dsp,0.1.4,3713,1,2026-09-16T10:24:21.726065
@@ -1037,7 +1037,7 @@ mcp,shiguri-01/mcp,0.2.0,21082,8,2026-08-20T03:40:21.529656
 mcp,colmugx/mcp,0.17.5,16684,11,2026-09-06T17:22:03.4311
 mcp-bsky,marianoguerra/mcp-bsky,0.10.0,2340,2,2026-09-08T22:25:55.564367
 mcp-client,marianoguerra/mcp-client,0.10.0,1777,4,2026-09-08T22:25:33.368677
-mcpconftest,vicTop-cw/mcpconftest,0.6.0,1811,4,2026-10-07T13:33:42.464262
+mcpconftest,vicTop-cw/mcpconftest,0.7.0,2917,4,2026-10-10T01:04:40.063164
 mcp-inspector,marianoguerra/mcp-inspector,0.10.0,1664,2,2026-09-08T22:25:38.165907
 mcp-inspector-cli,marianoguerra/mcp-inspector-cli,0.10.0,1739,1,2026-09-08T22:25:43.127211
 mcp-sdk,cogna-dev/mcp-sdk,0.1.0,2657,3,2026-04-16T11:50:40.986693
@@ -1211,7 +1211,7 @@ moonbit-deadline,chyppi/moonbit-deadline,0.1.1,10027,3,2026-08-24T09:00:34.40194
 moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
-moonbit_doubleML,riantr/moonbit_doubleML,0.125.0,90732,1,2026-10-09T18:11:11.073279
+moonbit_doubleML,riantr/moonbit_doubleML,0.129.0,92431,1,2026-10-10T00:54:30.789659
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
 moonbitemporal,yyyt0807/moonbitemporal,0.1.0,5342,7,2026-10-03T08:26:57.745208
@@ -1953,14 +1953,14 @@ moovalid,ryota0624/moovalid,0.1.1,1283,2,2026-05-09T07:23:23.846518
 mopress,himeno/mopress,0.4.0,7421,9,2026-07-11T17:11:28.98027
 morm,oboard/morm,0.5.0,26253,20,2026-09-24T12:18:15.600034
 Motiva,CAIMEOX/Motiva,0.3.0,23887,25,2026-07-21T09:30:55.709557
-moui,wzzc-dev/moui,0.2.1,119759,59,2026-10-06T13:50:10.122133
+moui,wzzc-dev/moui,0.2.2,120370,59,2026-10-10T00:57:35.916162
 moui_3d,wzzc-dev/moui_3d,0.2.1,7136,4,2026-10-06T13:52:51.156905
 moui_3d_physics,wzzc-dev/moui_3d_physics,0.2.1,349,1,2026-10-06T13:53:00.449405
 moui_3d_physics_rapier,wzzc-dev/moui_3d_physics_rapier,0.2.1,379,1,2026-10-06T13:53:14.070899
 moui_3d_xr,wzzc-dev/moui_3d_xr,0.2.1,288,1,2026-10-06T13:53:21.848384
 moui_agent,wzzc-dev/moui_agent,0.2.1,651,1,2026-10-06T13:53:28.557712
 moui_agent_mcp,wzzc-dev/moui_agent_mcp,0.2.1,2973,2,2026-10-06T13:54:48.697022
-moui_cli,wzzc-dev/moui_cli,0.2.1,17947,2,2026-10-06T13:54:54.444541
+moui_cli,wzzc-dev/moui_cli,0.2.2,17971,2,2026-10-10T01:38:03.556996
 moui_devtools,wzzc-dev/moui_devtools,0.2.1,356,2,2026-10-06T13:53:58.73003
 moui_i18n,wzzc-dev/moui_i18n,0.2.1,509,1,2026-10-06T13:54:04.560119
 moui_richtext,wzzc-dev/moui_richtext,0.2.1,46105,2,2026-10-06T13:54:14.973212
@@ -1969,7 +1969,7 @@ moui_skia_renderer,wzzc-dev/moui_skia_renderer,0.2.1,18436,1,2026-10-06T13:51:16
 moui_sun,wzzc-dev/moui_sun,0.2.1,82882,4,2026-10-06T13:50:27.316231
 moui_sun_renderer,wzzc-dev/moui_sun_renderer,0.2.1,10899,1,2026-10-06T13:51:44.453149
 moui_theme,wzzc-dev/moui_theme,0.2.1,28945,7,2026-10-06T13:54:26.328465
-moui_web_renderer,wzzc-dev/moui_web_renderer,0.2.1,4389,2,2026-10-06T13:52:00.50928
+moui_web_renderer,wzzc-dev/moui_web_renderer,0.2.2,4389,2,2026-10-10T00:57:48.948368
 moui_webview,wzzc-dev/moui_webview,0.2.1,4137,6,2026-10-06T13:54:33.130136
 moui_wgpu_renderer,wzzc-dev/moui_wgpu_renderer,0.2.1,14013,6,2026-10-06T13:52:27.676238
 mp3,enanandesu/mp3,0.1.0,27066,8,2026-09-29T16:53:51.435668
