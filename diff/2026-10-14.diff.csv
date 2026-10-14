@@ -14,10 +14,12 @@ moonbitlang/pptx,新增,65977,17,0,0,65977,17
 PaiGack/tftp,新增,10722,2,0,0,10722,2
 pangbit/moonjsonnet,新增,27125,10,0,0,27125,10
 q2316367743/webdav,新增,6831,4,0,0,6831,4
+t-ujiie-g/yxl,新增,38740,12,0,0,38740,12
 WeiR-h/moonmatbridge,新增,5817,6,0,0,5817,6
 wzzc-dev/moui_studio,新增,104950,39,0,0,104950,39
 xiguaAp6y3/moon_outlines,新增,2238,4,0,0,2238,4
 xmyd0915/moonar,新增,1731,4,0,0,1731,4
+y010101/fx,新增,28,1,0,0,28,1
 001-Elsa/medseal,有变化,6,0,21610,36,21616,36
 668xin/modbus_lint,有变化,206,0,5052,2,5258,2
 asdshuaishuai/moonviz,有变化,1703,0,34892,7,36595,7
@@ -27,6 +29,7 @@ f4ah6o/gpui,有变化,2188,0,74387,46,76575,46
 f4ah6o/turtles,有变化,14,0,13199,8,13213,8
 f4ah6o/yami_kumo,有变化,5278,6,1786,2,7064,8
 f4ah6o/yami_kumo_native,有变化,-57,0,5075,6,5018,6
+gaato/github,有变化,30849,0,211947,2,242796,2
 gmlewis/crc32,有变化,-3,0,291,1,288,1
 gmlewis/flate,有变化,7,0,4354,3,4361,3
 gmlewis/fonts,有变化,7,0,16124,20,16131,20
@@ -57,10 +60,13 @@ moonbitlang/openseek_tui,有变化,634,0,13944,20,14578,20
 moonbitlang/pagelayout,有变化,6,0,15846,13,15852,13
 moonbitlang/pdflite,有变化,170,0,231811,45,231981,45
 moonrockz/cucumber-expressions,有变化,3,0,8308,1,8311,1
+moonrockz/directories,有变化,-4,0,854,1,850,1
+moonrockz/expect,有变化,7,0,8018,3,8025,3
 moonrockz/gherkin,有变化,56,0,14637,9,14693,9
+moonrockz/moonspec,有变化,8,0,30907,14,30915,14
 oyjh0381/moonerasure,有变化,2191,3,5127,8,7318,11
 PaiGack/ftp,有变化,1843,1,10529,4,12372,5
-riantr/moonbit_doubleML,有变化,1180,0,99888,1,101068,1
+riantr/moonbit_doubleML,有变化,1217,0,99888,1,101105,1
 tonyfettes/skills-web-fetch,有变化,65,0,974,4,1039,4
 wzzc-dev/moui,有变化,204,0,120370,59,120574,59
 yuzhiblue/moon-qdrant,有变化,427,0,4937,4,5364,4
@@ -799,7 +805,6 @@ gaato/anthropic,无变化,0,0,24508,2,24508,2
 gaato/dave,无变化,0,0,2607,2,2607,2
 gaato/discord,无变化,0,0,113200,54,113200,54
 gaato/discord-cli,无变化,0,0,771,1,771,1
-gaato/github,无变化,0,0,211947,2,211947,2
 gaato/http,无变化,0,0,1549,4,1549,4
 gaato/http-async,无变化,0,0,1588,2,1588,2
 gaato/kbbi,无变化,0,0,1929,2,1929,2
@@ -1956,12 +1961,9 @@ moonbitstack/moonyaml,无变化,0,0,2645,2,2645,2
 moonbitstack/moonzero,无变化,0,0,15137,16,15137,16
 moonbitstack/moonzip,无变化,0,0,2288,6,2288,6
 moonrockz/cucumber-messages,无变化,0,0,5556,1,5556,1
-moonrockz/directories,无变化,0,0,854,1,854,1
-moonrockz/expect,无变化,0,0,8018,3,8018,3
 moonrockz/ion,无变化,0,0,30724,11,30724,11
 moonrockz/krueger,无变化,0,0,39835,12,39835,12
 moonrockz/mediator,无变化,0,0,951,6,951,6
-moonrockz/moonspec,无变化,0,0,30907,14,30907,14
 moonrockz/partiql,无变化,0,0,1191,2,1191,2
 moonrockz/partiql-syntax,无变化,0,0,12003,7,12003,7
 moonrockz/partiql-value,无变化,0,0,5494,3,5494,3
