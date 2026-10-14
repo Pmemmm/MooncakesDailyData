@@ -45,7 +45,7 @@ amqp,wang-chen89/amqp,0.25.0,9845,4,2026-09-28T17:13:14.16131
 amtoml,tonyfettes/amtoml,0.1.0,1466,2,2025-11-18T01:52:46.036021
 anim3d,mizchi/anim3d,0.6.0,2842,5,2026-09-15T16:34:09.013945
 ansi-guard,SongYZZZ/ansi-guard,0.1.0,3168,7,2026-08-21T07:25:26.984248
-anthropic,gaato/anthropic,0.5.0,24508,2,2026-10-09T22:55:52.021961
+anthropic,gaato/anthropic,0.5.1,24510,2,2026-10-14T22:51:17.572487
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1,2026-03-27T06:41:52.668118
 any,Yoorkin/any,0.2.1,1160,1,2026-07-17T10:34:09.898811
 any,tonyfettes/any,0.1.5,358,1,2025-12-04T03:25:44.963076
@@ -1581,7 +1581,7 @@ moonguard,918154429/moonguard,0.2.0,9047,2,2026-07-12T07:52:31.52192
 moonhadolint,spectacleCase/moonhadolint,0.1.2,3144,2,2026-09-30T10:42:36.689025
 MoonHashKit,cn-ybm/MoonHashKit,0.3.0,1519,3,2026-07-16T23:21:24.5495
 moonhid,We1chan/moonhid,0.4.0,8208,5,2026-10-12T12:20:46.189153
-moon-hive,Duckweed/moon-hive,0.2.4,6735,21,2026-10-09T10:45:38.550056
+moon-hive,Duckweed/moon-hive,0.3.0,7482,23,2026-10-14T19:21:33.030833
 moonhls,chenqi-arch/moonhls,0.2.0,4260,2,2026-08-18T03:20:47.014181
 moonholdem,Ryan-1125/moonholdem,0.1.0,1363,4,2026-09-28T12:00:29.555029
 moonhook,zzy12346/moonhook,0.2.0,7303,2,2026-08-28T14:14:03.982321
@@ -2989,7 +2989,7 @@ yami_kumo_native,f4ah6o/yami_kumo_native,0.2.5,5018,6,2026-10-13T12:59:07.368241
 yaml,myfreess/yaml,0.1.0,3915,1,2025-08-29T06:43:33.480441
 yaml,moonbit-community/yaml,0.0.7,6438,1,2026-10-01T07:40:58.231215
 yamlscript,ingydotnet/yamlscript,0.3.5,92,1,2026-10-14T14:34:26.492486
-yamlstar,ingydotnet/yamlstar,0.1.23,92,1,2026-10-04T16:28:22.453685
+yamlstar,ingydotnet/yamlstar,0.1.24,92,1,2026-10-14T19:28:43.829926
 yes,cli/yes,0.1.1,70,1,2026-09-27T06:08:03.691642
 yhsz,YHSZ-ONEC/yhsz,0.1.0,12,1,2025-03-11T13:41:59.854488
 YHWH,kokic/YHWH,0.2.0,195,1,2026-06-08T05:50:20.385754
@@ -2999,7 +2999,7 @@ ytyj,sennenki/ytyj,0.1.1,334,5,2026-04-14T02:08:15.531192
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 yue-media,NoahLiu/yue-media,0.1.0,1967,1,2026-10-10T02:24:25.604962
 yuru-kit,hiroyannnn/yuru-kit,0.1.0,1931,4,2026-09-24T15:13:56.180583
-yxl,t-ujiie-g/yxl,0.6.0,38740,12,2026-10-13T23:31:58.127078
+yxl,t-ujiie-g/yxl,0.6.1,38792,12,2026-10-14T21:16:03.167121
 zarr,zlhahaha/zarr,0.7.0,10932,21,2026-09-30T03:21:18.043172
 zcat,cli/zcat,0.1.0,35,1,2026-10-10T22:53:06.488389
 zero_fill,zhaihaozhen/zero_fill,0.1.2,40,2,2025-07-15T05:26:32.291895

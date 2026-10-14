@@ -6,12 +6,15 @@ mwqcodex/moonwind,新增,7349,3,0,0,7349,3
 tlhuecdkoyg/MoonCDC,新增,5351,4,0,0,5351,4
 TWISTY2Ynb/moonbelief,新增,2999,5,0,0,2999,5
 wrMamba/moonchoice,新增,3821,4,0,0,3821,4
+Duckweed/moon-hive,有变化,747,2,6735,21,7482,23
+gaato/anthropic,有变化,2,0,24508,2,24510,2
 heyq02/moomem,有变化,1092,0,8966,3,10058,3
 lhw153766-ctrl/sparse-linalg,有变化,2791,1,9061,17,11852,18
 Magic486/moonnetlink,有变化,1472,3,2773,10,4245,13
 mldong/jeeflow-facade,有变化,47,0,9672,1,9719,1
 moonbitlang/moonback,有变化,227,0,5524,5,5751,5
 PaiGack/dive,有变化,11973,4,2576,3,14549,7
+t-ujiie-g/yxl,有变化,52,0,38740,12,38792,12
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,21616,36,21616,36
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -646,7 +649,6 @@ dtzrttp/moonbit-rtl,无变化,0,0,8687,10,8687,10
 dtzrttp/moonpropertydb,无变化,0,0,6329,2,6329,2
 Duan-lang-dev/moonecoguard,无变化,0,0,3516,17,3516,17
 Duan-lang-dev/moonproto,无变化,0,0,3415,2,3415,2
-Duckweed/moon-hive,无变化,0,0,6735,21,6735,21
 Duckweed/moon-mqtt,无变化,0,0,1899,5,1899,5
 Duckweed/moon-proof,无变化,0,0,3195,13,3195,13
 DWS-ai-nb/termproof,无变化,0,0,5693,5,5693,5
@@ -766,7 +768,6 @@ fundon/vtty,无变化,0,0,1490,2,1490,2
 furesoft/moos-sdk,无变化,0,0,958,2,958,2
 fuwasegu/moonbitap,无变化,0,0,333,1,333,1
 fuyun-2026/moonbit-canbus,无变化,0,0,7473,13,7473,13
-gaato/anthropic,无变化,0,0,24508,2,24508,2
 gaato/dave,无变化,0,0,2607,2,2607,2
 gaato/discord,无变化,0,0,113200,54,113200,54
 gaato/discord-cli,无变化,0,0,771,1,771,1
@@ -2392,7 +2393,6 @@ Sxy11112/moonjournalkit,无变化,0,0,1984,3,1984,3
 SyoujyoujiNaiki/chungshan,无变化,0,0,459,2,459,2
 SyoujyoujiNaiki/oops,无变化,0,0,3243,2,3243,2
 t-ujiie-g/moon-pptx,无变化,0,0,71600,17,71600,17
-t-ujiie-g/yxl,无变化,0,0,38740,12,38740,12
 tanglong2001/dockerlint,无变化,0,0,6580,3,6580,3
 TangShiJi/moonpageflow,无变化,0,0,3338,6,3338,6
 tanxiansheng221/birdcore,无变化,0,0,940,3,940,3
