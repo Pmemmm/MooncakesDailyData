@@ -4,8 +4,10 @@ mldong/moon-s3,新增,4440,2,0,0,4440,2
 prowk/mooncql,新增,5139,9,0,0,5139,9
 xziheng/testcontainers,新增,4834,4,0,0,4834,4
 DDD12345-D/moon-snmp,有变化,3054,0,10452,15,13506,15
+jtenner/starshine,有变化,97757,0,1244775,21,1342532,21
 mattn/postgres,有变化,-1127,0,1761,1,634,1
 riantr/moonbit_doubleML,有变化,548,0,101558,1,102106,1
+xmyd0915/moonpkgconfig,有变化,490,3,4774,12,5264,15
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,25502,45,25502,45
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -1068,7 +1070,6 @@ jshsj124/moontemplate,无变化,0,0,1168,6,1168,6
 JSJ222/moonuritemplate,无变化,0,0,6607,7,6607,7
 JSJ222/tus-core,无变化,0,0,5179,3,5179,3
 jtenner/sfo,无变化,0,0,13087,1,13087,1
-jtenner/starshine,无变化,0,0,1244775,21,1244775,21
 jtenner/telnet,无变化,0,0,29427,6,29427,6
 Jtian-t/Deque,无变化,0,0,268,1,268,1
 jumpping/baby,无变化,0,0,4270,6,4270,6
@@ -2837,7 +2838,6 @@ xlyyyyyy112/moon-fuse,无变化,0,0,4932,2,4932,2
 xlyyyyyy112/moonbit-json-jcs,无变化,0,0,5161,2,5161,2
 xlyyyyyy112/moonbit-mirostat,无变化,0,0,5868,11,5868,11
 xmyd0915/moonar,无变化,0,0,3016,4,3016,4
-xmyd0915/moonpkgconfig,无变化,0,0,4774,12,4774,12
 Xpeng/mooncharts,无变化,0,0,5018,3,5018,3
 Xpeng/mooncov,无变化,0,0,4890,2,4890,2
 Xpeng/moongitattrs,无变化,0,0,1536,2,1536,2

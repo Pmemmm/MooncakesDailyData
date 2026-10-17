@@ -1790,7 +1790,7 @@ moonpg,jaredzhou/moonpg,0.14.0,17395,4,2026-10-16T11:41:35.121738
 moonpgp,justinwongcn/moonpgp,0.1.0,24037,16,2026-10-08T14:24:57.069512
 moonphaserkit,Ridge-Lab/moonphaserkit,0.3.0,5596,3,2026-07-10T13:51:25.000617
 moonpixelanimkit,WangYF0829/moonpixelanimkit,0.1.2,5135,3,2026-08-20T06:18:07.642343
-moonpkgconfig,xmyd0915/moonpkgconfig,0.3.0,4774,12,2026-10-17T12:22:05.784342
+moonpkgconfig,xmyd0915/moonpkgconfig,0.3.1,5264,15,2026-10-17T21:27:53.124655
 moonplan,cn-xjr/moonplan,0.1.0,7792,7,2026-09-30T16:05:27.712245
 moonplant,Milky2018/moonplant,0.3.2,941,2,2026-09-07T08:41:22.896533
 moonplc,lycvvt/moonplc,0.1.0,4863,2,2026-09-29T09:24:35.798178
@@ -2626,7 +2626,7 @@ stack,Yoorkin/stack,0.1.4,75,1,2024-09-04T03:19:26.586011
 starlark,tonyfettes/starlark,0.1.0,14597,7,2026-03-25T07:45:33.222887
 starlark,connect0459/starlark,0.5.3,69310,33,2026-10-05T13:54:41.296172
 starlint,mizchi/starlint,0.10.1,18204,7,2026-04-04T14:08:23.389996
-starshine,jtenner/starshine,0.2.2,1244775,21,2026-10-11T03:35:11.880325
+starshine,jtenner/starshine,0.3.0,1342532,21,2026-10-17T19:05:13.743954
 starter,moonbit-community/starter,0.2.1,46,2,2026-10-16T06:53:03.404628
 state,CAIMEOX/state,0.1.1,335,1,2025-03-24T08:13:01.545586
 std,moonbitlang/std,0.1.0,99,1,2024-01-01T00:00:00
