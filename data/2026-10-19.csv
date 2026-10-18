@@ -648,7 +648,7 @@ git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
 github,gaato/github,0.14.0,243650,2,2026-10-18T07:01:03.984733
 github,mizchi/github,0.1.5,1980,11,2026-09-24T09:28:09.062604
 GJK,FlyCloudC/GJK,0.1.1,281,1,2025-10-31T16:15:21.807381
-gleam-parser,moonrockz/gleam-parser,0.3.0,32814,14,2026-10-16T19:21:39.700079
+gleam-parser,moonrockz/gleam-parser,0.4.0,38555,15,2026-10-18T20:32:51.676798
 glfw,mizchi/glfw,0.2.3,485,2,2026-08-15T16:54:42.020138
 glib,tonyfettes/glib,0.2.0,2540,1,2026-07-24T02:00:58.585676
 glob,Lxxbv/glob,0.2.6,10758,2,2026-08-15T03:52:52.820585

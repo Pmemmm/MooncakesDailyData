@@ -47,6 +47,7 @@ moonbit-community/proton_screen_monitor,有变化,6,0,677,2,683,2
 moonbit-community/proton_updater,有变化,-26,0,921,1,895,1
 moonbitlang/openseek,有变化,5490,2,96686,89,102176,91
 moonbitlang/openseek_protocol,有变化,657,0,4868,3,5525,3
+moonrockz/gleam-parser,有变化,5741,1,32814,14,38555,15
 moonrockz/partiql,有变化,1353,0,1191,2,2544,2
 moonrockz/partiql-syntax,有变化,442,0,12003,7,12445,7
 moonrockz/partiql-value,有变化,2096,0,5494,3,7590,3
@@ -2041,7 +2042,6 @@ moonrockz/cucumber-messages,无变化,0,0,5556,1,5556,1
 moonrockz/directories,无变化,0,0,850,1,850,1
 moonrockz/expect,无变化,0,0,8025,3,8025,3
 moonrockz/gherkin,无变化,0,0,14693,9,14693,9
-moonrockz/gleam-parser,无变化,0,0,32814,14,32814,14
 moonrockz/ion,无变化,0,0,37834,13,37834,13
 moonrockz/jmespath,无变化,0,0,7881,1,7881,1
 moonrockz/krueger,无变化,0,0,42267,12,42267,12
