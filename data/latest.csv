@@ -46,7 +46,7 @@ amqp,wang-chen89/amqp,0.25.0,9845,4,2026-09-28T17:13:14.16131
 amtoml,tonyfettes/amtoml,0.1.0,1466,2,2025-11-18T01:52:46.036021
 anim3d,mizchi/anim3d,0.6.0,2842,5,2026-09-15T16:34:09.013945
 ansi-guard,SongYZZZ/ansi-guard,0.1.0,3168,7,2026-08-21T07:25:26.984248
-anthropic,gaato/anthropic,0.9.0,24574,2,2026-10-18T07:00:57.934488
+anthropic,gaato/anthropic,0.10.0,24701,2,2026-10-19T00:35:57.370083
 anthropic-sdk-moonbit,grandEarshot/anthropic-sdk-moonbit,0.1.0,2926,1,2026-03-27T06:41:52.668118
 any,tonyfettes/any,0.1.5,358,1,2025-12-04T03:25:44.963076
 any,Yoorkin/any,0.2.1,1160,1,2026-07-17T10:34:09.898811
@@ -190,7 +190,7 @@ box,CAIMEOX/box,0.1.3,983,1,2026-05-06T08:06:17.668302
 box2d_ffi,Demonmasterlqx/box2d_ffi,0.2.7,2101,2,2025-11-12T09:41:51.708471
 brainfuck,nuskey8/brainfuck,0.1.2,180,2,2025-12-05T06:02:35.808609
 brotli,mizchi/brotli,0.2.2,18454,3,2026-08-15T16:25:12.080288
-brotli,gaato/brotli,0.2.0,11696,5,2026-10-18T15:52:54.786
+brotli,gaato/brotli,0.3.0,11697,5,2026-10-19T00:27:59.651527
 btoi,justjavac/btoi,0.1.10,1063,1,2026-09-28T08:46:08.04923
 btree,dowdiness/btree,0.2.0,7066,1,2026-07-30T11:32:42.38434
 btree,HCHogan/btree,0.2.1,1129,1,2025-09-05T05:20:50.154834
@@ -406,8 +406,8 @@ direct_sdk,f4ah6o/direct_sdk,0.11.2,13451,19,2026-09-29T17:11:57.912746
 dirname,cli/dirname,0.2.1,102,1,2026-10-17T15:17:57.295284
 dirs,justjavac/dirs,0.1.3,1315,1,2026-09-28T08:46:20.454162
 discord,mizchi/discord,0.1.2,1663,3,2026-04-25T13:36:51.417135
-discord,gaato/discord,0.10.1,99657,22,2026-10-18T22:53:49.67907
-discord-cli,gaato/discord-cli,0.1.5,771,1,2026-10-16T00:00:10.525978
+discord,gaato/discord,0.11.0,100156,22,2026-10-19T00:55:51.401424
+discord-cli,gaato/discord-cli,0.1.6,771,1,2026-10-19T01:02:42.695589
 discord_voice,gaato/discord_voice,0.3.0,12724,1,2026-10-18T14:37:55.548294
 displaytext,moonbit-community/displaytext,0.1.6,954,1,2026-10-13T13:31:15.588814
 dispokit,BenPaoBaMingWangXing/dispokit,0.1.1,4957,3,2026-08-10T13:42:33.018887
@@ -503,7 +503,7 @@ expect,moonrockz/expect,0.6.1,8025,3,2026-10-13T22:15:21.678506
 expect,zxch3n/expect,0.6.2,1319,1,2025-08-19T14:46:47.297328
 experimental_crypto,mizchi/experimental_crypto,0.0.2,95946,81,2026-06-02T11:20:51.651438
 expr,cli/expr,0.1.1,312,1,2026-10-17T15:18:31.002038
-express,kupas/express,0.1.2,2820,2,2026-10-18T10:06:07.035531
+express,kupas/express,0.2.0,6380,3,2026-10-19T03:47:05.812125
 external-sort,yyyt0807/external-sort,0.1.0,4829,4,2026-09-05T09:51:12.232293
 ext-herdr,posoco/ext-herdr,0.1.0,3263,1,2026-09-30T14:22:07.434214
 ext-llm,posoco/ext-llm,0.2.0,7683,1,2026-09-30T14:28:50.942573
@@ -645,7 +645,7 @@ gio,tonyfettes/gio,0.2.0,37769,1,2026-07-24T02:02:39.045997
 gir,tonyfettes/gir,0.3.2,40501,13,2026-07-31T07:29:48.316864
 giraffe,tonyfettes/giraffe,0.2.0,4058,12,2026-07-24T02:06:08.794014
 git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
-github,gaato/github,0.15.0,243664,2,2026-10-18T22:53:38.687004
+github,gaato/github,0.16.0,244850,2,2026-10-19T00:36:03.347917
 github,mizchi/github,0.1.5,1980,11,2026-09-24T09:28:09.062604
 GJK,FlyCloudC/GJK,0.1.1,281,1,2025-10-31T16:15:21.807381
 gleam-parser,moonrockz/gleam-parser,0.4.0,38555,15,2026-10-18T20:32:51.676798
@@ -753,9 +753,9 @@ html-parser,cou723/html-parser,0.1.0,794,4,2025-07-20T09:27:39.69936
 html_parser,bobzhang/html_parser,0.2.0,64356,22,2026-09-28T04:29:34.841354
 html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2,2026-05-21T03:43:22.933298
 htmx,f4ah6o/htmx,0.2.0,5970,4,2026-01-15T04:04:09.256093
-http,gaato/http,0.3.1,9032,8,2026-10-18T22:30:43.089637
+http,gaato/http,0.4.0,9033,8,2026-10-19T00:35:42.453336
 http11,f4ah6o/http11,0.1.2,16182,4,2026-09-29T16:17:15.117376
-http-async,gaato/http-async,0.4.0,9669,3,2026-10-18T17:34:34.899929
+http-async,gaato/http-async,0.4.1,9669,3,2026-10-19T00:35:49.735679
 http-cache,oyjh0381/http-cache,0.1.0,4535,7,2026-09-05T04:06:55.04551
 http_retry,sebastian/http_retry,0.1.0,2364,3,2026-09-22T02:43:45.059114
 httprouter,paveg/httprouter,0.2.0,1937,2,2026-01-18T13:43:17.106336
@@ -905,7 +905,7 @@ kagura_platform_web,mizchi/kagura_platform_web,0.6.0,2022,10,2026-09-15T16:34:57
 kagura_ui,mizchi/kagura_ui,0.6.0,2910,1,2026-09-15T16:34:22.506468
 kanban,bobzhang/kanban,0.3.4,3926,4,2026-09-28T01:06:04.633207
 katex-parser,kokic/katex-parser,0.6.0,18053,4,2026-10-02T09:13:42.333731
-kbbi,gaato/kbbi,0.1.4,2164,2,2026-10-16T00:00:17.526236
+kbbi,gaato/kbbi,0.1.6,2167,2,2026-10-19T02:37:37.386047
 kdl,lenitain/kdl,0.2.0,16965,7,2026-08-06T14:54:02.962334
 keepawake,moonbit-community/keepawake,0.1.14,741,2,2026-08-06T03:53:37.024829
 keepawake,justjavac/keepawake,0.1.4,793,2,2026-06-29T08:09:04.474475
@@ -1112,7 +1112,7 @@ memory,illusory0x0/memory,0.1.2,1161,1,2025-11-20T09:51:40.939536
 memory,peter-jerry-ye/memory,0.8.4,589,1,2024-11-25T08:44:51.346515
 meolix,Yoorkin/meolix,0.1.0,15792,2,2026-06-05T10:42:07.419651
 meow,xrr2016/meow,0.12.0,103,2,2026-04-04T20:50:44.043538
-mermaid,bobzhang/mermaid,0.1.1,180939,67,2026-10-18T11:18:55.540241
+mermaid,bobzhang/mermaid,0.1.2,180986,67,2026-10-19T03:53:02.451671
 mesh3d,mizchi/mesh3d,0.6.0,1240,1,2026-09-15T16:34:01.675357
 meshopt_mbt,Milky2018/meshopt_mbt,0.1.2,4165,2,2026-09-07T08:03:42.161768
 meta-skill,moonbit-community/meta-skill,0.1.1,1364,1,2026-09-27T10:47:35.209338
@@ -1203,7 +1203,7 @@ moon-avro,yugonlian/moon-avro,0.3.0,4495,11,2026-08-22T19:10:29.614458
 moon-axe-tools,kinoamyfx/moon-axe-tools,0.0.1-SNAPSHOT,25,2,2024-12-02T13:00:38.907603
 moonback,hackwaly/moonback,0.8.1,4785,5,2026-08-19T03:42:21.871674
 moonback,moonbitlang/moonback,0.8.9,5751,5,2026-10-14T15:34:29.287175
-moonbagit,zbhzs1/moonbagit,0.1.0,2781,3,2026-10-11T12:42:31.764967
+moonbagit,zbhzs1/moonbagit,0.2.0,3156,3,2026-10-19T03:46:53.719814
 moonballot,hutingyu-nuist/moonballot,0.1.3,945,1,2026-09-09T12:36:30.772999
 moonbarcode,fan-ere/moonbarcode,0.2.0,4094,3,2026-08-21T09:43:40.064245
 moonbase,Lfan-ke/moonbase,0.3.0,1035,7,2026-09-13T23:59:19.957173
@@ -1510,7 +1510,7 @@ moondbc,cn-cheems/moondbc,0.1.0,13716,6,2026-09-30T10:15:29.513814
 moondbg,Kaida-Amethyst/moondbg,0.3.1,33026,29,2026-09-20T15:49:13.993888
 moondb_session,Hosi121/moondb_session,0.1.0,344,1,2026-09-22T14:07:28.808455
 moondbus,conglinyizhi/moondbus,0.1.1,2091,3,2026-09-07T06:59:37.801508
-moondelta-core,xiguaAp6y3/moondelta-core,0.1.0,10606,4,2026-10-18T16:21:24.516108
+moondelta-core,xiguaAp6y3/moondelta-core,0.1.1,10860,4,2026-10-19T01:54:39.215306
 moondepsolve,python123/moondepsolve,0.3.1,2504,3,2026-07-07T17:39:37.106881
 moondes,walkzzz/moondes,0.5.0,2603,10,2026-08-16T04:59:25.414557
 moondesk,vectie/moondesk,0.1.5,120309,34,2026-08-03T11:46:39.460392
@@ -2197,7 +2197,7 @@ onho,anccnuer/onho,0.3.0,2042,3,2026-10-14T13:01:55.231071
 oops,SyoujyoujiNaiki/oops,0.3.1,3243,2,2026-10-10T13:35:43.314254
 ooxml,moonbitlang/ooxml,0.1.0,5178,3,2026-10-13T11:11:17.905076
 openai,tonyfettes/openai,0.1.1,2789,3,2025-11-12T09:41:19.027405
-openai,gaato/openai,0.4.0,16636,2,2026-10-18T07:00:55.288046
+openai,gaato/openai,0.5.0,16726,2,2026-10-19T00:35:54.339487
 openblas,Kaida-Amethyst/openblas,0.1.3,66273,2,2025-08-27T03:11:06.778261
 opencc,Ljh684/opencc,0.1.1,99087,56,2026-10-15T16:51:00.130864
 opencode-sdk,totto2727/opencode-sdk,0.4.1,1965,4,2026-08-23T08:22:15.305205
@@ -2310,7 +2310,7 @@ pony,jaredzhou/pony,0.5.0,5405,3,2026-10-02T01:41:00.508486
 pop3,cheng-jun56/pop3,0.5.0,1103,3,2026-09-21T18:11:07.285687
 portable_cli,bobzhang/portable_cli,0.1.12,10327,15,2026-10-02T11:23:26.50061
 posix,illusory0x0/posix,0.2.2,3718,50,2025-06-25T00:22:00.852583
-posoco,colmugx/posoco,0.22.1,53286,10,2026-10-12T14:15:14.276135
+posoco,colmugx/posoco,0.22.2,53481,10,2026-10-19T01:42:01.353126
 postgres,mattn/postgres,0.10.7,634,1,2026-10-17T16:35:37.286608
 postgres,moonbit-community/postgres,0.1.2,29325,11,2026-10-08T06:04:48.746533
 postgres_session,Hosi121/postgres_session,0.1.0,176,1,2026-09-22T14:07:32.388355
@@ -2466,7 +2466,7 @@ replace_self,justjavac/replace_self,0.1.5,1177,2,2026-09-28T08:46:55.906731
 req,gaato/req,0.1.0,7339,1,2026-10-18T08:03:06.55868
 reqbest,oboard/reqbest,0.6.0,11945,3,2026-08-18T03:31:03.770129
 reqmest,oboard/reqmest,0.5.4,11610,3,2026-08-17T17:27:21.552602
-requesto,gaato/requesto,0.1.2,7375,1,2026-10-18T23:13:42.742804
+requesto,gaato/requesto,0.2.0,7899,1,2026-10-19T01:08:49.867485
 reslock,WSH-ai-nb/reslock,0.1.0,3688,2,2026-08-19T17:09:18.454854
 respo,tiye/respo,0.3.4,7066,4,2026-05-17T04:39:13.209893
 respo_css,tiye/respo_css,0.1.7,5133,2,2026-08-29T15:45:53.398289
@@ -2533,7 +2533,7 @@ screenshots,justjavac/screenshots,0.1.2,490,3,2026-06-10T05:51:35.34522
 screeps,Kaida-Amethyst/screeps,0.1.0,6542,3,2026-04-16T11:07:21.393926
 scrut,bobzhang/scrut,0.1.0,17111,13,2026-09-26T15:22:16.600884
 scss,zhengxin-coding/scss,0.9.1,16721,6,2026-09-30T00:50:48.618991
-sdk-runtime,gaato/sdk-runtime,0.5.0,3522,3,2026-10-18T22:30:45.074678
+sdk-runtime,gaato/sdk-runtime,0.6.0,3457,2,2026-10-19T00:35:51.82041
 sdl,klaseca/sdl,0.1.3,2138,1,2026-10-12T16:22:51.718532
 sdl3,emadurandal/sdl3,0.1.2,22948,4,2026-05-20T10:33:14.900097
 sdl3,Kaida-Amethyst/sdl3,0.1.1,22939,4,2026-03-31T03:22:48.743987
@@ -2719,7 +2719,7 @@ tail,cli/tail,0.2.1,584,1,2026-10-17T15:27:35.007035
 tail,bobzhang/tail,0.1.3,483,1,2026-09-28T01:07:05.499181
 tailwindcss,marianoguerra/tailwindcss,0.4.2,17906,4,2026-10-18T10:23:14.762489
 talcparsec,kokic/talcparsec,0.4.0,2729,2,2026-09-29T03:17:34.475661
-tally,weopqrst/tally,0.1.0,5911,6,2026-10-14T03:14:42.970604
+tally,weopqrst/tally,0.4.0,12140,6,2026-10-19T02:38:40.380825
 taptrail,MX-ai-nb/taptrail,0.3.0,4865,5,2026-08-20T08:01:55.784681
 tar,bobzhang/tar,0.1.3,737,2,2026-09-25T12:33:40.449533
 target-file-discovery,totto2727/target-file-discovery,0.2.1,577,1,2026-08-05T11:39:40.84755
@@ -3105,6 +3105,6 @@ zlib,mizchi/zlib,0.4.10,4226,6,2026-10-05T03:57:59.096014
 zlib,gmlewis/zlib,0.21.16,735,1,2026-10-13T10:35:53.076699
 zls,sohaha/zls,0.1.0,25,2,2025-05-16T08:36:01.992209
 zstd,Milky2018/zstd,0.1.4,41155,1,2026-10-13T04:10:57.591159
-zstd,gaato/zstd,0.1.0,12088,3,2026-10-18T17:20:56.65816
+zstd,gaato/zstd,0.2.0,12089,3,2026-10-19T00:28:01.904735
 zxcvbn,PaperY0/zxcvbn,0.1.0,101702,2,2026-10-08T13:14:53.970091
 原来可以发中文包,CAIMEOX/原来可以发中文包,0.1.1,17,1,2025-05-11T11:59:52.944489
