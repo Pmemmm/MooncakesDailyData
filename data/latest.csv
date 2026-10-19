@@ -406,7 +406,7 @@ direct_sdk,f4ah6o/direct_sdk,0.11.2,13451,19,2026-09-29T17:11:57.912746
 dirname,cli/dirname,0.2.1,102,1,2026-10-17T15:17:57.295284
 dirs,justjavac/dirs,0.1.3,1315,1,2026-09-28T08:46:20.454162
 discord,mizchi/discord,0.1.2,1663,3,2026-04-25T13:36:51.417135
-discord,gaato/discord,0.10.0,99656,22,2026-10-18T14:20:13.847499
+discord,gaato/discord,0.10.1,99657,22,2026-10-18T22:53:49.67907
 discord-cli,gaato/discord-cli,0.1.5,771,1,2026-10-16T00:00:10.525978
 discord_voice,gaato/discord_voice,0.3.0,12724,1,2026-10-18T14:37:55.548294
 displaytext,moonbit-community/displaytext,0.1.6,954,1,2026-10-13T13:31:15.588814
@@ -645,7 +645,7 @@ gio,tonyfettes/gio,0.2.0,37769,1,2026-07-24T02:02:39.045997
 gir,tonyfettes/gir,0.3.2,40501,13,2026-07-31T07:29:48.316864
 giraffe,tonyfettes/giraffe,0.2.0,4058,12,2026-07-24T02:06:08.794014
 git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
-github,gaato/github,0.14.0,243650,2,2026-10-18T07:01:03.984733
+github,gaato/github,0.15.0,243664,2,2026-10-18T22:53:38.687004
 github,mizchi/github,0.1.5,1980,11,2026-09-24T09:28:09.062604
 GJK,FlyCloudC/GJK,0.1.1,281,1,2025-10-31T16:15:21.807381
 gleam-parser,moonrockz/gleam-parser,0.4.0,38555,15,2026-10-18T20:32:51.676798
@@ -753,7 +753,7 @@ html-parser,cou723/html-parser,0.1.0,794,4,2025-07-20T09:27:39.69936
 html_parser,bobzhang/html_parser,0.2.0,64356,22,2026-09-28T04:29:34.841354
 html_parser_examples,bobzhang/html_parser_examples,0.1.0,216,2,2026-05-21T03:43:22.933298
 htmx,f4ah6o/htmx,0.2.0,5970,4,2026-01-15T04:04:09.256093
-http,gaato/http,0.3.0,7343,6,2026-10-18T07:00:46.508335
+http,gaato/http,0.3.1,9032,8,2026-10-18T22:30:43.089637
 http11,f4ah6o/http11,0.1.2,16182,4,2026-09-29T16:17:15.117376
 http-async,gaato/http-async,0.4.0,9669,3,2026-10-18T17:34:34.899929
 http-cache,oyjh0381/http-cache,0.1.0,4535,7,2026-09-05T04:06:55.04551
@@ -2189,7 +2189,7 @@ office,bobzhang/office,0.6.0,49,1,2026-08-30T17:37:40.858937
 office,moonbitlang/office,0.3.0,16230,2,2026-10-13T11:40:51.105467
 office-lib,moonbitlang/office-lib,0.7.0,31901,8,2026-10-13T11:39:30.70795
 office-lib,bobzhang/office-lib,0.5.0,69701,14,2026-08-30T17:37:21.295175
-office-viewer,Lampese/office-viewer,0.2.3,10577,4,2026-10-16T15:40:46.802125
+office-viewer,Lampese/office-viewer,0.2.5,11814,4,2026-10-18T23:25:17.342732
 onebit-tui,Frank-III/onebit-tui,0.1.3,8004,7,2025-10-17T19:59:51.906075
 onebit-yoga,Frank-III/onebit-yoga,0.2.6,2491,4,2025-10-17T19:51:14.148025
 oneshot,nuskey8/oneshot,0.1.0,136,2,2025-12-22T16:50:23.641313
@@ -2466,7 +2466,7 @@ replace_self,justjavac/replace_self,0.1.5,1177,2,2026-09-28T08:46:55.906731
 req,gaato/req,0.1.0,7339,1,2026-10-18T08:03:06.55868
 reqbest,oboard/reqbest,0.6.0,11945,3,2026-08-18T03:31:03.770129
 reqmest,oboard/reqmest,0.5.4,11610,3,2026-08-17T17:27:21.552602
-requesto,gaato/requesto,0.1.0,7376,1,2026-10-18T16:55:06.382154
+requesto,gaato/requesto,0.1.2,7375,1,2026-10-18T23:13:42.742804
 reslock,WSH-ai-nb/reslock,0.1.0,3688,2,2026-08-19T17:09:18.454854
 respo,tiye/respo,0.3.4,7066,4,2026-05-17T04:39:13.209893
 respo_css,tiye/respo_css,0.1.7,5133,2,2026-08-29T15:45:53.398289
@@ -2533,7 +2533,7 @@ screenshots,justjavac/screenshots,0.1.2,490,3,2026-06-10T05:51:35.34522
 screeps,Kaida-Amethyst/screeps,0.1.0,6542,3,2026-04-16T11:07:21.393926
 scrut,bobzhang/scrut,0.1.0,17111,13,2026-09-26T15:22:16.600884
 scss,zhengxin-coding/scss,0.9.1,16721,6,2026-09-30T00:50:48.618991
-sdk-runtime,gaato/sdk-runtime,0.4.0,5158,3,2026-10-18T07:00:52.106595
+sdk-runtime,gaato/sdk-runtime,0.5.0,3522,3,2026-10-18T22:30:45.074678
 sdl,klaseca/sdl,0.1.3,2138,1,2026-10-12T16:22:51.718532
 sdl3,emadurandal/sdl3,0.1.2,22948,4,2026-05-20T10:33:14.900097
 sdl3,Kaida-Amethyst/sdl3,0.1.1,22939,4,2026-03-31T03:22:48.743987
@@ -3091,7 +3091,7 @@ ytyj,sennenki/ytyj,0.1.1,334,5,2026-04-14T02:08:15.531192
 yuegui,Anxiu0101/yuegui,0.1.3,3226,8,2026-06-11T16:20:46.078913
 yue-media,NoahLiu/yue-media,0.1.0,1967,1,2026-10-10T02:24:25.604962
 yuru-kit,hiroyannnn/yuru-kit,0.1.0,1931,4,2026-09-24T15:13:56.180583
-yxl,t-ujiie-g/yxl,0.7.0,41039,12,2026-10-18T09:48:55.34091
+yxl,t-ujiie-g/yxl,0.7.1,41260,12,2026-10-18T22:39:17.24647
 zarr,zlhahaha/zarr,0.7.0,10932,21,2026-09-30T03:21:18.043172
 zcat,cli/zcat,0.1.1,35,1,2026-10-17T15:37:43.096372
 zero_fill,zhaihaozhen/zero_fill,0.1.2,40,2,2025-07-15T05:26:32.291895
