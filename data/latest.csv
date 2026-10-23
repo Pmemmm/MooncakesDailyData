@@ -1269,7 +1269,7 @@ moon_bencode,2515050243qyf/moon_bencode,0.2.0,6591,3,2026-08-16T02:11:47.136553
 moonbin,hourizon/moonbin,0.1.0,1096,2,2026-07-12T10:08:15.999965
 moonbind,icyaaaww/moonbind,0.10.0,19346,14,2026-10-23T04:27:56.38774
 moonbindgen,shop1111/moonbindgen,0.6.0,5067,2,2026-09-30T03:54:06.337618
-moon-binstall,f4ah6o/moon-binstall,0.1.6,7686,1,2026-10-11T08:34:34.28285
+moon-binstall,f4ah6o/moon-binstall,0.1.7,10607,1,2026-10-23T22:42:58.617294
 moonbio,caassien/moonbio,0.1.2,1326,6,2026-08-05T16:33:36.763239
 moonbit,tonyfettes/moonbit,0.2.0,64,2,2025-12-10T05:50:05.596536
 moonbit-4d-schedule,cj3335556/moonbit-4d-schedule,0.1.0,2777,8,2026-08-24T14:20:54.800556
@@ -1527,7 +1527,7 @@ moon-content-disposition,xiaojing012/moon-content-disposition,0.1.1,8942,8,2026-
 mooncontext,lllg123/mooncontext,0.2.0,8870,14,2026-10-13T10:17:21.301069
 mooncontract,Han-Wentao/mooncontract,0.1.1,5069,10,2026-09-14T10:29:03.043201
 moon_contractguard,yyqdbngt/moon_contractguard,0.2.0,1300,2,2026-10-18T13:09:49.213175
-moon-cos,mldong/moon-cos,0.17.0,7535,4,2026-10-23T16:38:59.57009
+moon-cos,mldong/moon-cos,0.20.0,8052,4,2026-10-23T19:54:10.67476
 moon_cosmic,Milky2018/moon_cosmic,0.3.8,50341,8,2026-10-13T04:11:36.04326
 mooncov,Xpeng/mooncov,0.1.1,4890,2,2026-08-09T06:19:51.01934
 moon_cove,moonbitlang/moon_cove,0.3.5,11968,9,2026-10-12T08:07:56.791589
@@ -1756,7 +1756,7 @@ moon-kalman,Lyllyl789/moon-kalman,0.2.1,24444,3,2026-08-20T14:37:48.758199
 moonkconfig,CYang-dep/moonkconfig,0.3.0,4738,7,2026-10-22T03:14:48.074446
 moonkeyguard,zhangbowen2006/moonkeyguard,0.3.1,10139,7,2026-09-23T08:41:49.773279
 moonkinetics,jqlssg/moonkinetics,0.1.0,2966,6,2026-10-20T11:23:30.108012
-moon-kodo,mldong/moon-kodo,0.17.0,7660,4,2026-10-23T16:36:02.677467
+moon-kodo,mldong/moon-kodo,0.20.0,7847,4,2026-10-23T20:03:12.775724
 moonkoog,moonbitstack/moonkoog,0.6.1,17002,39,2026-09-22T19:37:43.199318
 moonkoog,Lfan-ke/moonkoog,0.4.1,16670,39,2026-09-13T23:57:09.800887
 moonkv,wallll-wal6/moonkv,0.1.3,3556,3,2026-08-14T15:11:48.5665
@@ -1861,7 +1861,7 @@ moonnormal,LuoYunxin1/moonnormal,0.1.1,3405,4,2026-10-20T11:55:51.105443
 moon-npy,ShunjunGu/moon-npy,0.4.0,6599,15,2026-09-29T03:03:38.361906
 moon-nsq,clhhhhhh/moon-nsq,0.1.0,3583,2,2026-10-16T02:50:19.181651
 moonNum,amor2025/moonNum,0.1.0,133948,18,2026-07-06T08:26:22.484536
-moon-obs,mldong/moon-obs,0.17.0,11101,4,2026-10-23T16:34:26.827538
+moon-obs,mldong/moon-obs,0.20.0,11614,4,2026-10-23T19:54:19.263212
 moonoci,oyjh0381/moonoci,0.1.4,5354,13,2026-08-13T08:56:36.083737
 moonocr,CXREN/moonocr,0.1.0,2786,2,2026-10-06T16:46:39.586483
 moonods,sundaysebasidian-byte/moonods,0.2.0,1704,4,2026-10-04T05:34:05.162142
@@ -1881,7 +1881,7 @@ moonorm,Lfan-ke/moonorm,0.8.1,18384,29,2026-09-13T23:57:42.091709
 moonorm,Rz-coder8848/moonorm,0.1.0,3857,5,2026-09-20T14:36:40.599747
 moon-ort,HuLunTunTao/moon-ort,0.1.1,5496,7,2026-09-27T19:40:17.183817
 moonosc,CYang-dep/moonosc,0.2.0,3849,6,2026-10-16T09:25:59.673064
-moon-oss,mldong/moon-oss,0.17.0,7423,4,2026-10-23T16:33:57.75475
+moon-oss,mldong/moon-oss,0.20.0,7936,4,2026-10-23T19:54:02.688374
 moonot,xubowen1234/moonot,0.1.3,10876,11,2026-10-20T12:26:22.523155
 moon_otp,1726914517-spec/moon_otp,0.3.1,2300,3,2026-09-24T06:39:51.571247
 moon_outlines,xiguaAp6y3/moon_outlines,0.1.0,2238,4,2026-10-13T15:09:27.967132
@@ -2349,7 +2349,7 @@ orjson,kupas/orjson,0.1.1,2658,2,2026-10-17T09:35:36.384806
 os,tonyfettes/os,0.1.1,417,2,2026-05-20T07:15:26.643657
 oscbridge,dongxuan2012/oscbridge,0.2.0,1635,4,2026-09-30T00:49:24.282794
 osenv,trkbt10/osenv,0.1.0,1792,6,2026-03-21T05:54:11.75445
-ot,vilakku/ot,0.2.1,827,2,2026-10-23T17:30:26.212498
+ot,vilakku/ot,0.5.0,1306,2,2026-10-23T20:49:31.702828
 owl_mbt,walkzzz/owl_mbt,0.1.1,18555,14,2026-08-14T04:08:45.752611
 packet,chensuiyi/packet,0.1.1,1033,1,2026-08-01T11:49:34.077714
 pacman,Milky2018/pacman,0.1.0,1121,1,2026-02-28T10:43:58.776905
