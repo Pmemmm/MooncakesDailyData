@@ -1,6 +1,7 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
 2227057182/moonshim,新增,2048,5,0,0,2048,5
 JQ-ai-nb/relcore,新增,3018,3,0,0,3018,3
+moonbitstack/moonucd,新增,4581,2,0,0,4581,2
 moonrockz/diagrams,新增,896,3,0,0,896,3
 moonrockz/diagrams-mermaid,新增,3746,6,0,0,3746,6
 moonrockz/diagrams-svg,新增,2976,4,0,0,2976,4
@@ -10,6 +11,7 @@ WENwenZU/moon-webp,新增,4572,5,0,0,4572,5
 BigSaltyMan/moonclip,有变化,2222,0,10590,2,12812,2
 ggbond44439/moon_geocodec,有变化,1332,0,8812,4,10144,4
 HhWw96/moontxnwitness,有变化,2752,0,32821,3,35573,3
+Lampese/mathplotlib,有变化,962,0,83318,28,84280,28
 Milky2018/aarch64_target,有变化,14,0,16633,1,16647,1
 Milky2018/milkir,有变化,192,0,26987,6,27179,6
 Milky2018/vcode,有变化,269,0,12637,5,12906,5
@@ -1324,7 +1326,6 @@ lampclaw/minimoon,无变化,0,0,26133,22,26133,22
 lampclaw/minimoon_ui,无变化,0,0,14037,5,14037,5
 Lampese/biblatex,无变化,0,0,1714,2,1714,2
 Lampese/lomo,无变化,0,0,26092,10,26092,10
-Lampese/mathplotlib,无变化,0,0,83318,28,83318,28
 Lampese/MCIL,无变化,0,0,18534,4,18534,4
 Lampese/mitest,无变化,0,0,23,2,23,2
 Lampese/moonbead,无变化,0,0,1561,2,1561,2
