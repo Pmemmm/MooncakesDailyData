@@ -12,6 +12,8 @@ moonbit-community/tree-sitter-verilog,新增,23622,2,0,0,23622,2
 moonbit-community/tree-sitter-zig,新增,4458,1,0,0,4458,1
 moonbitstack/moonnum,新增,49460,6,0,0,49460,6
 Mr-Shi123/moondynamo,新增,1463,2,0,0,1463,2
+nawei123/runledger,新增,1395,2,0,0,1395,2
+tc-adventureking/ipset,新增,1337,1,0,0,1337,1
 V1GreenSummer/paddleocr,新增,4145,5,0,0,4145,5
 zyyaa125/edgeweaver,新增,9406,9,0,0,9406,9
 cli/column,有变化,444,0,330,1,774,1
@@ -23,13 +25,17 @@ cli/sort,有变化,447,0,2365,1,2812,1
 cli/split,有变化,21,0,1266,1,1287,1
 cli/tac,有变化,277,0,271,1,548,1
 Freon793/moonopt,有变化,2113,1,24511,14,26624,15
-Lampese/mathplotlib,有变化,2423,0,89401,28,91824,28
+justinwongcn/moon-ical,有变化,2824,0,6625,11,9449,11
+justinwongcn/moonpgp,有变化,4194,1,24037,16,28231,17
+Lampese/mathplotlib,有变化,3836,0,89401,28,93237,28
 mldong/moon-file-storage-oss,有变化,-1,0,1433,1,1432,1
 MuVirus/moonfig,有变化,1324,4,8674,14,9998,18
 PingGuoMiaoMiao/moonlsm,有变化,805,1,8950,3,9755,4
 prowk/mooncql,有变化,4211,1,10507,12,14718,13
-riantr/moonbit_doubleML,有变化,9,0,101307,1,101316,1
+riantr/moonbit_doubleML,有变化,14,0,101307,1,101321,1
 sa2360/pddl,有变化,2484,0,5539,2,8023,2
+sundaysebasidian-byte/moonabnf,有变化,494,1,4380,11,4874,12
+sundaysebasidian-byte/moonstomp,有变化,50,0,4115,4,4165,4
 superbigcup325/colenc,有变化,3989,1,4152,5,8141,6
 vitro/engine,有变化,27974,8,79448,37,107422,45
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
@@ -1145,8 +1151,6 @@ jtenner/telnet,无变化,0,0,29427,6,29427,6
 Jtian-t/Deque,无变化,0,0,268,1,268,1
 jumpping/baby,无变化,0,0,4270,6,4270,6
 JunJunTnT/moonchart,无变化,0,0,3850,8,3850,8
-justinwongcn/moon-ical,无变化,0,0,6625,11,6625,11
-justinwongcn/moonpgp,无变化,0,0,24037,16,24037,16
 justinwongcn/openpgp,无变化,0,0,24032,16,24032,16
 justinwongcn/tyme4mb,无变化,0,0,23376,6,23376,6
 justjavac/auto_launch,无变化,0,0,2132,5,2132,5
@@ -2632,9 +2636,7 @@ summer-boythink/moonorm,无变化,0,0,34,3,34,3
 sun-zhao12/moon-mrp,无变化,0,0,2908,3,2908,3
 sun-zhao12/moon-tuf-preflight,无变化,0,0,4626,3,4626,3
 sundaysebasidian-byte/moon-loglens,无变化,0,0,1764,5,1764,5
-sundaysebasidian-byte/moonabnf,无变化,0,0,4380,11,4380,11
 sundaysebasidian-byte/moonods,无变化,0,0,1704,4,1704,4
-sundaysebasidian-byte/moonstomp,无变化,0,0,4115,4,4115,4
 SundayT1998/chroma-client,无变化,0,0,6433,2,6433,2
 SundayT1998/milvus-client,无变化,0,0,38971,20,38971,20
 superbigcup325/jumbit,无变化,0,0,12574,7,12574,7
