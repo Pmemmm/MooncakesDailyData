@@ -1,10 +1,13 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+allenli178/moon-qrcode,新增,3882,6,0,0,3882,6
 apoloe4/moonreconcile,新增,3123,7,0,0,3123,7
 btlqql/moon_bpflab,新增,2207,2,0,0,2207,2
 btlqql/moon_card,新增,2015,2,0,0,2015,2
 btlqql/moon_diag,新增,2176,2,0,0,2176,2
+cauchyQ/moon-nfs3,新增,5949,2,0,0,5949,2
 hp0200/moonbit-sparse-math,新增,161,1,0,0,161,1
 huanguan-Q/typesafe-sdk-moonbit,新增,2104,4,0,0,2104,4
+impart563/lesion-followup,新增,7612,10,0,0,7612,10
 Lyhdsba/fusekite,新增,4952,8,0,0,4952,8
 moonbit-community/tree-sitter-make,新增,3228,2,0,0,3228,2
 moonbit-community/tree-sitter-regex,新增,866,2,0,0,866,2
@@ -17,8 +20,11 @@ moonrockz/diagrams-bpmn,新增,953,1,0,0,953,1
 Mr-Shi123/moondynamo,新增,1463,2,0,0,1463,2
 nawei123/runledger,新增,1395,2,0,0,1395,2
 tc-adventureking/ipset,新增,1337,1,0,0,1337,1
+thy1016/moongrd,新增,3023,8,0,0,3023,8
 V1GreenSummer/paddleocr,新增,4145,5,0,0,4145,5
 zyyaa125/edgeweaver,新增,9406,9,0,0,9406,9
+AlexenderSokolov/moonmetamath,有变化,518,1,4157,3,4675,4
+CaptainK-65/moon-statelens,有变化,1101,1,7460,13,8561,14
 cli/column,有变化,444,0,330,1,774,1
 cli/core,有变化,1,0,21782,15,21783,15
 cli/csplit,有变化,328,0,567,1,895,1
@@ -32,18 +38,24 @@ justinwongcn/moon-ical,有变化,3987,0,6625,11,10612,11
 justinwongcn/moonpgp,有变化,5786,1,24037,16,29823,17
 Lampese/mathplotlib,有变化,3836,0,89401,28,93237,28
 mldong/moon-file-storage-oss,有变化,-1,0,1433,1,1432,1
+moonbit-community/raylib,有变化,9043,0,21670,4,30713,4
 moonrockz/diagrams,有变化,4000,3,896,3,4896,6
 moonrockz/diagrams-mermaid,有变化,3968,5,3746,6,7714,11
 moonrockz/diagrams-svg,有变化,6894,2,2976,4,9870,6
+moonrockz/zig-cross,有变化,782,0,903,1,1685,1
 MuVirus/moonfig,有变化,1324,4,8674,14,9998,18
 PingGuoMiaoMiao/moonlsm,有变化,805,1,8950,3,9755,4
 prowk/mooncql,有变化,4211,1,10507,12,14718,13
-riantr/moonbit_doubleML,有变化,20,0,101307,1,101327,1
+riantr/moonbit_doubleML,有变化,-2,0,101307,1,101305,1
 sa2360/pddl,有变化,2484,0,5539,2,8023,2
+SongYZZZ/moon-liberty,有变化,597,0,8267,6,8864,6
 sundaysebasidian-byte/moonabnf,有变化,494,1,4380,11,4874,12
 sundaysebasidian-byte/moonstomp,有变化,50,0,4115,4,4165,4
 superbigcup325/colenc,有变化,3989,1,4152,5,8141,6
+tonyfettes/raylib,有变化,279,0,30434,4,30713,4
 vitro/engine,有变化,27974,8,79448,37,107422,45
+wzzc-dev/moui,有变化,4396,0,121149,59,125545,59
+wzzc-dev/moui_richtext,有变化,28,0,46132,2,46160,2
 001-Elsa/gerberguard,无变化,0,0,3604,2,3604,2
 001-Elsa/medseal,无变化,0,0,25502,45,25502,45
 001-Elsa/mooncron,无变化,0,0,5560,2,5560,2
@@ -125,7 +137,6 @@ Ag108/MoonReduce,无变化,0,0,13268,53,13268,53
 Ag108/MoonSRC,无变化,0,0,2601,14,2601,14
 agentdebug799/moonbit-triage,无变化,0,0,10512,3,10512,3
 AlexenderSokolov/moonflowgraph,无变化,0,0,4233,5,4233,5
-AlexenderSokolov/moonmetamath,无变化,0,0,4157,3,4157,3
 AlexenderSokolov/moonportcheck,无变化,0,0,9231,4,9231,4
 AlexenderSokolov/moonsplit,无变化,0,0,10388,10,10388,10
 AlexenderSokolov/moontrack,无变化,0,0,6289,5,6289,5
@@ -419,7 +430,6 @@ caozhanhao/qrcode,无变化,0,0,3833,2,3833,2
 CaptainK-65/moon-car,无变化,0,0,1758,5,1758,5
 CaptainK-65/moon-collate,无变化,0,0,20267,3,20267,3
 CaptainK-65/moon-humanize,无变化,0,0,443,7,443,7
-CaptainK-65/moon-statelens,无变化,0,0,7460,13,7460,13
 Careylq/spell,无变化,0,0,12759,10,12759,10
 cauchyQ/moon-sketch-kit,无变化,0,0,4447,5,4447,5
 cauchyQ/moonbit-argkit,无变化,0,0,4423,3,4423,3
@@ -2012,7 +2022,6 @@ moonbit-community/punycode,无变化,0,0,1089,2,1089,2
 moonbit-community/quickcheck_statemachine,无变化,0,0,11985,2,11985,2
 moonbit-community/rabbita,无变化,0,0,32896,23,32896,23
 moonbit-community/rabbita_tui,无变化,0,0,10524,6,10524,6
-moonbit-community/raylib,无变化,0,0,21670,4,21670,4
 moonbit-community/rg,无变化,0,0,68693,19,68693,19
 moonbit-community/rtc,无变化,0,0,44354,23,44354,23
 moonbit-community/rui,无变化,0,0,42351,3,42351,3
@@ -2204,7 +2213,6 @@ moonrockz/smithy-validation,无变化,0,0,17565,2,17565,2
 moonrockz/wac,无变化,0,0,102315,13,102315,13
 moonrockz/wasm-devkit,无变化,0,0,3388,4,3388,4
 moonrockz/wit,无变化,0,0,141266,25,141266,25
-moonrockz/zig-cross,无变化,0,0,903,1,903,1
 mooxCLI/cmd,无变化,0,0,15,0,15,0
 moransky/bloom_filter,无变化,0,0,105,2,105,2
 morning-start/mbtgraph,无变化,0,0,36647,25,36647,25
@@ -2607,7 +2615,6 @@ Songyz002/moon-multipart,无变化,0,0,3250,2,3250,2
 SongYZZZ/ansi-guard,无变化,0,0,3168,7,3168,7
 SongYZZZ/moon-dbc,无变化,0,0,5509,4,5509,4
 SongYZZZ/moon-firmware,无变化,0,0,8740,13,8740,13
-SongYZZZ/moon-liberty,无变化,0,0,8267,6,8267,6
 SouichiroTsujimoto/astrobit,无变化,0,0,1016,4,1016,4
 spectacleCase/dotenv,无变化,0,0,2004,2,2004,2
 spectacleCase/moonbook,无变化,0,0,2680,7,2680,7
@@ -2772,7 +2779,6 @@ tonyfettes/platform,无变化,0,0,60,1,60,1
 tonyfettes/pty,无变化,0,0,357,1,357,1
 tonyfettes/punycode,无变化,0,0,998,2,998,2
 tonyfettes/rabbita_xterm,无变化,0,0,2437,4,2437,4
-tonyfettes/raylib,无变化,0,0,30434,4,30434,4
 tonyfettes/raylib-examples,无变化,0,0,401351,577,401351,577
 tonyfettes/rc,无变化,0,0,227,1,227,1
 tonyfettes/skills-deepseek-web-search,无变化,0,0,908,2,908,2
@@ -3032,7 +3038,6 @@ WYT-ai-nb/mooncalguard,无变化,0,0,5971,2,5971,2
 WYT-ai-nb/moontide,无变化,0,0,3311,2,3311,2
 wzx2007/moonpath,无变化,0,0,4025,3,4025,3
 wzzc-dev/imgui,无变化,0,0,499,2,499,2
-wzzc-dev/moui,无变化,0,0,121149,59,121149,59
 wzzc-dev/moui_3d,无变化,0,0,7136,4,7136,4
 wzzc-dev/moui_3d_physics,无变化,0,0,349,1,349,1
 wzzc-dev/moui_3d_physics_rapier,无变化,0,0,379,1,379,1
@@ -3043,7 +3048,6 @@ wzzc-dev/moui_cli,无变化,0,0,18112,3,18112,3
 wzzc-dev/moui_devtools,无变化,0,0,356,2,356,2
 wzzc-dev/moui_i18n,无变化,0,0,509,1,509,1
 wzzc-dev/moui_markdown,无变化,0,0,2790,1,2790,1
-wzzc-dev/moui_richtext,无变化,0,0,46132,2,46132,2
 wzzc-dev/moui_skia,无变化,0,0,36653,8,36653,8
 wzzc-dev/moui_skia_renderer,无变化,0,0,18436,1,18436,1
 wzzc-dev/moui_studio,无变化,0,0,104950,39,104950,39
