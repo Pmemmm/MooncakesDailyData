@@ -1,7 +1,9 @@
 name,status,line_count_diff,package_count_diff,csv1_line_count,csv1_package_count,csv2_line_count,csv2_package_count
+Clearzero22/hello-quick,新增,54,2,0,0,54,2
 cn-cheems/bids_metadata_trace,新增,15512,4,0,0,15512,4
+cn-xjr/migration_lens,新增,12890,12,0,0,12890,12
 lexchb/moon_vector,新增,5905,5,0,0,5905,5
-moonrockz/telescope,新增,14038,11,0,0,14038,11
+moonrockz/telescope,新增,14668,11,0,0,14668,11
 QYF795/regolith,新增,4375,4,0,0,4375,4
 shen-E/moonvigil,新增,5460,5,0,0,5460,5
 thy1016/vox1000,新增,6065,5,0,0,6065,5
