@@ -851,7 +851,7 @@ io,peter-jerry-ye/io,0.3.4,601,2,2025-10-14T06:10:31.485688
 io,gmlewis/io,0.23.20,3748,1,2026-10-19T12:02:05.193483
 ion,moonrockz/ion,0.6.0,37834,13,2026-10-17T13:06:37.736226
 ipaddr,bobzhang/ipaddr,0.1.2,2087,1,2026-09-10T00:25:20.517551
-ipset,tc-adventureking/ipset,0.2.1,1337,1,2026-10-25T19:16:23.093187
+ipset,tc-adventureking/ipset,0.3.0,4435,1,2026-10-28T19:54:15.22462
 irc,chenglong-coding/irc,0.5.0,1500,3,2026-09-21T18:09:22.640021
 isa_target,Milky2018/isa_target,0.1.0,9938,3,2026-07-07T11:19:25.550535
 isobmff,trkbt10/isobmff,0.1.0,1655,5,2026-03-26T03:38:56.820664
@@ -1864,9 +1864,9 @@ moonmark,zmjknn/moonmark,0.1.1,1696,6,2026-08-11T05:48:58.472043
 moonmarkdown,oilleelssq-wq/moonmarkdown,0.2.0,5478,9,2026-07-21T10:51:56.320577
 MoonMarkMind,Xiao-li-He/MoonMarkMind,0.1.0,30700,11,2026-07-12T14:12:17.179225
 moonmask,FidollarinLA/moonmask,0.1.0,7778,8,2026-10-01T07:22:59.425772
-moonmatbridge,WeiR-h/moonmatbridge,0.0.16,10341,8,2026-10-28T16:37:07.750507
+moonmatbridge,WeiR-h/moonmatbridge,0.0.19,12465,8,2026-10-28T19:27:32.477039
 moonmatch,shencangsheng513/moonmatch,0.1.0,2190,3,2026-09-23T06:12:47.420702
-moonmcap,LilaLola67/moonmcap,0.15.31,40002,31,2026-10-27T08:03:07.399012
+moonmcap,LilaLola67/moonmcap,0.15.32,42243,32,2026-10-28T16:51:22.676387
 moonmcp,moonbitstack/moonmcp,0.1.1,11131,17,2026-10-27T07:58:46.6175
 moon-md-viewer,daqing/moon-md-viewer,0.1.0,1724,2,2026-10-21T03:03:51.82576
 MoonMech,SupremeHuaji/MoonMech,0.1.0,3162,2,2025-12-26T03:04:21.151384
@@ -2467,7 +2467,7 @@ partiql,moonrockz/partiql,0.3.0,3094,2,2026-10-19T06:41:56.165993
 partiql-eval,moonrockz/partiql-eval,0.3.0,23511,5,2026-10-19T06:41:53.50535
 partiql-syntax,moonrockz/partiql-syntax,0.3.0,12445,7,2026-10-19T06:41:50.669632
 partiql-value,moonrockz/partiql-value,0.3.0,13340,6,2026-10-19T06:41:48.759553
-partsieve,zlhahaha/partsieve,0.7.0-spike,8116,7,2026-10-24T16:49:23.431665
+partsieve,zlhahaha/partsieve,0.7.1-spike,8116,7,2026-10-28T16:55:50.708013
 paste,bobzhang/paste,0.1.2,188,1,2026-09-28T01:06:53.674439
 paste,cli/paste,0.2.3,216,1,2026-10-27T01:08:47.885974
 patch,cli/patch,0.2.1,1455,1,2026-10-27T01:09:08.046373
@@ -2969,7 +2969,7 @@ tdfa,bobzhang/tdfa,0.1.3,10480,10,2026-10-12T00:08:19.245732
 teager,wzzc-dev/teager,0.1.0,28,2,2025-02-22T07:19:19.104379
 tee,cli/tee,0.2.3,421,1,2026-10-27T01:15:39.077591
 telegram-bot,tonyfettes/telegram-bot,0.1.0,28891,1,2026-02-24T06:53:30.715295
-telescope,moonrockz/telescope,0.3.0,21318,18,2026-10-28T05:30:51.666486
+telescope,moonrockz/telescope,0.4.0,21513,18,2026-10-28T21:00:33.683516
 telnet,jtenner/telnet,0.1.3,29427,6,2026-05-26T00:54:14.550448
 tempfile,mizchi/tempfile,0.1.3,496,2,2026-10-05T03:19:55.206174
 template,justjavac/template,0.1.2,328,1,2026-10-19T05:52:52.054241
@@ -3016,7 +3016,7 @@ threejs,FrenchPicnic/threejs,0.0.7,3211,3,2026-01-01T07:49:07.975253
 three-native,NoahLiu/three-native,0.1.2,18286,28,2026-10-06T14:01:29.678643
 thrift,zhaojun-coding/thrift,0.7.0,25434,8,2026-09-28T16:35:08.238912
 tic80,Milky2018/tic80,0.2.1,2115,2,2026-09-05T10:24:55.576657
-tideweave,LMK-ai-nb/tideweave,0.2.3,3286,3,2026-10-28T15:47:51.598107
+tideweave,LMK-ai-nb/tideweave,0.2.4,3286,3,2026-10-28T16:46:56.290508
 tiktoken,tonyfettes/tiktoken,0.2.1,100493,2,2025-11-12T10:05:51.908098
 tim,kokic/tim,0.3.1,270,1,2026-07-14T09:43:18.328821
 time,iceBear67/time,0.1.2,3634,2,2025-10-26T04:14:09.077151
