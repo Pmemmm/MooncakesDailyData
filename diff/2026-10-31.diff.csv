@@ -3,6 +3,8 @@ btlqql/moon_bch,新增,1016,2,0,0,1016,2
 cn-nnzy/mbglot,新增,55431,10,0,0,55431,10
 jhshuai/moontestledger,新增,12459,9,0,0,12459,9
 moonbit-community/flate-cli,新增,288,1,0,0,288,1
+moonrockz/extism,新增,8511,6,0,0,8511,6
+ruccho/wukuro,新增,1072,6,0,0,1072,6
 zhangbowen2006/needlerail,新增,1281,3,0,0,1281,3
 123123213weqw/moon_historycheck,有变化,2065,0,3220,2,5285,2
 bobzhang/crescent,有变化,78,1,24078,26,24156,27
@@ -25,7 +27,8 @@ chen333w/moon-lite,有变化,65,0,4472,6,4537,6
 ChrisTu117/moongeodesy,有变化,8213,0,23416,12,31629,12
 DWS-ai-nb/kiln,有变化,2955,6,5083,2,8038,8
 gmlewis/step,有变化,5233,5,28826,53,34059,58
-HhWw96/moontxnwitness,有变化,-82,1,35604,3,35522,4
+HhWw96/moontxnwitness,有变化,3586,1,35604,3,39190,4
+justinwongcn/moon-ical,有变化,2286,0,10612,11,12898,11
 justinwongcn/moonpgp,有变化,3308,0,29823,17,33131,17
 LilaLola67/moonmcap,有变化,52,0,49422,34,49474,34
 moonbit-community/graphql,有变化,14,0,10548,3,10562,3
@@ -45,6 +48,7 @@ moonbitstack/moonmime,有变化,1356,4,1349,2,2705,6
 MuVirus/moonfig,有变化,7,0,10678,18,10685,18
 NoahLiu/native-gui,有变化,9596,2,92671,15,102267,17
 QYF795/regolith,有变化,858,0,5965,4,6823,4
+riantr/moonbit_doubleML,有变化,2,0,101341,1,101343,1
 riantr/pyroduct,有变化,2928,0,21255,24,24183,24
 superbigcup325/moonlake,有变化,1099,0,38382,11,39481,11
 tc-adventureking/ipset,有变化,164,0,4435,1,4599,1
@@ -1183,7 +1187,6 @@ jtenner/telnet,无变化,0,0,29427,6,29427,6
 Jtian-t/Deque,无变化,0,0,268,1,268,1
 jumpping/baby,无变化,0,0,4270,6,4270,6
 JunJunTnT/moonchart,无变化,0,0,3850,8,3850,8
-justinwongcn/moon-ical,无变化,0,0,10612,11,10612,11
 justinwongcn/openpgp,无变化,0,0,24032,16,24032,16
 justinwongcn/tyme4mb,无变化,0,0,23376,6,23376,6
 justjavac/auto_launch,无变化,0,0,2132,5,2132,5
@@ -2571,7 +2574,6 @@ Refined_heart/Sort,无变化,0,0,60,2,60,2
 remain11/i18n,无变化,0,0,52,3,52,3
 riantr/MAKED,无变化,0,0,8431,5,8431,5
 riantr/maked_moonbit,无变化,0,0,6542,5,6542,5
-riantr/moonbit_doubleML,无变化,0,0,101341,1,101341,1
 riantr/moonbit_image,无变化,0,0,8546,1,8546,1
 riantr/moonbit_labeler,无变化,0,0,27490,5,27490,5
 riantr/moonbit_labeler_sample_data,无变化,0,0,20,0,20,0
