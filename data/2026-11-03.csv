@@ -885,10 +885,10 @@ iterator,Yu-zh/iterator,0.1.0,524,2,2025-03-09T07:39:50.18477
 itoa,justjavac/itoa,0.3.0,726,1,2026-10-19T05:50:15.01645
 jade-ui,moonbit-community/jade-ui,0.1.0,9182,4,2026-02-04T02:43:43.929862
 jcore,illusory0x0/jcore,0.1.1,2366,1,2025-03-09T03:27:56.46984
-jeeflow-core,mldong/jeeflow-core,0.1.55,17322,13,2026-11-02T07:08:03.380116
-jeeflow-facade,mldong/jeeflow-facade,0.1.55,10275,1,2026-11-02T07:08:12.62752
-jeeflow-persist,mldong/jeeflow-persist,0.1.55,2465,1,2026-11-02T07:08:06.246978
-jeeflow-repository-mysql,mldong/jeeflow-repository-mysql,0.1.55,4263,3,2026-11-02T07:08:09.70419
+jeeflow-core,mldong/jeeflow-core,0.1.56,18683,13,2026-11-03T00:06:01.252797
+jeeflow-facade,mldong/jeeflow-facade,0.1.56,10275,1,2026-11-03T00:06:12.401177
+jeeflow-persist,mldong/jeeflow-persist,0.1.56,2684,1,2026-11-03T00:06:05.031916
+jeeflow-repository-mysql,mldong/jeeflow-repository-mysql,0.1.56,4263,3,2026-11-03T00:06:09.174162
 jieba,colmugx/jieba,0.1.1,386261,3,2026-06-16T08:47:13.683804
 jieheng,cosettese/jieheng,0.8.0,16331,25,2026-10-31T11:44:44.396098
 jira_cli_mbt,Showichiro/jira_cli_mbt,0.1.0,8392,7,2026-03-13T16:06:12.599459
@@ -1558,7 +1558,7 @@ mooncas,Yingqingxue/mooncas,0.1.0,514,3,2026-09-27T07:13:22.482256
 mooncassette,weopqrst/mooncassette,0.10.0,16573,21,2026-09-28T01:41:22.701172
 mooncassette-llm,weopqrst/mooncassette-llm,0.10.0,1011,2,2026-09-28T01:42:00.782172
 mooncast,vectie/mooncast,0.2.3,69614,58,2026-08-03T11:46:39.039855
-mooncat,moonbitstack/mooncat,0.19.2,12784,19,2026-11-02T15:15:34.240283
+mooncat,moonbitstack/mooncat,0.19.3,13235,19,2026-11-03T00:08:26.810609
 mooncat,Lfan-ke/mooncat,0.8.1,28902,35,2026-09-13T23:57:24.688029
 moon-causal,qjgqjg/moon-causal,0.2.5,26694,2,2026-08-24T09:44:08.97371
 mooncdc,pangbit/mooncdc,0.1.3,57463,9,2026-10-31T02:30:17.89885
@@ -2112,7 +2112,7 @@ moonqr,naoto24kawa/moonqr,0.2.1,20180,3,2026-09-23T00:57:23.479716
 moon-qrcode,allenli178/moon-qrcode,0.2.0,5097,8,2026-10-26T10:36:07.23132
 moonquantilekit,Gym-789/moonquantilekit,0.2.0,620,2,2026-07-18T15:02:28.049336
 moonqueuelab,usersD609/moonqueuelab,0.1.2,3156,5,2026-11-01T13:07:43.700035
-moonquic,moonbitstack/moonquic,0.3.8,11744,15,2026-11-01T07:21:05.552333
+moonquic,moonbitstack/moonquic,0.3.9,11796,15,2026-11-02T23:28:30.383278
 moonquotakit,vivid-oi/moonquotakit,0.3.0,1516,3,2026-07-17T01:45:42.688401
 moonradius,shangwuxi/moonradius,0.1.1,2670,2,2026-09-30T03:03:39.073502
 moonraft,moonbitstack/moonraft,0.7.3,31980,23,2026-11-02T14:13:06.421606
@@ -3449,7 +3449,7 @@ widget2d,mizchi/widget2d,0.6.0,636,1,2026-09-15T16:34:49.154631
 win32,moonbit-community/win32,0.1.0,30523,4,2026-10-29T04:19:44.254404
 win32_messagebox,justjavac/win32_messagebox,0.1.3,105,1,2026-06-10T05:59:28.479803
 window,Milky2018/window,0.6.2,23948,13,2026-10-13T04:11:04.325939
-window,wzzc-dev/window,0.5.4-0.2.4,46935,28,2026-10-31T09:41:10.148382
+window,wzzc-dev/window,0.5.4-0.2.5,47042,28,2026-11-03T01:56:34.65933
 windowing,wzzc-dev/windowing,0.1.2,517,1,2026-10-28T13:50:49.393697
 windowing,Milky2018/windowing,0.1.2,513,1,2026-10-13T04:10:53.290363
 windows_subsystem,justjavac/windows_subsystem,0.1.6,95,1,2026-10-19T05:51:41.215361
