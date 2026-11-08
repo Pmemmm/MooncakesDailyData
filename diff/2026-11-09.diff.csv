@@ -6,6 +6,7 @@ huanguan-Q/loglog,新增,589,2,0,0,589,2
 huanguan-Q/roaring,新增,483,2,0,0,483,2
 huanguan-Q/sais,新增,417,2,0,0,417,2
 huanguan-Q/xor16filter,新增,399,2,0,0,399,2
+tc-adventureking/junit_delta,新增,2142,1,0,0,2142,1
 mizchi/anim3d,有变化,1,0,2842,5,2843,5
 mizchi/atlas,有变化,18,0,3754,1,3772,1
 mizchi/crater,有变化,-256851,-105,257192,105,341,0
@@ -51,7 +52,7 @@ mizchi/widget2d,有变化,1,0,636,1,637,1
 mizchi/x,有变化,2570,1,23762,24,26332,25
 riantr/moonbit_doubleML,有变化,74,0,101413,1,101487,1
 riantr/moonbit_static_analysis,有变化,7534,1,57132,16,64666,17
-riantr/tesseract,有变化,74,0,32934,17,33008,17
+riantr/tesseract,有变化,549,0,32934,17,33483,17
 We1chan/moonhid,有变化,32,0,10622,7,10654,7
 wzzc-dev/moui_skia,有变化,67,0,36852,8,36919,8
 wzzc-dev/moui_skia_renderer,有变化,10,0,19685,1,19695,1
