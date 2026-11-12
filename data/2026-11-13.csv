@@ -818,7 +818,7 @@ hello23,lijunchen/hello23,0.1.2,15,2,2024-01-01T00:00:01
 hello24,lijunchen/hello24,0.1.0,14,2,2024-01-01T00:00:00
 hello-quick,Clearzero22/hello-quick,0.1.0,54,2,2026-10-27T18:34:22.414182
 hexdump,cli/hexdump,0.1.5,1694,1,2026-11-10T04:18:36.735602
-hex_editor,R00TK17/hex_editor,0.1.3,11697,3,2026-09-05T17:09:37.686631
+hex_editor,R00TK17/hex_editor,0.1.4,11769,3,2026-11-12T18:28:40.092609
 hexgrid,wbgxiaosu/hexgrid,0.3.0,2561,6,2026-11-09T10:53:03.161296
 hn-brief,peter-jerry-ye/hn-brief,0.1.1,505,1,2026-07-03T09:28:26.779051
 hocon,uiwcvb/hocon,0.25.0,568209,3,2026-09-30T01:17:11.969599
@@ -1108,7 +1108,7 @@ luna_components,mizchi/luna_components,0.23.4,17841,18,2026-10-18T18:04:16.08205
 LunaFlow,riantr/LunaFlow,0.1.6,11908,5,2026-11-11T23:53:00.692555
 luna-generic,Luna-Flow/luna-generic,0.4.0,2015,1,2026-10-08T16:37:27.626063
 lunanexa,vectie/lunanexa,0.1.0,15897,23,2026-08-03T10:18:04.953099
-LunaPack,riantr/LunaPack,0.1.20,15329,1,2026-11-12T06:07:33.30974
+LunaPack,riantr/LunaPack,0.1.23,16607,1,2026-11-12T21:24:15.528568
 luna-poly,Luna-Flow/luna-poly,0.4.1,5755,13,2026-11-12T01:43:22.259527
 lunar,TheWaWaR/lunar,0.1.0,1721,3,2025-03-22T15:39:08.708082
 LunarEvent,FrozenLemonTee/LunarEvent,0.1.1,539,2,2026-06-03T04:05:51.413301
@@ -1341,7 +1341,7 @@ moon-arena-plan,SongYZZZ/moon-arena-plan,0.2.0,2733,4,2026-11-01T09:33:44.623011
 moonarff,Han-Wentao/moonarff,0.1.0,2550,4,2026-11-09T07:54:24.858783
 moonarpa,TerryFFF-jenius/moonarpa,0.1.0,3287,5,2026-11-11T15:00:13.018022
 moonasgi,Lfan-ke/moonasgi,0.8.2,5733,15,2026-09-14T00:31:26.67799
-moonasgi,moonbitstack/moonasgi,0.10.8,14641,32,2026-11-09T07:25:57.038466
+moonasgi,moonbitstack/moonasgi,0.11.1,15831,33,2026-11-12T23:36:22.076883
 moonast,moonbitstack/moonast,0.2.8,7000,10,2026-11-11T11:03:34.030789
 moonastrofits,cosettese/moonastrofits,0.1.0,4879,4,2026-09-30T15:59:31.428224
 moonasyncapi,zbhzs1/moonasyncapi,0.2.0,6548,2,2026-09-19T13:35:04.683553
@@ -1374,7 +1374,7 @@ moon-bayes-kit,tyytyy68/moon-bayes-kit,0.1.9,22319,2,2026-08-24T10:30:05.267783
 moon_bch,btlqql/moon_bch,0.1.0,1016,2,2026-10-30T13:39:00.588334
 moonbdd,oyjh0381/moonbdd,0.1.0,4701,5,2026-08-17T08:51:44.944174
 moonbead,Lampese/moonbead,0.1.3,1561,2,2026-01-30T03:17:01.509043
-moonbean,sundaysebasidian-byte/moonbean,0.2.5,24262,13,2026-11-12T09:30:07.750565
+moonbean,sundaysebasidian-byte/moonbean,0.2.6,29374,13,2026-11-12T21:17:04.270311
 moonbee,Yoorkin/moonbee,0.1.2,2376,1,2026-03-12T09:49:26.107094
 moonbelief,TWISTY2Ynb/moonbelief,0.1.1,3026,5,2026-11-01T13:30:09.253713
 moonbench,Han-Wentao/moonbench,0.3.0,7124,3,2026-07-15T05:31:49.68692
@@ -1437,7 +1437,7 @@ moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
 moonbit_doubleML,riantr/moonbit_doubleML,0.164.64,101487,1,2026-11-08T16:26:56.225064
-moonbit_dowhy,riantr/moonbit_dowhy,0.0.86,97878,19,2026-11-12T00:43:34.910648
+moonbit_dowhy,riantr/moonbit_dowhy,0.0.88,98616,19,2026-11-12T18:43:57.03067
 moonbit-dsp,2227057182/moonbit-dsp,0.1.0,1724,2,2026-10-31T18:46:46.590419
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
@@ -1482,7 +1482,7 @@ moonbit-jsonpatch,Xu107-hhh/moonbit-jsonpatch,0.2.0,3439,6,2026-09-20T08:58:16.3
 moonbit-jsonschema,Xu107-hhh/moonbit-jsonschema,0.1.0,18659,3,2026-09-11T08:24:20.252921
 moonbit_jwt,123123213weqw/moonbit_jwt,0.1.0,1453,2,2026-07-24T10:24:45.809903
 moonbit-klt-tracker,Zjyyer/moonbit-klt-tracker,0.1.4,12350,15,2026-08-24T12:04:14.169838
-moonbit_labeler,riantr/moonbit_labeler,0.2.15,29832,5,2026-11-12T15:57:05.627796
+moonbit_labeler,riantr/moonbit_labeler,0.2.18,30109,6,2026-11-12T21:30:42.906029
 moonbit_labeler_sample_data,riantr/moonbit_labeler_sample_data,0.1.1,20,0,2026-10-18T12:06:02.850722
 moonbit-lbm,zhsyutt/moonbit-lbm,0.2.1,8567,2,2026-08-23T19:48:02.554408
 moonbit_libbpf,hevienz/moonbit_libbpf,0.10.0,568,2,2026-03-22T04:04:54.96315
@@ -2056,7 +2056,7 @@ moon-minhash,Hjyyutr/moon-minhash,0.1.0,10539,17,2026-08-19T09:05:56.038179
 moon-miniprogram,Magic486/moon-miniprogram,0.6.1,4497,3,2026-09-28T05:34:30.967346
 MoonMIR,Kaida-Amethyst/MoonMIR,0.1.2,15451,3,2025-12-02T11:11:32.477527
 moon-missingness,liuminyuan/moon-missingness,0.3.1,25999,8,2026-08-24T10:43:18.45449
-moonmmdb,HhWw96/moonmmdb,0.9.4,14146,15,2026-10-01T08:43:03.394297
+moonmmdb,HhWw96/moonmmdb,0.9.5,14663,15,2026-11-12T21:34:02.700548
 moonmodel,moonbitstack/moonmodel,0.1.4,5894,10,2026-11-09T07:56:07.926432
 moonmodguard,Noverberrain/moonmodguard,0.3.0,2809,2,2026-08-16T16:15:09.676488
 moonmojibake,Derk2006/moonmojibake,0.6.0,13617,2,2026-11-11T03:33:17.260647
