@@ -725,7 +725,7 @@ gio,tonyfettes/gio,0.2.0,37769,1,2026-07-24T02:02:39.045997
 gir,tonyfettes/gir,0.3.2,40501,13,2026-07-31T07:29:48.316864
 giraffe,tonyfettes/giraffe,0.2.0,4058,12,2026-07-24T02:06:08.794014
 git,mizchi/git,0.2.0,53603,9,2026-02-01T08:18:18.629426
-github,gaato/github,0.23.0,280562,2,2026-11-12T09:38:06.394558
+github,gaato/github,0.24.0,280913,2,2026-11-13T22:53:08.811874
 github,mizchi/github,0.1.5,1980,11,2026-09-24T09:28:09.062604
 GJK,FlyCloudC/GJK,0.1.1,281,1,2025-10-31T16:15:21.807381
 gleam-parser,moonrockz/gleam-parser,0.5.1,40125,16,2026-10-19T07:19:15.17563
@@ -989,7 +989,7 @@ js_web,mizchi/js_web,0.13.1,11723,17,2026-09-16T10:43:56.465973
 js_webextensions,mizchi/js_webextensions,0.13.0,1152,5,2026-09-16T06:17:29.696786
 jtt808,CXREN/jtt808,0.1.0,3369,6,2026-11-07T05:22:05.049618
 jumbit,superbigcup325/jumbit,0.1.3,12574,7,2026-09-30T11:04:08.410334
-junit_delta,tc-adventureking/junit_delta,0.3.0,3241,2,2026-11-11T17:43:33.661061
+junit_delta,tc-adventureking/junit_delta,0.4.0,7250,3,2026-11-13T20:48:33.780282
 jww_parser,f4ah6o/jww_parser,0.202609.1,3080,3,2026-09-29T17:43:46.501691
 jww_parser,horideicom/jww_parser,0.202602.0,2497,3,2026-02-06T04:23:10.812938
 k6,ryota0624/k6,0.4.1,3490,5,2026-02-14T16:38:30.432255
@@ -1206,7 +1206,7 @@ MCIL,Lampese/MCIL,0.1.1,18534,4,2026-01-09T05:19:09.438184
 mcp,colmugx/mcp,0.18.3,40300,14,2026-11-11T17:29:47.094736
 mcp,shiguri-01/mcp,0.2.0,21082,8,2026-08-20T03:40:21.529656
 mcp,marianoguerra/mcp,0.10.1,4175,6,2026-10-19T20:33:38.70029
-mcpbox,kupas/mcpbox,0.1.9,6261,2,2026-11-13T16:26:06.646357
+mcpbox,kupas/mcpbox,0.2.0,6261,2,2026-11-13T16:51:27.645057
 mcp-bsky,marianoguerra/mcp-bsky,0.10.1,2368,2,2026-10-19T20:37:11.471965
 mcp-client,marianoguerra/mcp-client,0.10.1,1831,4,2026-10-19T20:36:46.773097
 mcpconftest,vicTop-cw/mcpconftest,0.9.0,8574,4,2026-10-24T05:32:44.567061
@@ -3576,7 +3576,7 @@ vfs,mizchi/vfs,0.2.3,2765,8,2026-08-15T13:48:20.320125
 vg,bobzhang/vg,0.4.1,11232,7,2026-10-30T14:04:05.239971
 vibecraft,Yoorkin/vibecraft,0.1.0,5011,2,2026-02-04T02:20:55.208385
 vibe-map,eanzhao/vibe-map,0.7.2,11664,3,2026-06-03T08:45:13.723849
-visionleak,cjyhjy/visionleak,0.8.0,3807,1,2026-11-04T07:08:50.749901
+visionleak,cjyhjy/visionleak,0.9.0,3898,1,2026-11-13T19:22:05.111982
 vivebox,mizchi/vivebox,0.1.1,3575,2,2026-04-25T13:26:49.793957
 vlq,CAIMEOX/vlq,0.1.0,241,1,2025-06-30T13:23:07.749904
 voltweave,suqinxi/voltweave,0.1.1,5653,3,2026-08-22T10:58:07.016043
