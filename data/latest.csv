@@ -205,7 +205,7 @@ boxrir,zhangbowen2006/boxrir,0.3.0,3634,5,2026-11-09T11:01:26.957266
 bpmn,moonrockz/bpmn,0.4.0,19245,1,2026-10-28T15:51:01.86011
 brainfuck,nuskey8/brainfuck,0.1.2,180,2,2025-12-05T06:02:35.808609
 brotli,mizchi/brotli,0.2.2,18454,3,2026-08-15T16:25:12.080288
-brotli,gaato/brotli,0.4.2,15988,10,2026-11-14T07:44:20.522949
+brotli,gaato/brotli,0.4.3,16729,12,2026-11-15T00:38:44.418549
 bson,moonbit-community/bson,0.3.0,14482,4,2026-10-29T02:03:37.626978
 btoi,justjavac/btoi,0.1.11,1067,1,2026-10-19T05:48:38.392493
 btree,HCHogan/btree,0.2.1,1129,1,2025-09-05T05:20:50.154834
@@ -427,7 +427,7 @@ debug_deriving,moonbit-community/debug_deriving,0.1.2,595,1,2026-09-27T10:13:06.
 decimal,DzmingLi/decimal,0.2.2,6083,1,2026-06-04T10:14:18.253216
 decimal,moonbit-community/decimal,0.1.0,6149,1,2026-10-29T02:08:56.71952
 decision-tree,chenzexin02-hash/decision-tree,0.2.0,5800,6,2026-08-04T12:25:39.897591
-deflate,gaato/deflate,0.1.1,41315,16,2026-11-14T07:44:25.882134
+deflate,gaato/deflate,0.1.2,41617,18,2026-11-15T00:38:49.305902
 depsight,Tino-hue/depsight,0.6.0,13524,9,2026-09-09T01:44:07.262519
 depsight-wasm-api,Tino-hue/depsight-wasm-api,0.8.2,3114,1,2026-10-18T11:52:05.816166
 Deque,Jtian-t/Deque,0.1.0,268,1,2025-03-03T02:44:14.894006
@@ -1410,7 +1410,7 @@ moonbit-aseflow,lllg123/moonbit-aseflow,0.3.1,15136,2,2026-08-24T12:03:42.554525
 moonbit-ats-timetable,zhtzht12345678/moonbit-ats-timetable,0.1.1,22286,3,2026-08-23T12:07:49.594069
 moonbit-auction,pk9993/moonbit-auction,0.2.0,8238,9,2026-08-24T09:50:13.179707
 moonbit-barcoder,Qlcdsba/moonbit-barcoder,0.2.1,12287,2,2026-08-24T13:07:41.740339
-moonbit-beam-dist,thy1016/moonbit-beam-dist,0.0.23,2575,6,2026-11-12T03:08:11.98508
+moonbit-beam-dist,thy1016/moonbit-beam-dist,0.0.24,2831,6,2026-11-15T01:21:12.24921
 moonbit-beam-node,thy1016/moonbit-beam-node,0.0.1,1190,3,2026-11-07T03:07:19.125668
 moonbit-beam-rpc,thy1016/moonbit-beam-rpc,0.0.9,3120,3,2026-11-08T04:31:15.213407
 moonbit-biogeochem,lqlnvj/moonbit-biogeochem,0.1.2,6569,10,2026-08-24T04:28:53.094109
@@ -1449,7 +1449,7 @@ moonbit_dowhy,riantr/moonbit_dowhy,0.0.90,98663,19,2026-11-14T02:20:19.070924
 moonbit-dsp,2227057182/moonbit-dsp,0.1.0,1724,2,2026-10-31T18:46:46.590419
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
-moonbit-eetf,thy1016/moonbit-eetf,0.0.10,1899,2,2026-11-12T02:45:10.438668
+moonbit-eetf,thy1016/moonbit-eetf,0.0.12,2519,2,2026-11-15T01:38:37.780004
 moonbitemporal,yyyt0807/moonbitemporal,0.3.0,8228,12,2026-10-31T01:48:12.617416
 moonbit-energybalance,liying-han/moonbit-energybalance,0.2.3,9281,3,2026-08-23T13:59:50.855561
 moonbit-epmd,thy1016/moonbit-epmd,0.0.3,656,1,2026-11-11T05:55:17.069308
@@ -2299,7 +2299,7 @@ moon_rough,sayoi7799/moon_rough,0.3.0,46869,14,2026-11-06T08:22:00.98587
 MoonRoute,PingGuoMiaoMiao/MoonRoute,0.1.3,2573,13,2026-08-29T05:15:28.636369
 moonrouteguard,Wyh123456559/moonrouteguard,0.1.0,6025,2,2026-09-30T11:08:45.413378
 moonrow,JingLan0v0/moonrow,0.1.0,1321,4,2026-09-22T06:25:27.961966
-moonrpc,moonbitstack/moonrpc,0.22.1,57065,61,2026-11-14T06:28:55.61876
+moonrpc,moonbitstack/moonrpc,0.22.2,57113,61,2026-11-15T00:54:24.245383
 moonrpc,Lfan-ke/moonrpc,0.10.1,17380,31,2026-09-13T23:56:54.109945
 moonrqa,kekeshuo/moonrqa,0.1.0,2163,6,2026-11-11T05:36:40.014818
 moonrra,apoloe4/moonrra,0.2.0,1181,8,2026-11-12T01:52:47.491403
@@ -2543,7 +2543,7 @@ moonwind,mwqcodex/moonwind,0.2.0,7867,3,2026-10-16T08:26:53.935709
 moon-wipe,f4ah6o/moon-wipe,0.1.2,2021,2,2026-11-11T03:01:41.625747
 moonwire,Han-Wentao/moonwire,0.1.1,543,1,2026-09-10T11:18:29.714211
 moon-wit,pei0331/moon-wit,0.1.1,3909,10,2026-08-23T04:52:59.52117
-moonwren,wdgodghl/moonwren,0.9.6,30151,11,2026-11-07T08:32:35.947734
+moonwren,wdgodghl/moonwren,0.9.7,31156,11,2026-11-15T01:55:40.553893
 moonxdr,kekeshuo/moonxdr,0.2.1,4942,5,2026-11-01T13:26:07.478548
 moonxi-net,chnlkw/moonxi-net,0.1.1,5996,13,2026-05-17T10:47:43.203408
 moonxi-net-gpu,chnlkw/moonxi-net-gpu,0.1.1,5545,9,2026-05-17T10:48:06.840527
@@ -2844,7 +2844,7 @@ platform,tonyfettes/platform,0.1.1,60,1,2026-07-05T10:03:48.248782
 platform,justjavac/platform,0.1.2,559,2,2026-06-10T05:46:40.542583
 playwright,mizchi/playwright,0.3.9,8778,5,2026-09-11T06:52:06.278111
 pm3,kupas/pm3,0.1.9,12634,4,2026-11-11T03:12:07.192053
-png,gaato/png,0.1.1,8211,8,2026-11-14T07:44:31.503268
+png,gaato/png,0.1.2,8991,9,2026-11-15T00:38:54.74804
 png-moon,TryAndRun-TvT/png-moon,0.1.2,4292,4,2026-10-26T17:49:09.708949
 podcomp,kupas/podcomp,0.1.6,7879,2,2026-11-11T03:31:00.553405
 pollapp,bobzhang/pollapp,0.3.4,1611,4,2026-09-28T01:06:13.495615
@@ -3262,7 +3262,7 @@ std,moonbitlang/std,0.1.0,99,1,2024-01-01T00:00:00
 stdout,oboard/stdout,0.1.1,154,1,2025-09-04T09:13:12.950199
 stella,Luna-Flow/stella,0.2.2,1161,1,2026-11-12T01:27:05.184887
 stencil,LL124-Arch/stencil,0.1.5,5417,2,2026-08-16T14:39:46.69204
-step,gmlewis/step,0.2.0,76836,89,2026-11-13T16:05:47.287835
+step,gmlewis/step,0.2.2,103240,70,2026-11-15T00:18:08.910407
 stlkit,mik1e80/stlkit,0.2.3,18890,6,2026-10-31T11:32:25.224809
 stn,JingLan0v0/stn,0.1.1,966,3,2026-11-11T12:35:04.200439
 string2int,wwj1203/string2int,0.1.0,33,1,2025-01-21T14:15:17.500549
@@ -3560,7 +3560,7 @@ unmarshal,bobzhang/unmarshal,0.3.2,10857,6,2026-09-22T23:43:14.407549
 unscanny,edragain2nd/unscanny,0.1.2,916,1,2025-08-15T14:17:41.551088
 unstable_io,lijunchen/unstable_io,0.1.3,357,7,2024-07-04T08:00:41.577085
 upload,kaigeliang/upload,0.4.1,3847,11,2026-10-19T12:45:14.818732
-urdf,gmlewis/urdf,0.2.0,8337,9,2026-11-13T16:07:03.467762
+urdf,gmlewis/urdf,0.2.2,6860,2,2026-11-15T00:19:29.342087
 uri,bobzhang/uri,0.1.1,2678,1,2026-09-10T00:24:06.27938
 uri,tonyfettes/uri,0.1.0,848,1,2025-08-11T09:25:04.366419
 uri,marianoguerra/uri,0.1.3,11280,3,2026-10-19T20:31:09.947735
@@ -3774,6 +3774,6 @@ zlib,gmlewis/zlib,0.21.18,735,1,2026-11-07T19:31:04.494614
 zlib,mizchi/zlib,0.4.12,3723,4,2026-11-13T12:40:02.018015
 zls,sohaha/zls,0.1.0,25,2,2025-05-16T08:36:01.992209
 zstd,Milky2018/zstd,0.1.4,41155,1,2026-10-13T04:10:57.591159
-zstd,gaato/zstd,0.4.0,27502,19,2026-11-14T07:44:15.722667
+zstd,gaato/zstd,0.4.1,28527,20,2026-11-15T00:38:40.61177
 zxcvbn,PaperY0/zxcvbn,0.1.1,102065,3,2026-11-01T01:13:52.847125
 原来可以发中文包,CAIMEOX/原来可以发中文包,0.1.1,17,1,2025-05-11T11:59:52.944489
