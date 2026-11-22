@@ -195,7 +195,7 @@ bitx_wal,mizchi/bitx_wal,0.50.0,1228,1,2026-11-20T00:57:11.90907
 bitx_workspace,mizchi/bitx_workspace,0.50.0,3857,1,2026-11-20T00:59:06.708891
 BlackBoxOptimization,IvanAXu/BlackBoxOptimization,0.1.7,67479,4,2026-11-12T04:11:46.481863
 blas,mizchi/blas,0.1.3,1470,2,2026-08-15T13:59:51.238975
-blender,gmlewis/blender,0.2.2,645,1,2026-11-18T13:07:32.638226
+blender,gmlewis/blender,0.2.3,645,1,2026-11-21T21:19:07.271803
 blit,bikallem/blit,0.2.2,556,1,2026-03-23T20:02:14.396414
 blog-app,bobzhang/blog-app,0.3.4,2435,4,2026-09-28T01:05:55.810531
 bloom,chaijie2018/bloom,0.1.3,1360,2,2025-09-16T08:33:00.268442
@@ -225,9 +225,9 @@ bzip2,MINGtoMING/bzip2,0.0.0,137,1,2025-05-12T08:41:19.520527
 c,nuskey8/c,0.3.4,2481,1,2026-07-17T16:30:09.080813
 c,tonyfettes/c,0.8.0,7532,22,2026-10-30T17:36:32.248384
 cache_padded,justjavac/cache_padded,0.1.0,1440,1,2025-07-08T04:01:34.834869
-cad,gmlewis/cad,0.2.13,37146,19,2026-11-21T14:06:20.38965
+cad,gmlewis/cad,0.2.14,39922,19,2026-11-21T21:23:31.988809
 cad_sketch,mik1e80/cad_sketch,0.4.1,9104,11,2026-11-17T13:10:09.246175
-cairndom,Novanke/cairndom,0.8.13,10453,7,2026-11-21T13:32:44.996135
+cairndom,Novanke/cairndom,0.8.15,10883,7,2026-11-22T02:22:33.257863
 cairo,tonyfettes/cairo,0.2.0,614,1,2026-07-24T02:01:25.021119
 cairoon,CAIMEOX/cairoon,0.2.0,50586,88,2026-07-20T07:59:35.902652
 cakecheck,ZBZ-ai-nb/cakecheck,0.3.0,4618,3,2026-08-24T14:42:04.061232
@@ -1459,7 +1459,7 @@ moonbit-aseflow,lllg123/moonbit-aseflow,0.3.1,15136,2,2026-08-24T12:03:42.554525
 moonbit-ats-timetable,zhtzht12345678/moonbit-ats-timetable,0.1.1,22286,3,2026-08-23T12:07:49.594069
 moonbit-auction,pk9993/moonbit-auction,0.2.0,8238,9,2026-08-24T09:50:13.179707
 moonbit-barcoder,Qlcdsba/moonbit-barcoder,0.2.1,12287,2,2026-08-24T13:07:41.740339
-moonbit-beam-dist,thy1016/moonbit-beam-dist,0.0.40,4549,6,2026-11-18T23:33:07.594019
+moonbit-beam-dist,thy1016/moonbit-beam-dist,0.0.42,4764,7,2026-11-22T01:52:19.173565
 moonbit-beam-node,thy1016/moonbit-beam-node,0.0.17,5788,8,2026-11-20T01:14:27.724289
 moonbit-beam-rpc,thy1016/moonbit-beam-rpc,0.0.9,3120,3,2026-11-08T04:31:15.213407
 moonbit-biogeochem,lqlnvj/moonbit-biogeochem,0.1.2,6569,10,2026-08-24T04:28:53.094109
@@ -1494,7 +1494,7 @@ moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
 moonbit_doubleML,riantr/moonbit_doubleML,0.164.64,101487,1,2026-11-08T16:26:56.225064
-moonbit_dowhy,riantr/moonbit_dowhy,0.0.90,98663,19,2026-11-14T02:20:19.070924
+moonbit_dowhy,riantr/moonbit_dowhy,0.0.91,100080,19,2026-11-22T01:39:16.836089
 moonbit-dsp,2227057182/moonbit-dsp,0.1.0,1724,2,2026-10-31T18:46:46.590419
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
@@ -2925,9 +2925,9 @@ photo_merge,ppyj663/photo_merge,0.1.1,3643,2,2026-10-28T09:58:23.431297
 photonics,wyhjjkk/photonics,0.1.0,11296,12,2026-08-23T05:53:44.898205
 physics,mizchi/physics,0.2.0,8058,3,2026-06-03T13:11:03.107719
 pi,KKKIIO/pi,0.5.1,27253,13,2026-11-07T14:18:49.779263
-picogk,gmlewis/picogk,0.2.2,2011,1,2026-11-18T13:07:35.66673
-picogkffi,gmlewis/picogkffi,0.2.2,4487,2,2026-11-18T13:07:39.876416
-picogkshapes,gmlewis/picogkshapes,0.2.3,2075,1,2026-11-18T13:07:44.498051
+picogk,gmlewis/picogk,0.2.3,2011,1,2026-11-21T21:19:10.448773
+picogkffi,gmlewis/picogkffi,0.2.3,4538,2,2026-11-21T21:19:14.472654
+picogkshapes,gmlewis/picogkshapes,0.2.4,2077,1,2026-11-21T21:19:19.367696
 piediff,moonbit-community/piediff,0.1.2,2733,1,2026-11-18T04:54:21.857291
 piediff,myfreess/piediff,0.0.4,2273,4,2025-11-20T03:53:43.915016
 pi-moonbit,eanzhao/pi-moonbit,0.1.5,34323,9,2026-04-18T18:22:49.64557
@@ -3377,7 +3377,7 @@ std,moonbitlang/std,0.1.0,99,1,2024-01-01T00:00:00
 stdout,oboard/stdout,0.1.1,154,1,2025-09-04T09:13:12.950199
 stella,Luna-Flow/stella,0.2.2,1161,1,2026-11-12T01:27:05.184887
 stencil,LL124-Arch/stencil,0.1.5,5417,2,2026-08-16T14:39:46.69204
-step,gmlewis/step,0.2.11,124702,77,2026-11-20T02:41:49.734834
+step,gmlewis/step,0.2.13,128682,84,2026-11-22T01:20:05.239919
 stlkit,mik1e80/stlkit,0.2.3,18890,6,2026-10-31T11:32:25.224809
 stn,JingLan0v0/stn,0.2.28,3418,4,2026-11-21T06:13:01.666226
 string2int,wwj1203/string2int,0.1.0,33,1,2025-01-21T14:15:17.500549
@@ -3680,7 +3680,7 @@ unmarshal,bobzhang/unmarshal,0.3.2,10857,6,2026-09-22T23:43:14.407549
 unscanny,edragain2nd/unscanny,0.1.2,916,1,2025-08-15T14:17:41.551088
 unstable_io,lijunchen/unstable_io,0.1.3,357,7,2024-07-04T08:00:41.577085
 upload,kaigeliang/upload,0.4.1,3847,11,2026-10-19T12:45:14.818732
-urdf,gmlewis/urdf,0.2.11,8368,2,2026-11-20T02:42:55.766325
+urdf,gmlewis/urdf,0.2.13,8486,2,2026-11-22T01:21:14.69769
 uri,Qlcdsba/uri,0.1.1,3512,3,2026-08-16T02:57:26.37139
 uri,BigOrangeQWQ/uri,0.1.0,2968,1,2025-07-16T08:34:44.377248
 uri,tonyfettes/uri,0.1.0,848,1,2025-08-11T09:25:04.366419
