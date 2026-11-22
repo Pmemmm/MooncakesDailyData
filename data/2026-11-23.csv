@@ -651,7 +651,7 @@ flowgate,tuya-me/flowgate,0.1.0,307,2,2026-07-07T07:34:07.794564
 flowgraph,bobzhang/flowgraph,0.1.2,1104,1,2026-09-25T12:32:36.944513
 flow-like-wasm-sdk,felix-schultz/flow-like-wasm-sdk,0.1.0,1659,1,2026-02-20T12:02:10.299211
 fluorescence,hanbings/fluorescence,0.1.1,181,4,2025-03-11T07:36:24.126333
-fmi,MuVirus/fmi,0.8.0,37552,12,2026-11-21T02:35:27.887347
+fmi,MuVirus/fmi,0.8.2,40705,12,2026-11-22T22:58:46.078551
 fmt,BigOrangeQWQ/fmt,0.2.0,910,1,2025-07-02T11:39:53.138821
 fmt,cli/fmt,0.1.7,627,3,2026-11-15T16:13:39.569721
 fmt,illusory0x0/fmt,0.4.1,2892,3,2025-11-20T08:34:00.676464
@@ -1242,8 +1242,8 @@ mbt-lexer,moonbitlang/mbt-lexer,0.0.1,1460,1,2025-03-31T03:07:33.428508
 mbt_lexer,moonbitlang/mbt_lexer,0.1.13,5526,2,2025-04-25T02:20:11.677497
 mbt_LIB,nanlingyin/mbt_LIB,0.1.0,18,1,2025-03-03T11:33:17.981154
 mbt-mailauth,Mr-Houjie/mbt-mailauth,0.1.0,3413,3,2026-10-22T13:00:04.982789
-mbtmap,t-ujiie-g/mbtmap,0.2.0,2206,3,2026-11-20T13:16:42.154491
-mbtmap_rabbita,t-ujiie-g/mbtmap_rabbita,0.2.0,404,1,2026-11-20T13:17:03.108589
+mbtmap,t-ujiie-g/mbtmap,0.2.1,2273,3,2026-11-22T23:18:20.429118
+mbtmap_rabbita,t-ujiie-g/mbtmap_rabbita,0.2.1,408,1,2026-11-22T23:18:53.529194
 mbtpdf,bobzhang/mbtpdf,0.2.0,96617,60,2026-09-28T06:37:04.716106
 mbt_prompt_services,sennenki/mbt_prompt_services,0.1.2,349,1,2026-03-27T14:34:48.397309
 mbt_rs,mizchi/mbt_rs,0.3.0,4546,1,2026-03-26T12:37:24.590225
@@ -1499,7 +1499,7 @@ moonbit-deid,ljlljl678/moonbit-deid,0.1.2,23809,2,2026-08-24T12:16:27.057406
 moonbit-design-tokens,wallll-wal6/moonbit-design-tokens,0.1.1,20958,2,2026-08-24T11:29:26.531425
 moonbit_diff,pei0331/moonbit_diff,0.5.0,1792,2,2026-08-15T10:01:20.90195
 moonbit_doubleML,riantr/moonbit_doubleML,0.164.64,101487,1,2026-11-08T16:26:56.225064
-moonbit_dowhy,riantr/moonbit_dowhy,0.0.95,100297,19,2026-11-22T17:19:11.04937
+moonbit_dowhy,riantr/moonbit_dowhy,0.0.96,100323,19,2026-11-22T18:09:36.234192
 moonbit-dsp,2227057182/moonbit-dsp,0.1.0,1724,2,2026-10-31T18:46:46.590419
 moonbit-easing,Kai-Junhan/moonbit-easing,0.1.0,3004,2,2026-09-09T08:29:40.495833
 moonbit-easings,Zlj6566/moonbit-easings,0.1.1,23120,3,2026-08-24T11:29:18.157349
@@ -2527,7 +2527,7 @@ moon_switch,grandEarshot/moon_switch,0.1.2,2137,2,2026-04-10T13:23:17.409917
 moonsynthesis,2200732518gjy/moonsynthesis,0.2.0,2977,6,2026-11-16T08:02:58.770639
 moon_taffy,Milky2018/moon_taffy,0.5.3,62542,8,2026-07-12T14:50:47.42735
 moontag,cp15695540483/moontag,0.2.1,8368,3,2026-10-31T07:41:21.878638
-moontalib,yiii0012/moontalib,0.9.1,20341,11,2026-11-20T18:01:06.398356
+moontalib,yiii0012/moontalib,0.10.0,20762,11,2026-11-22T21:09:09.869025
 moontally,forey217/moontally,0.1.0,884,3,2026-11-01T03:53:04.752853
 moontask,moonbitstack/moontask,0.2.1,10876,13,2026-11-19T01:03:45.472235
 moontask,nexacodes/moontask,0.1.2,6493,10,2026-05-17T14:28:59.555331
